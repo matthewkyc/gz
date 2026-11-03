@@ -155,7 +155,7 @@ function Title({ text, placeId, ctx, as: Tag }: { text: T; placeId?: string; ctx
           // eslint-disable-next-line @next/next/no-img-element -- local thumbnail
           <img className="stop-thumb" src={place.thumb ?? place.image} alt="" loading="lazy" decoding="async" />
         )}
-        <span>{t(text)}</span>
+        <span className={place.flag ? "flagged" : undefined}>{t(text)}</span>
         <i className="fa-solid fa-circle-chevron-right" aria-hidden />
       </button>
     </Tag>
@@ -197,7 +197,7 @@ function FoodBlock({ food, ctx }: { food: Food[]; ctx: Ctx }) {
                 <>
                   <Thumb place={p} />
                   <span className="card-text">
-                    <b>{t(f.name)}</b>
+                    <b className={p?.flag ? "flagged" : undefined}>{t(f.name)}</b>
                     {f.desc && <span>{t(f.desc)}</span>}
                   </span>
                   {p && <i className="fa-solid fa-chevron-right card-chev" aria-hidden />}

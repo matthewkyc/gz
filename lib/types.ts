@@ -70,5 +70,7 @@ export interface Place {
   reviewCount?: number;
   reviews?: Review[];
   mapsUrl?: string;
+  /** Marked for attention: name is shown in light red. */
+  flag?: boolean;
 }
 export type Places = Record<string, Place>;

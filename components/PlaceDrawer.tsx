@@ -124,7 +124,7 @@ function SheetBody({ place, from, how, onClose, onHandle }: Props & { place: Pla
         </button>
         <div className="hero-text">
           <span className="kind"><i className={`fa-solid ${KIND_ICON[place.kind]}`} aria-hidden />{ui(`kind_${place.kind}`)}{place.city ? ` · ${place.city}` : ""}</span>
-          <h2>{t(place.name)}</h2>
+          <h2 className={place.flag ? "flagged" : undefined}>{t(place.name)}</h2>
           {other && other !== t(place.name) && <p className="hero-alt">{other}</p>}
         </div>
       </div>

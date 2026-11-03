@@ -1,631 +1,1365 @@
 [
   {
     "id": "robot-6s-store-bantian",
-    "aliases": ["机器人6S店", "机器人现场做吃的", "人形机器人展区", "机器人零部件超市"],
+    "aliases": [
+      "机器人6S店",
+      "机器人现场做吃的",
+      "人形机器人展区",
+      "机器人零部件超市"
+    ],
     "kind": "sight",
-    "name": {"en": "Robot 6S Store", "zh": "机器人6S店"},
+    "name": {
+      "en": "Robot 6S Store",
+      "zh": "机器人6S店"
+    },
     "city": "Shenzhen",
     "query": "机器人6S店, 星河WORLD, 坂田, 龙岗区, 深圳",
-    "lat": 22.6225, "lng": 114.0630,
-    "summary": {"en": "The world's first robot 6S store, in Galaxy WORLD, Bantian.", "zh": "全球首家机器人6S店，位于坂田星河WORLD园区。"},
+    "lat": 22.6225,
+    "lng": 114.063,
+    "summary": {
+      "en": "The world's first robot 6S store, in Galaxy WORLD, Bantian.",
+      "zh": "全球首家机器人6S店，位于坂田星河WORLD园区。"
+    },
     "why": {
       "en": "Humanoid robots and robot dogs from Chinese makers such as Unitree, Leju and DEEP Robotics are shown working, not behind glass. Robots cook jianbing and make coffee that can be bought and eaten. Few places let children see this much current Chinese robotics in one room.",
       "zh": "宇树、乐聚、云深处等国内厂商的人形机器人和机器狗现场演示，不是隔着玻璃看。机器人现场做煎饼果子、冲咖啡，可以买来吃。很少有地方能让孩子在一个店里看到这么多国产机器人。"
     },
     "highlights": {
-      "en": ["Robots making jianbing and coffee", "Humanoid robot and robot dog demos", "Parts 'supermarket': servo motors, reducers", "Robot rental from ~1,000 yuan/day"],
-      "zh": ["机器人现场做煎饼、冲咖啡", "人形机器人、机器狗现场展示", "零部件超市：伺服电机、减速器", "机器人出租，约1000元一天起"]
+      "en": [
+        "Robots making jianbing and coffee",
+        "Humanoid robot and robot dog demos",
+        "Parts 'supermarket': servo motors, reducers",
+        "Robot rental from ~1,000 yuan/day"
+      ],
+      "zh": [
+        "机器人现场做煎饼、冲咖啡",
+        "人形机器人、机器狗现场展示",
+        "零部件超市：伺服电机、减速器",
+        "机器人出租，约1000元一天起"
+      ]
     },
-    "tips": {"en": "Opening hours and live-demo times should be checked before the visit.", "zh": "出发前确认营业时间和现场演示时间。"}
+    "tips": {
+      "en": "Opening hours and live-demo times should be checked before the visit.",
+      "zh": "出发前确认营业时间和现场演示时间。"
+    }
   },
   {
     "id": "galaxy-world-coco-park",
-    "aliases": ["午餐：星河WORLD COCO Park"],
+    "aliases": [
+      "午餐：星河WORLD COCO Park"
+    ],
     "kind": "shop",
-    "name": {"en": "Galaxy WORLD COCO Park", "zh": "星河WORLD COCO Park"},
+    "name": {
+      "en": "Galaxy WORLD COCO Park",
+      "zh": "星河WORLD COCO Park"
+    },
     "city": "Shenzhen",
     "query": "星河WORLD COCO Park, 坂田, 龙岗区, 深圳",
-    "lat": 22.6220, "lng": 114.0625,
-    "summary": {"en": "Mall in the same Galaxy WORLD campus as the Robot 6S Store.", "zh": "与机器人6S店同在星河WORLD园区的商场。"},
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Mall in the same Galaxy WORLD campus as the Robot 6S Store.",
+      "zh": "与机器人6S店同在星河WORLD园区的商场。"
+    },
     "why": {
       "en": "Lunch is reached on foot from the Robot 6S Store, so no extra ride is needed. Chain restaurants are concentrated here, which makes it easy to find something for both adults and kids.",
       "zh": "从机器人6S店步行就到，不用再坐车。商场里连锁餐厅集中，大人小孩都容易找到合适的。"
     },
     "highlights": {
-      "en": ["Walking distance from the Robot 6S Store", "Many chain restaurants in one place", "Indoor, good for a midday break"],
-      "zh": ["从机器人6S店步行可达", "连锁餐厅集中", "室内，适合中午休息"]
+      "en": [
+        "Walking distance from the Robot 6S Store",
+        "Many chain restaurants in one place",
+        "Indoor, good for a midday break"
+      ],
+      "zh": [
+        "从机器人6S店步行可达",
+        "连锁餐厅集中",
+        "室内，适合中午休息"
+      ]
     },
-    "tips": {"en": "Restaurant line-up should be checked on the day; older listings may be out of date.", "zh": "餐厅以现场为准，较早的资料可能已过时。"}
+    "tips": {
+      "en": "Restaurant line-up should be checked on the day; older listings may be out of date.",
+      "zh": "餐厅以现场为准，较早的资料可能已过时。"
+    }
   },
   {
     "id": "taier-sauerkraut-fish-galaxy-world",
-    "aliases": ["太二酸菜鱼"],
+    "aliases": [
+      "太二酸菜鱼"
+    ],
     "kind": "food",
-    "name": {"en": "Tai Er Sauerkraut Fish", "zh": "太二酸菜鱼"},
+    "name": {
+      "en": "Tai Er Sauerkraut Fish",
+      "zh": "太二酸菜鱼"
+    },
     "city": "Shenzhen",
     "query": "太二酸菜鱼 星河WORLD COCO Park, 坂田, 深圳",
-    "lat": 22.6220, "lng": 114.0625,
-    "summary": {"en": "Popular pickled-cabbage fish chain.", "zh": "网红酸菜鱼连锁。"},
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Popular pickled-cabbage fish chain.",
+      "zh": "网红酸菜鱼连锁。"
+    },
     "why": {
       "en": "One dish is done well: boneless fish slices in a sour, gently spicy pickled-cabbage broth, with the pickles cured in-house. Fast service and a short menu suit a mid-tour lunch.",
       "zh": "只把一道菜做好：无骨鱼片配酸辣酸菜汤，酸菜自家腌制。上菜快、菜单短，适合行程中的午餐。"
     },
     "highlights": {
-      "en": ["Signature pickled-cabbage fish", "Boneless fish slices", "Quick service"],
-      "zh": ["招牌酸菜鱼", "鱼片无骨", "上菜快"]
+      "en": [
+        "Signature pickled-cabbage fish",
+        "Boneless fish slices",
+        "Quick service"
+      ],
+      "zh": [
+        "招牌酸菜鱼",
+        "鱼片无骨",
+        "上菜快"
+      ]
     },
-    "mustTry": {"en": ["Pickled-cabbage fish (老坛子酸菜鱼)"], "zh": ["老坛子酸菜鱼"]},
-    "tips": {"en": "The chain has historically not seated parties of more than four at one table; a larger family may be split. Branch presence in this mall is unconfirmed.", "zh": "这家连锁过去不接待超过4人同桌，人多可能要分桌。该商场是否有分店待确认。"}
+    "mustTry": {
+      "en": [
+        "Pickled-cabbage fish (老坛子酸菜鱼)"
+      ],
+      "zh": [
+        "老坛子酸菜鱼"
+      ]
+    },
+    "tips": {
+      "en": "The chain has historically not seated parties of more than four at one table; a larger family may be split. Branch presence in this mall is unconfirmed.",
+      "zh": "这家连锁过去不接待超过4人同桌，人多可能要分桌。该商场是否有分店待确认。"
+    }
   },
   {
     "id": "chao-xiao-zhan-galaxy-world",
-    "aliases": ["潮小栈"],
+    "aliases": [
+      "潮小栈"
+    ],
     "kind": "food",
-    "name": {"en": "Chao Xiao Zhan", "zh": "潮小栈"},
+    "name": {
+      "en": "Chao Xiao Zhan",
+      "zh": "潮小栈"
+    },
     "city": "Shenzhen",
     "query": "潮小栈 星河WORLD COCO Park, 坂田, 深圳",
-    "lat": 22.6220, "lng": 114.0625,
-    "summary": {"en": "Casual Chaoshan food: rice noodles, beef balls.", "zh": "潮汕小吃：粿条、牛肉丸。"},
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Casual Chaoshan food: rice noodles, beef balls.",
+      "zh": "潮汕小吃：粿条、牛肉丸。"
+    },
     "why": {
       "en": "Chaoshan beef balls are hand-beaten until springy, and kway teow soup is light enough for children. At ~35 yuan per person, it is the quickest and cheapest option in the mall.",
       "zh": "潮汕牛肉丸手打，弹牙；粿条汤清淡，孩子也能吃。人均约35元，是商场里最快最省的选择。"
     },
     "highlights": {
-      "en": ["Hand-beaten beef balls", "Kway teow noodle soup", "~35 yuan per person"],
-      "zh": ["手打牛肉丸", "粿条汤", "人均约35元"]
+      "en": [
+        "Hand-beaten beef balls",
+        "Kway teow noodle soup",
+        "~35 yuan per person"
+      ],
+      "zh": [
+        "手打牛肉丸",
+        "粿条汤",
+        "人均约35元"
+      ]
     },
-    "mustTry": {"en": ["Beef ball kway teow (牛肉丸粿条)"], "zh": ["牛肉丸粿条"]},
-    "tips": {"en": "Name comes from older listings; presence in the mall is unconfirmed.", "zh": "店名来自较早的资料，是否仍在营业待确认。"}
+    "mustTry": {
+      "en": [
+        "Beef ball kway teow (牛肉丸粿条)"
+      ],
+      "zh": [
+        "牛肉丸粿条"
+      ]
+    },
+    "tips": {
+      "en": "Name comes from older listings; presence in the mall is unconfirmed.",
+      "zh": "店名来自较早的资料，是否仍在营业待确认。"
+    }
   },
   {
     "id": "yunhaiyao-galaxy-world",
-    "aliases": ["云海肴"],
+    "aliases": [
+      "云海肴"
+    ],
     "kind": "food",
-    "name": {"en": "Yunhaiyao", "zh": "云海肴"},
+    "name": {
+      "en": "Yunhaiyao",
+      "zh": "云海肴"
+    },
     "city": "Shenzhen",
     "query": "云海肴 星河WORLD COCO Park, 坂田, 深圳",
-    "lat": 22.6220, "lng": 114.0625,
-    "summary": {"en": "Yunnan food chain with mild flavours.", "zh": "口味温和的云南菜连锁。"},
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Yunnan food chain with mild flavours.",
+      "zh": "口味温和的云南菜连锁。"
+    },
     "why": {
       "en": "Steam-pot chicken is cooked in a Jianshui clay pot with no added water, so the broth is pure chicken. Wild-mushroom dishes and mild seasoning make it the most kid-friendly choice here.",
       "zh": "汽锅鸡用建水紫陶汽锅蒸，不加水，汤全是鸡汁。菌菇菜和温和口味，是这里最适合孩子的选择。"
     },
     "highlights": {
-      "en": ["Steam-pot chicken", "Yunnan wild mushrooms", "Mild, kid-friendly"],
-      "zh": ["汽锅鸡", "云南菌菇", "口味温和，适合孩子"]
+      "en": [
+        "Steam-pot chicken",
+        "Yunnan wild mushrooms",
+        "Mild, kid-friendly"
+      ],
+      "zh": [
+        "汽锅鸡",
+        "云南菌菇",
+        "口味温和，适合孩子"
+      ]
     },
-    "mustTry": {"en": ["Steam-pot chicken (汽锅鸡)", "Stir-fried wild mushrooms (野生菌)"], "zh": ["汽锅鸡", "野生菌"]},
-    "tips": {"en": "Presence in this mall is unconfirmed.", "zh": "该商场是否有分店待确认。"}
+    "mustTry": {
+      "en": [
+        "Steam-pot chicken (汽锅鸡)",
+        "Stir-fried wild mushrooms (野生菌)"
+      ],
+      "zh": [
+        "汽锅鸡",
+        "野生菌"
+      ]
+    },
+    "tips": {
+      "en": "Presence in this mall is unconfirmed.",
+      "zh": "该商场是否有分店待确认。"
+    }
   },
   {
     "id": "ai-6s-store-longgang",
-    "aliases": ["人工智能6S店"],
+    "aliases": [
+      "人工智能6S店"
+    ],
     "kind": "sight",
-    "name": {"en": "AI 6S Store", "zh": "人工智能6S店"},
+    "name": {
+      "en": "AI 6S Store",
+      "zh": "人工智能6S店"
+    },
     "city": "Shenzhen",
     "query": "人工智能6S店, 龙岗区, 深圳",
-    "lat": 22.6230, "lng": 114.0640,
-    "summary": {"en": "Hands-on showroom for Chinese and international AI hardware.", "zh": "可动手试用的国内外AI硬件展示店。"},
+    "lat": 22.623,
+    "lng": 114.064,
+    "summary": {
+      "en": "Hands-on showroom for Chinese and international AI hardware.",
+      "zh": "可动手试用的国内外AI硬件展示店。"
+    },
     "why": {
       "en": "AI devices are shown in real-life settings rather than on shelves, and most can be tried by hand. It pairs with the Robot 6S Store a short drive away in the same robotics block.",
       "zh": "AI硬件按生活场景展示，不是摆在货架上，大多数可以动手试。和机器人6S店在同一个机器人街区，车程很近。"
     },
     "highlights": {
-      "en": ["Scenario-based AI hardware displays", "Devices can be tried hands-on", "Short drive from the Robot 6S Store"],
-      "zh": ["场景化展示AI硬件", "可以动手试用", "离机器人6S店很近"]
+      "en": [
+        "Scenario-based AI hardware displays",
+        "Devices can be tried hands-on",
+        "Short drive from the Robot 6S Store"
+      ],
+      "zh": [
+        "场景化展示AI硬件",
+        "可以动手试用",
+        "离机器人6S店很近"
+      ]
     },
-    "tips": {"en": "Exact address is uncertain; the driver should be given the name and checked on the map.", "zh": "具体地址待确认，出发前让司机在地图上核对。"}
+    "tips": {
+      "en": "Exact address is uncertain; the driver should be given the name and checked on the map.",
+      "zh": "具体地址待确认，出发前让司机在地图上核对。"
+    }
   },
   {
     "id": "inno100",
-    "aliases": ["INNO100"],
+    "aliases": [
+      "INNO100"
+    ],
     "kind": "shop",
-    "name": {"en": "INNO100", "zh": "INNO100"},
+    "name": {
+      "en": "INNO100",
+      "zh": "INNO100"
+    },
     "city": "Shenzhen",
     "query": "INNO100, 深圳湾文化广场, 南山区, 深圳",
-    "lat": 22.5145, "lng": 113.9505,
-    "summary": {"en": "Global innovation flagship store in Shenzhen Bay Culture Plaza.", "zh": "深圳湾文化广场里的全球创新旗舰店。"},
+    "lat": 22.5145,
+    "lng": 113.9505,
+    "summary": {
+      "en": "Global innovation flagship store in Shenzhen Bay Culture Plaza.",
+      "zh": "深圳湾文化广场里的全球创新旗舰店。"
+    },
     "why": {
       "en": "Exoskeletons can be tried on and smart glasses tested, which is rare outside trade shows. It sits inside Shenzhen Bay Culture Plaza, so the visit flows straight into the bay at sunset.",
       "zh": "可以试穿外骨骼、体验智能眼镜，展会以外很少能做到。就在深圳湾文化广场里，看完直接去海边看日落。"
     },
     "highlights": {
-      "en": ["Wearable exoskeleton try-on", "Smart glasses demos", "Inside Shenzhen Bay Culture Plaza"],
-      "zh": ["试穿外骨骼", "体验智能眼镜", "位于深圳湾文化广场内"]
+      "en": [
+        "Wearable exoskeleton try-on",
+        "Smart glasses demos",
+        "Inside Shenzhen Bay Culture Plaza"
+      ],
+      "zh": [
+        "试穿外骨骼",
+        "体验智能眼镜",
+        "位于深圳湾文化广场内"
+      ]
     }
   },
   {
     "id": "shenzhen-bay-culture-plaza",
-    "aliases": ["深圳湾文化广场"],
+    "aliases": [
+      "深圳湾文化广场"
+    ],
     "kind": "sight",
-    "name": {"en": "Shenzhen Bay Culture Plaza", "zh": "深圳湾文化广场"},
+    "name": {
+      "en": "Shenzhen Bay Culture Plaza",
+      "zh": "深圳湾文化广场"
+    },
     "city": "Shenzhen",
     "query": "Shenzhen Bay Culture Plaza, Nanshan, Shenzhen",
-    "lat": 22.5145, "lng": 113.9505,
-    "summary": {"en": "New cultural landmark on the Shenzhen Bay waterfront.", "zh": "深圳湾海边的新文化地标。"},
+    "lat": 22.5145,
+    "lng": 113.9505,
+    "summary": {
+      "en": "New cultural landmark on the Shenzhen Bay waterfront.",
+      "zh": "深圳湾海边的新文化地标。"
+    },
     "why": {
       "en": "The building itself is the attraction: sculptural forms right by the bay that photograph well in late-afternoon light. INNO100 is inside, and Talent Park is ~10 min away by car.",
       "zh": "建筑本身就是看点：造型独特，紧邻海湾，傍晚光线下很好拍。INNO100就在里面，到人才公园车程约10分钟。"
     },
     "highlights": {
-      "en": ["Striking contemporary architecture", "Waterfront setting", "Home of INNO100"],
-      "zh": ["当代建筑造型", "紧邻海湾", "INNO100所在地"]
+      "en": [
+        "Striking contemporary architecture",
+        "Waterfront setting",
+        "Home of INNO100"
+      ],
+      "zh": [
+        "当代建筑造型",
+        "紧邻海湾",
+        "INNO100所在地"
+      ]
     }
   },
   {
     "id": "shenzhen-talent-park",
-    "aliases": ["人才公园、深圳湾公园"],
+    "aliases": [
+      "人才公园、深圳湾公园"
+    ],
     "kind": "sight",
-    "name": {"en": "Talent Park and Shenzhen Bay Park", "zh": "人才公园、深圳湾公园"},
+    "name": {
+      "en": "Talent Park and Shenzhen Bay Park",
+      "zh": "人才公园、深圳湾公园"
+    },
     "city": "Shenzhen",
     "query": "Shenzhen Talent Park, Nanshan, Shenzhen",
-    "lat": 22.5110, "lng": 113.9470,
-    "summary": {"en": "Seafront parks for sunset and the lit-up Houhai skyline.", "zh": "看日落和后海高楼夜景的海滨公园。"},
+    "lat": 22.511,
+    "lng": 113.947,
+    "summary": {
+      "en": "Seafront parks for sunset and the lit-up Houhai skyline.",
+      "zh": "看日落和后海高楼夜景的海滨公园。"
+    },
     "why": {
       "en": "Sunset over Shenzhen Bay is around 17:50 in late December, watched from a flat seafront promenade that is easy for kids. After dark, the Houhai towers across the lake are lit up, best seen from Talent Park.",
       "zh": "12月底深圳湾日落约17:50，海边步道平坦，孩子走起来轻松。天黑后人才公园对面后海高楼亮灯。"
     },
     "highlights": {
-      "en": ["Sunset over Shenzhen Bay", "Lit-up Houhai skyline after dark", "Flat seafront promenade"],
-      "zh": ["深圳湾日落", "天黑后后海高楼亮灯", "平坦的海滨步道"]
+      "en": [
+        "Sunset over Shenzhen Bay",
+        "Lit-up Houhai skyline after dark",
+        "Flat seafront promenade"
+      ],
+      "zh": [
+        "深圳湾日落",
+        "天黑后后海高楼亮灯",
+        "平坦的海滨步道"
+      ]
     }
   },
   {
     "id": "runyuan-siji-coconut-chicken-nanshan",
-    "aliases": ["润园四季椰子鸡"],
+    "aliases": [
+      "润园四季椰子鸡"
+    ],
     "kind": "food",
-    "name": {"en": "Runyuan Siji Coconut Chicken", "zh": "润园四季椰子鸡"},
+    "name": {
+      "en": "Runyuan Siji Coconut Chicken (OCT Harbour)",
+      "zh": "润园四季椰子鸡（欢乐海岸店）"
+    },
     "city": "Shenzhen",
-    "query": "润园四季椰子鸡 南山, 深圳",
-    "lat": 22.5180, "lng": 113.9450,
-    "summary": {"en": "Shenzhen's best-known coconut chicken hotpot chain.", "zh": "深圳最出名的椰子鸡连锁。"},
+    "query": "润园四季椰子鸡 白石路东8号欢乐海岸5栋F2 南山 深圳",
+    "lat": 22.5221955,
+    "lng": 113.993014,
+    "summary": {
+      "en": "Shenzhen's best-known coconut chicken hotpot chain.",
+      "zh": "深圳最出名的椰子鸡连锁。"
+    },
     "why": {
       "en": "Coconut chicken is a Shenzhen speciality: fresh coconut water is used as the hotpot broth, and Wenchang chicken is cooked in it. The broth is light and sweet, so children usually drink it by the bowl.",
       "zh": "椰子鸡是深圳特色：用新鲜椰子水做锅底，涮文昌鸡。汤清甜不油腻，孩子通常一碗接一碗。"
     },
     "highlights": {
-      "en": ["Fresh coconut-water broth", "Wenchang chicken", "Light, kid-friendly"],
-      "zh": ["新鲜椰子水锅底", "文昌鸡", "清淡，适合孩子"]
+      "en": [
+        "Fresh coconut-water broth",
+        "Wenchang chicken",
+        "Light, kid-friendly"
+      ],
+      "zh": [
+        "新鲜椰子水锅底",
+        "文昌鸡",
+        "清淡，适合孩子"
+      ]
     },
-    "mustTry": {"en": ["Coconut chicken hotpot (椰子鸡)", "Bamboo fungus (竹荪)"], "zh": ["椰子鸡", "竹荪"]},
-    "tips": {"en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.", "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"}
+    "mustTry": {
+      "en": [
+        "Coconut chicken hotpot (椰子鸡)",
+        "Bamboo fungus (竹荪)"
+      ],
+      "zh": [
+        "椰子鸡",
+        "竹荪"
+      ]
+    },
+    "tips": {
+      "en": "Branch: OCT Harbour (欢乐海岸), Building 5, 2F, 8 Baishi Road East — the nearest branch to Shenzhen Bay on Google Maps, ~15 min by car from Talent Park. The address should be shown to the driver.",
+      "zh": "分店：欢乐海岸5栋2楼（白石路东8号），是 Google 地图上离深圳湾最近的分店，从人才公园开车约15分钟；把地址给司机看。"
+    },
+    "flag": true
   },
   {
     "id": "bahe-li-haiji-beef-hotpot-nanshan",
-    "aliases": ["八合里海记牛肉火锅"],
+    "aliases": [
+      "八合里海记牛肉火锅"
+    ],
     "kind": "food",
-    "name": {"en": "Bahe Li Haiji Beef Hotpot", "zh": "八合里海记牛肉火锅"},
+    "name": {
+      "en": "Bahe Li Haiji Beef Hotpot",
+      "zh": "八合里海记牛肉火锅"
+    },
     "city": "Shenzhen",
     "query": "八合里海记牛肉火锅 南山, 深圳",
-    "lat": 22.5180, "lng": 113.9450,
-    "summary": {"en": "Well-known Chaoshan beef hotpot chain.", "zh": "知名潮汕牛肉火锅连锁。"},
+    "lat": 22.518,
+    "lng": 113.945,
+    "summary": {
+      "en": "Well-known Chaoshan beef hotpot chain.",
+      "zh": "知名潮汕牛肉火锅连锁。"
+    },
     "why": {
       "en": "Fresh beef is cut to order by part, and each cut has a set dipping time in a clear broth. Hand-beaten beef balls are a reliable hit with kids.",
       "zh": "鲜牛肉按部位现切，每个部位有固定的涮煮时间，锅底是清汤。手打牛肉丸孩子一般都爱吃。"
     },
     "highlights": {
-      "en": ["Fresh beef cut by part", "Hand-beaten beef balls", "Clear broth"],
-      "zh": ["鲜牛肉按部位现切", "手打牛肉丸", "清汤锅底"]
+      "en": [
+        "Fresh beef cut by part",
+        "Hand-beaten beef balls",
+        "Clear broth"
+      ],
+      "zh": [
+        "鲜牛肉按部位现切",
+        "手打牛肉丸",
+        "清汤锅底"
+      ]
     },
-    "mustTry": {"en": ["Diaolong cut (吊龙)", "Hand-beaten beef balls (手打牛肉丸)", "Beef tendon balls (牛筋丸)"], "zh": ["吊龙", "手打牛肉丸", "牛筋丸"]},
-    "tips": {"en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.", "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"}
+    "mustTry": {
+      "en": [
+        "Diaolong cut (吊龙)",
+        "Hand-beaten beef balls (手打牛肉丸)",
+        "Beef tendon balls (牛筋丸)"
+      ],
+      "zh": [
+        "吊龙",
+        "手打牛肉丸",
+        "牛筋丸"
+      ]
+    },
+    "tips": {
+      "en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.",
+      "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"
+    }
   },
   {
     "id": "mixc-shenzhen-bay",
-    "aliases": ["深圳湾万象城餐厅"],
+    "aliases": [
+      "深圳湾万象城餐厅"
+    ],
     "kind": "shop",
-    "name": {"en": "MixC Shenzhen Bay", "zh": "深圳湾万象城"},
+    "name": {
+      "en": "MixC Shenzhen Bay",
+      "zh": "深圳湾万象城"
+    },
     "city": "Shenzhen",
     "query": "MixC Shenzhen Bay, Nanshan, Shenzhen",
-    "lat": 22.5190, "lng": 113.9460,
-    "summary": {"en": "Large mall near Shenzhen Bay with many restaurants.", "zh": "深圳湾附近餐厅众多的大型商场。"},
+    "lat": 22.519,
+    "lng": 113.946,
+    "summary": {
+      "en": "Large mall near Shenzhen Bay with many restaurants.",
+      "zh": "深圳湾附近餐厅众多的大型商场。"
+    },
     "why": {
       "en": "The widest choice of restaurants near the bay, all under one roof. Pick-up is easy afterwards for the drive to Shenzhen North.",
       "zh": "深圳湾附近餐厅选择最多，全在室内。吃完方便上车去深圳北。"
     },
     "highlights": {
-      "en": ["Many restaurants in one place", "Close to Shenzhen Bay Park", "Easy car pick-up"],
-      "zh": ["餐厅集中", "靠近深圳湾公园", "方便上车"]
+      "en": [
+        "Many restaurants in one place",
+        "Close to Shenzhen Bay Park",
+        "Easy car pick-up"
+      ],
+      "zh": [
+        "餐厅集中",
+        "靠近深圳湾公园",
+        "方便上车"
+      ]
     }
   },
   {
     "id": "wanguo-outlets",
-    "aliases": ["万国奥特莱斯", "午餐：万国奥特莱斯", "万国奥特莱斯商场餐厅"],
+    "aliases": [
+      "万国奥特莱斯",
+      "午餐：万国奥特莱斯",
+      "万国奥特莱斯商场餐厅"
+    ],
     "kind": "shop",
-    "name": {"en": "Wanguo Outlets", "zh": "万国奥特莱斯"},
+    "name": {
+      "en": "Wanguo Outlets",
+      "zh": "万国奥特莱斯"
+    },
     "city": "Guangzhou",
     "query": "万国奥特莱斯, 江南大道中, 海珠区, 广州",
-    "lat": 23.0960, "lng": 113.2730,
-    "summary": {"en": "Sports-focused outlet mall in Haizhu.", "zh": "海珠区以运动品牌为主的奥特莱斯。"},
+    "lat": 23.096,
+    "lng": 113.273,
+    "summary": {
+      "en": "Sports-focused outlet mall in Haizhu.",
+      "zh": "海珠区以运动品牌为主的奥特莱斯。"
+    },
     "why": {
       "en": "Brands are mostly directly operated, and the Nike and Adidas super-flagship discount stores each exceed six basketball courts in area. Sports shoes, tennis shoes, sportswear and kids' sizes are all covered in one trip.",
       "zh": "大多是品牌直营，耐克、阿迪达斯超级旗舰折扣店面积都超过六个标准篮球场。运动鞋、网球鞋、运动服和童装童鞋一次买齐。"
     },
     "highlights": {
-      "en": ["Nike and Adidas super-flagship discount stores", "Tennis shoes and sportswear", "Kids' clothing and shoes", "On-site dining area"],
-      "zh": ["耐克、阿迪达斯超级旗舰折扣店", "网球鞋、运动服", "童装童鞋", "商场内有餐饮区"]
+      "en": [
+        "Nike and Adidas super-flagship discount stores",
+        "Tennis shoes and sportswear",
+        "Kids' clothing and shoes",
+        "On-site dining area"
+      ],
+      "zh": [
+        "耐克、阿迪达斯超级旗舰折扣店",
+        "网球鞋、运动服",
+        "童装童鞋",
+        "商场内有餐饮区"
+      ]
     },
-    "tips": {"en": "Traffic backs up 700–800 m from the mall; it is quicker to get out nearby and walk. Coordinates are approximate.", "zh": "商场附近七八百米开始塞车，可提前下车步行。坐标为大致位置。"}
+    "tips": {
+      "en": "Traffic backs up 700–800 m from the mall; it is quicker to get out nearby and walk. Coordinates are approximate.",
+      "zh": "商场附近七八百米开始塞车，可提前下车步行。坐标为大致位置。"
+    }
   },
   {
     "id": "teemall",
-    "aliases": ["天河城", "天河城、天环美食"],
+    "aliases": [
+      "天河城",
+      "天河城、天环美食"
+    ],
     "kind": "shop",
-    "name": {"en": "Teemall", "zh": "天河城"},
+    "name": {
+      "en": "Teemall",
+      "zh": "天河城"
+    },
     "city": "Guangzhou",
     "query": "Teemall, Tianhe Road, Tianhe, Guangzhou",
-    "lat": 23.1325, "lng": 113.3225,
-    "summary": {"en": "Long-established mall at the heart of Tianhe Road.", "zh": "天河路商圈的老牌商场。"},
+    "lat": 23.1325,
+    "lng": 113.3225,
+    "summary": {
+      "en": "Long-established mall at the heart of Tianhe Road.",
+      "zh": "天河路商圈的老牌商场。"
+    },
     "why": {
       "en": "Opened in the 1990s as one of China's first large modern malls, it anchors the Tianhe Road shopping district. Year-end New Year decorations are put up, and Parc Central is reached directly by an underground passage.",
       "zh": "上世纪90年代开业，是国内最早的大型现代商场之一，天河路商圈的核心。年底有新年装饰，地下通道直通天环广场。"
     },
     "highlights": {
-      "en": ["New Year decorations", "Underground link to Parc Central", "Chain teahouses and fast food", "~5 min walk from K Hotel"],
-      "zh": ["新年装饰", "地下通道连天环广场", "连锁茶楼、快餐", "离K Hotel步行约5分钟"]
+      "en": [
+        "New Year decorations",
+        "Underground link to Parc Central",
+        "Chain teahouses and fast food",
+        "~5 min walk from K Hotel"
+      ],
+      "zh": [
+        "新年装饰",
+        "地下通道连天环广场",
+        "连锁茶楼、快餐",
+        "离K Hotel步行约5分钟"
+      ]
     }
   },
   {
     "id": "parc-central",
-    "aliases": ["天环广场"],
+    "aliases": [
+      "天环广场"
+    ],
     "kind": "shop",
-    "name": {"en": "Parc Central", "zh": "天环广场"},
+    "name": {
+      "en": "Parc Central",
+      "zh": "天环广场"
+    },
     "city": "Guangzhou",
     "query": "Parc Central, Tianhe Road, Tianhe, Guangzhou",
-    "lat": 23.1320, "lng": 113.3260,
-    "summary": {"en": "Sunken, mostly underground mall beside Teemall.", "zh": "天河城旁以地下为主的下沉式商场。"},
+    "lat": 23.132,
+    "lng": 113.326,
+    "summary": {
+      "en": "Sunken, mostly underground mall beside Teemall.",
+      "zh": "天河城旁以地下为主的下沉式商场。"
+    },
     "why": {
       "en": "Quieter than the neighbouring malls, with a landscaped sunken garden at its centre. It is walked through underground from Teemall, so no street crossing is needed with kids.",
       "zh": "比周边商场安静，中间是下沉式园林。从天河城地下直接走过去，带孩子不用过马路。"
     },
     "highlights": {
-      "en": ["Quiet, less crowded", "Sunken garden", "Underground link from Teemall"],
-      "zh": ["安静，人少", "下沉式园林", "地下连通天河城"]
+      "en": [
+        "Quiet, less crowded",
+        "Sunken garden",
+        "Underground link from Teemall"
+      ],
+      "zh": [
+        "安静，人少",
+        "下沉式园林",
+        "地下连通天河城"
+      ]
     }
   },
   {
     "id": "taikoo-hui",
-    "aliases": ["太古汇", "太古汇餐厅", "太古汇法式甜品店"],
+    "aliases": [
+      "太古汇",
+      "太古汇餐厅",
+      "太古汇法式甜品店"
+    ],
     "kind": "shop",
-    "name": {"en": "Taikoo Hui", "zh": "太古汇"},
+    "name": {
+      "en": "Taikoo Hui",
+      "zh": "太古汇"
+    },
     "city": "Guangzhou",
     "query": "Taikoo Hui, 383 Tianhe Road, Tianhe, Guangzhou",
-    "lat": 23.1340, "lng": 113.3315,
-    "summary": {"en": "High-end Swire mall on Tianhe Road.", "zh": "天河路上太古集团的高端商场。"},
+    "lat": 23.134,
+    "lng": 113.3315,
+    "summary": {
+      "en": "High-end Swire mall on Tianhe Road.",
+      "zh": "天河路上太古集团的高端商场。"
+    },
     "why": {
       "en": "High-end brands and design-led shops sit alongside some of the best mall restaurants in Tianhe, which suits a proper New Year's Eve dinner. French patisseries inside serve macarons and petits gâteaux for a mid-walk break.",
       "zh": "高端品牌和设计感强的店，加上天河区数一数二的商场餐厅，适合跨年吃一顿正式的。里面的法式甜品店有马卡龙、法式小蛋糕，逛累了可以歇一下。"
     },
     "highlights": {
-      "en": ["High-end and design-led shops", "Quality restaurants", "French patisserie: macarons, petits gâteaux"],
-      "zh": ["高端、设计感强的店", "餐厅质量高", "法式甜品：马卡龙、小蛋糕"]
+      "en": [
+        "High-end and design-led shops",
+        "Quality restaurants",
+        "French patisserie: macarons, petits gâteaux"
+      ],
+      "zh": [
+        "高端、设计感强的店",
+        "餐厅质量高",
+        "法式甜品：马卡龙、小蛋糕"
+      ]
     },
-    "tips": {"en": "Restaurants should be booked for New Year's Eve; arrival before 17:30 is advised. The specific patisserie is not named in the plan.", "zh": "跨年夜要提前订位，最好17:30前到。行程未指定具体是哪家甜品店。"}
+    "tips": {
+      "en": "Restaurants should be booked for New Year's Eve; arrival before 17:30 is advised. The specific patisserie is not named in the plan.",
+      "zh": "跨年夜要提前订位，最好17:30前到。行程未指定具体是哪家甜品店。"
+    }
   },
   {
     "id": "wong-chun-loong-tianhe-road",
-    "aliases": ["黄振龙凉茶"],
+    "aliases": [
+      "黄振龙凉茶"
+    ],
     "kind": "food",
-    "name": {"en": "Wong Chun Loong Herbal Tea", "zh": "黄振龙凉茶"},
+    "name": {
+      "en": "Wong Chun Loong Herbal Tea",
+      "zh": "黄振龙凉茶"
+    },
     "city": "Guangzhou",
     "query": "黄振龙凉茶 天河路, 天河区, 广州",
-    "lat": 23.1330, "lng": 113.3270,
-    "summary": {"en": "Classic Guangzhou herbal tea chain.", "zh": "广州老字号凉茶连锁。"},
+    "lat": 23.133,
+    "lng": 113.327,
+    "summary": {
+      "en": "Classic Guangzhou herbal tea chain.",
+      "zh": "广州老字号凉茶连锁。"
+    },
     "why": {
       "en": "Herbal tea is part of everyday Cantonese life, and this is the name locals know best. Bitter 24-herb tea is a rite of passage for adults; kids can try the milder Xia Sang Ju or sweetened herbal jelly.",
       "zh": "凉茶是广州人日常生活的一部分，黄振龙是本地人最熟悉的牌子。大人可以挑战苦的廿四味，孩子喝清淡的夏桑菊，或者吃加糖的龟苓膏。"
     },
     "highlights": {
-      "en": ["Herbal jelly (龟苓膏)", "24-herb tea (廿四味)", "Milder Xia Sang Ju for kids"],
-      "zh": ["龟苓膏", "廿四味", "孩子可喝夏桑菊"]
+      "en": [
+        "Herbal jelly (龟苓膏)",
+        "24-herb tea (廿四味)",
+        "Milder Xia Sang Ju for kids"
+      ],
+      "zh": [
+        "龟苓膏",
+        "廿四味",
+        "孩子可喝夏桑菊"
+      ]
     },
-    "mustTry": {"en": ["Herbal jelly (龟苓膏)", "24-herb tea (廿四味)", "Xia Sang Ju (夏桑菊)"], "zh": ["龟苓膏", "廿四味", "夏桑菊"]},
-    "tips": {"en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch and coordinates are approximate.", "zh": "在高德搜“黄振龙”找天河路附近的分店；具体分店和坐标为大致位置。"}
+    "mustTry": {
+      "en": [
+        "Herbal jelly (龟苓膏)",
+        "24-herb tea (廿四味)",
+        "Xia Sang Ju (夏桑菊)"
+      ],
+      "zh": [
+        "龟苓膏",
+        "廿四味",
+        "夏桑菊"
+      ]
+    },
+    "tips": {
+      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch and coordinates are approximate.",
+      "zh": "在高德搜“黄振龙”找天河路附近的分店；具体分店和坐标为大致位置。"
+    }
   },
   {
     "id": "fashion-tianhe",
-    "aliases": ["时尚天河"],
+    "aliases": [
+      "时尚天河"
+    ],
     "kind": "shop",
-    "name": {"en": "Fashion Tianhe", "zh": "时尚天河"},
+    "name": {
+      "en": "Fashion Tianhe",
+      "zh": "时尚天河"
+    },
     "city": "Guangzhou",
     "query": "时尚天河商业广场, 天河体育中心, 天河区, 广州",
-    "lat": 23.1365, "lng": 113.3240,
-    "summary": {"en": "Underground mall below Tianhe Sports Center: anime, toys, budget shops.", "zh": "天河体育中心地下商场：动漫、潮玩、平价小店。"},
+    "lat": 23.1365,
+    "lng": 113.324,
+    "summary": {
+      "en": "Underground mall below Tianhe Sports Center: anime, toys, budget shops.",
+      "zh": "天河体育中心地下商场：动漫、潮玩、平价小店。"
+    },
     "why": {
       "en": "Anime goods, designer toys and blind boxes are sold at street-level prices, which is where kids tend to spend their own pocket money. Being underground, it is a dry, warm stop in any weather.",
       "zh": "动漫周边、潮玩和盲盒价格亲民，孩子最愿意在这里花自己的零花钱。在地下，刮风下雨都不受影响。"
     },
     "highlights": {
-      "en": ["Anime merchandise", "Designer toys, blind boxes", "Budget fashion"],
-      "zh": ["动漫周边", "潮玩、盲盒", "平价服饰"]
+      "en": [
+        "Anime merchandise",
+        "Designer toys, blind boxes",
+        "Budget fashion"
+      ],
+      "zh": [
+        "动漫周边",
+        "潮玩、盲盒",
+        "平价服饰"
+      ]
     }
   },
   {
     "id": "k-hotel",
-    "aliases": ["回 K Hotel"],
+    "aliases": [
+      "回 K Hotel"
+    ],
     "kind": "hotel",
-    "name": {"en": "K Hotel", "zh": "K Hotel"},
+    "name": {
+      "en": "K Hotel",
+      "zh": "K Hotel"
+    },
     "city": "Guangzhou",
     "query": "K Hotel, Tianhe, Guangzhou",
-    "lat": 23.1340, "lng": 113.3200,
-    "summary": {"en": "Base hotel in Tianhe, ~5 min walk from Teemall.", "zh": "天河区住宿酒店，步行约5分钟到天河城。"},
+    "lat": 23.134,
+    "lng": 113.32,
+    "summary": {
+      "en": "Base hotel in Tianhe, ~5 min walk from Teemall.",
+      "zh": "天河区住宿酒店，步行约5分钟到天河城。"
+    },
     "why": {
       "en": "Tianhe Road malls, Taikoo Hui and Fashion Tianhe are all within walking distance, so one group can shop on foot while the other travels. Rest breaks between outings are easy.",
       "zh": "天河路商场、太古汇、时尚天河都可以步行到，一组人出门时另一组可以就近逛。中途回酒店休息很方便。"
     },
     "highlights": {
-      "en": ["Walking distance to Tianhe Road malls", "Easy mid-day rests"],
-      "zh": ["步行可到天河路商圈", "中途回来休息方便"]
+      "en": [
+        "Walking distance to Tianhe Road malls",
+        "Easy mid-day rests"
+      ],
+      "zh": [
+        "步行可到天河路商圈",
+        "中途回来休息方便"
+      ]
     },
-    "tips": {"en": "Full hotel name, address and coordinates are not given in the plan and should be confirmed.", "zh": "行程中没有酒店全名和地址，坐标需确认。"}
+    "tips": {
+      "en": "Full hotel name, address and coordinates are not given in the plan and should be confirmed.",
+      "zh": "行程中没有酒店全名和地址，坐标需确认。"
+    }
   },
   {
     "id": "shahe-clothing-market",
-    "aliases": ["沙河服装城"],
+    "aliases": [
+      "沙河服装城"
+    ],
     "kind": "shop",
-    "name": {"en": "Shahe Clothing Market", "zh": "沙河服装城"},
+    "name": {
+      "en": "Shahe Clothing Market",
+      "zh": "沙河服装城"
+    },
     "city": "Guangzhou",
     "query": "沙河服装城, 沙河, 天河区, 广州",
-    "lat": 23.1555, "lng": 113.3060,
-    "summary": {"en": "Large wholesale clothing district in Shahe, Tianhe.", "zh": "天河区沙河的大型服装批发市场。"},
+    "lat": 23.1555,
+    "lng": 113.306,
+    "summary": {
+      "en": "Large wholesale clothing district in Shahe, Tianhe.",
+      "zh": "天河区沙河的大型服装批发市场。"
+    },
     "why": {
       "en": "T-shirts, denim and casual wear are sold at wholesale prices, and bargaining is expected. It shows the trading side of Guangzhou that malls do not.",
       "zh": "T恤、牛仔、休闲装批发价，可以讲价。能看到商场以外的广州批发贸易一面。"
     },
     "highlights": {
-      "en": ["Wholesale prices", "Bargaining expected", "T-shirts, denim, casual wear"],
-      "zh": ["批发价", "可以讲价", "T恤、牛仔、休闲装"]
+      "en": [
+        "Wholesale prices",
+        "Bargaining expected",
+        "T-shirts, denim, casual wear"
+      ],
+      "zh": [
+        "批发价",
+        "可以讲价",
+        "T恤、牛仔、休闲装"
+      ]
     },
-    "tips": {"en": "Stalls are fullest in the morning; many close in the afternoon. Crowded: backpacks on the front, phones away. Metro: Shaheding (沙河顶).", "zh": "上午档口最齐，下午不少收档。人多拥挤，背包背前面，手机收好。地铁：沙河顶站。"}
+    "tips": {
+      "en": "Stalls are fullest in the morning; many close in the afternoon. Crowded: backpacks on the front, phones away. Metro: Shaheding (沙河顶).",
+      "zh": "上午档口最齐，下午不少收档。人多拥挤，背包背前面，手机收好。地铁：沙河顶站。"
+    }
   },
   {
     "id": "hong-kong-west-kowloon-station",
-    "aliases": ["西九龙站通关"],
+    "aliases": [
+      "西九龙站通关"
+    ],
     "kind": "transit",
-    "name": {"en": "Hong Kong West Kowloon Station", "zh": "香港西九龙站"},
+    "name": {
+      "en": "Hong Kong West Kowloon Station",
+      "zh": "香港西九龙站"
+    },
     "city": "Hong Kong",
     "query": "Hong Kong West Kowloon Station, Kowloon, Hong Kong",
-    "lat": 22.3040, "lng": 114.1655,
-    "summary": {"en": "High-speed rail terminus with joint mainland/Hong Kong border clearance.", "zh": "高铁总站，内地与香港在站内一地两检。"},
+    "lat": 22.304,
+    "lng": 114.1655,
+    "summary": {
+      "en": "High-speed rail terminus with joint mainland/Hong Kong border clearance.",
+      "zh": "高铁总站，内地与香港在站内一地两检。"
+    },
     "why": {
       "en": "Mainland exit and Hong Kong entry are both handled inside the station, so the border is crossed in one step. Guangzhou South is ~50 min away.",
       "zh": "内地出境和香港入境都在站内办完，一次过关。到广州南约50分钟。"
     },
     "highlights": {
-      "en": ["Co-located border clearance", "~50 min to Guangzhou South", "Taxi ~15 min to Tsim Sha Tsui"],
-      "zh": ["一地两检", "到广州南约50分钟", "打的士约15分钟到尖沙咀"]
+      "en": [
+        "Co-located border clearance",
+        "~50 min to Guangzhou South",
+        "Taxi ~15 min to Tsim Sha Tsui"
+      ],
+      "zh": [
+        "一地两检",
+        "到广州南约50分钟",
+        "打的士约15分钟到尖沙咀"
+      ]
     },
-    "tips": {"en": "~30–40 min should be allowed for clearance. Travel documents for Hong Kong entry and mainland return must be carried.", "zh": "预留30至40分钟过关。带好入境香港和回内地的证件。"}
+    "tips": {
+      "en": "~30–40 min should be allowed for clearance. Travel documents for Hong Kong entry and mainland return must be carried.",
+      "zh": "预留30至40分钟过关。带好入境香港和回内地的证件。"
+    }
   },
   {
     "id": "avenue-of-stars",
-    "aliases": ["尖沙咀海滨、星光大道"],
+    "aliases": [
+      "尖沙咀海滨、星光大道"
+    ],
     "kind": "sight",
-    "name": {"en": "Avenue of Stars", "zh": "星光大道"},
+    "name": {
+      "en": "Avenue of Stars",
+      "zh": "星光大道"
+    },
     "city": "Hong Kong",
     "query": "Avenue of Stars, Tsim Sha Tsui, Hong Kong",
-    "lat": 22.2933, "lng": 114.1740,
-    "summary": {"en": "Tsim Sha Tsui harbourfront promenade facing the Central skyline.", "zh": "尖沙咀海滨长廊，正对中环天际线。"},
+    "lat": 22.2933,
+    "lng": 114.174,
+    "summary": {
+      "en": "Tsim Sha Tsui harbourfront promenade facing the Central skyline.",
+      "zh": "尖沙咀海滨长廊，正对中环天际线。"
+    },
     "why": {
       "en": "The classic view of Hong Kong Island's skyline across Victoria Harbour is seen from here. The Bruce Lee bronze statue links to Bruce Lee's ancestral home visited on Dec 23.",
       "zh": "隔着维港看港岛天际线的经典位置。李小龙铜像和23号去过的李小龙祖居连起来。"
     },
     "highlights": {
-      "en": ["Victoria Harbour and Central skyline", "Bruce Lee statue", "Film-star handprints"],
-      "zh": ["维港和中环天际线", "李小龙铜像", "明星手印"]
+      "en": [
+        "Victoria Harbour and Central skyline",
+        "Bruce Lee statue",
+        "Film-star handprints"
+      ],
+      "zh": [
+        "维港和中环天际线",
+        "李小龙铜像",
+        "明星手印"
+      ]
     }
   },
   {
     "id": "star-ferry",
-    "aliases": ["天星小轮"],
+    "aliases": [
+      "天星小轮"
+    ],
     "kind": "ride",
-    "name": {"en": "Star Ferry", "zh": "天星小轮"},
+    "name": {
+      "en": "Star Ferry",
+      "zh": "天星小轮"
+    },
     "city": "Hong Kong",
     "query": "Star Ferry Pier, Tsim Sha Tsui, Hong Kong",
-    "lat": 22.2939, "lng": 114.1683,
-    "summary": {"en": "Century-old ferry across Victoria Harbour, Tsim Sha Tsui to Central.", "zh": "尖沙咀到中环的百年渡轮，横渡维港。"},
+    "lat": 22.2939,
+    "lng": 114.1683,
+    "summary": {
+      "en": "Century-old ferry across Victoria Harbour, Tsim Sha Tsui to Central.",
+      "zh": "尖沙咀到中环的百年渡轮，横渡维港。"
+    },
     "why": {
       "en": "Operating since the late 19th century, it is one of the cheapest and most memorable harbour crossings anywhere. The ~10 min ride puts the skyline right in front of the kids at water level.",
       "zh": "19世纪末开始运营，是全世界最便宜也最难忘的过海方式之一。约10分钟船程，孩子在海面上近看天际线。"
     },
     "highlights": {
-      "en": ["~10 min harbour crossing", "Historic green-and-white ferries", "Low fare, Octopus accepted"],
-      "zh": ["过维港约10分钟", "经典绿白渡轮", "票价便宜，可用八达通"]
+      "en": [
+        "~10 min harbour crossing",
+        "Historic green-and-white ferries",
+        "Low fare, Octopus accepted"
+      ],
+      "zh": [
+        "过维港约10分钟",
+        "经典绿白渡轮",
+        "票价便宜，可用八达通"
+      ]
     }
   },
   {
     "id": "kau-kee-beef-brisket",
-    "aliases": ["九记牛腩"],
+    "aliases": [
+      "九记牛腩"
+    ],
     "kind": "food",
-    "name": {"en": "Kau Kee Beef Brisket", "zh": "九记牛腩"},
+    "name": {
+      "en": "Kau Kee Beef Brisket",
+      "zh": "九记牛腩"
+    },
     "city": "Hong Kong",
     "query": "Kau Kee Restaurant, 21 Gough Street, Central, Hong Kong",
-    "lat": 22.2847, "lng": 114.1525,
-    "summary": {"en": "Gough Street institution for beef brisket noodles.", "zh": "歌赋街老牌牛腩面店。"},
+    "lat": 22.2847,
+    "lng": 114.1525,
+    "summary": {
+      "en": "Gough Street institution for beef brisket noodles.",
+      "zh": "歌赋街老牌牛腩面店。"
+    },
     "why": {
       "en": "Decades-old and run by the same family, it is Hong Kong's benchmark for beef brisket. The clear-broth version shows the beef's flavour without heavy spice, which suits kids.",
       "zh": "几十年老店，家族经营，是香港牛腩的标杆。清汤牛腩不靠重料，突出牛肉本味，孩子也能吃。"
     },
     "highlights": {
-      "en": ["Clear-broth beef brisket", "Curry beef brisket", "Long-running family shop"],
-      "zh": ["清汤牛腩", "咖喱牛腩", "老牌家族店"]
+      "en": [
+        "Clear-broth beef brisket",
+        "Curry beef brisket",
+        "Long-running family shop"
+      ],
+      "zh": [
+        "清汤牛腩",
+        "咖喱牛腩",
+        "老牌家族店"
+      ]
     },
-    "mustTry": {"en": ["Clear-broth beef brisket with noodles (清汤牛腩面)", "Curry beef brisket (咖喱牛腩)"], "zh": ["清汤牛腩面", "咖喱牛腩"]},
-    "tips": {"en": "Queues are common and tables are shared; closed on Sundays and public holidays (should be checked).", "zh": "常需排队，需拼桌；周日及公众假期休息（需确认）。"}
+    "mustTry": {
+      "en": [
+        "Clear-broth beef brisket with noodles (清汤牛腩面)",
+        "Curry beef brisket (咖喱牛腩)"
+      ],
+      "zh": [
+        "清汤牛腩面",
+        "咖喱牛腩"
+      ]
+    },
+    "tips": {
+      "en": "Queues are common and tables are shared; closed on Sundays and public holidays (should be checked).",
+      "zh": "常需排队，需拼桌；周日及公众假期休息（需确认）。"
+    }
   },
   {
     "id": "tsim-chai-kee-noodle",
-    "aliases": ["沾仔记"],
+    "aliases": [
+      "沾仔记"
+    ],
     "kind": "food",
-    "name": {"en": "Tsim Chai Kee Noodle", "zh": "沾仔记"},
+    "name": {
+      "en": "Tsim Chai Kee Noodle",
+      "zh": "沾仔记"
+    },
     "city": "Hong Kong",
     "query": "Tsim Chai Kee Noodle, 98 Wellington Street, Central, Hong Kong",
-    "lat": 22.2830, "lng": 114.1540,
-    "summary": {"en": "Wellington Street wonton noodle shop with oversized shrimp wontons.", "zh": "威灵顿街云吞面店，鲜虾云吞个头大。"},
+    "lat": 22.283,
+    "lng": 114.154,
+    "summary": {
+      "en": "Wellington Street wonton noodle shop with oversized shrimp wontons.",
+      "zh": "威灵顿街云吞面店，鲜虾云吞个头大。"
+    },
     "why": {
       "en": "Wontons are packed with whole fresh shrimp and are roughly the size of a ping-pong ball. Service is fast, prices are low, and it has long been recognised by the Michelin guide's affordable listings.",
       "zh": "云吞包整只鲜虾，大约乒乓球大小。出餐快、价格低，长期被米其林指南列为平价推荐。"
     },
     "highlights": {
-      "en": ["Large fresh shrimp wontons", "Fast and affordable", "Fish balls, sliced beef"],
-      "zh": ["大只鲜虾云吞", "出餐快、平价", "鱼蛋、牛肉"]
+      "en": [
+        "Large fresh shrimp wontons",
+        "Fast and affordable",
+        "Fish balls, sliced beef"
+      ],
+      "zh": [
+        "大只鲜虾云吞",
+        "出餐快、平价",
+        "鱼蛋、牛肉"
+      ]
     },
-    "mustTry": {"en": ["Fresh shrimp wonton noodles (鲜虾云吞面)"], "zh": ["鲜虾云吞面"]}
+    "mustTry": {
+      "en": [
+        "Fresh shrimp wonton noodles (鲜虾云吞面)"
+      ],
+      "zh": [
+        "鲜虾云吞面"
+      ]
+    }
   },
   {
     "id": "lan-fong-yuen-central",
-    "aliases": ["兰芳园"],
+    "aliases": [
+      "兰芳园"
+    ],
     "kind": "food",
-    "name": {"en": "Lan Fong Yuen", "zh": "兰芳园"},
+    "name": {
+      "en": "Lan Fong Yuen",
+      "zh": "兰芳园"
+    },
     "city": "Hong Kong",
     "query": "Lan Fong Yuen, 2 Gage Street, Central, Hong Kong",
-    "lat": 22.2836, "lng": 114.1544,
-    "summary": {"en": "Dai pai dong-style café credited with silk-stocking milk tea.", "zh": "以丝袜奶茶闻名的大排档式茶餐厅。"},
+    "lat": 22.2836,
+    "lng": 114.1544,
+    "summary": {
+      "en": "Dai pai dong-style café credited with silk-stocking milk tea.",
+      "zh": "以丝袜奶茶闻名的大排档式茶餐厅。"
+    },
     "why": {
       "en": "Operating since the 1950s, it is widely credited with popularising Hong Kong's silk-stocking milk tea, strained through a cloth bag. The pork chop bun is a simple, kid-proof lunch.",
       "zh": "上世纪50年代开业，被普遍认为是港式丝袜奶茶的发源店，奶茶用布袋反复冲滤。猪扒包简单好吃，孩子一定能接受。"
     },
     "highlights": {
-      "en": ["Silk-stocking milk tea", "Pork chop bun", "Original Gage Street stall"],
-      "zh": ["丝袜奶茶", "猪扒包", "结志街原址"]
+      "en": [
+        "Silk-stocking milk tea",
+        "Pork chop bun",
+        "Original Gage Street stall"
+      ],
+      "zh": [
+        "丝袜奶茶",
+        "猪扒包",
+        "结志街原址"
+      ]
     },
-    "mustTry": {"en": ["Silk-stocking milk tea (丝袜奶茶)", "Pork chop bun (猪扒包)"], "zh": ["丝袜奶茶", "猪扒包"]}
+    "mustTry": {
+      "en": [
+        "Silk-stocking milk tea (丝袜奶茶)",
+        "Pork chop bun (猪扒包)"
+      ],
+      "zh": [
+        "丝袜奶茶",
+        "猪扒包"
+      ]
+    }
   },
   {
     "id": "tai-cheong-bakery-central",
-    "aliases": ["泰昌饼家"],
+    "aliases": [
+      "泰昌饼家"
+    ],
     "kind": "food",
-    "name": {"en": "Tai Cheong Bakery", "zh": "泰昌饼家"},
+    "name": {
+      "en": "Tai Cheong Bakery",
+      "zh": "泰昌饼家"
+    },
     "city": "Hong Kong",
     "query": "Tai Cheong Bakery, 35 Lyndhurst Terrace, Central, Hong Kong",
-    "lat": 22.2832, "lng": 114.1537,
-    "summary": {"en": "Lyndhurst Terrace bakery famous for egg tarts.", "zh": "摆花街以蛋挞出名的饼家。"},
+    "lat": 22.2832,
+    "lng": 114.1537,
+    "summary": {
+      "en": "Lyndhurst Terrace bakery famous for egg tarts.",
+      "zh": "摆花街以蛋挞出名的饼家。"
+    },
     "why": {
       "en": "Its egg tarts became famous after Hong Kong's last governor, Chris Patten, was photographed eating them. Bought warm and eaten while walking to the Peak Tram, which is ~10 min away.",
       "zh": "末代港督彭定康被拍到吃这里的蛋挞后名声大噪。趁热买了边走边吃，步行约10分钟到山顶缆车。"
     },
     "highlights": {
-      "en": ["Egg tarts", "Takeaway, eaten on the go", "On the way to the Peak Tram"],
-      "zh": ["蛋挞", "外带边走边吃", "顺路去山顶缆车"]
+      "en": [
+        "Egg tarts",
+        "Takeaway, eaten on the go",
+        "On the way to the Peak Tram"
+      ],
+      "zh": [
+        "蛋挞",
+        "外带边走边吃",
+        "顺路去山顶缆车"
+      ]
     },
-    "mustTry": {"en": ["Egg tart (蛋挞)"], "zh": ["蛋挞"]},
-    "tips": {"en": "The Central shop is known for shortcrust tarts; the plan's “flaky pastry” description should be checked.", "zh": "中环店以牛油曲奇皮蛋挞出名，行程中“酥皮”的描述待核实。"}
+    "mustTry": {
+      "en": [
+        "Egg tart (蛋挞)"
+      ],
+      "zh": [
+        "蛋挞"
+      ]
+    },
+    "tips": {
+      "en": "The Central shop is known for shortcrust tarts; the plan's “flaky pastry” description should be checked.",
+      "zh": "中环店以牛油曲奇皮蛋挞出名，行程中“酥皮”的描述待核实。"
+    }
   },
   {
     "id": "peak-tram",
-    "aliases": ["山顶缆车", "山顶缆车下山"],
+    "aliases": [
+      "山顶缆车",
+      "山顶缆车下山"
+    ],
     "kind": "ride",
-    "name": {"en": "Peak Tram", "zh": "山顶缆车"},
+    "name": {
+      "en": "Peak Tram",
+      "zh": "山顶缆车"
+    },
     "city": "Hong Kong",
     "query": "Peak Tram Garden Road Lower Terminus, Central, Hong Kong",
-    "lat": 22.2777, "lng": 114.1594,
-    "summary": {"en": "Funicular from Garden Road to Victoria Peak, running since 1888.", "zh": "1888年开通，从花园道到太平山顶的缆车。"},
+    "lat": 22.2777,
+    "lng": 114.1594,
+    "summary": {
+      "en": "Funicular from Garden Road to Victoria Peak, running since 1888.",
+      "zh": "1888年开通，从花园道到太平山顶的缆车。"
+    },
     "why": {
       "en": "Asia's oldest funicular climbs so steeply that the buildings outside appear to lean. Kids remember the tilt long after the view.",
       "zh": "亚洲最早的登山缆车，坡度很陡，窗外高楼看起来像是倾斜的。孩子对倾斜的感觉记得比风景还久。"
     },
     "highlights": {
-      "en": ["Steep climb, tilting view", "Running since 1888", "Arrives at The Peak Tower"],
-      "zh": ["坡度陡，窗外高楼倾斜", "1888年开通", "直达凌霄阁"]
+      "en": [
+        "Steep climb, tilting view",
+        "Running since 1888",
+        "Arrives at The Peak Tower"
+      ],
+      "zh": [
+        "坡度陡，窗外高楼倾斜",
+        "1888年开通",
+        "直达凌霄阁"
+      ]
     },
-    "tips": {"en": "Queues can be long; a Madame Tussauds + Peak Tram combo ticket gives a dedicated lane. Sit on the right going up for the harbour view.", "zh": "排队可能很长，买蜡像馆加缆车套票有专用通道。上山坐右边看海景。"}
+    "tips": {
+      "en": "Queues can be long; a Madame Tussauds + Peak Tram combo ticket gives a dedicated lane. Sit on the right going up for the harbour view.",
+      "zh": "排队可能很长，买蜡像馆加缆车套票有专用通道。上山坐右边看海景。"
+    }
   },
   {
     "id": "madame-tussauds-hong-kong",
-    "aliases": ["杜莎夫人蜡像馆"],
+    "aliases": [
+      "杜莎夫人蜡像馆"
+    ],
     "kind": "sight",
-    "name": {"en": "Madame Tussauds Hong Kong", "zh": "香港杜莎夫人蜡像馆"},
+    "name": {
+      "en": "Madame Tussauds Hong Kong",
+      "zh": "香港杜莎夫人蜡像馆"
+    },
     "city": "Hong Kong",
     "query": "Madame Tussauds Hong Kong, The Peak Tower, Hong Kong",
-    "lat": 22.2712, "lng": 114.1500,
-    "summary": {"en": "Wax museum inside The Peak Tower.", "zh": "位于山顶凌霄阁内的蜡像馆。"},
+    "lat": 22.2712,
+    "lng": 114.15,
+    "summary": {
+      "en": "Wax museum inside The Peak Tower.",
+      "zh": "位于山顶凌霄阁内的蜡像馆。"
+    },
     "why": {
       "en": "Celebrities and athletes can be photographed up close, with props and sets to pose in. It sits at the top of the Peak Tram, so no extra travel is needed.",
       "zh": "可以和明星、运动员蜡像近距离合照，还有道具和布景。就在山顶缆车终点，不用另外坐车。"
     },
     "highlights": {
-      "en": ["Close-up photos with celebrity figures", "Sports and film stars", "Inside The Peak Tower"],
-      "zh": ["和明星蜡像近距离合照", "体育明星、电影明星", "就在凌霄阁内"]
+      "en": [
+        "Close-up photos with celebrity figures",
+        "Sports and film stars",
+        "Inside The Peak Tower"
+      ],
+      "zh": [
+        "和明星蜡像近距离合照",
+        "体育明星、电影明星",
+        "就在凌霄阁内"
+      ]
     },
-    "tips": {"en": "Tickets should be bought online in advance; the combo with the Peak Tram saves queuing.", "zh": "门票提前网上买，和山顶缆车套票可省排队。"}
+    "tips": {
+      "en": "Tickets should be bought online in advance; the combo with the Peak Tram saves queuing.",
+      "zh": "门票提前网上买，和山顶缆车套票可省排队。"
+    }
   },
   {
     "id": "victoria-peak",
-    "aliases": ["太平山顶"],
+    "aliases": [
+      "太平山顶"
+    ],
     "kind": "sight",
-    "name": {"en": "Victoria Peak", "zh": "太平山顶"},
+    "name": {
+      "en": "Victoria Peak",
+      "zh": "太平山顶"
+    },
     "city": "Hong Kong",
     "query": "The Peak Tower, Victoria Peak, Hong Kong",
-    "lat": 22.2710, "lng": 114.1497,
-    "summary": {"en": "Hong Kong's classic lookout over Victoria Harbour.", "zh": "俯瞰维港的香港经典观景点。"},
+    "lat": 22.271,
+    "lng": 114.1497,
+    "summary": {
+      "en": "Hong Kong's classic lookout over Victoria Harbour.",
+      "zh": "俯瞰维港的香港经典观景点。"
+    },
     "why": {
       "en": "The whole of Victoria Harbour, Kowloon and Hong Kong Island are seen at once from the top. It is the one view most associated with Hong Kong.",
       "zh": "从山顶一眼看全维港、九龙和港岛。是最能代表香港的风景。"
     },
     "highlights": {
-      "en": ["Panorama of Victoria Harbour", "The Peak Tower and Sky Terrace", "Linked to the Peak Tram"],
-      "zh": ["维港全景", "凌霄阁、摩天台", "与山顶缆车相连"]
+      "en": [
+        "Panorama of Victoria Harbour",
+        "The Peak Tower and Sky Terrace",
+        "Linked to the Peak Tram"
+      ],
+      "zh": [
+        "维港全景",
+        "凌霄阁、摩天台",
+        "与山顶缆车相连"
+      ]
     },
-    "tips": {"en": "The Sky Terrace 428 viewing deck needs a separate or combo ticket; free viewpoints are nearby.", "zh": "凌霄阁摩天台428需单独或套票；附近也有免费观景点。"}
+    "tips": {
+      "en": "The Sky Terrace 428 viewing deck needs a separate or combo ticket; free viewpoints are nearby.",
+      "zh": "凌霄阁摩天台428需单独或套票；附近也有免费观景点。"
+    }
   },
   {
     "id": "hong-kong-tramways",
-    "aliases": ["叮叮车"],
+    "aliases": [
+      "叮叮车"
+    ],
     "kind": "ride",
-    "name": {"en": "Ding Ding tram", "zh": "叮叮车"},
+    "name": {
+      "en": "Ding Ding tram",
+      "zh": "叮叮车"
+    },
     "city": "Hong Kong",
     "query": "Hong Kong Tramways, Des Voeux Road Central, Hong Kong",
-    "lat": 22.2840, "lng": 114.1565,
-    "summary": {"en": "Double-decker trams across Hong Kong Island since 1904.", "zh": "1904年起运营的港岛双层电车。"},
+    "lat": 22.284,
+    "lng": 114.1565,
+    "summary": {
+      "en": "Double-decker trams across Hong Kong Island since 1904.",
+      "zh": "1904年起运营的港岛双层电车。"
+    },
     "why": {
       "en": "One of the few double-decker tram fleets still in service anywhere. The front row of the upper deck gives a slow street-level tour from Central to Wan Chai for a flat fare.",
       "zh": "全世界少数仍在运营的双层电车之一。坐上层前排，慢慢看中环到湾仔的街景，车费统一。"
     },
     "highlights": {
-      "en": ["Upper-deck front-row views", "Running since 1904", "Flat fare, Octopus accepted"],
-      "zh": ["上层前排看街景", "1904年起运营", "统一车费，可用八达通"]
+      "en": [
+        "Upper-deck front-row views",
+        "Running since 1904",
+        "Flat fare, Octopus accepted"
+      ],
+      "zh": [
+        "上层前排看街景",
+        "1904年起运营",
+        "统一车费，可用八达通"
+      ]
     },
-    "tips": {"en": "Board at the back, pay on exit at the front.", "zh": "后门上车，前门下车时付款。"}
+    "tips": {
+      "en": "Board at the back, pay on exit at the front.",
+      "zh": "后门上车，前门下车时付款。"
+    }
   },
   {
     "id": "dian-dou-de-tianhe",
-    "aliases": ["早午茶：点都德"],
+    "aliases": [
+      "早午茶：点都德"
+    ],
     "kind": "food",
-    "name": {"en": "Dian Dou De (Tianhe)", "zh": "点都德（天河）"},
+    "name": {
+      "en": "Dian Dou De (Tianhe)",
+      "zh": "点都德（天河）"
+    },
     "city": "Guangzhou",
     "query": "点都德 天河区, 广州",
-    "lat": 23.1340, "lng": 113.3230,
-    "summary": {"en": "Popular Guangzhou dim sum chain; nearest Tianhe branch.", "zh": "广州人气早茶连锁，选最近的天河分店。"},
+    "lat": 23.134,
+    "lng": 113.323,
+    "summary": {
+      "en": "Popular Guangzhou dim sum chain; nearest Tianhe branch.",
+      "zh": "广州人气早茶连锁，选最近的天河分店。"
+    },
     "why": {
       "en": "A reliable introduction to Guangzhou morning tea: dim sum is made to order and ordered by QR code, so no Cantonese is needed. The pink golden-shrimp rice roll is the signature that put the chain on the map.",
       "zh": "体验广州早茶的稳妥之选：点心现点现做，扫码点餐，不会粤语也没问题。粉红色的金莎红米肠是让它出名的招牌。"
     },
     "highlights": {
-      "en": ["Golden crispy shrimp red rice roll", "Made-to-order dim sum", "QR-code ordering"],
-      "zh": ["金莎红米肠", "点心现点现做", "扫码点餐"]
+      "en": [
+        "Golden crispy shrimp red rice roll",
+        "Made-to-order dim sum",
+        "QR-code ordering"
+      ],
+      "zh": [
+        "金莎红米肠",
+        "点心现点现做",
+        "扫码点餐"
+      ]
     },
     "mustTry": {
-      "en": ["Golden crispy shrimp red rice roll (金莎红米肠)", "Signature shrimp dumplings (招牌虾饺皇)", "Honey char siu bao (蜜汁叉烧包)", "Caramel iced tofu pudding (焦糖冰豆花)"],
-      "zh": ["金莎红米肠", "招牌虾饺皇", "蜜汁叉烧包", "焦糖冰豆花"]
+      "en": [
+        "Golden crispy shrimp red rice roll (金莎红米肠)",
+        "Signature shrimp dumplings (招牌虾饺皇)",
+        "Honey char siu bao (蜜汁叉烧包)",
+        "Caramel iced tofu pudding (焦糖冰豆花)"
+      ],
+      "zh": [
+        "金莎红米肠",
+        "招牌虾饺皇",
+        "蜜汁叉烧包",
+        "焦糖冰豆花"
+      ]
     },
-    "tips": {"en": "Search “点都德” in Amap for the nearest Tianhe branch; exact branch and coordinates are unconfirmed. Calling ahead about reservations can save queuing.", "zh": "在高德搜“点都德”选最近的天河分店；具体分店和坐标待确认。可以先打电话问能否订位。"}
+    "tips": {
+      "en": "Search “点都德” in Amap for the nearest Tianhe branch; exact branch and coordinates are unconfirmed. Calling ahead about reservations can save queuing.",
+      "zh": "在高德搜“点都德”选最近的天河分店；具体分店和坐标待确认。可以先打电话问能否订位。"
+    }
   },
   {
     "id": "grandview-mall",
-    "aliases": ["正佳美食层"],
+    "aliases": [
+      "正佳美食层"
+    ],
     "kind": "shop",
-    "name": {"en": "Grandview Mall", "zh": "正佳广场"},
+    "name": {
+      "en": "Grandview Mall",
+      "zh": "正佳广场"
+    },
     "city": "Guangzhou",
     "query": "Grandview Mall, 228 Tianhe Road, Tianhe, Guangzhou",
-    "lat": 23.1318, "lng": 113.3270,
-    "summary": {"en": "Huge Tianhe Road mall with dedicated food floors.", "zh": "天河路大型商场，有专门的美食楼层。"},
+    "lat": 23.1318,
+    "lng": 113.327,
+    "summary": {
+      "en": "Huge Tianhe Road mall with dedicated food floors.",
+      "zh": "天河路大型商场，有专门的美食楼层。"
+    },
     "why": {
       "en": "It offers the widest choice of food on Tianhe Road across several floors, useful on a busy New Year's Eve. An indoor aquarium and rainforest make it a kid-friendly stop.",
       "zh": "多个楼层的美食，选择是天河路最多的，跨年夜人多时很实用。商场里有海洋馆和雨林，适合带孩子。"
     },
     "highlights": {
-      "en": ["Several food floors", "Indoor aquarium and rainforest", "New Year lights along Tianhe Road"],
-      "zh": ["多个美食楼层", "室内海洋馆和雨林", "天河路新年灯饰"]
+      "en": [
+        "Several food floors",
+        "Indoor aquarium and rainforest",
+        "New Year lights along Tianhe Road"
+      ],
+      "zh": [
+        "多个美食楼层",
+        "室内海洋馆和雨林",
+        "天河路新年灯饰"
+      ]
     }
   }
 ]

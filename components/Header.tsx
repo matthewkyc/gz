@@ -9,7 +9,6 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
   const { lang, setLang, t, ui } = useLang();
   const strip = useRef<HTMLDivElement>(null);
   const today = todayIso();
-  const day = trip.days[index];
 
   // Keep the selected date centred in the strip.
   useEffect(() => {
@@ -22,15 +21,11 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
   }, [index]);
 
   return (
-    <header className="topbar">
+    <>
+    <header className="titlebar">
       <div className="topbar-row">
         <div className="brand">
           <span className="brand-title">{t(trip.title)}</span>
-          <span className="brand-sub">
-            <i className="fa-solid fa-location-dot" aria-hidden /> {t(trip.stays[day.stay].area)}
-            <span className="sep">·</span>
-            {lang === "en" ? `Day ${index + 1} of ${trip.days.length}` : `第 ${index + 1} 天 / 共 ${trip.days.length} 天`}
-          </span>
         </div>
         <button
           type="button"
@@ -43,7 +38,9 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
           <span>{lang === "en" ? "EN" : "中"}</span>
         </button>
       </div>
+    </header>
 
+    <div className="stripbar">
       <nav className="strip" ref={strip} aria-label="Trip days">
         {trip.days.map((d, i) => {
           const p = parts(d.iso);
@@ -52,7 +49,7 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
           return (
             <div className="strip-cell" key={d.iso}>
               {firstOfStay && (
-                <span className="stay-mark" aria-hidden>{t(trip.stays[d.stay].area)}</span>
+                <span className="stay-mark" aria-hidden />
               )}
               <button
                 type="button"
@@ -63,7 +60,7 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
                 onClick={() => onSelect(i)}
               >
                 {sel && <motion.span layoutId="sq-sel" className="sq-bg" transition={{ type: "spring", stiffness: 520, damping: 38 }} />}
-                <span className="sq-dow">{lang === "en" ? p.dowEn : p.dowZh}</span>
+                <span className="sq-dow">{p.dowEn}</span>
                 <span className="sq-num">{p.day}</span>
                 {d.iso === today && <span className="sq-today" />}
               </button>
@@ -71,6 +68,7 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
           );
         })}
       </nav>
-    </header>
+    </div>
+    </>
   );
 }

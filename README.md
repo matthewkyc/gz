@@ -1,4 +1,4 @@
-# Guangzhou Winter Trip
+# Guang Zhou
 
 Bilingual (EN / 中文) family itinerary site · Dec 21 2026 – Jan 5 2027.
 

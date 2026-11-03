@@ -31,7 +31,7 @@ const TAGS = {
 };
 
 const en = {
-  title: "Guangzhou Winter Trip",
+  title: "Guang Zhou",
   subtitle: "Dec 21, 2026 – Jan 5, 2027 · 16 days",
   groups: { a: "Option A", k: "Option B" },
   stays: [

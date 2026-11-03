@@ -3,7 +3,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Guangzhou Winter Trip",
+  title: "Guang Zhou",
   description: "Family itinerary · Guangzhou, Dec 21 2026 – Jan 5 2027",
   appleWebApp: { capable: true, title: "GZ Trip", statusBarStyle: "default" },
 };

@@ -52,7 +52,7 @@
   "baohua-noodle-shop": {
     "image": "/places/baohua-noodle-shop.jpg",
     "imageCredit": "Google Maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 64,
     "lat": 23.115956,
     "lng": 113.241759,
@@ -277,32 +277,6 @@
       }
     ]
   },
-  "haixin-bridge": {
-    "image": "/places/haixin-bridge.jpg",
-    "imageCredit": "Google Maps",
-    "rating": 4.7,
-    "reviewCount": 7,
-    "reviews": [
-      {
-        "author": "Wendy Tan (悦翎)",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "Got my best Canton Tower photos / videos shoot from the bridge!"
-      },
-      {
-        "author": "李新泰",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "The view of the Canton Tower from the bridge is amazing! 👍"
-      },
-      {
-        "author": "HongSword",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "The scenery is beautiful both day and night."
-      }
-    ]
-  },
   "hong-kong-west-kowloon-station": {
     "image": "/places/hong-kong-west-kowloon-station.jpg",
     "imageCredit": "Google Maps",
@@ -328,7 +302,7 @@
   "hualin-jade-street": {
     "image": "/places/hualin-jade-street.jpg",
     "imageCredit": "Google Maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 26,
     "lat": 23.117298,
     "lng": 113.246612,

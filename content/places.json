@@ -2813,70 +2813,6 @@
     "thumb": "/places/thumb/guangzhou-marriott-tianhe-chinese-restaurant.jpg"
   },
   {
-    "id": "haixin-bridge",
-    "aliases": [
-      "海心桥"
-    ],
-    "kind": "sight",
-    "name": {
-      "en": "Haixin Bridge",
-      "zh": "海心桥"
-    },
-    "city": "Guangzhou",
-    "query": "Haixin Bridge, Guangzhou",
-    "lat": 23.109,
-    "lng": 113.325,
-    "summary": {
-      "en": "Pedestrian bridge across the Pearl River beside Canton Tower.",
-      "zh": "广州塔旁跨珠江的步行桥。"
-    },
-    "why": {
-      "en": "Opened in 2021, it is the first pedestrian-only bridge across the Pearl River in central Guangzhou, shaped like a guqin. Looking back from mid-span gives the classic full-height shot of Canton Tower.",
-      "zh": "2021年开通，是广州中心城区第一座跨珠江的纯步行桥，造型像古琴；走到桥中间回头，可以拍到完整的广州塔。"
-    },
-    "highlights": {
-      "en": [
-        "Pedestrian-only",
-        "Best Canton Tower photo angle",
-        "Links the tower to Huacheng Square"
-      ],
-      "zh": [
-        "纯步行桥",
-        "拍广州塔最佳角度",
-        "连接广州塔和花城广场"
-      ]
-    },
-    "tips": {
-      "en": "Windy on the bridge; bring a jacket.",
-      "zh": "桥上风大，带外套。"
-    },
-    "image": "/places/haixin-bridge.jpg",
-    "imageCredit": "Google Maps",
-    "rating": 4.7,
-    "reviewCount": 7,
-    "reviews": [
-      {
-        "author": "Wendy Tan (悦翎)",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "Got my best Canton Tower photos / videos shoot from the bridge!"
-      },
-      {
-        "author": "李新泰",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "The view of the Canton Tower from the bridge is amazing! 👍"
-      },
-      {
-        "author": "HongSword",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "The scenery is beautiful both day and night."
-      }
-    ],
-    "thumb": "/places/thumb/haixin-bridge.jpg"
-  },
-  {
     "id": "hang-wan-lau-lingnan-tiandi",
     "aliases": [
       "行运楼"
@@ -5188,11 +5124,11 @@
     ],
     "kind": "food",
     "name": {
-      "en": "Runyuan Siji Coconut Chicken",
-      "zh": "润园四季椰子鸡"
+      "en": "Runyuan Siji Coconut Chicken (OCT Harbour)",
+      "zh": "润园四季椰子鸡（欢乐海岸店）"
     },
     "city": "Shenzhen",
-    "query": "润园四季椰子鸡 南山, 深圳",
+    "query": "润园四季椰子鸡 白石路东8号欢乐海岸5栋F2 南山 深圳",
     "lat": 22.5221955,
     "lng": 113.993014,
     "summary": {
@@ -5226,9 +5162,10 @@
       ]
     },
     "tips": {
-      "en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.",
-      "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"
+      "en": "Branch: OCT Harbour (欢乐海岸), Building 5, 2F, 8 Baishi Road East — the nearest branch to Shenzhen Bay on Google Maps, ~15 min by car from Talent Park. The address should be shown to the driver.",
+      "zh": "分店：欢乐海岸5栋2楼（白石路东8号），是 Google 地图上离深圳湾最近的分店，从人才公园开车约15分钟；把地址给司机看。"
     },
+    "flag": true,
     "image": "/places/runyuan-siji-coconut-chicken-nanshan.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.4,
@@ -7292,6 +7229,7 @@
       "en": "The brand has many branches; this entry is the Wenchang North Road shop named in the plan.",
       "zh": "银记分店很多，这里指行程里的文昌北路老店。"
     },
+    "flag": true,
     "image": "/places/yinji-rice-rolls-wenchang.jpg",
     "imageCredit": "Google Maps",
     "rating": 3.7,
