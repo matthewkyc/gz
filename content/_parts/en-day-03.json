@@ -68,7 +68,7 @@
     },
     {
       "start": "13:00",
-      "end": "15:00",
+      "end": "14:30",
       "title": "Get to know the resort",
       "note": "Routes are learned today so the next two mornings run smoothly.",
       "route": [
@@ -87,13 +87,13 @@
           "desc": "Tomorrow's entry gate and queue position are located."
         },
         {
-          "time": "14:15",
+          "time": "14:00",
           "title": "Circus theatre and Happy World North Gate (大马戏剧场、欢乐世界北门)",
           "walk": "Shuttle, ~10 min",
           "desc": "The Circus is next to Happy World North Gate. Tonight's entrance is checked, along with the gate for Happy World the day after tomorrow."
         },
         {
-          "time": "14:45",
+          "time": "14:30",
           "title": "Back to the Panda Hotel (回熊猫酒店)",
           "walk": "Shuttle back"
         }
@@ -101,8 +101,8 @@
       "tip": "Food delivery cannot enter the parks; it is collected from the delivery lockers next to the hotel."
     },
     {
-      "start": "15:00",
-      "end": "15:45",
+      "start": "14:30",
+      "end": "15:00",
       "title": "Afternoon tea",
       "food": [
         {
@@ -116,14 +116,14 @@
       ]
     },
     {
-      "start": "15:45",
-      "end": "16:45",
+      "start": "15:00",
+      "end": "16:00",
       "title": "Check in, rest",
       "note": "Check-in opens at 15:00. A nap is advised; the Circus runs until nearly 21:00."
     },
     {
-      "start": "16:45",
-      "end": "17:30",
+      "start": "16:00",
+      "end": "16:40",
       "title": "Dinner: eat early",
       "note": "Circus doors open at 17:00; standard seats are first come, first served. Christmas Eve is busy, so go straight after eating.",
       "food": [
@@ -138,16 +138,16 @@
       ]
     },
     {
-      "start": "17:30",
-      "end": "17:45",
+      "start": "16:40",
+      "end": "16:55",
       "title": "Hotel → Circus",
       "note": "Shuttle, ~10 min. Bring the original ID used for booking; it is checked at entry."
     },
     {
-      "start": "17:45",
+      "start": "16:55",
       "end": "19:30",
       "title": "Enter, claim seats",
-      "note": "Entry at least 45 min early is officially advised on holidays. Standard seats are unassigned; the earlier you arrive, the more central the seats.",
+      "note": "In at 17:00 when doors open, for central seats on Christmas Eve. Standard seats are unassigned; earlier is better. The wait is long, so snacks, a tablet or small games should be brought for the kids.",
       "tip": "Own snacks and drinks are allowed, but strong-smelling food such as durian is not."
     },
     {

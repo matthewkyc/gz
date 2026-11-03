@@ -5,7 +5,7 @@
   "locked": true,
   "theme": "Foshan + Shunde day trip",
   "away": "Foshan · Shunde",
-  "intro": "Foshan Ancestral Temple: lion dance at 10:00, Wong Fei-hung and Ip Man halls\nLingnan Tiandi: old streets, lunch, Cantonese opera\nShunde: Qinghui Garden, Huagai Road\nShunde dinner; back ~20:00",
+  "intro": "Foshan Ancestral Temple: lion dance at 10:00, Wong Fei-hung and Ip Man halls\nLingnan Tiandi: old streets, lunch, Cantonese opera\nShunde: Qinghui Garden, Huagai Road\nShunde dinner; back ~19:45",
   "items": [
     {
       "start": "07:15",
@@ -67,7 +67,8 @@
           "desc": "The life and kung fu of Foshan martial arts master Wong Fei-hung.",
           "tags": [
             "Landmark"
-          ]
+          ],
+          "tip": "One listing says the Wong Fei-hung Memorial Hall has been closed since May 2026; this should be checked before the trip. If closed, more time is spent at the Main Hall and Ip Man Hall."
         },
         {
           "time": "11:05",
@@ -83,9 +84,9 @@
     },
     {
       "start": "11:15",
-      "end": "15:00",
+      "end": "14:40",
       "title": "Lingnan Tiandi (岭南天地): stroll and lunch",
-      "note": "~10 min walk from the temple; no car needed. This is Foshan's best-preserved old town quarter, so nearly four hours are allowed.",
+      "note": "~10 min walk from the temple; no car needed. Foshan's best-preserved old town quarter: stroll, lunch and souvenirs, then back to the temple's Wanfu Stage for opera and the car.",
       "route": [
         {
           "time": "11:15",
@@ -142,29 +143,20 @@
               "name": "Taigenbao Rice-free Congee (太艮堡毋米粥)",
               "desc": "Shunde cuisine; signature is a congee hotpot made with rice broth only"
             }
-          ]
-        },
-        {
-          "time": "13:30",
-          "title": "Cantonese opera at Wanfu Stage (万福台)",
-          "walk": "~10 min walk back to the temple.",
-          "desc": "Weekend afternoons 13:30–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
-          "tags": [
-            "Landmark"
           ],
-          "tip": "Re-entry to the temple may require a ticket; ask at morning entry whether re-entry is allowed. Show times are per the notice on the day."
+          "desc": "Until ~13:15."
         },
         {
-          "time": "14:10",
+          "time": "13:15",
           "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
-          "walk": "~10 min walk back to Lingnan Tiandi.",
+          "walk": "Short walk inside the quarter after lunch.",
           "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
           "tags": [
             "Landmark"
           ]
         },
         {
-          "time": "14:20",
+          "time": "13:25",
           "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
           "walk": "Inside the quarter.",
           "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
@@ -173,7 +165,7 @@
           ]
         },
         {
-          "time": "14:35",
+          "time": "13:35",
           "title": "China Seasoning Culture Museum (中国调味文化馆)",
           "walk": "Short walk inside the quarter.",
           "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
@@ -182,36 +174,46 @@
           ]
         },
         {
-          "time": "14:45",
+          "time": "13:45",
           "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
           "walk": "~3 min walk.",
-          "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Ten minutes is enough.",
+          "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Five minutes is enough.",
           "tags": [
             "Landmark"
           ]
         },
         {
-          "time": "14:55",
-          "title": "Back to the chartered car"
+          "time": "14:00",
+          "title": "Cantonese opera at Wanfu Stage (万福台)",
+          "walk": "~10 min walk back to the temple.",
+          "desc": "Weekends and holidays 14:00–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
+          "tags": [
+            "Landmark"
+          ],
+          "tip": "Re-entry to the temple may require a ticket; ask at morning entry whether re-entry is allowed. Show times are per the notice on the day."
+        },
+        {
+          "time": "14:35",
+          "title": "Board the chartered car at the temple"
         }
       ]
     },
     {
-      "start": "15:00",
-      "end": "16:00",
+      "start": "14:40",
+      "end": "15:40",
       "title": "Chartered car: Foshan → Daliang, Shunde",
       "note": "~45 min–1 h drive."
     },
     {
-      "start": "16:00",
-      "end": "17:30",
+      "start": "15:40",
+      "end": "17:25",
       "title": "Daliang: Qinghui Garden and Huagai Road",
       "note": "All on foot after drop-off.",
       "route": [
         {
-          "time": "16:00",
+          "time": "15:40",
           "title": "Qinghui Garden (清晖园)",
-          "desc": "One of the Four Great Gardens of Lingnan: small bridges, streams, bamboo, carved windows. A loop takes ~50 min.",
+          "desc": "One of the Four Great Gardens of Lingnan: small bridges, streams, bamboo, carved windows. Over an hour is allowed.",
           "tags": [
             "Landmark",
             "Photo spot"
@@ -219,7 +221,7 @@
           "tip": "The garden closes in the early evening; check the last-entry time at the gate on arrival."
         },
         {
-          "time": "16:55",
+          "time": "16:50",
           "title": "Huagai Road Pedestrian Street (华盖路步行街)",
           "walk": "~10 min walk.",
           "desc": "Daliang's oldest arcade street; short, 30–40 min is enough. Lined with old brands, snack shops and souvenir shops; a beef offal stall nearby is good for a skewer on the go.",
@@ -247,7 +249,7 @@
     },
     {
       "start": "17:30",
-      "end": "18:20",
+      "end": "18:10",
       "title": "Dinner: cooked Shunde dishes",
       "note": "Both serve cooked food only, so no concern about kids and raw fish.",
       "food": [
@@ -263,15 +265,15 @@
       "tip": "Rongbian Branch 3 opens for dinner at 17:30, so arriving then means no queue. Tel 13450801998."
     },
     {
-      "start": "18:20",
-      "end": "18:30",
+      "start": "18:10",
+      "end": "18:15",
       "title": "Back to the chartered car"
     },
     {
-      "start": "18:30",
-      "end": "20:00",
+      "start": "18:15",
+      "end": "19:45",
       "title": "Chartered car: Shunde → Guangzhou",
-      "note": "Evening rush is not fully over at 18:30; ~1 h 20 min–1 h 30 min expected, back at the hotel around 19:50–20:00.",
+      "note": "Leaving at 18:15 avoids the worst of the rush; ~1 h 20 min–1 h 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
       "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
     }
   ]

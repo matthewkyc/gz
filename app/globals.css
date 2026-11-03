@@ -315,7 +315,13 @@ h4.title { font-size: 16px; }
 .place-link:hover { color: var(--accent); }
 .flagged { color: var(--flag); }
 .hero-text h2.flagged { color: #ffb3b3; }
-.stop-thumb { width: 34px; height: 34px; border-radius: 9px; object-fit: cover; vertical-align: middle; margin: -4px 10px 0 0; background: var(--bg3); }
+/* PlaceTitle with a thumbnail: fixed thumb + inline text column (wrapped lines align with the name). */
+.place-link.pt { display: flex; align-items: flex-start; gap: 10px; }
+.pt-thumb { flex: none; width: 34px; height: 34px; border-radius: 9px; object-fit: cover; background: var(--bg3); margin-top: 1px; }
+.pt-text { flex: 1 1 auto; min-width: 0; line-height: 1.45; }
+.pt-name { text-decoration: underline; text-decoration-color: var(--accent-soft); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.title-inline:has(.pt) { display: flex; align-items: flex-start; gap: 4px; }
+.title-inline:has(.pt) .title { flex: 0 1 auto; min-width: 0; }
 .banner {
   position: relative;
   display: block;
@@ -338,7 +344,6 @@ h4.title { font-size: 16px; }
 .banner-rating i { color: var(--accent); font-size: 11px; }
 .banner-sum { font-size: 13.5px; font-weight: 500; line-height: 1.35; opacity: 0.95; }
 .place-link:hover i { transform: translateX(2px); }
-.place-link span { text-decoration: underline; text-decoration-color: var(--accent-soft); text-decoration-thickness: 2px; text-underline-offset: 4px; }
 .note { margin-top: 4px; color: var(--ink2); font-size: 15px; line-height: 1.55; }
 .row-transit .note { font-size: 14px; }
 .badge {
@@ -410,7 +415,7 @@ h4.title { font-size: 16px; }
 .title-inline .title { display: inline; }
 .chips-inline { margin-left: 10px; white-space: nowrap; }
 .place-link .chips-inline, .place-link .chips-inline span { text-decoration: none; }
-.chips-inline .tag { display: inline-block; vertical-align: 2px; }
+.chips-inline .tag { display: inline-block; vertical-align: 1px; line-height: 1.4; }
 .chips-inline .tag + .tag { margin-left: 6px; }
 .chips-inline + i { margin-left: 8px; }
 .title-inline .tip-btn { margin-left: 6px; vertical-align: -6px; }
@@ -801,3 +806,5 @@ h4.title { font-size: 16px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
 }
+
+.pt-tail{white-space:nowrap}

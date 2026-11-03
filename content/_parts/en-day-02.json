@@ -3,7 +3,7 @@
   "dow": "Wed",
   "locked": true,
   "theme": "Xiguan old streets, walking east",
-  "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nLunch: Tao Tao Ju; ice cream at Shun Kee\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
+  "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nIce cream at Shun Kee; lunch at Tao Tao Ju\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
   "stay": 0,
   "items": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "start": "09:00",
-      "end": "13:00",
+      "end": "13:10",
       "title": "Morning: on foot east from the hotel",
       "note": "All on foot, west to east, no backtracking. Nearly two hours are kept for Yongqingfang so the kids can browse boutiques and buy gifts.",
       "route": [
@@ -143,18 +143,27 @@
           "time": "12:50",
           "title": "Enning Road arcade street (恩宁路骑楼街)",
           "walk": "Walk east along Enning Road, ~10 min",
-          "desc": "Old arcade streetscape all the way; photos on the move. The end of the road leads to Tao Tao Ju on Dishifu Road.",
+          "desc": "Old arcade streetscape all the way; photos on the move. At the east end, Shun Kee is just off Baohua Road; Tao Tao Ju on Dishifu Road is a few minutes further.",
           "tags": [
             "Photos"
+          ]
+        },
+        {
+          "time": "12:55",
+          "title": "Shun Kee Ice Bar (顺记冰室)",
+          "walk": "At the east end of Enning Road, turn into Baohua Road; ~3 min walk to No. 85.",
+          "desc": "Classic ice bar; coconut and mango ice cream are the signatures. Enning ice cream was just had, so one cup is shared.",
+          "tags": [
+            "Dessert"
           ]
         }
       ]
     },
     {
-      "start": "13:00",
-      "end": "14:15",
+      "start": "13:10",
+      "end": "14:20",
       "title": "Lunch: Tao Tao Ju (陶陶居), Dishifu Road",
-      "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. By 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
+      "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. ~3 min walk from Shun Kee. After 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
       "food": [
         {
           "name": "Shrimp dumplings (鲜虾饺皇)",
@@ -175,24 +184,15 @@
       "tip": "Old teahouses usually charge a per-person tea fee; expect it before sitting down."
     },
     {
-      "start": "14:15",
+      "start": "14:20",
       "end": "15:00",
       "title": "Tao Tao Ju → Liwan Plaza",
       "note": "Walk east along Shangxiajiu Pedestrian Street, arcades the whole way.",
       "route": [
         {
-          "time": "14:15",
-          "title": "Shun Kee Ice Bar (顺记冰室)",
-          "walk": "West from Tao Tao Ju, ~3 min on foot to 85 Baohua Road",
-          "desc": "Old ice bar on the way; signature coconut and mango ice cream. Ice cream was already had at noon, so one cup can be shared.",
-          "tags": [
-            "Dessert"
-          ]
-        },
-        {
-          "time": "14:25",
+          "time": "14:20",
           "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
-          "walk": "Back from Baohua Road to Dishifu Road, then into Zhanlu Zhijie; ~3 min on foot",
+          "walk": "From Tao Tao Ju, turn into Zhanlu Zhijie; ~3 min on foot.",
           "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
           "tags": [
             "Photo spot"

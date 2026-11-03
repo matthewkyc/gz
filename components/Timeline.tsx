@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useLang } from "@/lib/i18n";
+import PlaceTitle from "./PlaceTitle";
 import type { Food, Item, Place, Places, Stop, T } from "@/lib/types";
 
 const KIND_ICON: Record<Place["kind"], string> = {
@@ -201,20 +202,14 @@ function Title({ text, placeId, ctx, as: Tag, chips }: {
   if (!place) return <Tag className="title">{t(text)}{chips}</Tag>;
   return (
     <Tag className="title">
-      {/* An inline link (not a button) so tag chips can flow right after the last word. */}
-      <a
-        href={`#place-${place.id}`}
-        className="place-link"
-        onClick={(e) => { e.preventDefault(); ctx.onOpenPlace(place.id); }}
-      >
-        {Tag === "h4" && place.image && (
-          // eslint-disable-next-line @next/next/no-img-element -- local thumbnail
-          <img className="stop-thumb" src={place.thumb ?? place.image} alt="" loading="lazy" decoding="async" />
-        )}
-        <span className={place.flag ? "flagged" : undefined}>{t(text)}</span>
-        {chips}
-        <i className="fa-solid fa-circle-chevron-right" aria-hidden />
-      </a>
+      <PlaceTitle
+        placeId={place.id}
+        thumb={Tag === "h4" && place.image ? (place.thumb ?? place.image) : undefined}
+        title={t(text)}
+        chips={chips}
+        flagged={!!place.flag}
+        onOpen={ctx.onOpenPlace}
+      />
     </Tag>
   );
 }

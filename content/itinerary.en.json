@@ -516,7 +516,7 @@
       "dow": "Wed",
       "locked": true,
       "theme": "Xiguan old streets, walking east",
-      "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nLunch: Tao Tao Ju; ice cream at Shun Kee\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
+      "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nIce cream at Shun Kee; lunch at Tao Tao Ju\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
       "stay": 0,
       "items": [
         {
@@ -544,7 +544,7 @@
         },
         {
           "start": "09:00",
-          "end": "13:00",
+          "end": "13:10",
           "title": "Morning: on foot east from the hotel",
           "note": "All on foot, west to east, no backtracking. Nearly two hours are kept for Yongqingfang so the kids can browse boutiques and buy gifts.",
           "route": [
@@ -656,18 +656,27 @@
               "time": "12:50",
               "title": "Enning Road arcade street (恩宁路骑楼街)",
               "walk": "Walk east along Enning Road, ~10 min",
-              "desc": "Old arcade streetscape all the way; photos on the move. The end of the road leads to Tao Tao Ju on Dishifu Road.",
+              "desc": "Old arcade streetscape all the way; photos on the move. At the east end, Shun Kee is just off Baohua Road; Tao Tao Ju on Dishifu Road is a few minutes further.",
               "tags": [
                 "Photos"
+              ]
+            },
+            {
+              "time": "12:55",
+              "title": "Shun Kee Ice Bar (顺记冰室)",
+              "walk": "At the east end of Enning Road, turn into Baohua Road; ~3 min walk to No. 85.",
+              "desc": "Classic ice bar; coconut and mango ice cream are the signatures. Enning ice cream was just had, so one cup is shared.",
+              "tags": [
+                "Dessert"
               ]
             }
           ]
         },
         {
-          "start": "13:00",
-          "end": "14:15",
+          "start": "13:10",
+          "end": "14:20",
           "title": "Lunch: Tao Tao Ju (陶陶居), Dishifu Road",
-          "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. By 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
+          "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. ~3 min walk from Shun Kee. After 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
           "food": [
             {
               "name": "Shrimp dumplings (鲜虾饺皇)",
@@ -688,24 +697,15 @@
           "tip": "Old teahouses usually charge a per-person tea fee; expect it before sitting down."
         },
         {
-          "start": "14:15",
+          "start": "14:20",
           "end": "15:00",
           "title": "Tao Tao Ju → Liwan Plaza",
           "note": "Walk east along Shangxiajiu Pedestrian Street, arcades the whole way.",
           "route": [
             {
-              "time": "14:15",
-              "title": "Shun Kee Ice Bar (顺记冰室)",
-              "walk": "West from Tao Tao Ju, ~3 min on foot to 85 Baohua Road",
-              "desc": "Old ice bar on the way; signature coconut and mango ice cream. Ice cream was already had at noon, so one cup can be shared.",
-              "tags": [
-                "Dessert"
-              ]
-            },
-            {
-              "time": "14:25",
+              "time": "14:20",
               "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
-              "walk": "Back from Baohua Road to Dishifu Road, then into Zhanlu Zhijie; ~3 min on foot",
+              "walk": "From Tao Tao Ju, turn into Zhanlu Zhijie; ~3 min on foot.",
               "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
               "tags": [
                 "Must-see"
@@ -868,7 +868,7 @@
         },
         {
           "start": "13:00",
-          "end": "15:00",
+          "end": "14:30",
           "title": "Get to know the resort",
           "note": "Routes are learned today so the next two mornings run smoothly.",
           "route": [
@@ -887,13 +887,13 @@
               "desc": "Tomorrow's entry gate and queue position are located."
             },
             {
-              "time": "14:15",
+              "time": "14:00",
               "title": "Circus theatre and Happy World North Gate (大马戏剧场、欢乐世界北门)",
               "walk": "Shuttle, ~10 min",
               "desc": "The Circus is next to Happy World North Gate. Tonight's entrance is checked, along with the gate for Happy World the day after tomorrow."
             },
             {
-              "time": "14:45",
+              "time": "14:30",
               "title": "Back to the Panda Hotel (回熊猫酒店)",
               "walk": "Shuttle back"
             }
@@ -901,8 +901,8 @@
           "tip": "Food delivery cannot enter the parks; it is collected from the delivery lockers next to the hotel."
         },
         {
-          "start": "15:00",
-          "end": "15:45",
+          "start": "14:30",
+          "end": "15:00",
           "title": "Afternoon tea",
           "food": [
             {
@@ -916,14 +916,14 @@
           ]
         },
         {
-          "start": "15:45",
-          "end": "16:45",
+          "start": "15:00",
+          "end": "16:00",
           "title": "Check in, rest",
           "note": "Check-in opens at 15:00. A nap is advised; the Circus runs until nearly 21:00."
         },
         {
-          "start": "16:45",
-          "end": "17:30",
+          "start": "16:00",
+          "end": "16:40",
           "title": "Dinner: eat early",
           "note": "Circus doors open at 17:00; standard seats are first come, first served. Christmas Eve is busy, so go straight after eating.",
           "food": [
@@ -938,16 +938,16 @@
           ]
         },
         {
-          "start": "17:30",
-          "end": "17:45",
+          "start": "16:40",
+          "end": "16:55",
           "title": "Hotel → Circus",
           "note": "Shuttle, ~10 min. Bring the original ID used for booking; it is checked at entry."
         },
         {
-          "start": "17:45",
+          "start": "16:55",
           "end": "19:30",
           "title": "Enter, claim seats",
-          "note": "Entry at least 45 min early is officially advised on holidays. Standard seats are unassigned; the earlier you arrive, the more central the seats.",
+          "note": "In at 17:00 when doors open, for central seats on Christmas Eve. Standard seats are unassigned; earlier is better. The wait is long, so snacks, a tablet or small games should be brought for the kids.",
           "tip": "Own snacks and drinks are allowed, but strong-smelling food such as durian is not."
         },
         {
@@ -1407,7 +1407,7 @@
       "date": "Dec 27",
       "dow": "Sun",
       "locked": true,
-      "theme": "Slow checkout, Grandview Mall",
+      "theme": "Hotel change day, Grandview Mall",
       "items": [
         {
           "start": "07:45",
@@ -1585,9 +1585,9 @@
         },
         {
           "start": "10:30",
-          "end": "12:00",
+          "end": "11:45",
           "title": "Robot 6S Store (机器人6S店)",
-          "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store.",
+          "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store. Open 10:00–21:00; a ~10-min robot street show starts at 11:00 (moved indoors if it rains).",
           "route": [
             {
               "time": "10:30",
@@ -1598,7 +1598,7 @@
               ]
             },
             {
-              "time": "10:50",
+              "time": "10:45",
               "title": "Humanoid robot zone",
               "walk": "In store",
               "desc": "Humanoid robots and robot dogs from leading Chinese makers such as Leju (乐聚), Unitree (宇树) and DEEP Robotics (云深处) are demonstrated live.",
@@ -1607,7 +1607,7 @@
               ]
             },
             {
-              "time": "11:30",
+              "time": "11:20",
               "title": "Robot parts supermarket",
               "walk": "In store",
               "desc": "Core parts such as servo motors and reducers are shelved like a supermarket. Robots can also be rented, from ~1,000 yuan per day."
@@ -1615,8 +1615,8 @@
           ]
         },
         {
-          "start": "12:00",
-          "end": "13:00",
+          "start": "11:45",
+          "end": "12:45",
           "title": "Lunch: Galaxy WORLD COCO Park (星河WORLD COCO Park)",
           "note": "In the same Galaxy WORLD campus as the Robot 6S Store. Restaurants are concentrated in the mall; no further ride needed.",
           "food": [
@@ -1636,22 +1636,23 @@
           "tip": "These restaurant names come from older sources; what is in the mall on the day applies."
         },
         {
-          "start": "13:00",
-          "end": "14:15",
+          "start": "12:45",
+          "end": "13:30",
           "title": "AI 6S Store (人工智能6S店)",
-          "note": "In the same robot block in Longgang, a short drive away. Chinese and international AI hardware is displayed in real-life settings and can be tried hands-on."
+          "note": "In the same Galaxy WORLD robot street, not far from the Robot 6S Store; likely walkable (exact unit unconfirmed). Mostly for makers, developers and brand incubation: of interest to adults for AI hardware; can be skipped by kids.",
+          "optional": true
         },
         {
-          "start": "14:15",
-          "end": "15:00",
+          "start": "13:30",
+          "end": "14:15",
           "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
           "note": "Drive ~40 min."
         },
         {
-          "start": "15:00",
+          "start": "14:15",
           "end": "16:30",
           "title": "INNO100",
-          "note": "In Shenzhen Bay Culture Plaza; a global innovation flagship store. Exoskeletons and smart glasses can be tried."
+          "note": "Level 1, North Hall, Shenzhen Bay Culture Plaza (northeast entrance, by Talent Park). Open daily 10:00–22:00; free, walk-in. Exoskeletons and smart glasses can be tried. Robot demos and the 3D-printing workshop should be asked about or booked ahead."
         },
         {
           "start": "16:30",
@@ -2165,7 +2166,7 @@
         },
         {
           "start": "12:00",
-          "end": "16:30",
+          "end": "16:15",
           "title": "Tianhe Road shopping walk",
           "note": "For those who did not do this route on the 29th.",
           "group": "a",
@@ -2239,21 +2240,21 @@
         },
         {
           "start": "12:00",
-          "end": "16:30",
+          "end": "16:15",
           "title": "Free time",
           "note": "Rest at the hotel or wander nearby.",
           "group": "k"
         },
         {
-          "start": "16:30",
-          "end": "17:30",
+          "start": "16:15",
+          "end": "17:00",
           "title": "Rest at the hotel"
         },
         {
-          "start": "17:30",
-          "end": "19:00",
+          "start": "17:00",
+          "end": "18:30",
           "title": "New Year's Eve dinner: eat early",
-          "note": "Restaurants are packed on New Year's Eve; arrive before 17:30, ideally with a booking.",
+          "note": "Restaurants are packed on New Year's Eve; arrive by 17:00, ideally with a booking.",
           "food": [
             {
               "name": "Restaurants at Taikoo Hui (太古汇)",
@@ -2266,16 +2267,16 @@
           ]
         },
         {
-          "start": "19:00",
-          "end": "20:00",
+          "start": "18:30",
+          "end": "19:30",
           "title": "Tianhe Road at night",
           "note": "New Year lights along Teemall and Grandview. Leave early if it gets crowded.",
           "optional": true,
           "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable."
         },
         {
-          "start": "20:00",
-          "end": "20:15",
+          "start": "19:30",
+          "end": "19:45",
           "title": "Walk back to the hotel",
           "note": "The countdown is skipped, avoiding the crowds around Huacheng Square and Canton Tower."
         }
@@ -2405,7 +2406,7 @@
       "locked": true,
       "theme": "Foshan + Shunde day trip",
       "away": "Foshan · Shunde",
-      "intro": "Foshan Ancestral Temple: lion dance at 10:00, Wong Fei-hung and Ip Man halls\nLingnan Tiandi: old streets, lunch, Cantonese opera\nShunde: Qinghui Garden, Huagai Road\nShunde dinner; back ~20:00",
+      "intro": "Foshan Ancestral Temple: lion dance at 10:00, Wong Fei-hung and Ip Man halls\nLingnan Tiandi: old streets, lunch, Cantonese opera\nShunde: Qinghui Garden, Huagai Road\nShunde dinner; back ~19:45",
       "items": [
         {
           "start": "07:15",
@@ -2467,7 +2468,8 @@
               "desc": "The life and kung fu of Foshan martial arts master Wong Fei-hung.",
               "tags": [
                 "Must-see"
-              ]
+              ],
+              "tip": "One listing says the Wong Fei-hung Memorial Hall has been closed since May 2026; this should be checked before the trip. If closed, more time is spent at the Main Hall and Ip Man Hall."
             },
             {
               "time": "11:05",
@@ -2483,9 +2485,9 @@
         },
         {
           "start": "11:15",
-          "end": "15:00",
+          "end": "14:40",
           "title": "Lingnan Tiandi (岭南天地): stroll and lunch",
-          "note": "~10 min walk from the temple; no car needed. This is Foshan's best-preserved old town quarter, so nearly four hours are allowed.",
+          "note": "~10 min walk from the temple; no car needed. Foshan's best-preserved old town quarter: stroll, lunch and souvenirs, then back to the temple's Wanfu Stage for opera and the car.",
           "route": [
             {
               "time": "11:15",
@@ -2542,29 +2544,20 @@
                   "name": "Taigenbao Rice-free Congee (太艮堡毋米粥)",
                   "desc": "Shunde cuisine; signature is a congee hotpot made with rice broth only"
                 }
-              ]
-            },
-            {
-              "time": "13:30",
-              "title": "Cantonese opera at Wanfu Stage (万福台)",
-              "walk": "~10 min walk back to the temple.",
-              "desc": "Weekend afternoons 13:30–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
-              "tags": [
-                "Must-see"
               ],
-              "tip": "Re-entry to the temple may require a ticket; ask at morning entry whether re-entry is allowed. Show times are per the notice on the day."
+              "desc": "Until ~13:15."
             },
             {
-              "time": "14:10",
+              "time": "13:15",
               "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
-              "walk": "~10 min walk back to Lingnan Tiandi.",
+              "walk": "Short walk inside the quarter after lunch.",
               "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
               "tags": [
                 "Must-see"
               ]
             },
             {
-              "time": "14:20",
+              "time": "13:25",
               "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
               "walk": "Inside the quarter.",
               "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
@@ -2573,7 +2566,7 @@
               ]
             },
             {
-              "time": "14:35",
+              "time": "13:35",
               "title": "China Seasoning Culture Museum (中国调味文化馆)",
               "walk": "Short walk inside the quarter.",
               "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
@@ -2582,36 +2575,46 @@
               ]
             },
             {
-              "time": "14:45",
+              "time": "13:45",
               "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
               "walk": "~3 min walk.",
-              "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Ten minutes is enough.",
+              "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Five minutes is enough.",
               "tags": [
                 "Must-see"
               ]
             },
             {
-              "time": "14:55",
-              "title": "Back to the chartered car"
+              "time": "14:00",
+              "title": "Cantonese opera at Wanfu Stage (万福台)",
+              "walk": "~10 min walk back to the temple.",
+              "desc": "Weekends and holidays 14:00–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
+              "tags": [
+                "Must-see"
+              ],
+              "tip": "Re-entry to the temple may require a ticket; ask at morning entry whether re-entry is allowed. Show times are per the notice on the day."
+            },
+            {
+              "time": "14:35",
+              "title": "Board the chartered car at the temple"
             }
           ]
         },
         {
-          "start": "15:00",
-          "end": "16:00",
+          "start": "14:40",
+          "end": "15:40",
           "title": "Chartered car: Foshan → Daliang, Shunde",
           "note": "~45 min–1 h drive."
         },
         {
-          "start": "16:00",
-          "end": "17:30",
+          "start": "15:40",
+          "end": "17:25",
           "title": "Daliang: Qinghui Garden and Huagai Road",
           "note": "All on foot after drop-off.",
           "route": [
             {
-              "time": "16:00",
+              "time": "15:40",
               "title": "Qinghui Garden (清晖园)",
-              "desc": "One of the Four Great Gardens of Lingnan: small bridges, streams, bamboo, carved windows. A loop takes ~50 min.",
+              "desc": "One of the Four Great Gardens of Lingnan: small bridges, streams, bamboo, carved windows. Over an hour is allowed.",
               "tags": [
                 "Must-see",
                 "Photos"
@@ -2619,7 +2622,7 @@
               "tip": "The garden closes in the early evening; check the last-entry time at the gate on arrival."
             },
             {
-              "time": "16:55",
+              "time": "16:50",
               "title": "Huagai Road Pedestrian Street (华盖路步行街)",
               "walk": "~10 min walk.",
               "desc": "Daliang's oldest arcade street; short, 30–40 min is enough. Lined with old brands, snack shops and souvenir shops; a beef offal stall nearby is good for a skewer on the go.",
@@ -2647,7 +2650,7 @@
         },
         {
           "start": "17:30",
-          "end": "18:20",
+          "end": "18:10",
           "title": "Dinner: cooked Shunde dishes",
           "note": "Both serve cooked food only, so no concern about kids and raw fish.",
           "food": [
@@ -2663,15 +2666,15 @@
           "tip": "Rongbian Branch 3 opens for dinner at 17:30, so arriving then means no queue. Tel 13450801998."
         },
         {
-          "start": "18:20",
-          "end": "18:30",
+          "start": "18:10",
+          "end": "18:15",
           "title": "Back to the chartered car"
         },
         {
-          "start": "18:30",
-          "end": "20:00",
+          "start": "18:15",
+          "end": "19:45",
           "title": "Chartered car: Shunde → Guangzhou",
-          "note": "Evening rush is not fully over at 18:30; ~1 h 20 min–1 h 30 min expected, back at the hotel around 19:50–20:00.",
+          "note": "Leaving at 18:15 avoids the worst of the rush; ~1 h 20 min–1 h 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
           "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
         }
       ]
@@ -2730,12 +2733,12 @@
         },
         {
           "start": "13:00",
-          "end": "17:30",
+          "end": "17:15",
           "title": "TBC"
         },
         {
-          "start": "17:45",
-          "end": "18:30",
+          "start": "17:15",
+          "end": "18:10",
           "title": "Dinner: near the hotel or Guangzhou Restaurant",
           "food": [
             {
@@ -2752,13 +2755,13 @@
               "dish": true
             }
           ],
-          "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~17:15 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
+          "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~16:45 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
         },
         {
-          "start": "18:30",
-          "end": "18:55",
+          "start": "18:10",
+          "end": "18:35",
           "title": "Hotel → Tianzi Pier (天字码头)",
-          "note": "Taxi, ~25 min."
+          "note": "Taxi, ~25 min; at the pier ~18:35, 20+ min before departure."
         },
         {
           "start": "19:00",

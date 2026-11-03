@@ -50,9 +50,9 @@
     },
     {
       "start": "10:30",
-      "end": "12:00",
+      "end": "11:45",
       "title": "Robot 6S Store (机器人6S店)",
-      "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store.",
+      "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store. Open 10:00–21:00; a ~10-min robot street show starts at 11:00 (moved indoors if it rains).",
       "route": [
         {
           "time": "10:30",
@@ -63,7 +63,7 @@
           ]
         },
         {
-          "time": "10:50",
+          "time": "10:45",
           "title": "Humanoid robot zone",
           "walk": "In store",
           "desc": "Humanoid robots and robot dogs from leading Chinese makers such as Leju (乐聚), Unitree (宇树) and DEEP Robotics (云深处) are demonstrated live.",
@@ -72,7 +72,7 @@
           ]
         },
         {
-          "time": "11:30",
+          "time": "11:20",
           "title": "Robot parts supermarket",
           "walk": "In store",
           "desc": "Core parts such as servo motors and reducers are shelved like a supermarket. Robots can also be rented, from ~1,000 yuan per day."
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "start": "12:00",
-      "end": "13:00",
+      "start": "11:45",
+      "end": "12:45",
       "title": "Lunch: Galaxy WORLD COCO Park (星河WORLD COCO Park)",
       "note": "In the same Galaxy WORLD campus as the Robot 6S Store. Restaurants are concentrated in the mall; no further ride needed.",
       "food": [
@@ -101,22 +101,23 @@
       "tip": "These restaurant names come from older sources; what is in the mall on the day applies."
     },
     {
-      "start": "13:00",
-      "end": "14:15",
+      "start": "12:45",
+      "end": "13:30",
       "title": "AI 6S Store (人工智能6S店)",
-      "note": "In the same robot block in Longgang, a short drive away. Chinese and international AI hardware is displayed in real-life settings and can be tried hands-on."
+      "note": "In the same Galaxy WORLD robot street, not far from the Robot 6S Store; likely walkable (exact unit unconfirmed). Mostly for makers, developers and brand incubation: of interest to adults for AI hardware; can be skipped by kids.",
+      "optional": true
     },
     {
-      "start": "14:15",
-      "end": "15:00",
+      "start": "13:30",
+      "end": "14:15",
       "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
       "note": "Drive ~40 min."
     },
     {
-      "start": "15:00",
+      "start": "14:15",
       "end": "16:30",
       "title": "INNO100",
-      "note": "In Shenzhen Bay Culture Plaza; a global innovation flagship store. Exoskeletons and smart glasses can be tried."
+      "note": "Level 1, North Hall, Shenzhen Bay Culture Plaza (northeast entrance, by Talent Park). Open daily 10:00–22:00; free, walk-in. Exoskeletons and smart glasses can be tried. Robot demos and the 3D-printing workshop should be asked about or booked ahead."
     },
     {
       "start": "16:30",

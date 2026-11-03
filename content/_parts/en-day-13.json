@@ -52,12 +52,12 @@
     },
     {
       "start": "13:00",
-      "end": "17:30",
+      "end": "17:15",
       "title": "TBC"
     },
     {
-      "start": "17:45",
-      "end": "18:30",
+      "start": "17:15",
+      "end": "18:10",
       "title": "Dinner: near the hotel or Guangzhou Restaurant",
       "food": [
         {
@@ -74,13 +74,13 @@
           "dish": true
         }
       ],
-      "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~17:15 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
+      "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~16:45 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
     },
     {
-      "start": "18:30",
-      "end": "18:55",
+      "start": "18:10",
+      "end": "18:35",
       "title": "Hotel → Tianzi Pier (天字码头)",
-      "note": "Taxi, ~25 min."
+      "note": "Taxi, ~25 min; at the pier ~18:35, 20+ min before departure."
     },
     {
       "start": "19:00",

@@ -52,7 +52,7 @@
     },
     {
       "start": "12:00",
-      "end": "16:30",
+      "end": "16:15",
       "title": "Tianhe Road shopping walk",
       "note": "For those who did not do this route on the 29th.",
       "group": "a",
@@ -126,21 +126,21 @@
     },
     {
       "start": "12:00",
-      "end": "16:30",
+      "end": "16:15",
       "title": "Free time",
       "note": "Rest at the hotel or wander nearby.",
       "group": "k"
     },
     {
-      "start": "16:30",
-      "end": "17:30",
+      "start": "16:15",
+      "end": "17:00",
       "title": "Rest at the hotel"
     },
     {
-      "start": "17:30",
-      "end": "19:00",
+      "start": "17:00",
+      "end": "18:30",
       "title": "New Year's Eve dinner: eat early",
-      "note": "Restaurants are packed on New Year's Eve; arrive before 17:30, ideally with a booking.",
+      "note": "Restaurants are packed on New Year's Eve; arrive by 17:00, ideally with a booking.",
       "food": [
         {
           "name": "Restaurants at Taikoo Hui (太古汇)",
@@ -153,16 +153,16 @@
       ]
     },
     {
-      "start": "19:00",
-      "end": "20:00",
+      "start": "18:30",
+      "end": "19:30",
       "title": "Tianhe Road at night",
       "note": "New Year lights along Teemall and Grandview. Leave early if it gets crowded.",
       "optional": true,
       "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable."
     },
     {
-      "start": "20:00",
-      "end": "20:15",
+      "start": "19:30",
+      "end": "19:45",
       "title": "Walk back to the hotel",
       "note": "The countdown is skipped, avoiding the crowds around Huacheng Square and Canton Tower."
     }
