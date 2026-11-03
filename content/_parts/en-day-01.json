@@ -75,7 +75,7 @@
         {
           "time": "10:45",
           "title": "Shamian Park (沙面公园)",
-          "walk": "Walk ~5 min",
+          "walk": "~5 min walk",
           "desc": "Small park with lawns and benches; kids can rest and run around."
         },
         {
@@ -279,7 +279,7 @@
           ],
           "food": [
             {
-              "name": "Baihua Desserts (百花甜品)",
+              "name": "Baihua Dessert (百花甜品)",
               "desc": "Heritage dessert shop on Wenming Road"
             },
             {

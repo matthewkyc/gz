@@ -22,8 +22,8 @@
             "zh": "陶陶居"
           },
           "desc": {
-            "en": "Teahouse since 1880. Must eat: shrimp dumplings, siu mai, custard lava buns.",
-            "zh": "始于1880年的百年茶楼。必吃：虾饺、烧卖、奶黄流沙包。"
+            "en": "Teahouse since 1880. Must try: shrimp dumplings, siu mai, custard lava buns.",
+            "zh": "始于1880年的百年茶楼。必试：虾饺、烧卖、奶黄流沙包。"
           },
           "meta": {
             "en": "20 Dishifu Road, Liwan (Shangxiajiu)",
@@ -45,15 +45,15 @@
             "zh": "广州酒家"
           },
           "desc": {
-            "en": "The classic Cantonese restaurant. Must eat: Wenchang chicken, shrimp dumplings, roast meats.",
-            "zh": "粤菜代表。必吃：文昌鸡、虾饺、烧味。"
+            "en": "The classic Cantonese restaurant. Must try: Wenchang chicken, shrimp dumplings, roast meats.",
+            "zh": "粤菜代表。必试：文昌鸡、虾饺、烧味。"
           },
           "meta": {
             "en": "2 Wenchang South Road, Liwan",
             "zh": "荔湾区文昌南路2号"
           },
           "when": {
-            "en": "Jan 3 dinner (option)",
+            "en": "Jan 3 dinner (optional)",
             "zh": "1/3 晚餐（可选）"
           },
           "placeId": "guangzhou-restaurant-wenchang",
@@ -90,8 +90,8 @@
             "zh": "泮溪酒家"
           },
           "desc": {
-            "en": "Lingnan garden restaurant. Must eat: water-chestnut cake, sampan congee, classic dim sum.",
-            "zh": "岭南园林式老字号。必吃：马蹄糕、艇仔粥、传统粤点。"
+            "en": "Lingnan garden restaurant. Must try: water-chestnut cake, sampan congee, classic dim sum.",
+            "zh": "岭南园林式老字号。必试：马蹄糕、艇仔粥、传统粤点。"
           },
           "meta": {
             "en": "151 Longjin West Road, Liwan (by Lychee Bay)",
@@ -109,15 +109,15 @@
             "zh": "南信牛奶甜品专家"
           },
           "desc": {
-            "en": "Traditional Cantonese milk desserts. Must eat: double-skin milk, ginger milk curd.",
-            "zh": "传统广式牛奶甜品。必吃：双皮奶、姜撞奶。"
+            "en": "Traditional Cantonese milk desserts. Must try: double-skin milk, ginger milk curd.",
+            "zh": "传统广式牛奶甜品。必试：双皮奶、姜撞奶。"
           },
           "meta": {
             "en": "47 Dishifu Road, Liwan",
             "zh": "荔湾区第十甫路47号"
           },
           "when": {
-            "en": "Dec 21 dessert (option)",
+            "en": "Dec 21 dessert (optional)",
             "zh": "12/21 甜品（可选）"
           },
           "placeId": "nanxin-dessert"
@@ -128,15 +128,15 @@
             "zh": "银记肠粉店"
           },
           "desc": {
-            "en": "Classic Xiguan cloth-steamed rice rolls. Must eat: shrimp and beef rice rolls.",
-            "zh": "经典西关布拉肠粉。必吃：鲜虾肠粉、牛肉肠粉。"
+            "en": "Classic Xiguan cloth-steamed rice rolls. Must try: shrimp and beef rice rolls.",
+            "zh": "经典西关布拉肠粉。必试：鲜虾肠粉、牛肉肠粉。"
           },
           "meta": {
             "en": "345 Wenchang North Road, Liwan",
             "zh": "荔湾区文昌北路345号"
           },
           "when": {
-            "en": "Dec 21 dinner (option) · breakfast Dec 22–24 (option)",
+            "en": "Dec 21 dinner (optional) · breakfast Dec 22–24 (optional)",
             "zh": "12/21 晚餐（可选）· 12/22–24 早餐（可选）"
           },
           "placeId": "yinji-rice-rolls-wenchang"
@@ -147,15 +147,15 @@
             "zh": "陈添记"
           },
           "desc": {
-            "en": "Xiguan snack shop hidden in an alley. Must eat: crunchy fish skin, sampan congee.",
-            "zh": "藏在巷子里的西关小吃。必吃：爽鱼皮、艇仔粥。"
+            "en": "Xiguan snack shop hidden in an alley. Must try: crunchy fish skin, sampan congee.",
+            "zh": "藏在巷子里的西关小吃。必试：爽鱼皮、艇仔粥。"
           },
           "meta": {
             "en": "Lane 3, Shiwufu, Baohua Road, Liwan",
             "zh": "荔湾区宝华路十五甫三巷"
           },
           "when": {
-            "en": "Dec 21 dinner (option 1)",
+            "en": "Dec 21 dinner (first choice)",
             "zh": "12/21 晚餐（首选）"
           },
           "placeId": "chen-tim-kee"
@@ -166,15 +166,15 @@
             "zh": "吴财记面家"
           },
           "desc": {
-            "en": "Old Guangzhou wonton noodles. Must eat: fresh shrimp wonton noodles, fried wontons.",
-            "zh": "老广州传统云吞面。必吃：鲜虾云吞面、炸云吞。"
+            "en": "Old Guangzhou wonton noodles. Must try: fresh shrimp wonton noodles, fried wontons.",
+            "zh": "老广州传统云吞面。必试：鲜虾云吞面、炸云吞。"
           },
           "meta": {
             "en": "20 Helong Lane, Datong Road, Liwan",
             "zh": "荔湾区大同路和隆里20号"
           },
           "when": {
-            "en": "Dec 21 lunch (option)",
+            "en": "Dec 21 lunch (optional)",
             "zh": "12/21 午餐（可选）"
           },
           "placeId": "ng-choi-kee-noodles"
@@ -185,15 +185,15 @@
             "zh": "伍湛记"
           },
           "desc": {
-            "en": "Traditional congee shop. Must eat: jidi congee, sampan congee, salted fried cakes.",
-            "zh": "传统广式粥品老店。必吃：及第粥、艇仔粥、咸煎饼。"
+            "en": "Traditional congee shop. Must try: jidi congee, sampan congee, salted fried cakes.",
+            "zh": "传统广式粥品老店。必试：及第粥、艇仔粥、咸煎饼。"
           },
           "meta": {
             "en": "871 Longjin East Road, Liwan",
             "zh": "荔湾区龙津东路871号"
           },
           "when": {
-            "en": "Dec 21 lunch · breakfast Dec 22–24 (option)",
+            "en": "Dec 21 lunch · breakfast Dec 22–24 (optional)",
             "zh": "12/21 午餐 · 12/22–24 早餐（可选）"
           },
           "placeId": "ng-zham-kee"
@@ -204,16 +204,16 @@
             "zh": "顺记冰室"
           },
           "desc": {
-            "en": "Nostalgic Cantonese ice bar. Must eat: coconut ice cream, mango ice cream.",
-            "zh": "怀旧广式冰室。必吃：椰子雪糕、芒果雪糕。"
+            "en": "Nostalgic Cantonese ice bar. Must try: coconut ice cream, mango ice cream.",
+            "zh": "怀旧广式冰室。必试：椰子雪糕、芒果雪糕。"
           },
           "meta": {
             "en": "83 Baohua Road, Liwan",
             "zh": "荔湾区宝华路83号"
           },
           "when": {
-            "en": "Dec 21 dessert (option) · Dec 23 14:15",
-            "zh": "12/21 甜品（可选）· 12/23 14:15"
+            "en": "Dec 21 dessert (optional) · Dec 23 12:55",
+            "zh": "12/21 甜品（可选）· 12/23 12:55"
           },
           "placeId": "shun-kee-ice-bar"
         }
@@ -231,7 +231,7 @@
         "zh": "路线附近的柠檬茶、鲜奶茶和港式奶茶"
       },
       "intro": {
-        "en": "Five different experiences beat many similar cups: LINLEE, Uncle Q, 茶理宜世, one 2026 lemon-milk drink, and HK milk tea in Hong Kong. Order nearby; none is worth a long detour or queue. Checked 3 Nov 2026.",
+        "en": "Five different experiences beat many similar cups: LINLEE, Uncle Qiu, Cha Li Yi Shi, one 2026 lemon-milk drink, and HK milk tea in Hong Kong. Order nearby; none is worth a long detour or queue. Checked 3 Nov 2026.",
         "zh": "体验五种不同的就够：LINLEE、丘大叔、茶理宜世、一杯2026年流行的柠檬奶，再加香港的港式奶茶。就近买，不值得专程绕路或排长队。资料核对于2026年11月3日。"
       },
       "items": [
@@ -320,7 +320,7 @@
         },
         {
           "title": {
-            "en": "Uncle Q (丘大叔柠檬茶)",
+            "en": "Uncle Qiu Lemon Tea (丘大叔柠檬茶)",
             "zh": "丘大叔柠檬茶"
           },
           "desc": {
@@ -532,7 +532,7 @@
             "zh": "周一至六07:30–18:00，周日休息；饭点排队长"
           },
           "when": {
-            "en": "Dec 30 lunch in Central (option)",
+            "en": "Dec 30 lunch in Central (optional)",
             "zh": "12/30 中环午餐（可选）"
           },
           "placeId": "lan-fong-yuen-central",
@@ -638,7 +638,7 @@
             "zh": "奶茶"
           },
           "when": {
-            "en": "Not pinned — branch unverified",
+            "en": "Not pinned — branch unconfirmed",
             "zh": "未定位，门店未核实"
           },
           "heading": {
@@ -660,7 +660,7 @@
             "zh": "柠檬茶"
           },
           "when": {
-            "en": "Not pinned — branch unverified",
+            "en": "Not pinned — branch unconfirmed",
             "zh": "未定位，门店未核实"
           }
         },
@@ -782,7 +782,7 @@
         },
         {
           "title": {
-            "en": "Lian Xiang Lou pastry shop (莲香楼饼屋)",
+            "en": "Lin Heung Lau pastry shop (莲香楼饼屋)",
             "zh": "莲香楼饼屋"
           },
           "badge": {
@@ -891,7 +891,7 @@
         },
         {
           "title": {
-            "en": "Comic City (动漫星城)",
+            "en": "Animation City (动漫星城)",
             "zh": "动漫星城"
           },
           "badge": {
@@ -952,7 +952,7 @@
             "zh": "动漫 · 配饰"
           },
           "desc": {
-            "en": "Anime retail, cards, character goods and changing exhibitions on B1, redeveloped 2025–26. ¥–¥¥¥. Best paired with Comic City or MINISO LAND rather than all three.",
+            "en": "Anime retail, cards, character goods and changing exhibitions on B1, redeveloped 2025–26. ¥–¥¥¥. Best paired with Animation City or MINISO LAND rather than all three.",
             "zh": "B1动漫零售、卡牌、角色周边和不定期展览，2025–26年改造。¥–¥¥¥。和动漫星城或 MINISO LAND 二选一搭配就够。"
           },
           "meta": {
@@ -1021,8 +1021,8 @@
             "zh": "约10:00–22:00；建议工作日10:00–12:00"
           },
           "when": {
-            "en": "Dec 29 · Dec 31 (Option)",
-            "zh": "12/29 · 12/31（方案）"
+            "en": "Dec 29 (Option B) · Dec 31 (Option A)",
+            "zh": "12/29（方案 B）· 12/31（方案 A）"
           },
           "placeId": "teemall"
         },
@@ -1048,8 +1048,8 @@
             "zh": "10:00–22:00（周五六至22:30）；建议工作日下午"
           },
           "when": {
-            "en": "Dec 29 · Dec 31 (Option)",
-            "zh": "12/29 · 12/31（方案）"
+            "en": "Dec 29 (Option B) · Dec 31 (Option A)",
+            "zh": "12/29（方案 B）· 12/31（方案 A）"
           },
           "placeId": "parc-central"
         },
@@ -1075,8 +1075,8 @@
             "zh": "10:00–22:00；建议工作日10:00–12:00"
           },
           "when": {
-            "en": "Dec 29 · Dec 31 (Option)",
-            "zh": "12/29 · 12/31（方案）"
+            "en": "Dec 29 (Option B) · Dec 31 (Option A)",
+            "zh": "12/29（方案 B）· 12/31（方案 A）"
           },
           "placeId": "taikoo-hui"
         },
@@ -1109,7 +1109,7 @@
         },
         {
           "title": {
-            "en": "Wilson store, Tianhe Sports Centre (Wilson广州天河体育中心专卖店)",
+            "en": "Wilson store, Tianhe Sports Center (Wilson广州天河体育中心专卖店)",
             "zh": "Wilson 广州天河体育中心专卖店"
           },
           "badge": {

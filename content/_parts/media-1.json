@@ -118,8 +118,6 @@
     ]
   },
   "chimelong-food-town": {
-    "image": "/places/chimelong-food-town.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 489,
     "lat": 22.99665,
@@ -238,8 +236,6 @@
     ]
   },
   "chimelong-super-pendulum": {
-    "image": "/places/chimelong-super-pendulum.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 489,
     "lat": 22.99665,
@@ -288,8 +284,6 @@
     "lng": 113.321682
   },
   "gongyuanqian-station": {
-    "image": "/places/gongyuanqian-station.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.3,
     "reviewCount": 34,
     "lat": 23.125444,

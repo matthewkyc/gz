@@ -88,9 +88,9 @@
         },
         {
           "time": "14:00",
-          "title": "Circus theatre and Happy World North Gate (大马戏剧场、欢乐世界北门)",
+          "title": "Circus theatre and Chimelong Paradise North Gate (大马戏剧场、欢乐世界北门)",
           "walk": "Shuttle, ~10 min",
-          "desc": "The Circus is next to Happy World North Gate. Tonight's entrance is checked, along with the gate for Happy World the day after tomorrow."
+          "desc": "The Circus is next to Chimelong Paradise North Gate. Tonight's entrance is checked, along with the gate for Chimelong Paradise the day after tomorrow."
         },
         {
           "time": "14:30",
@@ -159,7 +159,7 @@
     {
       "start": "20:50",
       "end": "21:20",
-      "title": "Back to hotel",
+      "title": "Back to the hotel",
       "note": "Exit crowds are heavy. Wait ~10 min for them to thin, then take the shuttle back."
     }
   ],

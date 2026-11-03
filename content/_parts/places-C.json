@@ -260,7 +260,7 @@
       ]
     },
     "tips": {
-      "en": "Exact address is uncertain; the driver should be given the name and checked on the map.",
+      "en": "Exact address is unconfirmed; the driver should be given the name and checked on the map.",
       "zh": "具体地址待确认，出发前让司机在地图上核对。"
     }
   },
@@ -709,7 +709,7 @@
       ]
     },
     "tips": {
-      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch and coordinates are approximate.",
+      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch is unconfirmed and coordinates are approximate.",
       "zh": "在高德搜“黄振龙”找天河路附近的分店；具体分店和坐标为大致位置。"
     }
   },

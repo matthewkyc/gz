@@ -122,8 +122,6 @@
     ]
   },
   "chimelong-drone-show": {
-    "image": "/places/chimelong-drone-show.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.5,
     "reviewCount": 58,
     "lat": 22.993356,
@@ -494,8 +492,6 @@
     ]
   },
   "panda-hotel-lobby-bar": {
-    "image": "/places/panda-hotel-lobby-bar.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 22,
     "lat": 23.005314,
@@ -568,14 +564,10 @@
     ]
   },
   "shamian-park": {
-    "image": "/places/shamian-park.jpg",
-    "imageCredit": "Google Maps",
     "lat": 23.1060201,
     "lng": 113.2446559
   },
   "shawan-anning-square-night-market": {
-    "image": "/places/shawan-anning-square-night-market.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.1,
     "reviewCount": 156,
     "lat": 22.90417,
@@ -662,8 +654,6 @@
     ]
   },
   "tianhe-sports-center": {
-    "image": "/places/tianhe-sports-center.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 234,
     "lat": 23.1380215,

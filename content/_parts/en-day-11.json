@@ -39,7 +39,7 @@
           "desc": "Late dim sum brunch"
         },
         {
-          "name": "Small eateries on Tiyu West Road (体育西路)"
+          "name": "Small eateries on Tiyu Xilu (体育西路)"
         }
       ]
     },
@@ -52,7 +52,7 @@
         {
           "time": "13:30",
           "title": "Grandview Mall (正佳广场)",
-          "walk": "~10 min walk from K Hotel.",
+          "walk": "~10 min walk from K Hotel",
           "desc": "Floors missed on the 27th are covered.",
           "tags": [
             "Shopping"
@@ -67,13 +67,13 @@
         {
           "time": "15:00",
           "title": "Tianhe Sports Center (天河体育中心)",
-          "walk": "~10 min walk.",
+          "walk": "~10 min walk",
           "desc": "Big lawn and running track; a New Year's Day stroll."
         },
         {
           "time": "15:45",
           "title": "Teemall (天河城)",
-          "walk": "~10 min walk.",
+          "walk": "~10 min walk",
           "desc": "Items not bought on earlier days can be picked up.",
           "tags": [
             "Shopping"
@@ -82,7 +82,7 @@
         {
           "time": "16:30",
           "title": "Mr. Wild Man Gelato (野人先生)",
-          "walk": "Search “野人先生” in Amap; pick a branch around Tianhe Road.",
+          "walk": "Search “野人先生” in Amap; pick a branch around Tianhe Road",
           "desc": "Popular Italian-style gelato, made fresh daily, many flavours; tasting is offered.",
           "tags": [
             "Dessert"
@@ -94,7 +94,7 @@
     {
       "start": "17:00",
       "end": "17:45",
-      "title": "Back to the hotel to rest",
+      "title": "Rest at the hotel",
       "note": "Gelato just eaten; tong sui is saved for another day."
     },
     {

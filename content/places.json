@@ -34,7 +34,7 @@
       ]
     },
     "tips": {
-      "en": "Exact address is uncertain; the driver should be given the name and checked on the map.",
+      "en": "Exact address is unconfirmed; the driver should be given the name and checked on the map.",
       "zh": "具体地址待确认，出发前让司机在地图上核对。"
     }
   },
@@ -933,8 +933,6 @@
       "en": "Look for the exit signed “上下九步行街” before leaving the station.",
       "zh": "出站前看准写着“上下九步行街”的出口。"
     },
-    "image": "/places/changshou-lu-station.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.3,
     "reviewCount": 20,
     "reviews": [
@@ -956,8 +954,7 @@
         "when": "8 years ago",
         "text": "Nice , clean and spacious MRT station for famous tourist destination"
       }
-    ],
-    "thumb": "/places/thumb/changshou-lu-station.jpg"
+    ]
   },
   {
     "id": "chao-xiao-zhan-galaxy-world",
@@ -1137,7 +1134,7 @@
     "lat": 23.001666,
     "lng": 113.329082,
     "summary": {
-      "en": "Sit-down restaurant inside Happy World, on the official route.",
+      "en": "Sit-down restaurant inside Chimelong Paradise, on the official route.",
       "zh": "欢乐世界内的餐厅，官方路线推荐。"
     },
     "why": {
@@ -1246,32 +1243,7 @@
     "tips": {
       "en": "Dates, time, location and whether it is free are unconfirmed; they should be checked with reception or the Chimelong app.",
       "zh": "日期、时间、地点和是否免费均未确认，以前台或长隆APP为准。"
-    },
-    "image": "/places/chimelong-drone-show.jpg",
-    "imageCredit": "Google Maps",
-    "rating": 4.5,
-    "reviewCount": 58,
-    "reviews": [
-      {
-        "author": "J Zou",
-        "rating": 5,
-        "when": "2 years ago",
-        "text": "Great fun at the safari park and watching the amazing circus performances!"
-      },
-      {
-        "author": "Alan Wang",
-        "rating": 5,
-        "when": "7 months ago",
-        "text": "Very good experience for kids, there are variety of animals, most of them you can take pictures with extra cost. It worth to spend extra. Panda park is must see."
-      },
-      {
-        "author": "Kumari Puja Ajit jha",
-        "rating": 5,
-        "when": "2 months ago",
-        "text": "It's give you luxurious feeling. 10 out of 10.. Highly recommend for your vacation."
-      }
-    ],
-    "thumb": "/places/thumb/chimelong-drone-show.jpg"
+    }
   },
   {
     "id": "chimelong-flamingo-lake",
@@ -1348,10 +1320,7 @@
     "tips": {
       "en": "Exact location within the resort is not verified; it should be confirmed at reception.",
       "zh": "在度假区内的具体位置未核实，以前台说明为准。"
-    },
-    "image": "/places/chimelong-food-town.jpg",
-    "imageCredit": "Google Maps",
-    "thumb": "/places/thumb/chimelong-food-town.jpg"
+    }
   },
   {
     "id": "chimelong-giraffe-plaza",
@@ -1523,7 +1492,7 @@
     "lat": 23.00202,
     "lng": 113.330632,
     "summary": {
-      "en": "~80 min circus with animals and aerial acrobatics, next to Happy World North Gate.",
+      "en": "~80 min circus with animals and aerial acrobatics, next to Chimelong Paradise North Gate.",
       "zh": "约80分钟的大型马戏，有动物和高空杂技，在欢乐世界北门旁。"
     },
     "why": {
@@ -1622,7 +1591,7 @@
     "lat": 23.005314,
     "lng": 113.33206,
     "summary": {
-      "en": "Panda-themed resort hotel next to Chimelong Safari Park and Happy World.",
+      "en": "Panda-themed resort hotel next to Chimelong Safari Park and Chimelong Paradise.",
       "zh": "紧邻长隆野生动物世界和欢乐世界的熊猫主题度假酒店。"
     },
     "why": {
@@ -1700,7 +1669,7 @@
     "aliases": [],
     "kind": "sight",
     "name": {
-      "en": "Chimelong Paradise (Happy World)",
+      "en": "Chimelong Paradise",
       "zh": "长隆欢乐世界"
     },
     "city": "Guangzhou",
@@ -1733,8 +1702,6 @@
       "en": "Queues are shortest in the first two hours. Water rides are best skipped in December.",
       "zh": "开园头两小时排队最短；12月天冷，湿身项目建议跳过。"
     },
-    "image": "/places/chimelong-paradise.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 489,
     "reviews": [
@@ -1756,8 +1723,7 @@
         "when": "8 months ago",
         "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
       }
-    ],
-    "thumb": "/places/thumb/chimelong-paradise.jpg"
+    ]
   },
   {
     "id": "chimelong-rocket-coaster",
@@ -2076,10 +2042,7 @@
     "tips": {
       "en": "Phones and wallets go in a locker first.",
       "zh": "手机钱包先放储物柜。"
-    },
-    "image": "/places/chimelong-super-pendulum.jpg",
-    "imageCredit": "Google Maps",
-    "thumb": "/places/thumb/chimelong-super-pendulum.jpg"
+    }
   },
   {
     "id": "chimelong-tornado",
@@ -2194,7 +2157,7 @@
       ]
     },
     "tips": {
-      "en": "Opening hours and exact location unverified.",
+      "en": "Opening hours and exact location unconfirmed.",
       "zh": "开放时间和具体位置未核实。"
     },
     "image": "/places/china-seasoning-culture-museum.jpg",
@@ -2461,28 +2424,6 @@
     },
     "image": "/places/fashion-tianhe.jpg",
     "imageCredit": "Google Maps",
-    "rating": 4.4,
-    "reviewCount": 9,
-    "reviews": [
-      {
-        "author": "Ichigo Hirukawa",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "Huge underground mall with lots of entertainment, clothing and food. Can find fashionable clothes at low prices here. A must visit in Guangzhou. We couldn't finish exploring the mall in one night."
-      },
-      {
-        "author": "Wee X Y",
-        "rating": 4,
-        "when": "4 months ago",
-        "text": "alot alot of toy shops in the underground. The place is huge and there is a separate food section & clothes section. Sometimes u might get lost & walk round & round. Exits are bathrooms are difficult to find. Seems like a popular weekend local hangout."
-      },
-      {
-        "author": "Kevin k",
-        "rating": 5,
-        "when": "a year ago",
-        "text": "11/10 - Has more unique Japanese things than the other weeb location, 广州动漫星城广场. It’s a bit of a maze, walk past the clothing area to get to the Japanese anime and pop culture goods. Also has a lot of cafes and Chinese boyloves anime goods."
-      }
-    ],
     "thumb": "/places/thumb/fashion-tianhe.jpg"
   },
   {
@@ -2565,8 +2506,8 @@
       ]
     },
     "tips": {
-      "en": "Open 8:30–18:00. Ask at entry whether same-day re-entry is allowed.",
-      "zh": "开放时间8:30至18:00；入园时问清楚当天能否再进。"
+      "en": "Open 08:30–18:00. Ask at entry whether same-day re-entry is allowed.",
+      "zh": "开放时间08:30–18:00；入园时问清楚当天能否再进。"
     },
     "image": "/places/foshan-ancestral-temple.jpg",
     "imageCredit": "Google Maps",
@@ -2626,10 +2567,7 @@
     "tips": {
       "en": "Arrive 15 min early for front spots. Suspended in rain; times and venue per the temple notice on the day.",
       "zh": "提前15分钟到占前排；雨天暂停，时间和场地以当天公告为准。"
-    },
-    "image": "/places/foshan-lion-dance-show.jpg",
-    "imageCredit": "Google Maps",
-    "thumb": "/places/thumb/foshan-lion-dance-show.jpg"
+    }
   },
   {
     "id": "from-k-hotel-tiyuxi",
@@ -2815,8 +2753,6 @@
         "靠近北京路"
       ]
     },
-    "image": "/places/gongyuanqian-station.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.3,
     "reviewCount": 34,
     "reviews": [
@@ -2838,8 +2774,7 @@
         "when": "6 years ago",
         "text": "As a european, i really like the atmosphere, the mix between new and old buildings. And lot's of restaurant's."
       }
-    ],
-    "thumb": "/places/thumb/gongyuanqian-station.jpg"
+    ]
   },
   {
     "id": "grandview-mall",
@@ -2920,14 +2855,14 @@
       "zh": "广州主要机场，清晨从天河打车约45分钟。"
     },
     "why": {
-      "en": "International check-in, bag drop and security can take a while, so ~2 h 45 min is allowed. Breakfast is available airside.",
+      "en": "International check-in, bag drop and security can take a while, so ~2 hr 45 min is allowed. Breakfast is available airside.",
       "zh": "国际航班值机、托运、安检耗时，所以预留约2小时45分钟；可以在机场吃早餐。"
     },
     "highlights": {
       "en": [
         "Check-in, bag drop, security",
         "Breakfast at the airport",
-        "~2 h 45 min allowed before departure"
+        "~2 hr 45 min allowed before departure"
       ],
       "zh": [
         "值机、托运、安检",
@@ -3065,7 +3000,7 @@
       ]
     },
     "tips": {
-      "en": "Queues are long even with a booking (reviews mention 20 min to 2 h). A table should be booked ahead, and the queue can be tracked via WeChat.",
+      "en": "Queues are long even with a booking (reviews mention 20 min to 2 hr). A table should be booked ahead, and the queue can be tracked via WeChat.",
       "zh": "即使订位也常要等（评价提到20分钟到2小时）。建议提前订位，可用微信看排队进度。"
     },
     "image": "/places/guangzhou-restaurant-wenchang.jpg",
@@ -3876,7 +3811,7 @@
       ]
     },
     "tips": {
-      "en": "Exact shop positions inside Lingnan Tiandi unverified.",
+      "en": "Exact shop positions inside Lingnan Tiandi unconfirmed.",
       "zh": "两家店在岭南天地的具体位置未核实。"
     },
     "image": "/places/lei-hei-kee-lingnan-tiandi.jpg",
@@ -4651,16 +4586,6 @@
     },
     "image": "/places/mall-of-the-world.jpg",
     "imageCredit": "Google Maps",
-    "rating": 3.7,
-    "reviewCount": 6,
-    "reviews": [
-      {
-        "author": "sammi Lu",
-        "rating": 4,
-        "when": "7 years ago",
-        "text": "Giving Huacheng Hui a score is a bit of a headache. The environment and scenery above ground are comfortable during the day and dazzling at night, truly wonderful; however, the underground shopping mall is really overwhelming."
-      }
-    ],
     "thumb": "/places/thumb/mall-of-the-world.jpg"
   },
   {
@@ -4762,7 +4687,7 @@
       ]
     },
     "tips": {
-      "en": "English brand name and exact branch unverified; search “野人先生” in Amap and pick the nearest Tianhe Road branch.",
+      "en": "English brand name and exact branch unconfirmed; search “野人先生” in Amap and pick the nearest Tianhe Road branch.",
       "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"
     },
     "image": "/places/mr-wildman-gelato.jpg",
@@ -5091,11 +5016,8 @@
         "热巧克力"
       ]
     },
-    "image": "/places/panda-hotel-lobby-bar.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
-    "reviewCount": 22,
-    "thumb": "/places/thumb/panda-hotel-lobby-bar.jpg"
+    "reviewCount": 22
   },
   {
     "id": "panda-hotel-restaurant",
@@ -5144,10 +5066,7 @@
     "tips": {
       "en": "The hotel has more than one outlet; exact restaurant names and hours should be checked at reception. Buffet is crowded at opening even in low season.",
       "zh": "酒店有多个餐厅，具体名称和营业时间以前台为准；自助餐淡季开门时也很挤。"
-    },
-    "image": "/places/panda-hotel-restaurant.jpg",
-    "imageCredit": "Google Maps",
-    "thumb": "/places/thumb/panda-hotel-restaurant.jpg"
+    }
   },
   {
     "id": "panxi-restaurant",
@@ -5366,7 +5285,7 @@
       "en": [
         "Canton Tower lit up",
         "Departs from Tianzi Pier",
-        "~1–1.5 h on the water"
+        "~1–1.5 hr on the water"
       ],
       "zh": [
         "灯光下的广州塔",
@@ -5767,7 +5686,7 @@
       ]
     },
     "tips": {
-      "en": "Arrive after 9 am, before the crowds. Several cafés and riverside Western restaurants on Shamian South Street serve light lunches.",
+      "en": "Arrive after 09:00, before the crowds. Several cafés and riverside Western restaurants on Shamian South Street serve light lunches.",
       "zh": "九点多到，人少。沙面南街一带有多家咖啡馆和江边西餐厅，可吃轻食午餐。"
     },
     "image": "/places/shamian-island.jpg",
@@ -5817,10 +5736,7 @@
         "树荫下长椅",
         "江景"
       ]
-    },
-    "image": "/places/shamian-park.jpg",
-    "imageCredit": "Google Maps",
-    "thumb": "/places/thumb/shamian-park.jpg"
+    }
   },
   {
     "id": "shangxiajiu",
@@ -5973,26 +5889,7 @@
     "tips": {
       "en": "Market days and hours are not confirmed for late December.",
       "zh": "12月下旬是否开市及时间未确认。"
-    },
-    "image": "/places/shawan-anning-square-night-market.jpg",
-    "imageCredit": "Google Maps",
-    "rating": 4.1,
-    "reviewCount": 156,
-    "reviews": [
-      {
-        "author": "rn_1604",
-        "rating": 4,
-        "when": "5 months ago",
-        "text": "Shawan Ancient Town is huge! Take your time to stroll along the alleyways and explore through time. You can easily take a day to roam around investigating every nook and cranny. Plenty of shops and food as well. Lovely ancient town."
-      },
-      {
-        "author": "Julian Wong",
-        "rating": 5,
-        "when": "9 months ago",
-        "text": "This ancient settlement is very big and is a living settlement. There are residents actually living in the area. There are a two entrance, the more popular one is the south entrance. The more touristy area with more commercialization."
-      }
-    ],
-    "thumb": "/places/thumb/shawan-anning-square-night-market.jpg"
+    }
   },
   {
     "id": "shawan-ginger-milk-curd-old-house",
@@ -6262,7 +6159,7 @@
       ]
     },
     "tips": {
-      "en": "Founding date is from memory and may be approximate.",
+      "en": "Founding date is unconfirmed.",
       "zh": "开业年份凭记忆，可能不准确。"
     },
     "image": "/places/shun-kee-ice-bar.jpg",
@@ -6322,7 +6219,7 @@
     "image": "/places/star-ferry.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.5,
-    "reviewCount": 1355,
+    "reviewCount": 4892,
     "reviews": [
       {
         "author": "Soko 37 (Soko37)",
@@ -7018,8 +6915,6 @@
       "en": "Some areas may be closed during events.",
       "zh": "有赛事或活动时部分区域可能封闭。"
     },
-    "image": "/places/tianhe-sports-center.jpg",
-    "imageCredit": "Google Maps",
     "rating": 4.4,
     "reviewCount": 234,
     "reviews": [
@@ -7035,8 +6930,7 @@
         "when": "a year ago",
         "text": "Lovely stadium. Not a tourist attraction but good for sporting events."
       }
-    ],
-    "thumb": "/places/thumb/tianhe-sports-center.jpg"
+    ]
   },
   {
     "id": "tsim-chai-kee-noodle",
@@ -7557,7 +7451,7 @@
       ]
     },
     "tips": {
-      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch and coordinates are approximate.",
+      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch is unconfirmed and coordinates are approximate.",
       "zh": "在高德搜“黄振龙”找天河路附近的分店；具体分店和坐标为大致位置。"
     },
     "image": "/places/wong-chun-loong-tianhe-road.jpg",

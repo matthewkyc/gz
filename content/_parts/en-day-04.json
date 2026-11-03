@@ -57,7 +57,7 @@
         {
           "time": "10:50",
           "title": "Koala Park (考拉园)",
-          "walk": "Walk, ~10 min",
+          "walk": "~10 min walk",
           "desc": "Koalas sleep most of the day; movement is more likely in the morning.",
           "tags": [
             "Photos"
@@ -66,7 +66,7 @@
         {
           "time": "11:20",
           "title": "White Tiger area (白虎区)",
-          "walk": "Walk, ~10 min",
+          "walk": "~10 min walk",
           "desc": "Lunch follows directly.",
           "tags": [
             "Photos"
@@ -113,7 +113,7 @@
         {
           "time": "14:15",
           "title": "Giraffe Plaza (长颈鹿广场)",
-          "walk": "Walk, ~10 min",
+          "walk": "~10 min walk",
           "desc": "Giraffe feeding is the most popular activity and queues are long; one person can queue while the others rest nearby.",
           "tags": [
             "Must-see",
@@ -154,7 +154,7 @@
     {
       "start": "16:30",
       "end": "17:30",
-      "title": "Back to hotel, rest",
+      "title": "Back to the hotel, rest",
       "note": "Shower; the drone show is tonight."
     },
     {
@@ -187,7 +187,7 @@
     {
       "start": "19:30",
       "end": "19:45",
-      "title": "Back to hotel"
+      "title": "Back to the hotel"
     }
   ],
   "intro": "Chimelong Safari Park — early entry for hotel guests\nMorning: safari train, pandas, koalas, white tigers\nAfternoon: elephant and giraffe feeding, cable car\nEvening: drone show (TBC)"

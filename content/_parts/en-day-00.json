@@ -3,7 +3,7 @@
   "dow": "Mon",
   "locked": true,
   "theme": "Arrival day",
-  "pace": "Airport pickup; activities from 1 pm, mostly by metro",
+  "pace": "Airport pickup; activities from 13:00, mostly by metro",
   "stay": 0,
   "items": [
     {
@@ -76,7 +76,7 @@
         {
           "time": "16:30",
           "title": "Shangxiajiu Pedestrian Street (上下九步行街)",
-          "walk": "Walk ~5–10 min",
+          "walk": "~5–10 min walk",
           "desc": "Enter “上下九步行街” in Amap and start walking navigation. Arrival is obvious from the long row of arcade buildings."
         }
       ]
@@ -153,7 +153,7 @@
           ],
           "food": [
             {
-              "name": "Nanxin Desserts (南信甜品)",
+              "name": "Nanxin Dessert (南信甜品)",
               "desc": "Dishifu Road. Double-skin milk (双皮奶), ginger milk curd (姜撞奶)."
             },
             {

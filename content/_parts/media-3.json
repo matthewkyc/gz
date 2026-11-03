@@ -64,8 +64,6 @@
   ]
  },
  "changshou-lu-station": {
-  "image": "/places/changshou-lu-station.jpg",
-  "imageCredit": "Google Maps",
   "rating": 4.3,
   "reviewCount": 20,
   "lat": 23.118397,
@@ -92,8 +90,6 @@
   ]
  },
  "chimelong-paradise": {
-  "image": "/places/chimelong-paradise.jpg",
-  "imageCredit": "Google Maps",
   "rating": 4.4,
   "reviewCount": 489,
   "lat": 22.99665,
@@ -124,8 +120,6 @@
   "lng": 113.329082
  },
  "panda-hotel-restaurant": {
-  "image": "/places/panda-hotel-restaurant.jpg",
-  "imageCredit": "Google Maps",
   "rating": 4.4,
   "reviewCount": 22,
   "lat": 23.005314,
@@ -151,7 +145,7 @@
  "dian-dou-de-tianhe": {
   "image": "/places/dian-dou-de-tianhe.jpg",
   "imageCredit": "Google Maps",
-  "rating": 5.0,
+  "rating": 5,
   "reviewCount": 9,
   "lat": 23.14098,
   "lng": 113.34046,
@@ -205,8 +199,6 @@
   ]
  },
  "foshan-lion-dance-show": {
-  "image": "/places/foshan-lion-dance-show.jpg",
-  "imageCredit": "Google Maps",
   "rating": 4.5,
   "reviewCount": 73,
   "lat": 23.02902,
@@ -261,7 +253,7 @@
   ]
  },
  "hang-wan-lau-lingnan-tiandi": {
-  "rating": 4.0,
+  "rating": 4,
   "reviewCount": 1,
   "lat": 23.02958,
   "lng": 113.11712
@@ -319,7 +311,7 @@
  "jiale-egg-tart-king": {
   "image": "/places/jiale-egg-tart-king.jpg",
   "imageCredit": "Google Maps",
-  "rating": 5.0,
+  "rating": 5,
   "reviewCount": 1,
   "lat": 23.117158,
   "lng": 113.236241,
@@ -512,7 +504,7 @@
   "image": "/places/star-ferry.jpg",
   "imageCredit": "Google Maps",
   "rating": 4.5,
-  "reviewCount": 1355,
+  "reviewCount": 4892,
   "lat": 22.293763,
   "lng": 114.168748,
   "reviews": [

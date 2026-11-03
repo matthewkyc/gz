@@ -17,7 +17,7 @@
           "desc": "Early start; the hotel is quickest"
         },
         {
-          "name": "Breakfast shops on Tiyu West Road (体育西路)",
+          "name": "Breakfast shops on Tiyu Xilu (体育西路)",
           "desc": "Rice rolls and congee, taken away into the car"
         }
       ]
@@ -26,14 +26,14 @@
       "start": "08:00",
       "end": "09:15",
       "title": "Chartered car: K Hotel → Foshan Ancestral Temple",
-      "note": "Normally ~50 min–1 h. On the New Year holiday Saturday, traffic to Foshan is heavier and may take ~1 h 15 min, so departure is at 8:00, arriving after 9:00 — in time for the 10:00 lion dance.",
+      "note": "Normally ~50 min–1 hr. On the New Year holiday Saturday, traffic to Foshan is heavier and may take ~1 hr 15 min, so departure is at 08:00, arriving after 09:00 — in time for the 10:00 lion dance.",
       "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked."
     },
     {
       "start": "09:15",
       "end": "11:15",
       "title": "Foshan Ancestral Temple (佛山祖庙)",
-      "note": "Open 8:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.",
+      "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.",
       "route": [
         {
           "time": "09:15",
@@ -47,7 +47,7 @@
         {
           "time": "09:45",
           "title": "Lion dance performance area (醒狮表演场地)",
-          "walk": "The venue is shown on the notice at the entrance.",
+          "walk": "The venue is shown on the notice at the entrance",
           "desc": "Arrive 15 min early to get front-row spots.",
           "tip": "Lion dance and kung fu shows are suspended in rain; venue and times are per the temple's notice on the day."
         },
@@ -63,7 +63,7 @@
         {
           "time": "10:45",
           "title": "Wong Fei-hung Memorial Hall (黄飞鸿纪念馆)",
-          "walk": "~5 min walk inside the grounds.",
+          "walk": "~5 min walk inside the grounds",
           "desc": "The life and kung fu of Foshan martial arts master Wong Fei-hung.",
           "tags": [
             "Landmark"
@@ -73,7 +73,7 @@
         {
           "time": "11:05",
           "title": "Ip Man Hall (叶问堂)",
-          "walk": "~5 min walk inside the grounds.",
+          "walk": "~5 min walk inside the grounds",
           "desc": "Memorial hall for Wing Chun master Ip Man; wooden training dummies are available for photos.",
           "tags": [
             "Landmark",
@@ -100,7 +100,7 @@
         {
           "time": "11:30",
           "title": "Jian Family Villas (简氏别墅)",
-          "walk": "~3 min walk.",
+          "walk": "~3 min walk",
           "desc": "Western-style buildings built by the Jian brothers, founders of Double Happiness cigarettes — Foshan's largest surviving early-Republic villa complex. The balconied “Young Ladies' Tower” is where unmarried daughters once watched the street.",
           "tags": [
             "Landmark",
@@ -110,7 +110,7 @@
         {
           "time": "11:55",
           "title": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
-          "walk": "~3 min walk.",
+          "walk": "~3 min walk",
           "desc": "Two-storey white building mixing Chinese and Western styles, on the site of a Qing-dynasty literati garden; exhibitions are often held.",
           "tags": [
             "Photo spot"
@@ -119,7 +119,7 @@
         {
           "time": "12:10",
           "title": "Wedding House (嫁娶屋, 文会里)",
-          "walk": "~5 min walk.",
+          "walk": "~5 min walk",
           "desc": "A house once used for weddings; traditional wedding dress and a bridal sedan chair can be tried for photos.",
           "tags": [
             "Landmark",
@@ -129,7 +129,7 @@
         {
           "time": "12:30",
           "title": "Lunch",
-          "walk": "Inside the quarter.",
+          "walk": "Inside the quarter",
           "tags": [
             "Lunch"
           ],
@@ -149,7 +149,7 @@
         {
           "time": "13:15",
           "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
-          "walk": "Short walk inside the quarter after lunch.",
+          "walk": "Short walk inside the quarter after lunch",
           "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
           "tags": [
             "Landmark"
@@ -158,7 +158,7 @@
         {
           "time": "13:25",
           "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
-          "walk": "Inside the quarter.",
+          "walk": "Inside the quarter",
           "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
           "tags": [
             "Shopping"
@@ -167,7 +167,7 @@
         {
           "time": "13:35",
           "title": "China Seasoning Culture Museum (中国调味文化馆)",
-          "walk": "Short walk inside the quarter.",
+          "walk": "Short walk inside the quarter",
           "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
           "tags": [
             "Landmark"
@@ -176,7 +176,7 @@
         {
           "time": "13:45",
           "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
-          "walk": "~3 min walk.",
+          "walk": "~3 min walk",
           "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Five minutes is enough.",
           "tags": [
             "Landmark"
@@ -185,7 +185,7 @@
         {
           "time": "14:00",
           "title": "Cantonese opera at Wanfu Stage (万福台)",
-          "walk": "~10 min walk back to the temple.",
+          "walk": "~10 min walk back to the temple",
           "desc": "Weekends and holidays 14:00–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
           "tags": [
             "Landmark"
@@ -202,7 +202,7 @@
       "start": "14:40",
       "end": "15:40",
       "title": "Chartered car: Foshan → Daliang, Shunde",
-      "note": "~45 min–1 h drive."
+      "note": "~45 min–1 hr drive."
     },
     {
       "start": "15:40",
@@ -223,7 +223,7 @@
         {
           "time": "16:50",
           "title": "Huagai Road Pedestrian Street (华盖路步行街)",
-          "walk": "~10 min walk.",
+          "walk": "~10 min walk",
           "desc": "Daliang's oldest arcade street; short, 30–40 min is enough. Lined with old brands, snack shops and souvenir shops; a beef offal stall nearby is good for a skewer on the go.",
           "tags": [
             "Photo spot",
@@ -233,7 +233,7 @@
         {
           "time": "17:15",
           "title": "Lunjiao cake (伦教糕) and souvenirs",
-          "walk": "Bakeries on Huagai Road.",
+          "walk": "Bakeries on Huagai Road",
           "desc": "Shunde's white sugar cake, lightly sweet and slightly tangy; some can be bought as gifts.",
           "tags": [
             "Shopping"
@@ -273,7 +273,7 @@
       "start": "18:15",
       "end": "19:45",
       "title": "Chartered car: Shunde → Guangzhou",
-      "note": "Leaving at 18:15 avoids the worst of the rush; ~1 h 20 min–1 h 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
+      "note": "Leaving at 18:15 avoids the worst of the rush; ~1 hr 20 min–1 hr 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
       "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
     }
   ]

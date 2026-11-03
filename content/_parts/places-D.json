@@ -37,7 +37,7 @@
     "why": {"en": "Gelato is made in-store daily, and local flavours appear next to Italian classics. Tasting is offered before choosing, so kids can try several.", "zh": "每天店内现做，除了经典意式口味，还有本地特色口味。可以先试吃再选，孩子能多试几种。"},
     "highlights": {"en": ["Made fresh daily", "Tasting before ordering", "Several branches around Tianhe Road"], "zh": ["每天现做", "可以先试吃", "天河路一带有多家分店"]},
     "mustTry": {"en": ["Seasonal fruit gelato (时令水果)", "Pistachio (开心果)"], "zh": ["时令水果口味", "开心果口味"]},
-    "tips": {"en": "English brand name and exact branch unverified; search “野人先生” in Amap and pick the nearest Tianhe Road branch.", "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"}
+    "tips": {"en": "English brand name and exact branch unconfirmed; search “野人先生” in Amap and pick the nearest Tianhe Road branch.", "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"}
   },
   {
     "id": "foshan-ancestral-temple",
@@ -50,7 +50,7 @@
     "summary": {"en": "Taoist temple to the god Beidi, first built in the Northern Song dynasty; home to the lion dance show and kung fu memorial halls.", "zh": "供奉北帝的道观，始建于北宋；醒狮表演和武术纪念馆都在里面。"},
     "why": {"en": "Its ridges are covered in coloured Shiwan ceramic figures — some of the finest Lingnan decorative art anywhere. The daily lion dance and kung fu show, the Wong Fei-hung and Ip Man halls, and a Qing opera stage are all covered by one ticket, so a full morning is spent without moving the car.", "zh": "屋脊上满是彩色石湾陶塑，是岭南装饰艺术的精品。每天的醒狮武术表演、黄飞鸿和叶问纪念馆、清代古戏台都在一张门票里，一个上午不用挪车。"},
     "highlights": {"en": ["Ceramic ridge figures and wood and brick carvings on the main hall", "Daily lion dance and kung fu shows", "Wong Fei-hung Memorial Hall and Ip Man Hall inside", "Wanfu Stage, a Qing-dynasty opera stage"], "zh": ["大殿的陶塑瓦脊、木雕、砖雕", "每天有醒狮武术表演", "园内有黄飞鸿纪念馆和叶问堂", "清代古戏台万福台"]},
-    "tips": {"en": "Open 8:30–18:00. Ask at entry whether same-day re-entry is allowed.", "zh": "开放时间8:30至18:00；入园时问清楚当天能否再进。"}
+    "tips": {"en": "Open 08:30–18:00. Ask at entry whether same-day re-entry is allowed.", "zh": "开放时间08:30–18:00；入园时问清楚当天能否再进。"}
   },
   {
     "id": "foshan-lion-dance-show",
@@ -205,7 +205,7 @@
     "why": {"en": "Foshan's classic snacks are bought here in one stop: bengsha (崩砂) crisp biscuits, blind man's cakes (盲公饼) and maltose candy. They travel well and make easy gifts.", "zh": "佛山经典手信一站买齐：崩砂、盲公饼、麦芽糖。耐放好带，适合送人。"},
     "highlights": {"en": ["Bengsha (崩砂) crisp biscuits", "Blind man's cakes (盲公饼)", "Maltose candy"], "zh": ["崩砂", "盲公饼", "麦芽糖"]},
     "mustTry": {"en": ["Bengsha (崩砂)", "Blind man's cake (盲公饼)"], "zh": ["崩砂", "盲公饼"]},
-    "tips": {"en": "Exact shop positions inside Lingnan Tiandi unverified.", "zh": "两家店在岭南天地的具体位置未核实。"}
+    "tips": {"en": "Exact shop positions inside Lingnan Tiandi unconfirmed.", "zh": "两家店在岭南天地的具体位置未核实。"}
   },
   {
     "id": "china-seasoning-culture-museum",
@@ -218,7 +218,7 @@
     "summary": {"en": "Small museum on the history of Foshan soy sauce and condiments.", "zh": "讲佛山酱油和调味品历史的小型展馆。"},
     "why": {"en": "Haday, China's best-known soy sauce brand, comes from Foshan, and the traditional sun-brewing process is shown here. A quick loop gives kids a link between the food they eat and where it comes from.", "zh": "中国最知名的酱油品牌海天就出自佛山，这里展示传统晒制酱油的工艺。快快看一圈，孩子能把吃到的东西和来源联系起来。"},
     "highlights": {"en": ["Foshan soy sauce history", "Traditional brewing process", "Short visit"], "zh": ["佛山酱油历史", "传统酿造工艺", "参观时间短"]},
-    "tips": {"en": "Opening hours and exact location unverified.", "zh": "开放时间和具体位置未核实。"}
+    "tips": {"en": "Opening hours and exact location unconfirmed.", "zh": "开放时间和具体位置未核实。"}
   },
   {
     "id": "shiwan-winery-guild-hall",
@@ -308,7 +308,7 @@
     "lat": 23.1195, "lng": 113.2705,
     "summary": {"en": "Evening boat cruise along the Pearl River past the lit-up Canton Tower and city skyline.", "zh": "夜晚沿珠江坐船，看灯光下的广州塔和两岸夜景。"},
     "why": {"en": "Guangzhou's skyline is seen at its best from the water: Canton Tower, Haizhu Bridge and the Bund-style buildings along Yanjiang Road are all lit up. Kids get a boat ride without much walking at the end of the day.", "zh": "从江上看广州夜景最好：广州塔、海珠桥、沿江路的老建筑都亮灯。一天下来不用多走路，孩子还能坐船。"},
-    "highlights": {"en": ["Canton Tower lit up", "Departs from Tianzi Pier", "~1–1.5 h on the water"], "zh": ["灯光下的广州塔", "从天字码头上船", "船程约1至1.5小时"]},
+    "highlights": {"en": ["Canton Tower lit up", "Departs from Tianzi Pier", "~1–1.5 hr on the water"], "zh": ["灯光下的广州塔", "从天字码头上船", "船程约1至1.5小时"]},
     "tips": {"en": "Tickets and pier should be confirmed in advance; be at the pier 20 min early and bring a jacket.", "zh": "船票和码头提前确定；开船前20分钟到，带外套。"}
   },
   {
@@ -320,8 +320,8 @@
     "query": "Guangzhou Baiyun International Airport, Baiyun, Guangzhou",
     "lat": 23.3924, "lng": 113.2988,
     "summary": {"en": "Guangzhou's main airport, ~45 min by taxi from Tianhe in early-morning traffic.", "zh": "广州主要机场，清晨从天河打车约45分钟。"},
-    "why": {"en": "International check-in, bag drop and security can take a while, so ~2 h 45 min is allowed. Breakfast is available airside.", "zh": "国际航班值机、托运、安检耗时，所以预留约2小时45分钟；可以在机场吃早餐。"},
-    "highlights": {"en": ["Check-in, bag drop, security", "Breakfast at the airport", "~2 h 45 min allowed before departure"], "zh": ["值机、托运、安检", "在机场吃早餐", "预留约2小时45分钟"]},
+    "why": {"en": "International check-in, bag drop and security can take a while, so ~2 hr 45 min is allowed. Breakfast is available airside.", "zh": "国际航班值机、托运、安检耗时，所以预留约2小时45分钟；可以在机场吃早餐。"},
+    "highlights": {"en": ["Check-in, bag drop, security", "Breakfast at the airport", "~2 hr 45 min allowed before departure"], "zh": ["值机、托运、安检", "在机场吃早餐", "预留约2小时45分钟"]},
     "tips": {"en": "Terminal depends on the airline; confirm T1, T2 or T3 on the ticket before booking the car.", "zh": "航站楼按航空公司而定，叫车前在机票上确认是T1、T2还是T3。"}
   }
 ]

@@ -10,7 +10,7 @@ const UI = {
   tip: { en: "Tip", zh: "温馨提示" },
   restaurants: { en: "Where to eat", zh: "餐厅选择" },
   restaurant: { en: "Where to eat", zh: "餐厅" },
-  mustOrder: { en: "Must order", zh: "推荐必点" },
+  mustOrder: { en: "Must try", zh: "必试" },
   backup: { en: "Backup plan", zh: "备案" },
   prevDay: { en: "Previous day", zh: "前一天" },
   nextDay: { en: "Next day", zh: "后一天" },
