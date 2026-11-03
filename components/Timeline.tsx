@@ -21,6 +21,10 @@ function transitIcon(zh: string) {
   if (/小轮|夜游|船/.test(zh)) return "fa-ferry";
   return "fa-route";
 }
+/** Tag (by Chinese source text) → colour class. */
+const TAG_CLASS: Record<string, string> = {
+  打卡: "must", 拍照: "photo", 购物: "shop", 甜品: "dessert", 午餐: "meal", 晚餐: "meal", 刺激: "thrill", 亲子: "family",
+};
 const isTransit = (it: Item) => /→/.test(it.title.zh);
 const isMeal = (it: Item) => /^(早餐|午餐|晚餐|早午茶|下午茶|跨年晚餐)/.test(it.title.zh) || it.food.some((f) => !f.dish);
 
@@ -135,7 +139,7 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
         {s.tip && <TipButton open={tip} onToggle={() => setTip(!tip)} />}
       </div>
       {s.tags.length > 0 && (
-        <div className="tags">{s.tags.map((tag, i) => <span key={i} className="tag">{t(tag)}</span>)}</div>
+        <div className="tags">{s.tags.map((tag, i) => <span key={i} className={`tag${TAG_CLASS[tag.zh] ? ` tag-${TAG_CLASS[tag.zh]}` : ""}`}>{t(tag)}</span>)}</div>
       )}
       {s.tip && <TipText open={tip} text={t(s.tip)} />}
       {s.desc && <p className="note">{t(s.desc)}</p>}

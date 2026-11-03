@@ -4,7 +4,7 @@
   "dow": "Mon",
   "locked": true,
   "theme": "Free and easy",
-  "intro": "No plans today: sleep in, wander near the hotel, or pick up last souvenirs. Only two fixed tasks: the last load of laundry in the morning, and packing in the evening with an early night — departure for the airport is at 05:00 tomorrow.",
+  "intro": "Free day — nothing planned\nMorning: last load of laundry\nEvening: pack and sleep early (05:00 departure)",
   "items": [
     {
       "start": "09:30",

@@ -54,7 +54,13 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
           {!day.locked && <span className="chip chip-accent"><i className="fa-solid fa-pen-ruler" aria-hidden />{ui("flexible")}</span>}
         </div>
         <h1 className="theme dh-reveal">{t(day.theme)}</h1>
-        {day.intro && <p className="intro dh-reveal">{t(day.intro)}</p>}
+        {day.intro && (t(day.intro).includes("\n") ? (
+          <ul className="intro intro-list dh-reveal">
+            {t(day.intro).split("\n").filter(Boolean).map((line, i) => <li key={i}>{line}</li>)}
+          </ul>
+        ) : (
+          <p className="intro dh-reveal">{t(day.intro)}</p>
+        ))}
       </section>
 
       <Timeline items={day.items} places={places} groups={trip.groups} onOpenPlace={onOpenPlace} />

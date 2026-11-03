@@ -492,14 +492,15 @@
           "title": "Beijing Road → Hotel",
           "note": "Taxi from Wenming Road, ~20 min."
         }
-      ]
+      ],
+      "intro": "Morning: Shamian Island walk — old European buildings, chapel, riverside\nLunch on Shamian (Jade River dim sum at the White Swan)\nAfternoon: Canton Tower, Haixin Bridge, Huacheng Square\nEvening: Beijing Road — Dafo Temple, shopping, dinner"
     },
     {
       "date": "Dec 23",
       "dow": "Wed",
       "locked": true,
       "theme": "Xiguan old streets, walking east",
-      "intro": "Today centres on Yongqingfang (永庆坊). Its arcade lanes are full of boutiques, creative-design shops, handmade-craft stalls and intangible-heritage gift shops, good for small presents. On Fushang Lane (富上巷) is the PICOCICI global flagship store, selling Sanrio, Disney and Chiikawa merchandise, a sure hit with the kids. Nearly two hours are set aside for Yongqingfang, with 11:00–11:45 reserved for boutiques and gifts. Lunch is at Tao Tao Ju (陶陶居) at 13:00.",
+      "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nLunch: Tao Tao Ju; ice cream at Shun Kee\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
       "stay": 0,
       "backup": {
         "title": "Backup: Thirteen Hongs (十三行), only if time remains after Liwan Plaza",
@@ -987,7 +988,8 @@
           "title": "Back to hotel",
           "note": "Exit crowds are heavy. Wait ~10 min for them to thin, then take the shuttle back."
         }
-      ]
+      ],
+      "intro": "Check out of Atour; taxi to the Chimelong Panda Hotel\nAfternoon: get to know the resort\nEvening: Chimelong International Circus (19:30)"
     },
     {
       "stay": 1,
@@ -1180,7 +1182,8 @@
           "end": "19:45",
           "title": "Back to hotel"
         }
-      ]
+      ],
+      "intro": "Chimelong Safari Park — early entry for hotel guests\nMorning: safari train, pandas, koalas, white tigers\nAfternoon: elephant and giraffe feeding, cable car\nEvening: drone show (TBC)"
     },
     {
       "stay": 1,
@@ -1422,7 +1425,8 @@
           "title": "Shawan Ancient Town → Panda Hotel",
           "note": "Taxi, ~30 min; back at the hotel around 20:00."
         }
-      ]
+      ],
+      "intro": "Chimelong Paradise: Option A family rides / Option B thrill rides\nAfternoon: magic show, repeat favourite rides\nEvening: Shawan Ancient Town — Liugeng Hall, night market, local snacks"
     },
     {
       "stay": 2,
@@ -1542,7 +1546,8 @@
             }
           ]
         }
-      ]
+      ],
+      "intro": "Slow morning; check out of the Panda Hotel\nMove to K Hotel, Tianhe\nLunch: Tao Tao Ju, Grandview Mall\nAfternoon: Option A sports brands / Option B anime and toys"
     },
     {
       "stay": 2,
@@ -1551,7 +1556,7 @@
       "locked": true,
       "theme": "Shenzhen tech day trip",
       "away": "Shenzhen",
-      "intro": "Today is focused on Shenzhen's robots and AI. In the morning, the world's first Robot 6S Store and the AI 6S Store are visited in Bantian, Longgang. In the afternoon, exoskeletons and smart glasses are tried at INNO100 in Shenzhen Bay Culture Plaza, Nanshan. Sunset is watched at Shenzhen Bay before dinner. High-speed rail both ways, with a local chartered car for the day.",
+      "intro": "HSR to Shenzhen; chartered car all day\nRobot 6S Store and AI 6S Store, Longgang\nINNO100: exoskeletons, smart glasses\nSunset at Shenzhen Bay; coconut chicken dinner",
       "items": [
         {
           "start": "07:15",
@@ -1737,7 +1742,7 @@
       "dow": "Tue",
       "locked": true,
       "theme": "Wanguo Outlets, Tianhe Road shopping district",
-      "intro": "Today is focused on buying sports shoes and sportswear at the outlets. Wanguo Outlets specialises in sports and leisure brands, mostly brand-operated; Nike and Adidas both have super-flagship discount stores, with tennis shoes, sportswear and kids' clothing and shoes. Choose one of two options: Option A goes to Wanguo Outlets for sports gear; Option B walks the Tianhe Road shopping route near K Hotel. Either way, the hotel is reached by 14:30.",
+      "intro": "Option A: Wanguo Outlets — sports shoes and clothing\nOption B: Tianhe Road mall walk — Teemall, Taikoo Hui, Fashion Tianhe\nBack by 14:30; rest for the early start tomorrow",
       "backup": {
         "title": "Backup: Shahe Clothing Market (only if more clothes are wanted)",
         "note": "If energy remains after returning to the hotel in the afternoon, it is ~15 min by taxi from K Hotel. Stalls are fullest in the morning; many close in the afternoon.",
@@ -1923,7 +1928,7 @@
       "locked": true,
       "theme": "Hong Kong day trip",
       "away": "Hong Kong",
-      "intro": "Today is about giving the kids a Hong Kong day to remember: the century-old Star Ferry across Victoria Harbour, the Peak Tram up to Victoria Peak, photos with celebrity figures at Madame Tussauds, then a Ding Ding tram across Hong Kong Island. HSR tickets, Peak Tram and Madame Tussauds tickets should all be bought online in advance.",
+      "intro": "HSR to West Kowloon (tickets booked in advance)\nStar Ferry; lunch in Central; Tai Cheong egg tarts\nPeak Tram, Madame Tussauds, Victoria Peak\nDing Ding tram; back to Guangzhou for dinner",
       "items": [
         {
           "start": "07:00",
@@ -2278,7 +2283,8 @@
           "title": "Walk back to the hotel",
           "note": "The countdown is skipped, avoiding the crowds around Huacheng Square and Canton Tower."
         }
-      ]
+      ],
+      "intro": "Dim sum brunch at Dian Dou De\nAfternoon: Option A Tianhe Road mall walk / Option B free time\nEarly New Year's Eve dinner; Tianhe Road lights"
     },
     {
       "stay": 2,
@@ -2386,7 +2392,8 @@
             }
           ]
         }
-      ]
+      ],
+      "intro": "Rest day; late start\nAfternoon stroll: Grandview Mall, Tianhe Sports Center, Teemall\nGelato at Mr. Wild Man"
     },
     {
       "stay": 2,
@@ -2395,7 +2402,7 @@
       "locked": true,
       "theme": "Foshan + Shunde day trip",
       "away": "Foshan · Shunde",
-      "intro": "Today is about Foshan martial arts and Shunde food. Departure is at 8:00 to catch the 10:00 lion dance and kung fu show at Foshan Ancestral Temple, followed by the Wong Fei-hung Memorial Hall and Ip Man Hall. Midday is spent strolling the old streets of Lingnan Tiandi with lunch, then back to the temple for the weekend-only Cantonese opera at Wanfu Stage. In the afternoon, Qinghui Garden and Huagai Road in Daliang, Shunde, are visited; dinner in Shunde at 17:30, then back to Guangzhou. A chartered car is used all day.",
+      "intro": "Foshan Ancestral Temple: lion dance at 10:00, Wong Fei-hung and Ip Man halls\nLingnan Tiandi: old streets, lunch, Cantonese opera\nShunde: Qinghui Garden, Huagai Road\nShunde dinner; back ~20:00",
       "items": [
         {
           "start": "07:15",
@@ -2753,7 +2760,8 @@
           "note": "Tickets and pier should be confirmed in advance.",
           "tip": "Be at the pier 20 min before departure; it is windy on board, so bring a jacket."
         }
-      ]
+      ],
+      "intro": "Morning: Baima and Hongmian clothing markets\nAfternoon: TBC\nDinner: near the hotel or Guangzhou Restaurant\nPearl River night cruise (19:00)"
     },
     {
       "stay": 2,
@@ -2761,7 +2769,7 @@
       "dow": "Mon",
       "locked": true,
       "theme": "Free and easy",
-      "intro": "No plans today: sleep in, wander near the hotel, or pick up last souvenirs. Only two fixed tasks: the last load of laundry in the morning, and packing in the evening with an early night — departure for the airport is at 05:00 tomorrow.",
+      "intro": "Free day — nothing planned\nMorning: last load of laundry\nEvening: pack and sleep early (05:00 departure)",
       "items": [
         {
           "start": "09:30",

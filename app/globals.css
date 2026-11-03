@@ -240,6 +240,10 @@ h1, h2, h3, h4, p { margin: 0; }
   line-height: 1.6;
 }
 
+.intro-list { list-style: none; display: grid; gap: 8px; color: var(--ink); font-size: 15.5px; line-height: 1.45; }
+.intro-list li { position: relative; padding-left: 18px; }
+.intro-list li::before { content: ""; position: absolute; left: 2px; top: 0.6em; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); }
+
 /* ==========================================================================
    Timeline
    ========================================================================== */
@@ -388,7 +392,25 @@ h4.title { font-size: 16px; }
 .walk i { font-size: 10px; }
 .stop-time { font-size: 13px; font-weight: 600; color: var(--accent-ink); padding-top: 2px; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
-.tag { font-size: 11.5px; font-weight: 500; color: var(--ink2); background: var(--bg2); border-radius: 999px; padding: 2px 9px; }
+.tag { --c: var(--ink2); font-size: 11.5px; font-weight: 600; color: var(--c); background: var(--bg2); border-radius: 999px; padding: 2px 9px; }
+.tag[class*="tag-"] { background: color-mix(in srgb, var(--c) 15%, var(--bg)); }
+.tag-must { --c: #e8590c; }
+.tag-photo { --c: #a64bd6; }
+.tag-shop { --c: #e0306b; }
+.tag-dessert { --c: #b8860b; }
+.tag-meal { --c: #2f9e44; }
+.tag-thrill { --c: #e03131; }
+.tag-family { --c: #4c6ef5; }
+@media (prefers-color-scheme: dark) {
+  .tag-must { --c: #ff9a52; }
+  .tag-photo { --c: #d08cf2; }
+  .tag-shop { --c: #ff7aa2; }
+  .tag-dessert { --c: #f2c94c; }
+  .tag-meal { --c: #69db7c; }
+  .tag-thrill { --c: #ff8787; }
+  .tag-family { --c: #91a7ff; }
+  .tag[class*="tag-"] { background: color-mix(in srgb, var(--c) 18%, var(--bg)); }
+}
 
 /* food */
 .food { display: grid; gap: 14px; margin-top: 12px; }
