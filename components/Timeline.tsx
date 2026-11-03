@@ -143,16 +143,14 @@ function Row({ it, ctx }: { it: Item; ctx: Ctx }) {
 
 function ItemBody({ it, ctx }: { it: Item; ctx: Ctx }) {
   const { t, ui } = useLang();
-  const [tip, setTip] = useState(false);
   return (
     <>
       <div className="title-line">
         <Title text={it.title} placeId={it.placeId} ctx={ctx} as="h3" />
         {it.optional && <span className="badge">{ui("optional")}</span>}
-        {it.tip && <TipButton open={tip} onToggle={() => setTip(!tip)} />}
       </div>
-      {it.tip && <TipText open={tip} text={t(it.tip)} />}
       {it.note && <p className="note">{t(it.note)}</p>}
+      {it.tip && <Tip text={t(it.tip)} />}
       <Banner placeId={it.placeId} ctx={ctx} />
       <FoodBlock food={it.food} ctx={ctx} />
       {it.route.length > 0 && (
@@ -166,7 +164,6 @@ function ItemBody({ it, ctx }: { it: Item; ctx: Ctx }) {
 
 function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
   const { t } = useLang();
-  const [tip, setTip] = useState(false);
   return (
     <li className="stop">
       {s.walk && <span className="walk"><i className="fa-solid fa-arrow-down" aria-hidden />{t(s.walk)}</span>}
@@ -185,10 +182,9 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
             </span>
           )}
         />
-        {s.tip && <TipButton open={tip} onToggle={() => setTip(!tip)} />}
       </div>
-      {s.tip && <TipText open={tip} text={t(s.tip)} />}
       {s.desc && <p className="note">{t(s.desc)}</p>}
+      {s.tip && <Tip text={t(s.tip)} />}
       <FoodBlock food={s.food} ctx={ctx} />
     </li>
   );
@@ -288,31 +284,14 @@ function Thumb({ place }: { place?: Place }) {
   return <span className="thumb thumb-icon"><i className={`fa-solid ${place ? KIND_ICON[place.kind] : "fa-utensils"}`} aria-hidden /></span>;
 }
 
-function TipButton({ open, onToggle }: { open: boolean; onToggle: () => void }) {
+/** Always-visible tip: lightbulb in a fixed left column, text wraps beside it. */
+function Tip({ text }: { text: string }) {
   const { ui } = useLang();
   return (
-    <button type="button" className={`tip-btn${open ? " on" : ""}`} onClick={onToggle} aria-expanded={open} aria-label={ui("tip")}>
-      <i className="fa-solid fa-lightbulb" aria-hidden />
-    </button>
-  );
-}
-
-function TipText({ open, text }: { open: boolean; text: string }) {
-  const { ui } = useLang();
-  return (
-    <AnimatePresence initial={false}>
-      {open && (
-        <motion.div
-          className="tip"
-          initial={{ height: 0, opacity: 0 }}
-          animate={{ height: "auto", opacity: 1 }}
-          exit={{ height: 0, opacity: 0 }}
-          transition={{ duration: 0.22, ease: [0.32, 0.72, 0, 1] }}
-        >
-          <p><b>{ui("tip")}</b>{text}</p>
-        </motion.div>
-      )}
-    </AnimatePresence>
+    <div className="tip" role="note" aria-label={ui("tip")}>
+      <i className="fa-solid fa-lightbulb tip-icon" aria-hidden />
+      <p>{text}</p>
+    </div>
   );
 }
 
