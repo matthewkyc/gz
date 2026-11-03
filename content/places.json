@@ -828,7 +828,10 @@
     "tips": {
       "en": "Queues are moderate to long; shared tables are normal. Hours are roughly 07:00–21:00/22:00.",
       "zh": "排队中到长，拼桌很正常。营业时间约07:00–21:00/22:00。"
-    }
+    },
+    "image": "/places/capital-cafe-wanchai.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/capital-cafe-wanchai.jpg"
   },
   {
     "id": "chalyishi-huachenghui",
@@ -1114,7 +1117,10 @@
     "tips": {
       "en": "Feed price is set on site.",
       "zh": "投喂食物价格以现场为准。"
-    }
+    },
+    "image": "/places/chimelong-asian-elephant-park.jpg",
+    "imageCredit": "Wikimedia Commons, Haiqal08, CC BY-SA 4.0",
+    "thumb": "/places/thumb/chimelong-asian-elephant-park.jpg"
   },
   {
     "id": "chimelong-coconut-grove-restaurant",
@@ -1300,7 +1306,10 @@
         "纪念品店",
         "靠近出口"
       ]
-    }
+    },
+    "image": "/places/chimelong-flamingo-lake.jpg",
+    "imageCredit": "Wikimedia Commons, Xiquinho Silva, CC BY 2.0",
+    "thumb": "/places/thumb/chimelong-flamingo-lake.jpg"
   },
   {
     "id": "chimelong-food-town",
@@ -1421,7 +1430,10 @@
     "tips": {
       "en": "Times per the Chimelong app; official guides mention ~14:00 and 16:30.",
       "zh": "场次以长隆APP为准，官方攻略提过约14:00和16:30。"
-    }
+    },
+    "image": "/places/chimelong-happy-theatre-magic-show.jpg",
+    "imageCredit": "Brand photo (chimelong.com)",
+    "thumb": "/places/thumb/chimelong-happy-theatre-magic-show.jpg"
   },
   {
     "id": "chimelong-hotel-white-tiger-buffet",
@@ -1587,7 +1599,10 @@
         "室内恒温",
         "上午较活跃"
       ]
-    }
+    },
+    "image": "/places/chimelong-koala-park.jpg",
+    "imageCredit": "Wikimedia Commons, Ecow, CC0",
+    "thumb": "/places/thumb/chimelong-koala-park.jpg"
   },
   {
     "id": "chimelong-panda-hotel",
@@ -1819,7 +1834,10 @@
         "坐着休息",
         "俯瞰动物"
       ]
-    }
+    },
+    "image": "/places/chimelong-safari-cable-car.jpg",
+    "imageCredit": "Wikimedia Commons, PQ77wd, CC BY-SA 4.0",
+    "thumb": "/places/thumb/chimelong-safari-cable-car.jpg"
   },
   {
     "id": "chimelong-safari-panda-restaurant",
@@ -1869,7 +1887,10 @@
     "tips": {
       "en": "Exact menu and location within the park are not verified; arrive by 11:45 to beat the rush.",
       "zh": "具体菜单和园内位置未核实；11:45前到，避开人潮。"
-    }
+    },
+    "image": "/places/chimelong-safari-panda-restaurant.jpg",
+    "imageCredit": "Brand photo (chimelong.com)",
+    "thumb": "/places/thumb/chimelong-safari-panda-restaurant.jpg"
   },
   {
     "id": "chimelong-safari-park",
@@ -2013,7 +2034,10 @@
     "tips": {
       "en": "Ride list per the 2026 official map; English name is a translation.",
       "zh": "项目以官方地图为准；英文名为意译。"
-    }
+    },
+    "image": "/places/chimelong-star-dream-garden.jpg",
+    "imageCredit": "Brand photo (chimelong.com, Dream Carousel in this zone)",
+    "thumb": "/places/thumb/chimelong-star-dream-garden.jpg"
   },
   {
     "id": "chimelong-super-pendulum",
@@ -2092,7 +2116,10 @@
     "tips": {
       "en": "Ride type and restrictions are not verified.",
       "zh": "项目类型和限制未核实。"
-    }
+    },
+    "image": "/places/chimelong-tornado.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/chimelong-tornado.jpg"
   },
   {
     "id": "chimelong-white-tiger-area",
@@ -2127,7 +2154,10 @@
         "隔玻璃近看",
         "旁边就能吃午饭"
       ]
-    }
+    },
+    "image": "/places/chimelong-white-tiger-area.jpg",
+    "imageCredit": "Wikimedia Commons, Xiquinho Silva, CC BY 2.0",
+    "thumb": "/places/thumb/chimelong-white-tiger-area.jpg"
   },
   {
     "id": "china-seasoning-culture-museum",
@@ -3506,7 +3536,10 @@
         "体验智能眼镜",
         "位于深圳湾文化广场内"
       ]
-    }
+    },
+    "image": "/places/inno100.jpg",
+    "imageCredit": "Wikimedia Commons, NAN LIU, CC BY-SA 4.0 (Shenzhen Bay Culture Plaza, the venue)",
+    "thumb": "/places/thumb/inno100.jpg"
   },
   {
     "id": "ip-man-hall",
@@ -3845,7 +3878,10 @@
     "tips": {
       "en": "Exact shop positions inside Lingnan Tiandi unverified.",
       "zh": "两家店在岭南天地的具体位置未核实。"
-    }
+    },
+    "image": "/places/lei-hei-kee-lingnan-tiandi.jpg",
+    "imageCredit": "Google Maps (another branch)",
+    "thumb": "/places/thumb/lei-hei-kee-lingnan-tiandi.jpg"
   },
   {
     "id": "li-zhongsheng-tang",
@@ -4085,7 +4121,10 @@
     "tips": {
       "en": "Dress-up may be a paid add-on; check on site.",
       "zh": "换装拍照可能另外收费，以现场为准。"
-    }
+    },
+    "image": "/places/lingnan-tiandi-wedding-house.jpg",
+    "imageCredit": "Wikimedia Commons, Uuongkinghe, CC BY-SA 4.0",
+    "thumb": "/places/thumb/lingnan-tiandi-wedding-house.jpg"
   },
   {
     "id": "linlee-beijing-road",
@@ -4120,7 +4159,10 @@
     "tips": {
       "en": "Map pin is approximate (168 Beijing Road).",
       "zh": "地图位置为估算（北京路168号）。"
-    }
+    },
+    "image": "/places/linlee-beijing-road.jpg",
+    "imageCredit": "Wikimedia Commons, MPCROOYW GROAHMOIOE, CC0 (another branch)",
+    "thumb": "/places/thumb/linlee-beijing-road.jpg"
   },
   {
     "id": "linlee-central-hk",
@@ -4153,7 +4195,10 @@
       ]
     },
     "rating": 4.6,
-    "reviewCount": 427
+    "reviewCount": 427,
+    "image": "/places/linlee-central-hk.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/linlee-central-hk.jpg"
   },
   {
     "id": "linlee-grandview",
@@ -4188,7 +4233,10 @@
     "tips": {
       "en": "Map pin is the mall; the shop is on B1.",
       "zh": "地图位置为商场，店在负一层。"
-    }
+    },
+    "image": "/places/linlee-grandview.jpg",
+    "imageCredit": "Wikimedia Commons, 逆襲のあまのじゃく, CC BY-SA 4.0 (another branch)",
+    "thumb": "/places/thumb/linlee-grandview.jpg"
   },
   {
     "id": "linlee-yuexiu-park",
@@ -4223,7 +4271,10 @@
     "tips": {
       "en": "Map pin is approximate; the shop is in Chengyi Hui mall B1, by Metro exit C.",
       "zh": "地图位置为估算，店在城壹汇负一层，越秀公园地铁站C口旁。"
-    }
+    },
+    "image": "/places/linlee-yuexiu-park.jpg",
+    "imageCredit": "Wikimedia Commons, Elaodou Anudyem Lukas, CC0 (another branch)",
+    "thumb": "/places/thumb/linlee-yuexiu-park.jpg"
   },
   {
     "id": "liugeng-hall",
@@ -4433,7 +4484,10 @@
     "tips": {
       "en": "Exhibitions vary and may not be on.",
       "zh": "展览不固定，可能当天没有。"
-    }
+    },
+    "image": "/places/longtang-poetry-society.jpg",
+    "imageCredit": "Wikimedia Commons, BMSBridge, CC BY-SA 4.0",
+    "thumb": "/places/thumb/longtang-poetry-society.jpg"
   },
   {
     "id": "lychee-bay",
@@ -4710,7 +4764,10 @@
     "tips": {
       "en": "English brand name and exact branch unverified; search “野人先生” in Amap and pick the nearest Tianhe Road branch.",
       "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"
-    }
+    },
+    "image": "/places/mr-wildman-gelato.jpg",
+    "imageCredit": "Wikimedia Commons, WAOSNMAH wocnaprm, CC0 (another branch)",
+    "thumb": "/places/thumb/mr-wildman-gelato.jpg"
   },
   {
     "id": "nanxin-dessert",
@@ -5437,7 +5494,10 @@
       "zh": [
         "鸭屎香柠檬茶"
       ]
-    }
+    },
+    "image": "/places/qiudashu-tianhe-south.jpg",
+    "imageCredit": "Wikimedia Commons, MPCROOYW GROAHMOIOE, CC0 (another branch)",
+    "thumb": "/places/thumb/qiudashu-tianhe-south.jpg"
   },
   {
     "id": "robot-6s-store-bantian",
@@ -6016,7 +6076,10 @@
         "黄昏风铃",
         "附近当楼和老米机"
       ]
-    }
+    },
+    "image": "/places/shawan-wenfeng-pagoda.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/shawan-wenfeng-pagoda.jpg"
   },
   {
     "id": "shenzhen-bay-culture-plaza",
@@ -6051,7 +6114,10 @@
         "紧邻海湾",
         "INNO100所在地"
       ]
-    }
+    },
+    "image": "/places/shenzhen-bay-culture-plaza.jpg",
+    "imageCredit": "Wikimedia Commons, NAN LIU, CC BY-SA 4.0",
+    "thumb": "/places/thumb/shenzhen-bay-culture-plaza.jpg"
   },
   {
     "id": "shenzhen-talent-park",
@@ -6146,7 +6212,10 @@
         "玉冰烧米酒历史",
         "十分钟就够"
       ]
-    }
+    },
+    "image": "/places/shiwan-winery-guild-hall.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/shiwan-winery-guild-hall.jpg"
   },
   {
     "id": "shun-kee-ice-bar",
@@ -6393,7 +6462,10 @@
     "tips": {
       "en": "The chain has historically not seated parties of more than four at one table; a larger family may be split. Branch presence in this mall is unconfirmed.",
       "zh": "这家连锁过去不接待超过4人同桌，人多可能要分桌。该商场是否有分店待确认。"
-    }
+    },
+    "image": "/places/taier-sauerkraut-fish-galaxy-world.jpg",
+    "imageCredit": "Wikimedia Commons, AIFONGE 8002, CC0 (another branch)",
+    "thumb": "/places/thumb/taier-sauerkraut-fish-galaxy-world.jpg"
   },
   {
     "id": "taigenbao-rice-free-congee",
@@ -6660,7 +6732,10 @@
     "tips": {
       "en": "Take a queue number on arrival. A per-person tea fee is charged. Kang Youwei attribution is traditional, not verified.",
       "zh": "到了先取号；按人头收茶位费；康有为题字是流传说法，未核实。"
-    }
+    },
+    "image": "/places/tao-tao-ju-dishifu.jpg",
+    "imageCredit": "Wikimedia Commons, Mkckim, CC BY-SA 4.0",
+    "thumb": "/places/thumb/tao-tao-ju-dishifu.jpg"
   },
   {
     "id": "taotaoju-grandview",
@@ -6715,7 +6790,10 @@
     "tips": {
       "en": "Sunday lunch is busy; call to check the queue: 020-38373301.",
       "zh": "周日午市人多，先打电话问排队：020-38373301。"
-    }
+    },
+    "image": "/places/taotaoju-grandview.jpg",
+    "imageCredit": "Wikimedia Commons, Liuxingy, CC BY-SA 4.0 (signature dish, brand photo)",
+    "thumb": "/places/thumb/taotaoju-grandview.jpg"
   },
   {
     "id": "teemall",
@@ -7835,6 +7913,9 @@
     "tips": {
       "en": "Presence in this mall is unconfirmed.",
       "zh": "该商场是否有分店待确认。"
-    }
+    },
+    "image": "/places/yunhaiyao-galaxy-world.jpg",
+    "imageCredit": "Wikimedia Commons, SYSHLWO MSRPSL SUNGA, CC BY-SA 4.0 (another branch)",
+    "thumb": "/places/thumb/yunhaiyao-galaxy-world.jpg"
   }
 ]

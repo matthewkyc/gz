@@ -1,0 +1,46 @@
+{
+  "capital-cafe-wanchai": {
+    "image": "/places/capital-cafe-wanchai.jpg",
+    "imageCredit": "Google Maps"
+  },
+  "chimelong-asian-elephant-park": {
+    "image": "/places/chimelong-asian-elephant-park.jpg",
+    "imageCredit": "Wikimedia Commons, Haiqal08, CC BY-SA 4.0"
+  },
+  "chimelong-koala-park": {
+    "image": "/places/chimelong-koala-park.jpg",
+    "imageCredit": "Wikimedia Commons, Ecow, CC0"
+  },
+  "chimelong-flamingo-lake": {
+    "image": "/places/chimelong-flamingo-lake.jpg",
+    "imageCredit": "Wikimedia Commons, Xiquinho Silva, CC BY 2.0"
+  },
+  "chimelong-safari-cable-car": {
+    "image": "/places/chimelong-safari-cable-car.jpg",
+    "imageCredit": "Wikimedia Commons, PQ77wd, CC BY-SA 4.0"
+  },
+  "chimelong-white-tiger-area": {
+    "image": "/places/chimelong-white-tiger-area.jpg",
+    "imageCredit": "Wikimedia Commons, Xiquinho Silva, CC BY 2.0"
+  },
+  "chimelong-safari-panda-restaurant": {
+    "image": "/places/chimelong-safari-panda-restaurant.jpg",
+    "imageCredit": "Brand photo (chimelong.com)"
+  },
+  "chimelong-happy-theatre-magic-show": {
+    "image": "/places/chimelong-happy-theatre-magic-show.jpg",
+    "imageCredit": "Brand photo (chimelong.com)"
+  },
+  "chimelong-tornado": {
+    "image": "/places/chimelong-tornado.jpg",
+    "imageCredit": "Google Maps"
+  },
+  "chimelong-star-dream-garden": {
+    "image": "/places/chimelong-star-dream-garden.jpg",
+    "imageCredit": "Brand photo (chimelong.com, Dream Carousel in this zone)"
+  },
+  "inno100": {
+    "image": "/places/inno100.jpg",
+    "imageCredit": "Wikimedia Commons, NAN LIU, CC BY-SA 4.0 (Shenzhen Bay Culture Plaza, the venue)"
+  }
+}
