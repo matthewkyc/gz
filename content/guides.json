@@ -227,81 +227,401 @@
         "zh": "奶茶·手打柠檬茶"
       },
       "subtitle": {
-        "en": "Milk tea and Guangzhou’s hand-pounded lemon tea",
-        "zh": "奶茶和广州的手打柠檬茶"
+        "en": "Lemon tea, fresh-milk tea and HK milk tea near the route",
+        "zh": "路线附近的柠檬茶、鲜奶茶和港式奶茶"
       },
       "intro": {
-        "en": "Hand-pounded lemon tea is Guangzhou’s own craze; milk tea shops are everywhere. Sugar level can be chosen when ordering.",
-        "zh": "手打柠檬茶是广州自己的潮流，奶茶店到处都是。点单时可以选甜度。"
+        "en": "Five different experiences beat many similar cups: LINLEE, Uncle Q, 茶理宜世, one 2026 lemon-milk drink, and HK milk tea in Hong Kong. Order nearby; none is worth a long detour or queue. Checked 3 Nov 2026.",
+        "zh": "体验五种不同的就够：LINLEE、丘大叔、茶理宜世、一杯2026年流行的柠檬奶，再加香港的港式奶茶。就近买，不值得专程绕路或排长队。资料核对于2026年11月3日。"
       },
       "items": [
+        {
+          "title": {
+            "en": "HEYTEA (喜茶)",
+            "zh": "喜茶 HEYTEA"
+          },
+          "desc": {
+            "en": "Order 多肉葡萄 (grape fruit tea) or a simple fresh-milk tea. ¥15–30. The Guangdong benchmark for fruit-plus-tea. Start with 少糖 (less sugar).",
+            "zh": "点多肉葡萄，或简单的鲜奶茶。¥15–30。广东果茶的标杆。先选少糖。"
+          },
+          "badge": {
+            "en": "Fruit tea · Milk tea",
+            "zh": "果茶 · 奶茶"
+          },
+          "meta": {
+            "en": "永庆坊店：恩宁路229号L1–L2 · 黄沙站，步行",
+            "zh": "永庆坊店：恩宁路229号L1–L2 · 黄沙站，步行"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best before lunch or on a weekday",
+            "zh": "约10:00–22:00；建议午饭前或工作日"
+          },
+          "when": {
+            "en": "Passes by: Dec 23 (Yongqingfang)",
+            "zh": "顺路：12/23（永庆坊）"
+          },
+          "heading": {
+            "en": "Liwan & Yuexiu (荔湾·越秀)",
+            "zh": "荔湾·越秀"
+          }
+        },
         {
           "title": {
             "en": "LINLEE (林里)",
             "zh": "LINLEE 林里"
           },
           "desc": {
-            "en": "Guangzhou’s best-known hand-pounded lemon tea. Look for the duck mascot; copycat shops exist.",
-            "zh": "广州最出名的手打柠檬茶，认准鸭子周边，市面上有山寨店。"
+            "en": "Order 招牌手打柠檬茶 or 鸭屎香手打柠檬茶. ¥15–22. The classic hand-pounded lemon tea. 少糖＋正常冰 is a good baseline. Look for the official name; “邻里” shops may be copycats.",
+            "zh": "点招牌手打柠檬茶或鸭屎香手打柠檬茶。¥15–22。最经典的手打柠檬茶。第一次建议少糖＋正常冰。认准官方名字，“邻里”可能是山寨。"
           },
-          "meta": {
-            "en": "Beijing Road · Grandview B1 · Yuexiu Park · Central (HK)",
-            "zh": "北京路 · 正佳负一层 · 越秀公园 · 香港中环"
-          },
-          "when": {
-            "en": "Dec 22 · Dec 30 · Jan 1 · Jan 3",
-            "zh": "12/22 · 12/30 · 1/1 · 1/3"
-          },
-          "placeId": "linlee-grandview",
           "badge": {
             "en": "Lemon tea",
             "zh": "柠檬茶"
+          },
+          "meta": {
+            "en": "西门口店：中山六路234号负一层Y12 · 西门口站 D出口，约170米",
+            "zh": "西门口店：中山六路234号负一层Y12 · 西门口站 D出口，约170米"
+          },
+          "hours": {
+            "en": "08:00–23:30; busy afternoons — before 12:00 or order ahead",
+            "zh": "08:00–23:30；下午人多，12点前去或提前下单"
+          },
+          "when": {
+            "en": "Dec 22 · Dec 30 · Jan 1 · Jan 3 (other branches)",
+            "zh": "12/22 · 12/30 · 1/1 · 1/3（其他分店）"
+          },
+          "placeId": "linlee-grandview"
+        },
+        {
+          "title": {
+            "en": "TANING (挞柠)",
+            "zh": "挞柠 TANING"
+          },
+          "desc": {
+            "en": "Order 招牌鸭屎香柠檬茶, or a fruit-and-vegetable lemon tea. ¥13–22. A good comparison with LINLEE. Fruit/vegetable drinks may still have a tea base — ask “这款有茶底吗？”.",
+            "zh": "点招牌鸭屎香柠檬茶，或果蔬柠檬茶。¥13–22。适合和 LINLEE 对比。果蔬款也可能有茶底，先问“这款有茶底吗？”。"
+          },
+          "badge": {
+            "en": "Lemon tea · Fruit tea",
+            "zh": "柠檬茶 · 果茶"
+          },
+          "meta": {
+            "en": "博物馆店：李白巷1号（北京路一带）· 公园前站，约410米",
+            "zh": "博物馆店：李白巷1号（北京路一带）· 公园前站，约410米"
+          },
+          "hours": {
+            "en": "Hours not verified — check the mini-program first",
+            "zh": "营业时间未核实，先在小程序确认"
+          },
+          "when": {
+            "en": "Near Beijing Road (Dec 22)",
+            "zh": "北京路附近（12/22）"
           }
         },
         {
           "title": {
-            "en": "Uncle Qiu Lemon Tea (丘大叔柠檬茶)",
+            "en": "Uncle Q (丘大叔柠檬茶)",
             "zh": "丘大叔柠檬茶"
           },
           "desc": {
-            "en": "Made duck-shit oolong lemon tea (鸭屎香柠檬茶) famous; floral tea under the lemon. ¥15–28.",
-            "zh": "把鸭屎香柠檬茶带火，茶香带花蜜味。¥15–28。"
+            "en": "Order 雨林茉莉柠檬茶 (jasmine) or 青山北斗柠檬茶 for a stronger tea. ¥18–25. Best for comparing floral vs tea-led lemon tea. “香槟” names should be checked before ordering for kids.",
+            "zh": "点雨林茉莉柠檬茶，或茶味更浓的青山北斗柠檬茶。¥18–25。适合对比花香和茶香。名字带“香槟”的给孩子点前先问清楚。"
           },
-          "meta": {
-            "en": "80 Tianhe South Road, between K Hotel and Grandview",
-            "zh": "天河南路80号，K Hotel 和正佳之间"
-          },
-          "when": {
-            "en": "Dec 27 13:20 (on the walk)",
-            "zh": "12/27 13:20（顺路）"
-          },
-          "placeId": "qiudashu-tianhe-south",
           "badge": {
             "en": "Lemon tea",
             "zh": "柠檬茶"
+          },
+          "meta": {
+            "en": "正佳广场F2层2G008 · 体育中心站 D3出口（另：天河南路80号）",
+            "zh": "正佳广场F2层2G008 · 体育中心站 D3出口（另：天河南路80号）"
+          },
+          "hours": {
+            "en": "Mall hours, about 10:00–22:00; weekday late morning is best",
+            "zh": "按商场时间，约10:00–22:00；工作日上午晚些最好"
+          },
+          "when": {
+            "en": "Dec 27 13:20",
+            "zh": "12/27 13:20"
+          },
+          "placeId": "qiudashu-tianhe-south",
+          "heading": {
+            "en": "Tianhe (天河)",
+            "zh": "天河区"
           }
         },
         {
           "title": {
-            "en": "Cha Li Yi Shi (茶理宜世)",
+            "en": "Cha Li Yi Shi / TEEPLUSH (茶理宜世)",
             "zh": "茶理宜世"
           },
           "desc": {
-            "en": "Guangzhou-born Chinese-style milk tea, tea-forward with floral notes. Signature: Yu Yu You Lan (郁郁幽兰).",
-            "zh": "广州本土国风奶茶，茶味重、带花香。招牌：郁郁幽兰。"
+            "en": "Order 烟雨乌龙 (peach-aroma oolong milk tea) or 郁郁幽兰. ¥17–23. More distinctly Guangzhou than generic pearl milk tea. Ask about nuts and dairy in toppings.",
+            "zh": "点烟雨乌龙（桃香乌龙鲜奶茶）或郁郁幽兰。¥17–23。比普通珍珠奶茶更有广州特色。配料有坚果、奶制品，先问清楚。"
+          },
+          "badge": {
+            "en": "Fresh-milk tea",
+            "zh": "鲜奶茶"
           },
           "meta": {
-            "en": "Mall of the World B1 · 92 Tianhe South Road 1",
-            "zh": "花城汇负一层 · 天河南一路92号"
+            "en": "正佳广场东北门下层（M层E022／负一层EU22）· 体育中心站 D3出口",
+            "zh": "正佳广场东北门下层（M层E022／负一层EU22）· 体育中心站 D3出口"
+          },
+          "hours": {
+            "en": "10:00–22:00; go near opening or order ahead",
+            "zh": "10:00–22:00；开门时去或提前下单"
           },
           "when": {
             "en": "Dec 22 14:55 · Dec 27 13:20",
             "zh": "12/22 14:55 · 12/27 13:20"
           },
-          "placeId": "chalyishi-tianhe-south",
+          "placeId": "chalyishi-tianhe-south"
+        },
+        {
+          "title": {
+            "en": "HEYTEA LAB, Parc Central (喜茶)",
+            "zh": "喜茶 LAB（天环）"
+          },
+          "desc": {
+            "en": "A second HEYTEA option near the hotel, if Yongqingfang is skipped. One HEYTEA visit is enough.",
+            "zh": "如果永庆坊那家没去，酒店附近的喜茶选择。喜茶去一家就够。"
+          },
           "badge": {
-            "en": "Milk tea",
-            "zh": "奶茶"
+            "en": "Fruit tea · Milk tea",
+            "zh": "果茶 · 奶茶"
+          },
+          "meta": {
+            "en": "天环广场L105、L205 · 体育西路站 B出口",
+            "zh": "天环广场L105、L205 · 体育西路站 B出口"
+          },
+          "hours": {
+            "en": "Sun–Thu 09:00–22:00 · Fri–Sat/holidays to 22:30",
+            "zh": "周日至四09:00–22:00 · 周五六及节假日至22:30"
+          },
+          "when": {
+            "en": "Not scheduled — near K Hotel",
+            "zh": "未排入行程，离 K Hotel 近"
+          }
+        },
+        {
+          "title": {
+            "en": "Guang Jiu Café (广九餐室)",
+            "zh": "广九餐室"
+          },
+          "desc": {
+            "en": "Order hot or iced milk tea (热奶茶／冻奶茶) with food. ¥15–30. Strong café-style milk tea without waiting for Hong Kong. Ask for 糖另上 (sugar on the side).",
+            "zh": "点热奶茶或冻奶茶，配点吃的。¥15–30。不用等去香港也能喝到港式奶茶。可要求“糖另上”。"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          },
+          "meta": {
+            "en": "体育中心店：华文街百福广场1楼 · 体育中心站 B出口，约110米",
+            "zh": "体育中心店：华文街百福广场1楼 · 体育中心站 B出口，约110米"
+          },
+          "hours": {
+            "en": "11:00–21:00; best 14:30–16:30 (reopened — confirm first)",
+            "zh": "11:00–21:00；建议14:30–16:30（刚重开，先确认）"
+          },
+          "when": {
+            "en": "Not scheduled — near K Hotel",
+            "zh": "未排入行程，离 K Hotel 近"
+          }
+        },
+        {
+          "title": {
+            "en": "Tsui Wah (翠华)",
+            "zh": "翠华"
+          },
+          "desc": {
+            "en": "Order 香滑奶茶, or 冻柠茶 to compare with hand-pounded lemon tea. ¥15–28. The most practical HK-style chain near the hotel; Express menus may be shorter.",
+            "zh": "点香滑奶茶，或冻柠茶和手打柠檬茶对比。¥15–28。酒店附近最方便的港式连锁；Express 店菜单可能较少。"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          },
+          "meta": {
+            "en": "天河城B1层B105 · 体育西路站 C出口（另：北京路天河城A区B1 A014）",
+            "zh": "天河城B1层B105 · 体育西路站 C出口（另：北京路天河城A区B1 A014）"
+          },
+          "hours": {
+            "en": "08:00–22:00; mid-morning or off-peak afternoon",
+            "zh": "08:00–22:00；建议上午或下午非高峰"
+          },
+          "when": {
+            "en": "Not scheduled — near K Hotel",
+            "zh": "未排入行程，离 K Hotel 近"
+          }
+        },
+        {
+          "title": {
+            "en": "Nayuki (奈雪的茶)",
+            "zh": "奈雪的茶"
+          },
+          "desc": {
+            "en": "Order 霸气葡萄 or 茉莉初雪奶茶. ¥15–28. A fruit-tea comparison with HEYTEA, good on a mall break. For kids, a verified tea-free recipe should be asked for.",
+            "zh": "点霸气葡萄或茉莉初雪奶茶。¥15–28。和喜茶对比果茶，适合逛商场时喝。给孩子点要问清楚有没有无茶版本。"
+          },
+          "badge": {
+            "en": "Fruit tea · Milk tea",
+            "zh": "果茶 · 奶茶"
+          },
+          "meta": {
+            "en": "番禺天河城店：万惠二路81号106、107 · 南村万博站 A/B出口",
+            "zh": "番禺天河城店：万惠二路81号106、107 · 南村万博站 A/B出口"
+          },
+          "hours": {
+            "en": "Hours not confirmed; avoid weekend lunch peaks",
+            "zh": "营业时间未确认；避开周末午饭高峰"
+          },
+          "when": {
+            "en": "Dec 24 (Wanbo lunch option)",
+            "zh": "12/24（万博午餐选项）"
+          },
+          "heading": {
+            "en": "Panyu (番禺)",
+            "zh": "番禺区"
+          }
+        },
+        {
+          "title": {
+            "en": "Tsui Wah Express, Panyu Teemall (翠华)",
+            "zh": "翠华 Express（番禺天河城）"
+          },
+          "desc": {
+            "en": "Same brand as above; convenient if already eating in Wanbo.",
+            "zh": "同上品牌；如果在万博吃饭，顺便喝。"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          },
+          "meta": {
+            "en": "万博一路201号粤海天河城负一层A区B1125 · 南村万博站 A/B出口",
+            "zh": "万博一路201号粤海天河城负一层A区B1125 · 南村万博站 A/B出口"
+          },
+          "hours": {
+            "en": "10:00–22:00",
+            "zh": "10:00–22:00"
+          },
+          "when": {
+            "en": "Dec 24 (Wanbo lunch option)",
+            "zh": "12/24（万博午餐选项）"
+          }
+        },
+        {
+          "title": {
+            "en": "Lan Fong Yuen (蘭芳園)",
+            "zh": "蘭芳園"
+          },
+          "desc": {
+            "en": "Order 丝袜奶茶 (silk-stocking milk tea); 鸳鸯 only for adults (coffee + tea). HK$25–40. The heritage milk-tea stop, recommended by the HK Tourism Board. Takeaway fits the day better. Cash advised.",
+            "zh": "点丝袜奶茶；鸳鸯（咖啡＋茶）只给大人。HK$25–40。最有代表性的港式奶茶老店，香港旅游发展局推荐。外带更省时间，建议带现金。"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          },
+          "meta": {
+            "en": "中环结志街2号 · 中环站 D2出口，上坡步行",
+            "zh": "中环结志街2号 · 中环站 D2出口，上坡步行"
+          },
+          "hours": {
+            "en": "Mon–Sat 07:30–18:00, closed Sun; long queues at meal times",
+            "zh": "周一至六07:30–18:00，周日休息；饭点排队长"
+          },
+          "when": {
+            "en": "Dec 30 lunch in Central (option)",
+            "zh": "12/30 中环午餐（可选）"
+          },
+          "placeId": "lan-fong-yuen-central",
+          "heading": {
+            "en": "Hong Kong (香港)",
+            "zh": "香港"
+          }
+        },
+        {
+          "title": {
+            "en": "Capital Café (華星冰室)",
+            "zh": "華星冰室"
+          },
+          "desc": {
+            "en": "Order milk tea with scrambled-egg toast or a crispy condensed-milk bun. HK$25–40 per drink. Fits the Wan Chai ice-café stop, so no extra detour is needed.",
+            "zh": "点奶茶配炒蛋多士或脆皮奶油猪仔包。饮品HK$25–40。正好是湾仔冰室那一站，不用另外绕路。"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          },
+          "meta": {
+            "en": "湾仔克街6号广生行大厦地下B1 · 湾仔站 A4出口",
+            "zh": "湾仔克街6号广生行大厦地下B1 · 湾仔站 A4出口"
+          },
+          "hours": {
+            "en": "About 07:00–21:00/22:00; moderate–high queues",
+            "zh": "约07:00–21:00/22:00；排队中到长"
+          },
+          "when": {
+            "en": "Dec 30 15:15 (Wan Chai ice café)",
+            "zh": "12/30 15:15（湾仔冰室）"
+          },
+          "placeId": "capital-cafe-wanchai"
+        },
+        {
+          "title": {
+            "en": "CHAGEE (霸王茶姬)",
+            "zh": "霸王茶姬"
+          },
+          "desc": {
+            "en": "Order 伯牙绝弦 (jasmine fresh-milk tea). ¥15–23. The reference for tea-forward fresh-milk tea; still a tea drink with caffeine.",
+            "zh": "点伯牙绝弦（茉莉鲜奶茶）。¥15–23。茶味鲜奶茶的代表；仍然是茶饮，有咖啡因。"
+          },
+          "badge": {
+            "en": "Fresh-milk tea",
+            "zh": "鲜奶茶"
+          },
+          "meta": {
+            "en": "维多利广场：体育西路101号L1-104 · 体育西路站 E出口",
+            "zh": "维多利广场：体育西路101号L1-104 · 体育西路站 E出口"
+          },
+          "hours": {
+            "en": "Check the mini-program for hours",
+            "zh": "营业时间以小程序为准"
+          },
+          "when": {
+            "en": "Not scheduled — near K Hotel",
+            "zh": "未排入行程，离 K Hotel 近"
+          },
+          "heading": {
+            "en": "Trends & chains (潮流·连锁)",
+            "zh": "潮流·连锁"
+          }
+        },
+        {
+          "title": {
+            "en": "NINGJI (柠季)",
+            "zh": "柠季"
+          },
+          "desc": {
+            "en": "Order 鸭屎香柠檬茶, or the 2026 lemon-milk drinks (柠檬冰奶) if available. ¥15–25. The best “what’s new in 2026” comparison; one to share is enough.",
+            "zh": "点鸭屎香柠檬茶，或2026年新出的柠檬冰奶（如有）。¥15–25。最能体验“2026新潮流”；买一杯分着试就好。"
+          },
+          "badge": {
+            "en": "Lemon tea · Lemon milk",
+            "zh": "柠檬茶 · 柠檬奶"
+          },
+          "meta": {
+            "en": "东山口店：署前路3号101-18 · 东山口站 E/F出口",
+            "zh": "东山口店：署前路3号101-18 · 东山口站 E/F出口"
+          },
+          "hours": {
+            "en": "09:30–23:00",
+            "zh": "09:30–23:00"
+          },
+          "when": {
+            "en": "Not on the route — only if visiting Dongshankou",
+            "zh": "不在路线上，去东山口才顺路"
           }
         },
         {
@@ -310,114 +630,82 @@
             "zh": "陈文鼎"
           },
           "desc": {
-            "en": "Guangzhou brand founded 2022; brown-sugar boba fresh milk, about ¥10.",
-            "zh": "2022年创立的广州品牌，黑糖珍珠鲜奶，约¥10。"
-          },
-          "when": {
-            "en": "Not on the route; many branches",
-            "zh": "不在路线上，门店多"
+            "en": "Brown-sugar pearl milk tea brand, founded 2022. ¥10–18. No reliable nearby branch was confirmed; the brand’s own store map should be checked at the hotel.",
+            "zh": "2022年创立的黑糖珍珠奶茶品牌。¥10–18。没有找到可靠的附近门店；到酒店后用品牌小程序找。"
           },
           "badge": {
             "en": "Milk tea",
             "zh": "奶茶"
+          },
+          "when": {
+            "en": "Not pinned — branch unverified",
+            "zh": "未定位，门店未核实"
+          },
+          "heading": {
+            "en": "Not pinned yet (未定位)",
+            "zh": "暂未定位"
           }
         },
         {
           "title": {
-            "en": "Bao Zhu Gong (煲珠公)",
-            "zh": "煲珠公"
+            "en": "Shao Ning (烧柠)",
+            "zh": "烧柠"
           },
           "desc": {
-            "en": "Old-style brown-sugar boba milk tea; branches across Guangdong.",
-            "zh": "老红糖珍珠奶茶，广东门店密集。"
-          },
-          "when": {
-            "en": "Not on the route; many branches",
-            "zh": "不在路线上，门店多"
-          },
-          "badge": {
-            "en": "Milk tea",
-            "zh": "奶茶"
-          }
-        },
-        {
-          "title": {
-            "en": "Guang Ye Tea Stall (廣也茶檔)",
-            "zh": "廣也茶檔"
-          },
-          "desc": {
-            "en": "Old-school Hong Kong-style silk-stocking milk tea.",
-            "zh": "复刻香港街头的港式丝袜奶茶老店。"
-          },
-          "meta": {
-            "en": "Changshou Road, Liwan (branch unverified)",
-            "zh": "荔湾长寿路（门店未核实）"
-          },
-          "when": {
-            "en": "Near the Dec 21–23 hotel",
-            "zh": "靠近 12/21–23 的酒店"
-          },
-          "badge": {
-            "en": "HK milk tea",
-            "zh": "港式奶茶"
-          }
-        },
-        {
-          "title": {
-            "en": "milkplus (泰式奶茶)",
-            "zh": "milkplus 泰式奶茶"
-          },
-          "desc": {
-            "en": "Long-running Thai milk tea specialist.",
-            "zh": "广州老牌泰式奶茶专门店。"
-          },
-          "meta": {
-            "en": "Tianhe South (per articles)",
-            "zh": "天河南（据报道）"
-          },
-          "when": {
-            "en": "Near K Hotel",
-            "zh": "K Hotel 附近"
-          },
-          "badge": {
-            "en": "Thai milk tea",
-            "zh": "泰式奶茶"
-          }
-        },
-        {
-          "title": {
-            "en": "TANING (挞柠)",
-            "zh": "挞柠 TANING"
-          },
-          "desc": {
-            "en": "Hand-pounded lemon tea served in a pouch; about ¥9.",
-            "zh": "袋装手打柠檬茶，约¥9，性价比高。"
-          },
-          "when": {
-            "en": "Not on the route",
-            "zh": "不在路线上"
+            "en": "Jiangmen brand with “roasted lemon” tea; no verified branch near the hotels. Optional if one is passed.",
+            "zh": "江门品牌，主打烧制柠檬；酒店附近没有核实到门店。路过再试。"
           },
           "badge": {
             "en": "Lemon tea",
             "zh": "柠檬茶"
+          },
+          "when": {
+            "en": "Not pinned — branch unverified",
+            "zh": "未定位，门店未核实"
           }
         },
         {
           "title": {
-            "en": "Shao Ning (烧柠) · HEYTEA (喜茶)",
-            "zh": "烧柠 · 喜茶"
+            "en": "Ordering words",
+            "zh": "点单用语"
           },
           "desc": {
-            "en": "Top of the Guangdong rankings; reliable chains found almost everywhere.",
-            "zh": "广东榜单前列，连锁门店到处都有，稳妥之选。"
+            "en": "Less sweet 少糖／三分糖 · Half 半糖 · No added sugar 不额外加糖 · Less ice 少冰 · No ice 去冰 · Hot 热饮 · No tea base 不要茶底／能做无茶版吗？ · HK cafés: sugar on the side 糖另上.",
+            "zh": "少糖／三分糖 · 半糖 · 不额外加糖 · 少冰 · 去冰 · 热饮 · 不要茶底／能做无茶版吗？ · 港式茶餐厅：糖另上。"
           },
-          "when": {
-            "en": "Anywhere",
-            "zh": "随处可见"
+          "heading": {
+            "en": "Good to know",
+            "zh": "小贴士"
+          }
+        },
+        {
+          "title": {
+            "en": "Kids and caffeine",
+            "zh": "孩子与咖啡因"
           },
-          "badge": {
-            "en": "Chains",
-            "zh": "连锁"
+          "desc": {
+            "en": "Lemon tea, fruit tea and “fresh milk” drinks usually contain tea. HK milk tea is strong; a full cup is not advised for children. Ask for plain milk, juice or a recipe confirmed tea-, coffee- and cocoa-free.",
+            "zh": "柠檬茶、果茶、“鲜奶”茶一般都含茶。港式奶茶很浓，不建议给孩子喝一整杯。可以点纯牛奶、果汁，或确认不含茶、咖啡、可可的饮品。"
+          }
+        },
+        {
+          "title": {
+            "en": "Ordering ahead",
+            "zh": "提前下单"
+          },
+          "desc": {
+            "en": "Use the brand’s official WeChat/Alipay mini-program → 到店自取 (pickup); the branch address should be checked before paying. A counter-order fallback should be kept.",
+            "zh": "用品牌官方微信／支付宝小程序 → 到店自取；付款前核对门店地址。保留到柜台点单的备选。"
+          }
+        },
+        {
+          "title": {
+            "en": "Names and copycats",
+            "zh": "改名与山寨"
+          },
+          "desc": {
+            "en": "LINLEE was formerly 邻里 (renamed 2021 due to copycats). HEYTEA was formerly 皇茶. 茶理宜世 appears as Charlie’s Tea or TEEPLUSH. The old Sheung Wan Lan Fong Yuen has closed; Central and TST remain.",
+            "zh": "LINLEE 原名邻里（2021年因山寨改名）。喜茶原名皇茶。茶理宜世英文名有 Charlie’s Tea 和 TEEPLUSH。蘭芳園上环旧店已关，中环和尖沙咀仍营业。"
           }
         }
       ]

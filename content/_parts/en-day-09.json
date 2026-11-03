@@ -154,18 +154,24 @@
         },
         {
           "time": "15:15",
-          "title": "Wan Chai cha chaan teng (湾仔冰室)",
-          "walk": "Get off at Wan Chai",
+          "title": "Capital Café (華星冰室)",
+          "walk": "Wan Chai MTR Exit A4, walk to 6 Heard Street",
           "tags": [
             "Dessert"
           ],
           "food": [
             {
+              "name": "Milk tea, scrambled-egg toast, crispy condensed-milk bun (奶茶、炒蛋多士、脆皮奶油猪仔包)",
+              "desc": "Capital Café signatures",
+              "dish": true
+            },
+            {
               "name": "Pineapple bun with butter, iced lemon tea (菠萝油、冻柠茶)",
               "desc": "Hong Kong café essentials",
               "dish": true
             }
-          ]
+          ],
+          "desc": "Well-known Hong Kong ice café: milk tea with scrambled-egg toast or a crispy condensed-milk bun. Shared tables are accepted when queues are long."
         },
         {
           "time": "15:45",

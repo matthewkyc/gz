@@ -485,5 +485,44 @@
       "en": "Map pin is approximate; the shop is in Chengyi Hui mall B1, by Metro exit C.",
       "zh": "地图位置为估算，店在城壹汇负一层，越秀公园地铁站C口旁。"
     }
+  },
+  {
+    "id": "capital-cafe-wanchai",
+    "aliases": [
+      "華星冰室"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Capital Café (Wan Chai)",
+      "zh": "華星冰室（湾仔）"
+    },
+    "city": "Hong Kong",
+    "query": "Capital Cafe 華星冰室 6 Heard Street Wan Chai Hong Kong",
+    "lat": 22.2776,
+    "lng": 114.173,
+    "summary": {
+      "en": "Popular Hong Kong ice café known for milk tea and scrambled-egg toast.",
+      "zh": "香港人气冰室，奶茶和炒蛋多士出名。"
+    },
+    "why": {
+      "en": "Capital Café is one of Hong Kong’s best-known cha chaan teng-style ice cafés. Silky milk tea is served with fluffy scrambled-egg toast or a crispy condensed-milk bun, the classic afternoon break. It fits the Wan Chai stop on the way back to West Kowloon.",
+      "zh": "華星冰室是香港最有名的冰室之一。滑奶茶配嫩滑炒蛋多士或脆皮奶油猪仔包，是经典下午茶。正好在回西九龙前的湾仔站。"
+    },
+    "mustTry": {
+      "en": [
+        "Milk tea (奶茶)",
+        "Scrambled-egg toast (炒蛋多士)",
+        "Crispy condensed-milk bun (脆皮奶油猪仔包)"
+      ],
+      "zh": [
+        "奶茶",
+        "炒蛋多士",
+        "脆皮奶油猪仔包"
+      ]
+    },
+    "tips": {
+      "en": "Queues are moderate to long; shared tables are normal. Hours are roughly 07:00–21:00/22:00.",
+      "zh": "排队中到长，拼桌很正常。营业时间约07:00–21:00/22:00。"
+    }
   }
 ]

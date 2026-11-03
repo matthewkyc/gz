@@ -250,9 +250,9 @@ function GuideView({ guide, places, onOpenPlace }: { guide: GuideSection; places
           <section key={k} id={`gsec-${guide.id}-${k}`} className="gsec">
             {g.heading && (
               <h4 className="gsec-head">
-                <i className={`fa-solid ${guide.id === "shopping" && counted ? "fa-location-dot" : "fa-circle-info"}`} aria-hidden />
+                <i className={`fa-solid ${counted ? "fa-location-dot" : "fa-circle-info"}`} aria-hidden />
                 <span>{t(g.heading)}</span>
-                {guide.id === "shopping" && counted > 0 && (
+                {counted > 0 && (
                   <small>{lang === "en" ? `${counted} ${counted === 1 ? "place" : "places"}` : `${counted} 个地点`}</small>
                 )}
               </h4>
