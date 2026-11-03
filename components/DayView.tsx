@@ -48,6 +48,7 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
         </div>
         <div className="chips dh-reveal">
           <span className="chip"><i className="fa-solid fa-hotel" aria-hidden />{t(trip.stays[day.stay].area)}</span>
+          {day.away && <span className="chip chip-away"><i className="fa-solid fa-plane-departure" aria-hidden />{t(day.away)}</span>}
           <span className="chip mono"><i className="fa-regular fa-calendar" aria-hidden />{lang === "en" ? `Day ${day.index + 1}/${trip.days.length}` : `第 ${day.index + 1}/${trip.days.length} 天`}</span>
           {span && <span className="chip mono"><i className="fa-regular fa-clock" aria-hidden />{span}</span>}
           {!day.locked && <span className="chip chip-accent"><i className="fa-solid fa-pen-ruler" aria-hidden />{ui("flexible")}</span>}

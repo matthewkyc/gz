@@ -54,7 +54,23 @@
     {
       "start": "17:45",
       "end": "18:30",
-      "title": "Dinner: near the hotel"
+      "title": "Dinner: near the hotel or Guangzhou Restaurant",
+      "food": [
+        {
+          "name": "Near the hotel",
+          "desc": "Grandview Mall / Teemall area; back to the hotel, then a taxi to Tianzi Pier"
+        },
+        {
+          "name": "Guangzhou Restaurant, Wenchang flagship (广州酒家（文昌总店）)",
+          "desc": "2 Wenchang South Road; Cantonese institution since 1935"
+        },
+        {
+          "name": "Wenchang chicken, shrimp dumplings, roast meats (文昌鸡、虾饺、烧味)",
+          "desc": "Guangzhou Restaurant signatures",
+          "dish": true
+        }
+      ],
+      "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~17:15 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
     },
     {
       "start": "18:30",

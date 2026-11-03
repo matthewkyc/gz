@@ -64,6 +64,14 @@
         {
           "name": "Baohua Noodle Shop (宝华面店)",
           "desc": "A morning bowl of bamboo-pole wonton noodles"
+        },
+        {
+          "name": "Ng Zham Kee (伍湛记)",
+          "desc": "Longjin East Road; jidi congee with salted fried cakes. Opens 08:00."
+        },
+        {
+          "name": "Chen Tim Kee (陈添记)",
+          "desc": "Baohua Road; crunchy fish skin with sampan congee. Google lists opening at 10:00, so it may be closed at 08:00."
         }
       ]
     },
@@ -220,8 +228,17 @@
       "route": [
         {
           "time": "14:15",
+          "title": "Shun Kee Ice Bar (顺记冰室)",
+          "walk": "West from Tao Tao Ju, ~3 min on foot to 85 Baohua Road",
+          "desc": "Old ice bar on the way; signature coconut and mango ice cream. Ice cream was already had at noon, so one cup can be shared.",
+          "tags": [
+            "Dessert"
+          ]
+        },
+        {
+          "time": "14:25",
           "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
-          "walk": "Turn off Dishifu Road into Zhanlu Straight Street (湛露直街), ~3 min",
+          "walk": "Back from Baohua Road to Dishifu Road, then into Zhanlu Zhijie; ~3 min on foot",
           "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
           "tags": [
             "Photo spot"

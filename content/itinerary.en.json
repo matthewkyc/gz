@@ -141,18 +141,27 @@
             {
               "time": "18:00",
               "title": "Dinner",
-              "walk": "Back to the west end of Dishifu Road, then north ~5 min to Wenchang North Road",
+              "walk": "Back to the west end of Dishifu Road. Chen Tim Kee is in Lane 3, Shiwufu, Baohua Road; Yinji is on Wenchang North Road. Both ~5 min on foot.",
               "tags": [
                 "Dinner"
               ],
               "food": [
                 {
+                  "name": "Chen Tim Kee (陈添记)",
+                  "desc": "Lane 3, Shiwufu, Baohua Road; a Xiguan snack shop tucked in an alley"
+                },
+                {
                   "name": "Yinji Rice Rolls (银记肠粉)",
                   "desc": "Original shop on Wenchang North Road"
                 },
                 {
+                  "name": "Crunchy fish skin, sampan congee (爽鱼皮、艇仔粥)",
+                  "desc": "Chen Tim Kee signatures",
+                  "dish": true
+                },
+                {
                   "name": "Shrimp rice rolls, beef rice rolls (鲜虾肠粉、牛肉肠粉)",
-                  "desc": "Add a bowl of congee",
+                  "desc": "Yinji signatures; add a bowl of congee",
                   "dish": true
                 }
               ]
@@ -219,6 +228,10 @@
             {
               "name": "Ng Zham Kee (伍湛记)",
               "desc": "Jidi congee (及第粥) with fried dough sticks (油条)"
+            },
+            {
+              "name": "Chen Tim Kee (陈添记)",
+              "desc": "Baohua Road; crunchy fish skin with sampan congee. Google lists opening at 10:00, so it may be closed at 08:00."
             }
           ]
         },
@@ -551,6 +564,14 @@
             {
               "name": "Baohua Noodle Shop (宝华面店)",
               "desc": "A morning bowl of bamboo-pole wonton noodles"
+            },
+            {
+              "name": "Ng Zham Kee (伍湛记)",
+              "desc": "Longjin East Road; jidi congee with salted fried cakes. Opens 08:00."
+            },
+            {
+              "name": "Chen Tim Kee (陈添记)",
+              "desc": "Baohua Road; crunchy fish skin with sampan congee. Google lists opening at 10:00, so it may be closed at 08:00."
             }
           ]
         },
@@ -707,8 +728,17 @@
           "route": [
             {
               "time": "14:15",
+              "title": "Shun Kee Ice Bar (顺记冰室)",
+              "walk": "West from Tao Tao Ju, ~3 min on foot to 85 Baohua Road",
+              "desc": "Old ice bar on the way; signature coconut and mango ice cream. Ice cream was already had at noon, so one cup can be shared.",
+              "tags": [
+                "Dessert"
+              ]
+            },
+            {
+              "time": "14:25",
               "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
-              "walk": "Turn off Dishifu Road into Zhanlu Straight Street (湛露直街), ~3 min",
+              "walk": "Back from Baohua Road to Dishifu Road, then into Zhanlu Zhijie; ~3 min on foot",
               "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
               "tags": [
                 "Must-see"
@@ -820,6 +850,14 @@
             {
               "name": "Yinji Rice Rolls (银记肠粉)",
               "desc": "Last rice-roll breakfast in the old city"
+            },
+            {
+              "name": "Ng Zham Kee (伍湛记)",
+              "desc": "Longjin East Road; jidi congee with salted fried cakes. Opens 08:00."
+            },
+            {
+              "name": "Chen Tim Kee (陈添记)",
+              "desc": "Baohua Road; crunchy fish skin with sampan congee. Google lists opening at 10:00, so it may be closed at 08:00."
             }
           ]
         },
@@ -1524,6 +1562,7 @@
       "dow": "Mon",
       "locked": true,
       "theme": "Shenzhen tech day trip",
+      "away": "Shenzhen",
       "intro": "Today is focused on Shenzhen's robots and AI. In the morning, the world's first Robot 6S Store and the AI 6S Store are visited in Bantian, Longgang. In the afternoon, exoskeletons and smart glasses are tried at INNO100 in Shenzhen Bay Culture Plaza, Nanshan. Sunset is watched at Shenzhen Bay before dinner. High-speed rail both ways, with a local chartered car for the day.",
       "items": [
         {
@@ -1895,6 +1934,7 @@
       "dow": "Wed",
       "locked": true,
       "theme": "Hong Kong day trip",
+      "away": "Hong Kong",
       "intro": "Today is about giving the kids a Hong Kong day to remember: the century-old Star Ferry across Victoria Harbour, the Peak Tram up to Victoria Peak, photos with celebrity figures at Madame Tussauds, then a Ding Ding tram across Hong Kong Island. HSR tickets, Peak Tram and Madame Tussauds tickets should all be bought online in advance.",
       "items": [
         {
@@ -2366,6 +2406,7 @@
       "dow": "Sat",
       "locked": true,
       "theme": "Foshan + Shunde day trip",
+      "away": "Foshan · Shunde",
       "intro": "Today is about Foshan martial arts and Shunde food. Departure is at 8:00 to catch the 10:00 lion dance and kung fu show at Foshan Ancestral Temple, followed by the Wong Fei-hung Memorial Hall and Ip Man Hall. Midday is spent strolling the old streets of Lingnan Tiandi with lunch, then back to the temple for the weekend-only Cantonese opera at Wanfu Stage. In the afternoon, Qinghui Garden and Huagai Road in Daliang, Shunde, are visited; dinner in Shunde at 17:30, then back to Guangzhou. A chartered car is used all day.",
       "items": [
         {
@@ -2693,7 +2734,23 @@
         {
           "start": "17:45",
           "end": "18:30",
-          "title": "Dinner: near the hotel"
+          "title": "Dinner: near the hotel or Guangzhou Restaurant",
+          "food": [
+            {
+              "name": "Near the hotel",
+              "desc": "Grandview Mall / Teemall area; back to the hotel, then a taxi to Tianzi Pier"
+            },
+            {
+              "name": "Guangzhou Restaurant, Wenchang flagship (广州酒家（文昌总店）)",
+              "desc": "2 Wenchang South Road; Cantonese institution since 1935"
+            },
+            {
+              "name": "Wenchang chicken, shrimp dumplings, roast meats (文昌鸡、虾饺、烧味)",
+              "desc": "Guangzhou Restaurant signatures",
+              "dish": true
+            }
+          ],
+          "tip": "If Guangzhou Restaurant is chosen, the hotel should be left ~17:15 (taxi ~30 min). Afterwards a taxi goes straight to Tianzi Pier (~15 min); no return to the hotel is needed."
         },
         {
           "start": "18:30",

@@ -68,7 +68,7 @@ export function loadContent(): { trip: Trip; places: Places } {
     const { prev, how } = sequence(list, places[STAY_HOTELS[zd.stay]] ? STAY_HOTELS[zd.stay] : undefined);
     return {
       index, iso: isoFromZh(zd.date), stay: zd.stay, locked: !!zd.locked,
-      theme: req(zd.theme, ed?.theme), intro: pair(zd.intro, ed?.intro),
+      theme: req(zd.theme, ed?.theme), intro: pair(zd.intro, ed?.intro), away: pair(zd.away, ed?.away),
       backup: zd.backup && {
         title: req(zd.backup.title, ed?.backup?.title), note: pair(zd.backup.note, ed?.backup?.note),
         items: items(zd.backup.items, ed?.backup?.items),

@@ -54,9 +54,9 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
               <button
                 type="button"
                 data-i={i}
-                className={`sq${sel ? " sel" : ""}${d.locked ? "" : " flex"}`}
+                className={`sq${sel ? " sel" : ""}${d.locked ? "" : " flex"}${d.away ? " away" : ""}`}
                 aria-current={sel ? "date" : undefined}
-                aria-label={`${p.monthEn} ${p.day}, ${p.dowEn}`}
+                aria-label={`${p.monthEn} ${p.day}, ${p.dowEn}${d.away ? ` · ${d.away.en}` : ""}`}
                 onClick={() => onSelect(i)}
               >
                 {sel && <motion.span layoutId="sq-sel" className="sq-bg" transition={{ type: "spring", stiffness: 520, damping: 38 }} />}

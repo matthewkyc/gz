@@ -13,6 +13,7 @@
   --accent: #f26b22;
   --accent-ink: #c4500f;
   --accent-soft: rgba(242, 107, 34, 0.1);
+  --away: #0a84ff;
   --glass: rgba(255, 255, 255, 0.78);
   --flag: #ef6b6b;
   --shadow: 0 10px 40px rgba(0, 0, 0, 0.12);
@@ -35,6 +36,7 @@
     --accent: #ff7a33;
     --accent-ink: #ff9a5c;
     --accent-soft: rgba(255, 122, 51, 0.16);
+    --away: #409cff;
     --glass: rgba(0, 0, 0, 0.72);
     --flag: #ff8f8f;
     --shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
@@ -149,6 +151,11 @@ h1, h2, h3, h4, p { margin: 0; }
 .sq-dow { font-size: 10px; font-weight: 600; letter-spacing: 0.06em; color: var(--ink2); }
 .sq-num { font-size: 21px; font-weight: 600; letter-spacing: -0.02em; line-height: 1; }
 .sq.sel .sq-dow, .sq.sel .sq-num { color: #fff; }
+.sq.away { background: color-mix(in srgb, var(--away) 14%, var(--bg2)); }
+.sq.away:hover { background: color-mix(in srgb, var(--away) 22%, var(--bg2)); }
+.sq.away .sq-dow { color: var(--away); }
+.sq.away .sq-bg { background: var(--away); box-shadow: 0 6px 16px color-mix(in srgb, var(--away) 25%, transparent); }
+.sq.away.sel .sq-dow { color: #fff; }
 .sq-today { position: absolute !important; bottom: 6px; width: 4px; height: 4px; border-radius: 50%; background: var(--accent); }
 .sq.sel .sq-today { background: #fff; }
 
@@ -220,6 +227,8 @@ h1, h2, h3, h4, p { margin: 0; }
 .chip i { color: var(--ink3); font-size: 12px; }
 .chip-accent { background: var(--accent-soft); color: var(--accent-ink); }
 .chip-accent i { color: var(--accent); }
+.chip-away { background: color-mix(in srgb, var(--away) 14%, var(--bg2)); color: var(--away); }
+.chip-away i { color: var(--away); }
 .theme { font-size: clamp(26px, 7vw, 34px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; margin-top: 14px; text-wrap: balance; }
 .intro {
   margin-top: 16px;

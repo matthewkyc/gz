@@ -119,18 +119,27 @@
         {
           "time": "18:00",
           "title": "Dinner",
-          "walk": "Back to the west end of Dishifu Road, then north ~5 min to Wenchang North Road",
+          "walk": "Back to the west end of Dishifu Road. Chen Tim Kee is in Lane 3, Shiwufu, Baohua Road; Yinji is on Wenchang North Road. Both ~5 min on foot.",
           "tags": [
             "Dinner"
           ],
           "food": [
             {
+              "name": "Chen Tim Kee (陈添记)",
+              "desc": "Lane 3, Shiwufu, Baohua Road; a Xiguan snack shop tucked in an alley"
+            },
+            {
               "name": "Yinji Rice Rolls (银记肠粉)",
               "desc": "Original shop on Wenchang North Road"
             },
             {
+              "name": "Crunchy fish skin, sampan congee (爽鱼皮、艇仔粥)",
+              "desc": "Chen Tim Kee signatures",
+              "dish": true
+            },
+            {
               "name": "Shrimp rice rolls, beef rice rolls (鲜虾肠粉、牛肉肠粉)",
-              "desc": "Add a bowl of congee",
+              "desc": "Yinji signatures; add a bowl of congee",
               "dish": true
             }
           ]

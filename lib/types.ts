@@ -12,7 +12,7 @@ export interface RawItem {
 }
 export interface RawDay {
   stay: number; date: string; dow: string; locked?: boolean; theme: string;
-  pace?: string; intro?: string;
+  pace?: string; intro?: string; away?: string;
   backup?: { title: string; note?: string; items: RawItem[] };
   items: RawItem[];
 }
@@ -35,7 +35,7 @@ export interface Item {
   group?: "a" | "k"; food: Food[]; route: Stop[]; tip?: T; placeId?: string;
 }
 export interface Day {
-  index: number; iso: string; stay: number; locked: boolean; theme: T; intro?: T;
+  index: number; iso: string; stay: number; locked: boolean; theme: T; intro?: T; away?: T;
   backup?: { title: T; note?: T; items: Item[] };
   items: Item[];
   /** placeId → previous placeId in the day's walking order (first falls back to the hotel). */
