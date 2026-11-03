@@ -1,0 +1,830 @@
+{
+  "avenue-of-stars": {
+    "image": "/places/avenue-of-stars.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 22.2959261,
+    "lng": 114.1768374
+  },
+  "baima-clothing-market": {
+    "image": "/places/baima-clothing-market.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 712,
+    "lat": 23.146736,
+    "lng": 113.254239,
+    "reviews": [
+      {
+        "author": "Wellington Chamunorwa Muzondo",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "The latest fashion at excellent quality and awesome prices! You need a lot of time here. Do plan to spend the whole day shopping. The place could do with a few more well priced restaurants."
+      },
+      {
+        "author": "intan pertiwi",
+        "rating": 5,
+        "when": "10 months ago",
+        "text": "A planet full of quality clothing with wholesale price. Any shoes, bag, accessories, dresses, you can get lost inside and would want to buy everything. You will end up being overweight in your flight back to your country."
+      },
+      {
+        "author": "TTC_GROUP01 TTC",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "Wonderful place to visit if you love buying clothes and cases. You can speak Chinese speak English and buy something cheap at this place"
+      }
+    ]
+  },
+  "beijing-road-ancient-road": {
+    "image": "/places/beijing-road-ancient-road.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.9,
+    "reviewCount": 16,
+    "lat": 23.124988,
+    "lng": 113.268854,
+    "reviews": [
+      {
+        "author": "不想上班卻天天上班的旅人",
+        "rating": 5,
+        "when": "Edited 9 months ago",
+        "text": "Beijing Road Pedestrian Street is crowded, but the overall flow is smooth, so you won't get frustrated. Midway through the street, you can see ancient road relics displayed through glass."
+      },
+      {
+        "author": "Sharu Hakkim",
+        "rating": 5,
+        "when": "5 years ago",
+        "text": "Normally crowded, try to visit during weekdays. It's called , Site of the Millennium Ancient Road on Beijing Road The site of a city street dating back to the seventh centuryIn the summer of 2002, the remains of an ancient street were discovered under…"
+      },
+      {
+        "author": "Yew Kok Teoh",
+        "rating": 4,
+        "when": "6 years ago",
+        "text": "A sampling miniature relics mimicking the ancient China town walkway 1000 years ago."
+      }
+    ]
+  },
+  "canton-tower-bubble-tram": {
+    "image": "/places/canton-tower-bubble-tram.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 1161,
+    "lat": 23.107481,
+    "lng": 113.3401572,
+    "reviews": [
+      {
+        "author": "David Mulard",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Guangzhou Tower (Canton Tower) is an absolute must-visit when in Guangzhou! The views from the top are simply breathtaking—especially at night when the city lights up in a dazzling display."
+      },
+      {
+        "author": "joel pinto",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Visited the stunning Canton Tower at night during my trip to Guangzhou. The colorful lights and breathtaking skyline made it an unforgettable experience. Truly one of the most beautiful sights in the city!"
+      },
+      {
+        "author": "Ziyang Jin",
+        "rating": 4,
+        "when": "6 months ago",
+        "text": "It’s very cool but it is similar to the other towers around cities in the world. My main complaint is the long line-up. The view on top is cool but you need to be lucky that the day is clear so you can enjoy the view."
+      }
+    ]
+  },
+  "chimelong-dive-coaster": {
+    "image": "/places/chimelong-dive-coaster.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 489,
+    "lat": 22.99665,
+    "lng": 113.328853,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+      },
+      {
+        "author": "Cola Bank",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+      },
+      {
+        "author": "ZhanYuan",
+        "rating": 4,
+        "when": "8 months ago",
+        "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+      }
+    ]
+  },
+  "chimelong-food-town": {
+    "image": "/places/chimelong-food-town.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 489,
+    "lat": 22.99665,
+    "lng": 113.328853,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+      },
+      {
+        "author": "Cola Bank",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+      },
+      {
+        "author": "ZhanYuan",
+        "rating": 4,
+        "when": "8 months ago",
+        "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+      }
+    ]
+  },
+  "chimelong-hotel-white-tiger-buffet": {
+    "image": "/places/chimelong-hotel-white-tiger-buffet.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.3,
+    "reviewCount": 4,
+    "lat": 23.0023413,
+    "lng": 113.32766,
+    "reviews": [
+      {
+        "author": "Edwin Fong",
+        "rating": 5,
+        "when": "8 years ago",
+        "text": "Many varieties, delicious"
+      },
+      {
+        "author": "C C",
+        "rating": 3,
+        "when": "a year ago",
+        "text": "I had dinner and breakfast in the restaurant. I purchased the meal coupons from taobao, which is cheaper than the published price. Kids enjoyed watching the two (?) white tigers and flamingoes from the restaurant windows."
+      },
+      {
+        "author": "Keith Huang (MrKeithHuang)",
+        "rating": 3,
+        "when": "a week ago",
+        "text": "Restaurant gets extremely busy at breakfast, and the food quality is average at best. In terms of food for the same price, I would try somewhere nearby if you are willing to spend 10 minutes getting there."
+      }
+    ]
+  },
+  "chimelong-panda-hotel": {
+    "image": "/places/chimelong-panda-hotel.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 22,
+    "lat": 23.005314,
+    "lng": 113.33206
+  },
+  "chimelong-rocket-coaster": {
+    "image": "/places/chimelong-rocket-coaster.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 489,
+    "lat": 22.99665,
+    "lng": 113.328853,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+      },
+      {
+        "author": "Cola Bank",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+      },
+      {
+        "author": "ZhanYuan",
+        "rating": 4,
+        "when": "8 months ago",
+        "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+      }
+    ]
+  },
+  "chimelong-safari-park": {
+    "image": "/places/chimelong-safari-park.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 306,
+    "lat": 23.007277,
+    "lng": 113.315897,
+    "reviews": [
+      {
+        "author": "Keith Huang (MrKeithHuang)",
+        "rating": 4,
+        "when": "a week ago",
+        "text": "A great full-day outing with young children, but plan your route carefully—it is huge and involves a lot of walking."
+      },
+      {
+        "author": "Matthias",
+        "rating": 5,
+        "when": "10 months ago",
+        "text": "It's a good idea to rent a driver and car. You are much closer at most locations than the train and you do not have to wait. For me and my children the safari was the best zoo experience ever."
+      },
+      {
+        "author": "alex chu",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "A nice, world class zoo located not far from where the Canton Expo is held. It’s easy to trek inside the zoo with lots of direction arrows pointing to zoo highlights, ie the Chinese panda, koalas, white tigers, etc."
+      }
+    ]
+  },
+  "chimelong-super-pendulum": {
+    "image": "/places/chimelong-super-pendulum.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 489,
+    "lat": 22.99665,
+    "lng": 113.328853,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+      },
+      {
+        "author": "Cola Bank",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+      },
+      {
+        "author": "ZhanYuan",
+        "rating": 4,
+        "when": "8 months ago",
+        "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+      }
+    ]
+  },
+  "china-seasoning-culture-museum": {
+    "image": "/places/china-seasoning-culture-museum.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.0292982,
+    "lng": 113.1147276
+  },
+  "fengyuan-street-xiguan-mansions": {
+    "image": "/places/fengyuan-street-xiguan-mansions.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 183,
+    "lat": 23.112177,
+    "lng": 113.244776
+  },
+  "from-k-hotel-tiyuxi": {
+    "image": "/places/from-k-hotel-tiyuxi.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 45,
+    "lat": 23.128054,
+    "lng": 113.321682
+  },
+  "gongyuanqian-station": {
+    "image": "/places/gongyuanqian-station.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 34,
+    "lat": 23.125444,
+    "lng": 113.264181,
+    "reviews": [
+      {
+        "author": "Runsheng He",
+        "rating": 4,
+        "when": "8 years ago",
+        "text": "It's the station that you can walk to the Beijing Road. Parks, museums are all around."
+      },
+      {
+        "author": "Iyan",
+        "rating": 5,
+        "when": "8 years ago",
+        "text": "Clean station. Well maintained and helpful staff."
+      },
+      {
+        "author": "Mart B",
+        "rating": 5,
+        "when": "6 years ago",
+        "text": "As a european, i really like the atmosphere, the mix between new and old buildings. And lot's of restaurant's."
+      }
+    ]
+  },
+  "guangzhou-marriott-tianhe-chinese-restaurant": {
+    "image": "/places/guangzhou-marriott-tianhe-chinese-restaurant.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 303,
+    "lat": 23.1326365,
+    "lng": 113.3262609
+  },
+  "hong-kong-tramways": {
+    "image": "/places/hong-kong-tramways.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 32,
+    "lat": 22.2884311,
+    "lng": 114.1379521,
+    "reviews": [
+      {
+        "author": "Grace Cheung Yin",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "cheapest transport to enjoy a ride from East to West of Hong Kong Island. Can drop off anywhere you like. The front and back of the upper decks are the best seats for street photography. Many trams, beautiful advertisements on both sides."
+      },
+      {
+        "author": "Rajan Narayan",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Hong Kong is a wonderful, tourist friendly destination. I have enjoyed visiting it every time. One of its unique and most attractive highlights are the trams that ply in parts of it. Oh how lovely are they!"
+      },
+      {
+        "author": "D C",
+        "rating": 5,
+        "when": "2 months ago",
+        "text": "See and learn about Hong Kong on a tram! It’s a great commentary, so interesting! Must do!"
+      }
+    ]
+  },
+  "huagai-road-daliang": {
+    "image": "/places/huagai-road-daliang.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 41,
+    "lat": 22.832586,
+    "lng": 113.254413,
+    "reviews": [
+      {
+        "author": "Julian Wong",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "A fairly long walking street in this area. It is not very far from 清晖园, so it is worth a visit if you are in this area. There are a good mix of retails and eateries. The retailing is fairly cheap as compare to those in the big mall."
+      },
+      {
+        "author": "Moiz Malik",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "This place is awesome, but unfortunately I came during the raining season, so not so awesome for me. I would've loved to explore more of this place when it's sunny. This is a picturesque area to see; lots of old world charm and the bustling of the present."
+      },
+      {
+        "author": "Calvin Law",
+        "rating": 5,
+        "when": "2 years ago",
+        "text": "Great place to stay and shop! They literally have everything you need here. And it gets crowded during the day so make sure you go early. Streets are relatively clean."
+      }
+    ]
+  },
+  "jian-family-villas": {
+    "image": "/places/jian-family-villas.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.5,
+    "reviewCount": 4,
+    "lat": 23.030357,
+    "lng": 113.115406
+  },
+  "lei-hei-kee-lingnan-tiandi": {
+    "lat": 23.02948,
+    "lng": 113.11567
+  },
+  "lingnan-tiandi": {
+    "image": "/places/lingnan-tiandi.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 345,
+    "lat": 23.029824,
+    "lng": 113.115466,
+    "reviews": [
+      {
+        "author": "KeeTat Lee",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "Foshan Lingnan Xintiandi (佛山 / 岭南新天地) A beautifully restored area that blends traditional Lingnan architecture with modern cafés, restaurants, and boutique shops. Great place for a relaxed stroll, photography, and dining."
+      },
+      {
+        "author": "Gabino Tacoloy",
+        "rating": 5,
+        "when": "2 months ago",
+        "text": "We were looking for an authentic local market and we came across some historical places free to enter. The was an old Cantonese Opera House where we got to see artists practicing for their performance."
+      },
+      {
+        "author": "小虫WeiXiang",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Beautiful place with lots of cafe and shops available to walk around and explore. Not easy to get lost because most roads are connected"
+      }
+    ]
+  },
+  "liugeng-hall": {
+    "image": "/places/liugeng-hall.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 10,
+    "lat": 22.904799,
+    "lng": 113.333785,
+    "reviews": [
+      {
+        "author": "Weiming Ho",
+        "rating": 4,
+        "when": "2 years ago",
+        "text": "Located in Shawan Ancient Town, this ancestral hall and clan temple, which was first built in the Song Dynasty, has been renovated and is more and more magnificent as descendants of the ancestors have passed the imperial examinations. It is well worth a visit."
+      },
+      {
+        "author": "亮亮",
+        "rating": 5,
+        "when": "10 years ago",
+        "text": "The He Clan Ancestral Hall is of great historical value and worth visiting."
+      },
+      {
+        "author": "wei xie (谢伟)",
+        "rating": 5,
+        "when": "9 years ago",
+        "text": "There weren't many people, but the Lingnan culture was very strong!"
+      }
+    ]
+  },
+  "longtang-poetry-society": {
+    "lat": 23.029671,
+    "lng": 113.115494
+  },
+  "mall-of-the-world": {
+    "image": "/places/mall-of-the-world.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.7,
+    "reviewCount": 6,
+    "lat": 23.126246,
+    "lng": 113.324219,
+    "reviews": [
+      {
+        "author": "sammi Lu",
+        "rating": 4,
+        "when": "7 years ago",
+        "text": "Giving Huacheng Hui a score is a bit of a headache. The environment and scenery above ground are comfortable during the day and dazzling at night, truly wonderful; however, the underground shopping mall is really overwhelming."
+      }
+    ]
+  },
+  "nanxin-dessert": {
+    "image": "/places/nanxin-dessert.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 204,
+    "lat": 23.113514,
+    "lng": 113.242838,
+    "reviews": [
+      {
+        "author": "Bugwagen",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Love the hot double milk curd 传统凤凰炒奶糊, the ginger milk curd 南信姜汁撞奶, and sesame paste ball 石磨黑芝麻糊汤丸. We added red beans to our hot double milk curd and it was good."
+      },
+      {
+        "author": "MCL",
+        "rating": 4,
+        "when": "a month ago",
+        "text": "Guangzhou unique flavors. Good for a light dinner complete with desserts. Have been around since 1934. Just across the road from Tao Tao Ju!!"
+      },
+      {
+        "author": "Jo Lee",
+        "rating": 3,
+        "when": "2 months ago",
+        "text": "Overall summary (3.5/5): A famous, authentic spot for classic Cantonese desserts. The food(3.5/5): The Red Bean Double Skin Milk (红豆双皮奶, ¥17) was the highlight. It was smooth with a good rich milk taste, and the red beans were soft."
+      }
+    ]
+  },
+  "our-lady-of-lourdes-chapel": {
+    "image": "/places/our-lady-of-lourdes-chapel.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 81,
+    "lat": 23.1073138,
+    "lng": 113.2476819,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Our Lady of Lourdes Chapel on Shamian Island is a peaceful and historically rich landmark that offers a quiet escape from the busy city of Guangzhou."
+      },
+      {
+        "author": "gevs",
+        "rating": 4,
+        "when": "a year ago",
+        "text": "I came across this beautiful chapel when I was in Guangzhou recently. It has some really beautiful stained glass windows. The compound wasn't that big but it was filled with a number of nice sculptures and statues. The chapel's interior was cool and serene."
+      },
+      {
+        "author": "Google Lum",
+        "rating": 4,
+        "when": "10 months ago",
+        "text": "Happened to come across this church walking through Shamian park in November recently. The doors were opened and welcoming. Nice stained glass windows but no paintings. Before this went to the Christ Church nearby but it isn't found in Maps."
+      }
+    ]
+  },
+  "panxi-restaurant": {
+    "image": "/places/panxi-restaurant.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.9,
+    "reviewCount": 314,
+    "lat": 23.121346,
+    "lng": 113.236244,
+    "reviews": [
+      {
+        "author": "L-C",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "China's time-honored restaurant serving dim sum in the morning and others for lunch and dinner."
+      },
+      {
+        "author": "derek neo",
+        "rating": 3,
+        "when": "4 months ago",
+        "text": "泮溪酒家 Panxi Restaurant has the grand setting and reputation to match. We came for lunch expecting a lot, given the accolades. The service was good - attentive and professional. But the food didn’t live up to the hype for us."
+      }
+    ]
+  },
+  "pearl-river-night-cruise": {
+    "image": "/places/pearl-river-night-cruise.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 161,
+    "lat": 23.1147692,
+    "lng": 113.2710021,
+    "reviews": [
+      {
+        "author": "Colin Leung",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "100% must do attraction in Guangzhou! River Cruise to Canton Tower to see the beautiful lights along the river. $27 CDN per adult. Has option to eat dinner there too, but wouldn’t recommend. Eat before hand and enjoy the experience fully. A+++++"
+      },
+      {
+        "author": "K T Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Excellent River Pearl River Cruise. Need Passport for international tourists. Security check required via metal detector Suggest to book level 2 tickets with table number - free water or hot tea with a packet of peas."
+      },
+      {
+        "author": "Google Lum",
+        "rating": 4,
+        "when": "10 months ago",
+        "text": "Came here in November recently one late beautiful night. The promenade along the river is a great place to view the city lights, could see the Guangzhou tower distance away (we went closer on another night)."
+      }
+    ]
+  },
+  "shamian-island": {
+    "image": "/places/shamian-island.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 236,
+    "lat": 23.1067982,
+    "lng": 113.2447706,
+    "reviews": [
+      {
+        "author": "Han Lee",
+        "rating": 4,
+        "when": "7 months ago",
+        "text": "Small touristy island on its own with colonial style buildings - so diff from the rest of Guangzhou."
+      }
+    ]
+  },
+  "shawan-ancient-town": {
+    "image": "/places/shawan-ancient-town.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "lat": 22.90417,
+    "lng": 113.33134,
+    "reviews": [
+      {
+        "author": "rn_1604",
+        "rating": 4,
+        "when": "5 months ago",
+        "text": "Shawan Ancient Town is huge! Take your time to stroll along the alleyways and explore through time. You can easily take a day to roam around investigating every nook and cranny. Plenty of shops and food as well. Lovely ancient town."
+      },
+      {
+        "author": "Rob Nesbit",
+        "rating": 5,
+        "when": "Edited 2 months ago",
+        "text": "An ancient town in the Panyu District of Guangzhou - on the outskirts of the city Many side streets, with cool little cafes and eateries, souvenir shops, and interesting art and architecture to see, while the main street of Panyu in itself is also worth…"
+      },
+      {
+        "author": "Julian Wong",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "This ancient settlement is very big and is a living settlement. There are residents actually living in the area. There are a two entrance, the more popular one is the south entrance. The more touristy area with more commercialization."
+      }
+    ]
+  },
+  "shiwan-winery-guild-hall": {
+    "rating": 5,
+    "reviewCount": 1,
+    "lat": 23.0292982,
+    "lng": 113.1147276
+  },
+  "tai-cheong-bakery-central": {
+    "image": "/places/tai-cheong-bakery-central.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.9,
+    "reviewCount": 2991,
+    "lat": 22.282594,
+    "lng": 114.153615,
+    "reviews": [
+      {
+        "author": "YB (Yogi)",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "We always find ourselves coming back to Tai Cheong Bakery for their OG cookie crust egg tarts. The crust is perfectly crunchy on the outside, with that slightly crumbly, buttery bite that makes it so addictive."
+      },
+      {
+        "author": "wjh",
+        "rating": 3,
+        "when": "2 weeks ago",
+        "text": "I had the normal egg tart and the cookie crust egg tart. The normal egg tart was terrific, it was not overly sweet, and the crust was nicely flakey."
+      },
+      {
+        "author": "Wandering Pup",
+        "rating": 3,
+        "when": "a month ago",
+        "text": "I finally got to try the egg tart from Tai Cheong Bakery. It was okay, but honestly, it wasn’t my favorite. I like Bakehouse’s egg tart a lot more. Still, I’m glad I tried it since Tai Cheong is such a well-known spot in HK."
+      }
+    ]
+  },
+  "taikoo-hui": {
+    "image": "/places/taikoo-hui.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 111,
+    "lat": 23.1347734,
+    "lng": 113.3321314,
+    "reviews": [
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "I had a wonderful experience at Taikoo Hui Guangzhou. The mall is modern, clean, and beautifully designed, with a luxurious atmosphere. It offers a fantastic selection of international luxury brands, popular fashion stores, and excellent dining options."
+      },
+      {
+        "author": "Kenny Yap",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Fantastic modern mall with plenty of good food options and luxury brands including Songmont. The toilet was probably what impressed me the most."
+      },
+      {
+        "author": "Droston Tang",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "I couldn’t find the “Day by Day” on Google Maps at Taikoo Hui. The helpful service crew told us it had only recently opened and had gone wildly popular on social media — no surprise given the crowds!"
+      }
+    ]
+  },
+  "thirteen-hongs-museum": {
+    "image": "/places/thirteen-hongs-museum.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.9,
+    "reviewCount": 20,
+    "lat": 23.10886,
+    "lng": 113.25112,
+    "reviews": [
+      {
+        "author": "Nathan Chong",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Very nice museum that exhibits the trade between China and the world in 1700s. It has 2 floors"
+      },
+      {
+        "author": "Mini Rag",
+        "rating": 5,
+        "when": "2 years ago",
+        "text": "A very unique, free, museam, covering the 13 Hongs time in history. Lots to lead men about the period of massive trde through guangzhou. There are numerrous and atifacts from the period. Upstairs they have furniture."
+      },
+      {
+        "author": "Julide Ozkan",
+        "rating": 5,
+        "when": "2 years ago",
+        "text": "Amazing museum. The aesthetics are nothing I’ve seen before."
+      }
+    ]
+  },
+  "victoria-peak": {
+    "image": "/places/victoria-peak.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 31979,
+    "lat": 22.2712357,
+    "lng": 114.1499638,
+    "reviews": [
+      {
+        "author": "K Ooi",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "The Peak Tower is another must-visit spot when exploring Hong Kong. Perched high above the city at Victoria Peak, it offers some of the most spectacular views of Hong Kong Island, Victoria Harbour and the surrounding skyline."
+      },
+      {
+        "author": "Ayo Cordova",
+        "rating": 5,
+        "when": "3 weeks ago",
+        "text": "The Peak Tower, Hong Kong I visited The Peak Tower just to stroll around, enjoy the surroundings, and see Hong Kong from a different perspective. One of the highlights was getting to see the city from a bird’s-eye view."
+      },
+      {
+        "author": "Anthony W Belcher FCA",
+        "rating": 3,
+        "when": "8 months ago",
+        "text": "The final tick on Ros’ list was the trip to the Peak, the highest point in the city where the funicular railway takes you to the summit for panoramic views of this huge city landscape."
+      }
+    ]
+  },
+  "wanfu-stage-cantonese-opera": {
+    "image": "/places/wanfu-stage-cantonese-opera.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 73,
+    "lat": 23.02902,
+    "lng": 113.11306,
+    "reviews": [
+      {
+        "author": "KeeTat Lee",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "Foshan Ancestral Temple (佛山祖庙) A must-visit cultural landmark in Foshan with rich Lingnan heritage and impressive traditional architecture."
+      },
+      {
+        "author": "K T Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Excellent IG spot - Start with 10 am Wong Fei Hong Kungfu & Lion Dance performance, tour Emperor HuangDi Temple and finished with Ip Man Museum - Grandmaster of Wing Chun Kungfu. Half day."
+      },
+      {
+        "author": "winnie leong",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Today was an absolute vibe at the iconic Foshan Ancestral Temple (Zumiao) in the heart of Chancheng District, Foshan (Address: 21 Zumiao Road, Chancheng, Foshan; opening hours: 8:30am–6:00pm)."
+      }
+    ]
+  },
+  "white-swan-jade-river": {
+    "image": "/places/white-swan-jade-river.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 59,
+    "lat": 23.1060099,
+    "lng": 113.2428985,
+    "reviews": [
+      {
+        "author": "Jayden Woo",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "玉堂春暖 (广州) - Touted as one of the top dimsum eatery in Guangzhou, this multiple times Michelin one star restaurant did not disappoint. It lives up to our expectations for their ambience, food & service."
+      },
+      {
+        "author": "Terence Tai",
+        "rating": 4,
+        "when": "2 years ago",
+        "text": "It’s a Michelin stars restaurant and black pears rated and it’s certainly matched the standard. Though, expect to pay the premium price for the food and services here."
+      },
+      {
+        "author": "Martin C",
+        "rating": 4,
+        "when": "8 years ago",
+        "text": "One of the one star Michelin star awarded restaurant in Guangzhou. The restaurant is super popular, we have to wait over 80 tables during a typical Saturday noon time. The food is definitely not cheap, but most dim sum and Cantonese dishes are truly wonderful."
+      }
+    ]
+  },
+  "xiangyunsha-garden-hotel": {
+    "image": "/places/xiangyunsha-garden-hotel.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 2,
+    "lat": 22.85119,
+    "lng": 113.23672
+  },
+  "yongqingfang": {
+    "image": "/places/yongqingfang.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 317,
+    "lat": 23.11481,
+    "lng": 113.23737,
+    "reviews": [
+      {
+        "author": "Eric L",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Yongqingfang is one of those places that feels like it shouldn’t exist in the middle of a modern metropolis,,a stretch of beautifully preserved qilou arcade buildings and narrow laneways that takes you straight back to old Guangzhou."
+      },
+      {
+        "author": "小虫WeiXiang",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "there is museum inside to learn about 粤剧 history. This place reminds me of malacca city in Malaysia, and also hoi an in Vietnam. But it is a very popular tourism place so be prepared many people. 李小龙故居 also located inside too."
+      },
+      {
+        "author": "Sakura Stan",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Yongqingfang Yongqingfang (永庆坊) is a vibrant cultural and heritage district in Guangzhou that beautifully blends tradition with modern creativity."
+      }
+    ]
+  }
+}

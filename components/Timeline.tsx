@@ -153,7 +153,7 @@ function Title({ text, placeId, ctx, as: Tag }: { text: T; placeId?: string; ctx
       <button type="button" className="place-link" onClick={() => ctx.onOpenPlace(place.id)}>
         {Tag === "h4" && place.image && (
           // eslint-disable-next-line @next/next/no-img-element -- local thumbnail
-          <img className="stop-thumb" src={place.image} alt="" loading="lazy" decoding="async" />
+          <img className="stop-thumb" src={place.thumb ?? place.image} alt="" loading="lazy" decoding="async" />
         )}
         <span>{t(text)}</span>
         <i className="fa-solid fa-circle-chevron-right" aria-hidden />
@@ -231,7 +231,7 @@ function FoodBlock({ food, ctx }: { food: Food[]; ctx: Ctx }) {
 function Thumb({ place }: { place?: Place }) {
   if (place?.image) {
     // eslint-disable-next-line @next/next/no-img-element -- small local thumbnails, lazy-loaded
-    return <img className="thumb" src={place.image} alt="" loading="lazy" decoding="async" />;
+    return <img className="thumb" src={place.thumb ?? place.image} alt="" loading="lazy" decoding="async" />;
   }
   return <span className="thumb thumb-icon"><i className={`fa-solid ${place ? KIND_ICON[place.kind] : "fa-utensils"}`} aria-hidden /></span>;
 }

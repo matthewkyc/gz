@@ -63,6 +63,8 @@ export interface Place {
   mustTry?: { en: string[]; zh: string[] };
   tips?: T;
   image?: string;
+  /** 240px thumbnail for timeline cards. */
+  thumb?: string;
   imageCredit?: string;
   rating?: number;
   reviewCount?: number;

@@ -75,9 +75,20 @@ for (const f of parts.filter((f) => /^media-.*\.json$/.test(f))) {
     for (const [k, v] of Object.entries(m)) if (v != null && v !== "" && !(Array.isArray(v) && !v.length)) p[k] = v;
   }
 }
-// Drop image paths that do not exist on disk.
+// Places whose Google data came from a parent listing (whole park / temple / hotel):
+// the photo is kept, but the parent's rating and reviews would mislead, so they are dropped.
+const BORROWED_RATING = new Set([
+  "chimelong-dive-coaster", "chimelong-food-town", "chimelong-rocket-coaster", "chimelong-super-pendulum",
+  "canton-tower-bubble-tram", "wanfu-stage-cantonese-opera", "foshan-lion-dance-show", "panda-hotel-restaurant",
+  "guangzhou-marriott-tianhe-chinese-restaurant", "fengyuan-street-xiguan-mansions",
+]);
+const MIN_REVIEWS_FOR_RATING = 5;
 for (const p of places.values()) {
+  // Drop image paths that do not exist on disk.
   if (p.image && p.image.startsWith("/") && !fs.existsSync(path.join(ROOT, "public", p.image))) delete p.image;
+  if (p.image && fs.existsSync(path.join(ROOT, "public/places/thumb", path.basename(p.image)))) p.thumb = `/places/thumb/${path.basename(p.image)}`;
+  if (BORROWED_RATING.has(p.id)) { delete p.rating; delete p.reviewCount; delete p.reviews; }
+  if (p.reviewCount != null && p.reviewCount < MIN_REVIEWS_FOR_RATING) { delete p.rating; delete p.reviewCount; }
 }
 const list = [...places.values()].sort((a, b) => a.id.localeCompare(b.id));
 fs.writeFileSync(C("places.json"), JSON.stringify(list, null, 2) + "\n");

@@ -1,0 +1,776 @@
+{
+  "animation-city": {
+    "image": "/places/animation-city.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 255,
+    "lat": 23.1259645,
+    "lng": 113.2639231,
+    "reviews": [
+      {
+        "author": "James Tan",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "This place is like a mini Akihabara/Nipponbashi. There's even a Tamashii Nation spot store here that has most of the latest releases . Other shops also sell more or less the latest stuffs."
+      },
+      {
+        "author": "Lewis Ryu",
+        "rating": 5,
+        "when": "Edited a year ago",
+        "text": "Just REMEMBER, if there’re any deals like sort of 3 for 2 then those figures or models are probably not genuine. If u’re anime enthusiast or gamer then just head to ‘West Zone‘ have a little walk around u’d find what u need."
+      },
+      {
+        "author": "Deacon Ho",
+        "rating": 4,
+        "when": "a year ago",
+        "text": "TLDR: It is a few-story underground mall that has a huge variety of shops and restaurants. Restaurant: Has many varieties, ranging from a sushi restaurant to a steakhouse, and other fast food and convenience stores. Shops: Yes, it has anime shops."
+      }
+    ]
+  },
+  "bahe-li-haiji-beef-hotpot-nanshan": {
+    "image": "/places/bahe-li-haiji-beef-hotpot-nanshan.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "lat": 22.518537,
+    "lng": 113.936791,
+    "reviews": [
+      {
+        "author": "Hugo Chen",
+        "rating": 4,
+        "when": "10 months ago",
+        "text": "The beef tasted pretty good, and the service was decent. The portions weren't large."
+      },
+      {
+        "author": "吉田よしだユラ（Ulaa ユラ）",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Highly recommended! Delicious and affordable!"
+      }
+    ]
+  },
+  "baohua-noodle-shop": {
+    "image": "/places/baohua-noodle-shop.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.0,
+    "reviewCount": 64,
+    "lat": 23.115956,
+    "lng": 113.241759,
+    "reviews": [
+      {
+        "author": "Dr12b",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "The must try noodle here is the onion-ginger dry noodles. Portion is large. So you may want to order 1 plate to share so that you can feast on the wanton soup. Portion is also large for the wanton soup."
+      },
+      {
+        "author": "Jason Tan",
+        "rating": 5,
+        "when": "2 years ago",
+        "text": "The restaurant is famous for it wanton noodle soup. The soup is very flavor, and if you need to do a soup refill, you need to pay extra for it."
+      }
+    ]
+  },
+  "bruce-lee-ancestral-home": {
+    "image": "/places/bruce-lee-ancestral-home.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 271,
+    "lat": 23.11529,
+    "lng": 113.23707,
+    "reviews": [
+      {
+        "author": "daddydrives",
+        "rating": 5,
+        "when": "3 weeks ago",
+        "text": "We stopped by the Bruce Lee ancestral house while exploring Yongqingfang in Guangzhou. It was an interesting opportunity to learn a little more about his family background and see a different side of someone we mostly associate with kung fu and movies."
+      },
+      {
+        "author": "Yeo Choon Kuan (Jackson)",
+        "rating": 4,
+        "when": "a month ago",
+        "text": "This is really an awesome experience to see the life of Bruce Lee unfolded from young till his death. He was definitely a great martial artist well known during his time and even now after he had died so long ago."
+      },
+      {
+        "author": "L-C",
+        "rating": 4,
+        "when": "3 months ago",
+        "text": "A legend. Now we know a little more about him visiting his ancestral home, and seeing hordes of people on a weekend truly speaks of this legend."
+      }
+    ]
+  },
+  "cantonese-opera-art-museum": {
+    "image": "/places/cantonese-opera-art-museum.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 219,
+    "lat": 23.114413,
+    "lng": 113.238098,
+    "reviews": [
+      {
+        "author": "Eric L",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "This museum is dedicated to Cantonese opera, and it does a wonderful job showcasing this important part of Guangdong’s cultural heritage."
+      },
+      {
+        "author": "Luca Pozzi",
+        "rating": 5,
+        "when": "Edited 5 months ago",
+        "text": "It is a stunning hidden gem in Guangzhou that beautifully pairs a world-class exhibition of cultural heritage with breathtaking, authentic Lingnan-style water gardens."
+      }
+    ]
+  },
+  "chimelong-drone-show": {
+    "image": "/places/chimelong-drone-show.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 58,
+    "lat": 22.993356,
+    "lng": 113.32747,
+    "reviews": [
+      {
+        "author": "J Zou",
+        "rating": 5,
+        "when": "2 years ago",
+        "text": "Great fun at the safari park and watching the amazing circus performances!"
+      },
+      {
+        "author": "Alan Wang",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Very good experience for kids, there are variety of animals, most of them you can take pictures with extra cost. It worth to spend extra. Panda park is must see."
+      },
+      {
+        "author": "Kumari Puja Ajit jha",
+        "rating": 5,
+        "when": "2 months ago",
+        "text": "It's give you luxurious feeling. 10 out of 10.. Highly recommend for your vacation."
+      }
+    ]
+  },
+  "chimelong-giraffe-plaza": {
+    "image": "/places/chimelong-giraffe-plaza.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.000855,
+    "lng": 113.313917
+  },
+  "chimelong-international-circus": {
+    "image": "/places/chimelong-international-circus.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 115,
+    "lat": 23.00202,
+    "lng": 113.330632,
+    "reviews": [
+      {
+        "author": "JJ Ng",
+        "rating": 5,
+        "when": "10 months ago",
+        "text": "An amazing experience for everyone. The stunts carried out by all the performers were exceptional! It can get rather crowded during weekends so best get a weekday ticket."
+      },
+      {
+        "author": "Friendly Notary",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "This circus is so awesome!! It is probably one of the best circus shows I have ever seen. The performers are highly skilled and entertaining. Your kids will love it! You can sit almost anywhere in the arena and still have a great view."
+      }
+    ]
+  },
+  "chimelong-panda-paradise": {
+    "image": "/places/chimelong-panda-paradise.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 22.99976,
+    "lng": 113.31558
+  },
+  "dafo-temple": {
+    "image": "/places/dafo-temple.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 373,
+    "lat": 23.121062,
+    "lng": 113.267839,
+    "reviews": [
+      {
+        "author": "Jo Lee",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "This temple has over a thousand years of history and remains an important Buddhist site in Guangzhou today. You can walk right out of a modern shopping mall and find this large traditional wooden structure right in front of you."
+      },
+      {
+        "author": "Jean Paul Lucat",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "The Dafo Temple (大佛寺), or “Temple of the Great Buddha,” is a centuries-old Buddhist sanctuary that provides a peaceful retreat amid the bustling city."
+      }
+    ]
+  },
+  "enning-road": {
+    "image": "/places/enning-road.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.1141,
+    "lng": 113.23869
+  },
+  "foshan-ancestral-temple": {
+    "image": "/places/foshan-ancestral-temple.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 73,
+    "lat": 23.02902,
+    "lng": 113.11306,
+    "reviews": [
+      {
+        "author": "KT Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Must visit Temple of Emperor HuangDi . Together with Ip Man Museum _ famous Martial Art Grandmaster who coached legendary Hollywood Bruce Lee And watch Wong Fei Hong Troup perform Lion Dance at 10 am in front of his memorial hall/square.."
+      },
+      {
+        "author": "winnie leong",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Today was an absolute vibe at the iconic Foshan Ancestral Temple (Zumiao) in the heart of Chancheng District, Foshan (Address: 21 Zumiao Road, Chancheng, Foshan; opening hours: 8:30am–6:00pm)."
+      }
+    ]
+  },
+  "galaxy-world-coco-park": {
+    "image": "/places/galaxy-world-coco-park.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 10,
+    "lat": 22.6033507,
+    "lng": 114.0589653,
+    "reviews": [
+      {
+        "author": "Klaus Delueg",
+        "rating": 5,
+        "when": "10 months ago",
+        "text": "Went to Yushan Season mushroom hotpot restaurant (L4C-023A): delicious food, helpful, friendly and fast stuff, nice environment. Definitely worth a try and to come back."
+      },
+      {
+        "author": "Carol Chung",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "I stumbled upon this handmade dessert shop, Zhulong Rushui, and they have a huge selection of sweet soups with innovative flavors. The desserts are both beautifully presented and delicious."
+      }
+    ]
+  },
+  "grandview-mall": {
+    "image": "/places/grandview-mall.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.5,
+    "reviewCount": 430,
+    "lat": 23.132146,
+    "lng": 113.326998,
+    "reviews": [
+      {
+        "author": "thrddyfmly",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "This mall has everything for a family. Good variety of restaurants. We came here in summer to escape the heat and it didn’t disappoint. Loved the Pokemon gym. Large and spacious. Also enjoyed the animal experience on 7th floor."
+      },
+      {
+        "author": "Zahara Zulkifley",
+        "rating": 5,
+        "when": "3 weeks ago",
+        "text": "This review is meant for Grandview Aquarium specifically. I really wish we hadn't rushed our visit so we could have spent a solid 1 to 2 hours properly enjoying the exhibits."
+      }
+    ]
+  },
+  "haixin-bridge": {
+    "image": "/places/haixin-bridge.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Wendy Tan (悦翎)",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Got my best Canton Tower photos / videos shoot from the bridge!"
+      },
+      {
+        "author": "李新泰",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "The view of the Canton Tower from the bridge is amazing! 👍"
+      },
+      {
+        "author": "HongSword",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "The scenery is beautiful both day and night."
+      }
+    ]
+  },
+  "hong-kong-west-kowloon-station": {
+    "image": "/places/hong-kong-west-kowloon-station.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 5609,
+    "lat": 22.304227,
+    "lng": 114.1649207,
+    "reviews": [
+      {
+        "author": "AB!",
+        "rating": 4,
+        "when": "6 months ago",
+        "text": "It's a modern railway terminus serving all high speed trains between Hong Kong and mainland China. Opened in 2018, the station has become a key transportation hub for travel between Hong Kong and mainland."
+      },
+      {
+        "author": "WaiChin Wong",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Took a high speed train from west Kowloon to Shen zhen. It’s about 15mins of travelling in train. Immigration clearance roughly is 1 hour. We came on weekdays at 3pm and our train was 5pm. So better buy ticket at stations to avoid any delay at immigrations."
+      }
+    ]
+  },
+  "hualin-jade-street": {
+    "image": "/places/hualin-jade-street.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.0,
+    "reviewCount": 26,
+    "lat": 23.117298,
+    "lng": 113.246612,
+    "reviews": [
+      {
+        "author": "Art Chi",
+        "rating": 5,
+        "when": "11 months ago",
+        "text": "Giant Jade Market. Everything you could want to buy, from a ring to statues and large figurines. Prices according to the quality you want, for all tastes and budgets."
+      },
+      {
+        "author": "Leon Hon",
+        "rating": 4,
+        "when": "6 years ago",
+        "text": "It is a place view jadeite... just be aware that if you are a foreigner... they might charge overpriced."
+      }
+    ]
+  },
+  "ip-man-hall": {
+    "image": "/places/ip-man-hall.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 28,
+    "lat": 23.0293962,
+    "lng": 113.1132352,
+    "reviews": [
+      {
+        "author": "K T Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Wonderful museum depicting the life of Ip Man - Grandmaster of Wing Chun Kungfu. Master to Hollywood legend Bruce Lee. Practice stations for Wing Chun to test your skills. AI video of Ip Man avatar teaching basic Set of Wing Chun."
+      },
+      {
+        "author": "Yeo Choon Kuan (Jackson)",
+        "rating": 4,
+        "when": "a month ago",
+        "text": "We finally got to see the real Yip Man. We always watched movies and the one we saw who portrayed him was the one we had in our minds. It was definitely an eye opener to know the history of this man."
+      }
+    ]
+  },
+  "kau-kee-beef-brisket": {
+    "image": "/places/kau-kee-beef-brisket.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.6,
+    "reviewCount": 4757,
+    "lat": 22.2842413,
+    "lng": 114.1525076,
+    "reviews": [
+      {
+        "author": "Justin Yiu",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Ordered the curry beef brisket tendon with e-fu noodles. First time trying curry flavoured beef tendon noodles. Really, really amazing. Meat was tender and the tendon parts weren’t too tough."
+      },
+      {
+        "author": "Wilson Tan",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "This old school street food is an important part of HK food culture that must be preserved in all ways possible. It is situated along a stairway between two buildings."
+      }
+    ]
+  },
+  "li-zhongsheng-tang": {
+    "image": "/places/li-zhongsheng-tang.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.029306,
+    "lng": 113.115358
+  },
+  "lingnan-tiandi-clock-tower": {
+    "image": "/places/lingnan-tiandi-clock-tower.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.9,
+    "reviewCount": 13,
+    "lat": 23.029119,
+    "lng": 113.114963,
+    "reviews": [
+      {
+        "author": "Peggy L.",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "A really nice place to visit, with a thoughtful balance between traditional elements and commercial development compared to many similar spots in China. It manages to feel lively without being overwhelming."
+      },
+      {
+        "author": "maja",
+        "rating": 5,
+        "when": "8 months ago",
+        "text": "Nice place to walk around. Old houses restaurated, lots of suvenir shops."
+      },
+      {
+        "author": "Cherly Osa",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Such a nice place and a must visit when you're in Foshan. The ambience is just wonderful."
+      }
+    ]
+  },
+  "liwan-lake-park": {
+    "image": "/places/liwan-lake-park.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 197,
+    "lat": 23.121296,
+    "lng": 113.233615,
+    "reviews": [
+      {
+        "author": "Torpong Chiamtawongse",
+        "rating": 5,
+        "when": "11 months ago",
+        "text": "This park is in Liwan, Guangzhou. It is very nice park where integrate the new technology and lives to the local lives. The park is so shady, safe, and very nice design to match the landscape as well."
+      },
+      {
+        "author": "Rob Nesbit",
+        "rating": 4,
+        "when": "a year ago",
+        "text": "Nice park, good to walk around, and a lot of lovely small cafes, restaurants and even craft bars near here, near and along the small side streets."
+      },
+      {
+        "author": "Bob Smith",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Beautifully kept park in Liwan district. Very clean and tidy. A really nice place to relax for a while. Fairly close to the Cantonese national opera museum and to Shamian."
+      }
+    ]
+  },
+  "lychee-bay": {
+    "image": "/places/lychee-bay.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 23,
+    "lat": 23.11472,
+    "lng": 113.23498,
+    "reviews": [
+      {
+        "author": "Mieko Glenn",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Good spot to walk around and enjoy the scenery of old, historic part of the city. There's one of the houses of Bruce Lee's family (where Bruce's father grew up as a child, now a museum for free)."
+      },
+      {
+        "author": "Didier Pascal",
+        "rating": 4,
+        "when": "2 weeks ago",
+        "text": "Should be a crime visiting this ancient and beautiful neighborhood alone, especially at night. The place offers such a beautiful scenery for photoshoots and romantic strolls"
+      }
+    ]
+  },
+  "mixc-shenzhen-bay": {
+    "image": "/places/mixc-shenzhen-bay.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 95,
+    "lat": 22.5165155,
+    "lng": 113.9461757,
+    "reviews": [
+      {
+        "author": "SuperAuis Nantawan N.",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "The MixC Shenzhen is one of the most impressive lifestyle malls I've visited. It features both indoor and outdoor areas, creating a great atmosphere for shopping, dining, and simply spending the day."
+      },
+      {
+        "author": "Whiskey Tea",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "Beautiful urban Mall,in Nan Shan. It’s about 20 minutes from FuTian. The mall is made up of different building and there is a pedestrian mall for you to walk to the different parts of the building."
+      }
+    ]
+  },
+  "ng-choi-kee-noodles": {
+    "image": "/places/ng-choi-kee-noodles.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 66,
+    "lat": 23.11074,
+    "lng": 113.24178,
+    "reviews": [
+      {
+        "author": "TiXuan LI",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Just had one of the best bowls of wonton noodle soup I’ve ever tasted in Guangzhou! 🍜 The handmade wontons were plump, juicy, and full of flavor, swimming in a light but incredibly rich and savory broth."
+      },
+      {
+        "author": "Bugwagen",
+        "rating": 4,
+        "when": "6 months ago",
+        "text": "A bib gourmand restaurant located in a street alley across a mall. I found the noodles to be average as we ordered dry version. Should order the soup version I supposed. The wantons are good."
+      }
+    ]
+  },
+  "panda-hotel-lobby-bar": {
+    "image": "/places/panda-hotel-lobby-bar.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 22,
+    "lat": 23.005314,
+    "lng": 113.33206
+  },
+  "parc-central": {
+    "image": "/places/parc-central.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 107,
+    "lat": 23.1334947,
+    "lng": 113.3270428,
+    "reviews": [
+      {
+        "author": "YC Khong",
+        "rating": 4,
+        "when": "6 months ago",
+        "text": "Nice mall with futuristic features. Lots of shopping and eateries. The outdoor was beautifully decorated with CNY season."
+      },
+      {
+        "author": "Mimi Goh",
+        "rating": 5,
+        "when": "10 months ago",
+        "text": "Been here for the holiday. Quite crowded with locals. The mall itself is just like any other branded mall—people mainly come for the pretty Christmas decorations. There is direct metro access, and although it looks busy, the crowd flow is still smooth."
+      }
+    ]
+  },
+  "qinghui-garden": {
+    "image": "/places/qinghui-garden.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 215,
+    "lat": 22.835628,
+    "lng": 113.255053,
+    "reviews": [
+      {
+        "author": "Julian Wong",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "Another classical Lingnan mansion and garden that is worth your visit if you are in this area. The buildings are well maintained and the garden is exquisite. A great place to understand Chinese southern culture."
+      },
+      {
+        "author": "Lenzo Chan",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "A must-visit park in Shunde! The garden is incredibly relaxing with beautiful Chinese architecture—perfect for chilling out before or after hitting the neighboring food street"
+      }
+    ]
+  },
+  "runyuan-siji-coconut-chicken-nanshan": {
+    "image": "/places/runyuan-siji-coconut-chicken-nanshan.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 5,
+    "lat": 22.5221955,
+    "lng": 113.993014,
+    "reviews": [
+      {
+        "author": "Wang's",
+        "rating": 5,
+        "when": "3 years ago",
+        "text": "On holidays, there's about a 30-minute wait. Hainan coconut chicken soup is a must-try hot pot in Shenzhen. Ordering a two-person set meal online is more economical. The clay pot rice was too much to finish—it's a huge pot!"
+      },
+      {
+        "author": "Lisa Tang",
+        "rating": 4,
+        "when": "9 years ago",
+        "text": "Coconut chicken soup was so good. But the shop is not easy to locate because it is on the 2nd floor and you can't see it from ground floor."
+      }
+    ]
+  },
+  "shamian-park": {
+    "image": "/places/shamian-park.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.1060201,
+    "lng": 113.2446559
+  },
+  "shawan-anning-square-night-market": {
+    "image": "/places/shawan-anning-square-night-market.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "lat": 22.90417,
+    "lng": 113.33134,
+    "reviews": [
+      {
+        "author": "rn_1604",
+        "rating": 4,
+        "when": "5 months ago",
+        "text": "Shawan Ancient Town is huge! Take your time to stroll along the alleyways and explore through time. You can easily take a day to roam around investigating every nook and cranny. Plenty of shops and food as well. Lovely ancient town."
+      },
+      {
+        "author": "Julian Wong",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "This ancient settlement is very big and is a living settlement. There are residents actually living in the area. There are a two entrance, the more popular one is the south entrance. The more touristy area with more commercialization."
+      }
+    ]
+  },
+  "shun-kee-ice-bar": {
+    "image": "/places/shun-kee-ice-bar.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.9,
+    "reviewCount": 32,
+    "lat": 23.115374,
+    "lng": 113.24171,
+    "reviews": [
+      {
+        "author": "David Liao",
+        "rating": 4,
+        "when": "a month ago",
+        "text": "Shun Kee Ice Cream Parlor in Guangzhou is a popular and long-established local restaurant. They offer convenient QR code ordering, fast service, and quick, attentive customer service."
+      },
+      {
+        "author": "Z Z",
+        "rating": 4,
+        "when": "a year ago",
+        "text": "Shangxiajiu Road was so crowded and the place was huge! I was exhausted from walking around. I found this place to rest. It's an old shop, serving local Guangzhou desserts and snacks—all sorts of things."
+      }
+    ]
+  },
+  "taiping-guan": {
+    "image": "/places/taiping-guan.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.6,
+    "reviewCount": 29,
+    "lat": 23.12618,
+    "lng": 113.268976,
+    "reviews": [
+      {
+        "author": "SKYLINE Tien",
+        "rating": 5,
+        "when": "8 years ago",
+        "text": "The first Western restaurant in Guangzhou, the food is above average, and the desserts and ice cream are definitely worth trying."
+      },
+      {
+        "author": "fang wang",
+        "rating": 4,
+        "when": "9 years ago",
+        "text": "Service ok, still could be improved. Delicious food. Nice location."
+      }
+    ]
+  },
+  "teemall": {
+    "image": "/places/teemall.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 193,
+    "lat": 23.132876,
+    "lng": 113.322594,
+    "reviews": [
+      {
+        "author": "Colin Leung",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Massive shopping mall. So many floors. Very inviting entrance with bright lights and displays worthy of taking pictures of. Such a lively area. Definitely worth a visit. Can spend all day here!"
+      },
+      {
+        "author": "Hằng",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "The shopping mall is beautiful. Since the new Minions movie is showing, the whole mall is decorated with Minions. It's super cute."
+      }
+    ]
+  },
+  "tianhe-sports-center": {
+    "image": "/places/tianhe-sports-center.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "lat": 23.1380215,
+    "lng": 113.3246753,
+    "reviews": [
+      {
+        "author": "Craig Wright",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Brilliant place to run around. Very popular and opens from 5am :-) street table tennis is also very popular."
+      },
+      {
+        "author": "Zoe Dakin",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Lovely stadium. Not a tourist attraction but good for sporting events."
+      }
+    ]
+  },
+  "wai-yu-lau": {
+    "image": "/places/wai-yu-lau.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.125266,
+    "lng": 113.2656795,
+    "reviews": [
+      {
+        "author": "Kevin Bites",
+        "rating": 4,
+        "when": "Edited a month ago",
+        "text": "Huiru Restaurant is a time-honored Cantonese yum cha house in Guangzhou. It serves authentic handmade dim sum. Don’t miss dried flounder siu mai and olive kernel Sachima. Lingnan-style decor, private rooms for groups. Expect queues on weekends."
+      }
+    ]
+  },
+  "wanguo-outlets": {
+    "image": "/places/wanguo-outlets.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 267,
+    "lat": 23.102007,
+    "lng": 113.272993,
+    "reviews": [
+      {
+        "author": "daddydrives",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "We wasted no time heading to Wanguo Outlets during our Guangzhou trip to get some outlet shopping off our to-do list. My wife and I ended up spending the day shopping and eating, and by the time we were done, it was already night."
+      },
+      {
+        "author": "Sean Sean",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Branded outlet mall. More of sports brand like addidas, Nike etc. they say it's the cheapest place to buy branded sports shoe in guangzhou."
+      }
+    ]
+  },
+  "wong-chun-loong-tianhe-road": {
+    "image": "/places/wong-chun-loong-tianhe-road.jpg",
+    "imageCredit": "Google Maps",
+    "lat": 23.1309992,
+    "lng": 113.322682
+  },
+  "yinji-rice-rolls-wenchang": {
+    "image": "/places/yinji-rice-rolls-wenchang.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.7,
+    "reviewCount": 13,
+    "lat": 23.12617,
+    "lng": 113.23939,
+    "reviews": [
+      {
+        "author": "Wayne Huang",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Yin Kee Rice Noodle Roll Shop was established in 1958 and has been in business for almost 70 years. The walls are adorned with various awards, and it's a must-try rice noodle roll shop recommended by netizens when visiting Guangzhou!"
+      },
+      {
+        "author": "かわお",
+        "rating": 4,
+        "when": "6 years ago",
+        "text": "I had beef rice noodle rolls and boiled lettuce-like vegetables. The rice noodle rolls had a slightly unique taste that I don't think I'd find in Japan, but the boiled vegetables were surprisingly delicious."
+      }
+    ]
+  }
+}

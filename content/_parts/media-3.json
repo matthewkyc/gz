@@ -479,5 +479,201 @@
   "imageCredit": "Google Maps",
   "lat": 23.11395,
   "lng": 113.24668
+ },
+ "shenzhen-talent-park": {
+  "image": "/places/shenzhen-talent-park.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.7,
+  "reviewCount": 44,
+  "lat": 22.5112161,
+  "lng": 113.9462257,
+  "reviews": [
+   {
+    "author": "ng jiannan",
+    "rating": 5,
+    "when": "9 months ago",
+    "text": "A huge park great for strolling, relax and have a picnic. It is interlinked by park connectors by the Shenzhen bay area. Amazing photo spots for Shenzhen's iconic building landscape."
+   },
+   {
+    "author": "sokhanearyroat ung",
+    "rating": 5,
+    "when": "11 months ago",
+    "text": "beautiful park, beautiful night view with a sea of skyscrapers facing the park😍the buildings lights are connected and there is a song 🎶 with lyrics displayed on the buildings. it was so lovely to stroll at Talent Park in the evening!"
+   },
+   {
+    "author": "Joe Macpherson",
+    "rating": 5,
+    "when": "2 years ago",
+    "text": "Great park by day or night.  Lots of beautiful buildings and statues.  Perfect for a morning or night walk"
+   }
+  ]
+ },
+ "star-ferry": {
+  "image": "/places/star-ferry.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.5,
+  "reviewCount": 1355,
+  "lat": 22.293763,
+  "lng": 114.168748,
+  "reviews": [
+   {
+    "author": "Soko 37 (Soko37)",
+    "rating": 5,
+    "when": "6 months ago",
+    "text": "Very easy access to other side of the bay, just 10min in good weather and decent price. Possibility to buy something before boarding. Connection to many bus lines and metro line Tsim Sha Tsui. Very convenient interval for ferry"
+   },
+   {
+    "author": "Lueh-Wai Wong",
+    "rating": 4,
+    "when": "7 months ago",
+    "text": "If you are a tourist, a ferry trip from Tsim Sha Tsui to Hong Kong Island is a must-do event since you haven’t visited Hong Kong without making this ferry trip. The ferry ride is very affordable so no reason to skip."
+   },
+   {
+    "author": "Tony Doan",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Your exploration of this vibrant metropolis is incomplete without crossing Victoria Harbour by boat from the iconic Tsim Sha Tsui docks."
+   }
+  ]
+ },
+ "taigenbao-rice-free-congee": {
+  "image": "/places/taigenbao-rice-free-congee.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "lat": 23.0312546,
+  "lng": 113.1142683,
+  "reviews": [
+   {
+    "author": "Mae Shao",
+    "rating": 5,
+    "when": "11 months ago",
+    "text": "The rice porridge is a must-try when visiting Foshan. The ingredients are fresh and unique, making it a rare experience for visitors."
+   },
+   {
+    "author": "alex lee",
+    "rating": 5,
+    "when": "a year ago",
+    "text": "Food was exceptional. Deco was nice. Service was excellent. Food hygiene was excellent. Highly recommend."
+   },
+   {
+    "author": "PiPi Lu",
+    "rating": 4,
+    "when": "9 months ago",
+    "text": "Guangzhou has a long tradition of \"eating congee for health.\" Rice-free congee, with its delicate texture where water and rice are perfectly blended and no rice grains are visible, continues the essence of Cantonese congee's pursuit of a smooth"
+   }
+  ]
+ },
+ "thirteen-hongs": {
+  "image": "/places/thirteen-hongs.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.4,
+  "reviewCount": 10,
+  "lat": 23.110886,
+  "lng": 113.252963,
+  "reviews": [
+   {
+    "author": "周正忠",
+    "rating": 4,
+    "when": "3 years ago",
+    "text": "It's very similar to Wufenpu in Songshan District; the cheap prices will leave you overwhelmed and unsure of what to buy, and everything seems so good—it's terrifying."
+   },
+   {
+    "author": "Daniel Cheong",
+    "rating": 3,
+    "when": "2 years ago",
+    "text": "Mostly younger fella fashion. Mature adult, don't waste your time here. 98% women apparel. Men apparel goto Shahe Garment Market."
+   },
+   {
+    "author": "wuan ng",
+    "rating": 3,
+    "when": "2 years ago",
+    "text": "Many shops don't sell individual items. There are lots of clothes, which can be overwhelming."
+   }
+  ]
+ },
+ "tsim-chai-kee-noodle": {
+  "image": "/places/tsim-chai-kee-noodle.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 3.9,
+  "reviewCount": 4396,
+  "lat": 22.2829758,
+  "lng": 114.1544256,
+  "reviews": [
+   {
+    "author": "Pineapple Lover",
+    "rating": 4,
+    "when": "3 weeks ago",
+    "text": "Chance upon this little restaurant that was recommended by the Michelin Guide for many years, and I can see why! The wonton noodles were really yummy, yet comforting, flavourful, and at a very reasonable price."
+   },
+   {
+    "author": "Alaa Abdallat",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "I went with a friend for their famous prawn wonton noodle. It DID NOT DISAPPOINT. Just wow, we loved it, the place has a very nice atmosphere, friendly ladies running the place, the food is prepared fast and in an open kitchen setup"
+   },
+   {
+    "author": "fa1",
+    "rating": 5,
+    "when": "2 months ago",
+    "text": "With friendly service, reasonable prices with no overcharging, and fantastic flavors, it’s truly an enchanting restaurant."
+   }
+  ]
+ },
+ "wanbo-business-district": {
+  "image": "/places/wanbo-business-district.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 3.4,
+  "reviewCount": 9,
+  "lat": 23.0077517,
+  "lng": 113.341343
+ },
+ "white-swan-hotel": {
+  "image": "/places/white-swan-hotel.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.6,
+  "reviewCount": 348,
+  "lat": 23.105743,
+  "lng": 113.242973,
+  "reviews": [
+   {
+    "author": "Trip.com Member",
+    "when": "5 months ago",
+    "text": "This hotel was a dream! All around it is photo worthy, then on the inside, a real waterfall with koi fish 🥰 the buffet options are all top-notch, worth the price."
+   },
+   {
+    "author": "JUAN LIU",
+    "when": "2 weeks ago",
+    "text": "I had dim sum at Yu Tang Chun Nuan at the White Swan Hotel during the day, and the overall experience was excellent. The service, in particular, left a lasting impression."
+   }
+  ]
+ },
+ "wong-fei-hung-memorial-hall": {
+  "image": "/places/wong-fei-hung-memorial-hall.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.5,
+  "reviewCount": 160,
+  "lat": 23.0283025,
+  "lng": 113.1127932,
+  "reviews": [
+   {
+    "author": "KT Lim",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Watch 10 am Martial Art display and Lion Dance by Wong Fei Hong Troup. Together with Ip Man _ Grandmaster of Wing Chun and Ancestral Temple of Emperor Huang Di."
+   },
+   {
+    "author": "Google Lum",
+    "rating": 4,
+    "when": "10 months ago",
+    "text": "Visited in November recently. Another attraction with historical significance. It is a large complex with various displays including about Huang FeiHong and also martial arts and lion dance performance."
+   },
+   {
+    "author": "00Y",
+    "rating": 4,
+    "when": "10 months ago",
+    "text": "Really impressed by the architecture and art in this historical building."
+   }
+  ]
  }
 }
