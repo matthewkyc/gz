@@ -1,0 +1,6111 @@
+[
+  {
+    "id": "ai-6s-store-longgang",
+    "aliases": [
+      "人工智能6S店"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "AI 6S Store",
+      "zh": "人工智能6S店"
+    },
+    "city": "Shenzhen",
+    "query": "人工智能6S店, 龙岗区, 深圳",
+    "lat": 22.623,
+    "lng": 114.064,
+    "summary": {
+      "en": "Hands-on showroom for Chinese and international AI hardware.",
+      "zh": "可动手试用的国内外AI硬件展示店。"
+    },
+    "why": {
+      "en": "AI devices are shown in real-life settings rather than on shelves, and most can be tried by hand. It pairs with the Robot 6S Store a short drive away in the same robotics block.",
+      "zh": "AI硬件按生活场景展示，不是摆在货架上，大多数可以动手试。和机器人6S店在同一个机器人街区，车程很近。"
+    },
+    "highlights": {
+      "en": [
+        "Scenario-based AI hardware displays",
+        "Devices can be tried hands-on",
+        "Short drive from the Robot 6S Store"
+      ],
+      "zh": [
+        "场景化展示AI硬件",
+        "可以动手试用",
+        "离机器人6S店很近"
+      ]
+    },
+    "tips": {
+      "en": "Exact address is uncertain; the driver should be given the name and checked on the map.",
+      "zh": "具体地址待确认，出发前让司机在地图上核对。"
+    }
+  },
+  {
+    "id": "animation-city",
+    "aliases": [
+      "动漫星城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Animation City",
+      "zh": "动漫星城"
+    },
+    "city": "Guangzhou",
+    "query": "动漫星城 公园前 越秀区 广州",
+    "lat": 23.1275,
+    "lng": 113.2655,
+    "summary": {
+      "en": "Underground anime and manga mall at Gongyuanqian Station.",
+      "zh": "公园前地铁站下的动漫商场。"
+    },
+    "why": {
+      "en": "Guangzhou's largest cluster of anime, manga, figure and cosplay shops sits under one roof, directly connected to the metro. Kids can spend hours on figures, gacha machines and character goods.",
+      "zh": "广州最集中的动漫、手办、cosplay商场，与地铁站直接相连；手办、扭蛋机、角色周边能让孩子逛几个小时。"
+    },
+    "highlights": {
+      "en": [
+        "Figures, gacha machines, character goods",
+        "Connected to Metro Lines 1 and 2",
+        "Indoor, good for rain or heat"
+      ],
+      "zh": [
+        "手办、扭蛋、角色周边",
+        "与地铁1、2号线相连",
+        "室内，雨天也合适"
+      ]
+    },
+    "tips": {
+      "en": "Mobile signal can be weak underground; a meeting point should be agreed. Prices can be negotiated at some stalls.",
+      "zh": "地下信号弱，先约好集合点；部分档口可讲价。"
+    }
+  },
+  {
+    "id": "atour-liwan",
+    "aliases": [
+      "亚朵（大致位置）"
+    ],
+    "kind": "hotel",
+    "name": {
+      "en": "Atour Hotel, Liwan",
+      "zh": "亚朵酒店（荔湾）"
+    },
+    "city": "Guangzhou",
+    "query": "Atour Hotel Liwan Lake Lychee Bay Yongqingfang Guangzhou",
+    "lat": 23.1265,
+    "lng": 113.244,
+    "summary": {
+      "en": "Base for the old-city days, near Lychee Bay and Yongqingfang.",
+      "zh": "老城几天的落脚点，靠近荔枝湾和永庆坊。"
+    },
+    "why": {
+      "en": "Liwan Lake, Lychee Bay, Yongqingfang and Panxi Restaurant are all within a short walk, so the old-city mornings start on foot. Shangxiajiu and Shamian are a ~10–15 min taxi ride away.",
+      "zh": "荔湾湖、荔枝湾、永庆坊、泮溪酒家都在步行范围内，老城的早上可以直接走出去；上下九、沙面打车约10至15分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Walking distance to Yongqingfang and Liwan Lake",
+        "Short taxi to Shangxiajiu and Shamian",
+        "Atour chain: consistent rooms, laundry room usually available"
+      ],
+      "zh": [
+        "步行可到永庆坊、荔湾湖",
+        "打车很快到上下九、沙面",
+        "亚朵连锁，房间稳定，一般有自助洗衣房"
+      ]
+    },
+    "tips": {
+      "en": "The exact branch is unconfirmed; coordinates are approximate. Walking times in the plan assume a location near Lychee Bay and should be rechecked once the address is known.",
+      "zh": "具体是哪家分店还未确认，坐标只是大致位置；行程里的步行时间按荔枝湾附近估算，确认地址后要再核对。"
+    }
+  },
+  {
+    "id": "avenue-of-stars",
+    "aliases": [
+      "尖沙咀海滨、星光大道"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Avenue of Stars",
+      "zh": "星光大道"
+    },
+    "city": "Hong Kong",
+    "query": "Avenue of Stars, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2933,
+    "lng": 114.174,
+    "summary": {
+      "en": "Tsim Sha Tsui harbourfront promenade facing the Central skyline.",
+      "zh": "尖沙咀海滨长廊，正对中环天际线。"
+    },
+    "why": {
+      "en": "The classic view of Hong Kong Island's skyline across Victoria Harbour is seen from here. The Bruce Lee bronze statue links to Bruce Lee's ancestral home visited on Dec 23.",
+      "zh": "隔着维港看港岛天际线的经典位置。李小龙铜像和23号去过的李小龙祖居连起来。"
+    },
+    "highlights": {
+      "en": [
+        "Victoria Harbour and Central skyline",
+        "Bruce Lee statue",
+        "Film-star handprints"
+      ],
+      "zh": [
+        "维港和中环天际线",
+        "李小龙铜像",
+        "明星手印"
+      ]
+    }
+  },
+  {
+    "id": "bahe-li-haiji-beef-hotpot-nanshan",
+    "aliases": [
+      "八合里海记牛肉火锅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Bahe Li Haiji Beef Hotpot",
+      "zh": "八合里海记牛肉火锅"
+    },
+    "city": "Shenzhen",
+    "query": "八合里海记牛肉火锅 南山, 深圳",
+    "lat": 22.518,
+    "lng": 113.945,
+    "summary": {
+      "en": "Well-known Chaoshan beef hotpot chain.",
+      "zh": "知名潮汕牛肉火锅连锁。"
+    },
+    "why": {
+      "en": "Fresh beef is cut to order by part, and each cut has a set dipping time in a clear broth. Hand-beaten beef balls are a reliable hit with kids.",
+      "zh": "鲜牛肉按部位现切，每个部位有固定的涮煮时间，锅底是清汤。手打牛肉丸孩子一般都爱吃。"
+    },
+    "highlights": {
+      "en": [
+        "Fresh beef cut by part",
+        "Hand-beaten beef balls",
+        "Clear broth"
+      ],
+      "zh": [
+        "鲜牛肉按部位现切",
+        "手打牛肉丸",
+        "清汤锅底"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Diaolong cut (吊龙)",
+        "Hand-beaten beef balls (手打牛肉丸)",
+        "Beef tendon balls (牛筋丸)"
+      ],
+      "zh": [
+        "吊龙",
+        "手打牛肉丸",
+        "牛筋丸"
+      ]
+    },
+    "tips": {
+      "en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.",
+      "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"
+    }
+  },
+  {
+    "id": "baihua-dessert",
+    "aliases": [
+      "百花甜品"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Baihua Dessert",
+      "zh": "百花甜品"
+    },
+    "city": "Guangzhou",
+    "query": "百花甜品 文明路 越秀区 广州",
+    "lat": 23.12251,
+    "lng": 113.27555,
+    "summary": {
+      "en": "Old-school tong sui (sweet soup) shop on Wenming Road's dessert street.",
+      "zh": "文明路甜品街上的老字号糖水铺。"
+    },
+    "why": {
+      "en": "Wenming Road is Guangzhou's dessert street, and Baihua is its long-standing anchor. Its sesame and almond pastes are stone-ground and served hot, which is right for a December evening after Beijing Road.",
+      "zh": "文明路是广州的甜品街，百花是街上的老牌店。芝麻糊、杏仁糊用石磨磨制，热腾腾端上来，十二月逛完北京路吃一碗刚好。"
+    },
+    "highlights": {
+      "en": [
+        "Wenming Road's classic tong sui shop",
+        "Hot sweet soups for winter",
+        "A 10-minute walk from Beijing Road"
+      ],
+      "zh": [
+        "文明路的经典糖水铺",
+        "冬天适合吃热糖水",
+        "从北京路步行约10分钟"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Black sesame paste (芝麻糊)",
+        "Almond paste (杏仁糊)",
+        "Coconut milk sago (椰汁西米露)"
+      ],
+      "zh": [
+        "芝麻糊",
+        "杏仁糊",
+        "椰汁西米露"
+      ]
+    },
+    "image": "/places/baihua-dessert.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "reviews": [
+      {
+        "author": "Yingying",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Tried their red bean soup - One with barley and the other with sweet potato. I prefer the one with barley even though the sweet potato was also pretty good as well. The serving was generous and staff were also very nice too."
+      },
+      {
+        "author": "Lionel Ling",
+        "rating": 5,
+        "when": "11 months ago",
+        "text": "Pleasant warm dessert on a cold day. Not too sweet. Total damage is a respectable 31 cny. Nice service by the boss as well thumbs up."
+      },
+      {
+        "author": "Swee Chye Loh",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Ordered a bowl of mixed dessert at a cost of 24 yuan. Food was nice and service was fast. Ordering at be done either at the counter or through scanning of QR via WeChat. There are two levels of seats available."
+      }
+    ]
+  },
+  {
+    "id": "baima-clothing-market",
+    "aliases": [
+      "白马服装市场、红棉国际时装城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Baima Clothing Market",
+      "zh": "白马服装市场"
+    },
+    "city": "Guangzhou",
+    "query": "Baima Clothing Market, 16 Zhanqian Road, Yuexiu, Guangzhou",
+    "lat": 23.1491,
+    "lng": 113.258,
+    "summary": {
+      "en": "Large wholesale clothing market next to Guangzhou Railway Station, with Hongmian International Fashion City beside it.",
+      "zh": "广州火车站旁的大型服装批发市场，红棉国际时装城就在旁边。"
+    },
+    "why": {
+      "en": "Guangzhou is a hub of China's garment trade, and wholesale prices are seen first-hand here. Baima leans mid-to-upper-range women's workwear; next-door Hongmian leans trendy. Many stalls sell single pieces and bargaining is expected.",
+      "zh": "广州是全国服装贸易中心，这里能直接看到批发价。白马偏中高档通勤女装，旁边的红棉偏潮流款。很多档口一件起卖，可以讲价。"
+    },
+    "highlights": {
+      "en": [
+        "Wholesale prices",
+        "Hongmian International Fashion City next door",
+        "Single pieces sold at many stalls",
+        "Bargaining expected"
+      ],
+      "zh": [
+        "批发价",
+        "红棉国际时装城就在隔壁",
+        "很多档口一件起卖",
+        "可以讲价"
+      ]
+    },
+    "tips": {
+      "en": "Busy on Sunday mornings; backpacks worn on the front. Some stalls are wholesale-only.",
+      "zh": "周日上午人多，背包背在前面；部分档口只批发。"
+    }
+  },
+  {
+    "id": "baohua-noodle-shop",
+    "aliases": [
+      "宝华面店"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Baohua Noodle Shop",
+      "zh": "宝华面店"
+    },
+    "city": "Guangzhou",
+    "query": "宝华面店 宝华路 荔湾区 广州",
+    "lat": 23.1225,
+    "lng": 113.2515,
+    "summary": {
+      "en": "Old-style wonton noodle shop on Baohua Road.",
+      "zh": "宝华路老牌云吞面店。"
+    },
+    "why": {
+      "en": "Noodles here are still pressed with a bamboo pole (竹升面), which gives them their springy bite. A bowl is served in minutes, which suits a first meal straight off the plane.",
+      "zh": "这里仍用竹升压面，面条爽弹有嚼劲；出餐快，落地后第一餐最合适。"
+    },
+    "highlights": {
+      "en": [
+        "Bamboo-pole pressed noodles",
+        "Fast service, small bowls",
+        "Short walk from Shangxiajiu"
+      ],
+      "zh": [
+        "竹升压面",
+        "出餐快，分量小",
+        "离上下九很近"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Bamboo-pole wonton noodles (竹升云吞面)",
+        "Shrimp roe lo mein (虾子捞面)"
+      ],
+      "zh": [
+        "竹升云吞面",
+        "虾子捞面"
+      ]
+    },
+    "tips": {
+      "en": "Small and busy at peak times; tables are shared.",
+      "zh": "店小，高峰期要拼桌。"
+    }
+  },
+  {
+    "id": "beijing-road",
+    "aliases": [
+      "北京路步行街",
+      "北京路：大佛寺、逛街、晚餐、甜品"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Beijing Road Pedestrian Street",
+      "zh": "北京路步行街"
+    },
+    "city": "Guangzhou",
+    "query": "Beijing Road Pedestrian Street, Yuexiu, Guangzhou",
+    "lat": 23.126488,
+    "lng": 113.2691274,
+    "summary": {
+      "en": "Guangzhou's busiest central shopping street.",
+      "zh": "广州最热闹的市中心购物街。"
+    },
+    "why": {
+      "en": "The commercial heart of the city for over two thousand years, it mixes qilou arcades, malls and brand stores. Lively at night, with heritage food spots on surrounding streets.",
+      "zh": "两千多年来一直是城市的商业中心，骑楼、商场、品牌店都有；晚上热闹，周边街道有不少老字号美食。"
+    },
+    "highlights": {
+      "en": [
+        "Arcade buildings and malls",
+        "Ancient road ruins under glass",
+        "Busy evening atmosphere"
+      ],
+      "zh": [
+        "骑楼和商场",
+        "玻璃下的古道遗址",
+        "晚上很热闹"
+      ]
+    },
+    "tips": {
+      "en": "Crowded at night; belongings should be watched.",
+      "zh": "晚上人多，留意随身物品。"
+    },
+    "image": "/places/beijing-road.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.9,
+    "reviewCount": 28
+  },
+  {
+    "id": "beijing-road-ancient-road",
+    "aliases": [
+      "千年古道遗址"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Beijing Road Ancient Road Ruins",
+      "zh": "北京路千年古道遗址"
+    },
+    "city": "Guangzhou",
+    "query": "北京路千年古道遗址 越秀区 广州",
+    "lat": 23.1265,
+    "lng": 113.2705,
+    "summary": {
+      "en": "Layers of old road surfaces under glass on Beijing Road.",
+      "zh": "北京路玻璃地面下的历代路面。"
+    },
+    "why": {
+      "en": "Excavations revealed 11 layers of road from the Tang/Song to the Ming and Qing dynasties, now visible under glass panels in the street. Kids can stand on top of a thousand years of the same road.",
+      "zh": "考古发现从唐宋到明清共11层路面，现在铺上玻璃，站在街上就能看到；小孩可以踩在千年的同一条路上。"
+    },
+    "highlights": {
+      "en": [
+        "Multiple dynasties of road layers",
+        "Viewed through glass",
+        "Free, on the pedestrian street"
+      ],
+      "zh": [
+        "多朝代路面叠层",
+        "透过玻璃观看",
+        "免费，就在步行街上"
+      ]
+    },
+    "tips": {
+      "en": "The layer count is from memory.",
+      "zh": "层数凭记忆。"
+    }
+  },
+  {
+    "id": "bruce-lee-ancestral-home",
+    "aliases": [
+      "李小龙祖居"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Bruce Lee's Ancestral Home",
+      "zh": "李小龙祖居"
+    },
+    "city": "Guangzhou",
+    "query": "Bruce Lee Ancestral Home, Yongqing 1st Lane, Yongqingfang, Guangzhou",
+    "lat": 23.1205,
+    "lng": 113.2465,
+    "summary": {
+      "en": "Family house of Bruce Lee's father in Yongqingfang.",
+      "zh": "永庆坊里李小龙父亲的旧居。"
+    },
+    "why": {
+      "en": "The house belonged to Lee Hoi-chuen, Bruce Lee's father, a Cantonese opera actor. It now holds photos and memorabilia, a short visit that ties together Cantonese opera and kung fu.",
+      "zh": "这是李小龙父亲、粤剧演员李海泉的旧居，现展出照片和纪念品；短短一看，把粤剧和功夫连在一起。"
+    },
+    "highlights": {
+      "en": [
+        "Bruce Lee family history",
+        "Photos and memorabilia",
+        "Inside Yongqingfang"
+      ],
+      "zh": [
+        "李小龙家族历史",
+        "照片和纪念品",
+        "就在永庆坊"
+      ]
+    }
+  },
+  {
+    "id": "canton-tower",
+    "aliases": [
+      "广州塔、海心桥、花城广场",
+      "广州塔登塔"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Canton Tower",
+      "zh": "广州塔"
+    },
+    "city": "Guangzhou",
+    "query": "Canton Tower, 222 Yuejiang West Road, Haizhu, Guangzhou",
+    "lat": 23.10649,
+    "lng": 113.32449,
+    "summary": {
+      "en": "600 m TV tower with observation decks over the Pearl River.",
+      "zh": "600米高的电视塔，可登塔俯瞰珠江。"
+    },
+    "why": {
+      "en": "At 600 m it is one of the world's tallest towers, and the observation level at over 400 m shows the whole city and river. The tower top adds a Ferris-wheel ride and other thrill attractions, which make it the high point of the trip for most kids.",
+      "zh": "高600米，世界最高的塔之一；400多米的观光层可以看到全城和珠江；塔顶还有摩天轮等项目，是大多数小孩整趟旅程的高潮。"
+    },
+    "highlights": {
+      "en": [
+        "Observation deck over 400 m",
+        "Bubble Tram at the top",
+        "Pearl River and Zhujiang New Town skyline",
+        "Lit up at night"
+      ],
+      "zh": [
+        "400多米观光层",
+        "塔顶摩天轮",
+        "珠江和珠江新城天际线",
+        "夜间亮灯"
+      ]
+    },
+    "tips": {
+      "en": "Tickets should be bought in advance via official channels. Visibility is poor on overcast days; check the weather first.",
+      "zh": "门票提前在官方渠道买；阴天能见度低，出发前看天气。"
+    },
+    "image": "/places/canton-tower.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 802,
+    "reviews": [
+      {
+        "author": "Husnain Mohammad",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "The tower is colourful and beautiful. It’s definitely a must visit in Guangzhou. The night view here is great. Come during sunset time and you won’t regret. Do note that this place is quite crowded during weekends and holidays"
+      },
+      {
+        "author": "Colin Leung",
+        "rating": 5,
+        "when": "7 months ago",
+        "text": "Most iconic landmark in Guangzhou.  Must visit, A+ attraction.  Beautiful both during the day and night.  Also costs like $50+ to go up it with several tiers costing more.  Recommend to go early as crowds build up at night."
+      },
+      {
+        "author": "Alaa Aljanaby",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "Canton Tower is a must-visit attraction in Guangzhou. It’s an impressive landmark and looks spectacular, especially in the evening when it is fully illuminated."
+      }
+    ]
+  },
+  {
+    "id": "canton-tower-bubble-tram",
+    "aliases": [
+      "塔顶摩天轮"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Bubble Tram, Canton Tower",
+      "zh": "广州塔摩天轮"
+    },
+    "city": "Guangzhou",
+    "query": "Bubble Tram, Canton Tower, Guangzhou",
+    "lat": 23.1066,
+    "lng": 113.3245,
+    "summary": {
+      "en": "Horizontal Ferris wheel circling the top of Canton Tower.",
+      "zh": "绕塔顶一圈的横向摩天轮。"
+    },
+    "why": {
+      "en": "Transparent capsules travel slowly around the tower's rim at about 450 m, billed as the world's highest Ferris wheel. A full lap gives a 360° view of Guangzhou.",
+      "zh": "透明车厢在约450米高处沿塔顶边缘慢慢绕一圈，号称世界最高摩天轮，一圈看尽广州360°。"
+    },
+    "highlights": {
+      "en": [
+        "~450 m up",
+        "Transparent capsules",
+        "360° city view"
+      ],
+      "zh": [
+        "约450米高",
+        "透明车厢",
+        "360°城市景观"
+      ]
+    },
+    "tips": {
+      "en": "Separate ticket required; queue length varies on the day.",
+      "zh": "需另外买票，排队时间以现场为准。"
+    }
+  },
+  {
+    "id": "cantonese-opera-art-museum",
+    "aliases": [
+      "粤剧艺术博物馆"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Cantonese Opera Art Museum",
+      "zh": "粤剧艺术博物馆"
+    },
+    "city": "Guangzhou",
+    "query": "Cantonese Opera Art Museum, 127 Enning Road, Guangzhou",
+    "lat": 23.1195,
+    "lng": 113.245,
+    "summary": {
+      "en": "Garden-style museum of Cantonese opera on Enning Road.",
+      "zh": "恩宁路上园林式的粤剧博物馆。"
+    },
+    "why": {
+      "en": "Built in Lingnan garden style with ponds, covered walkways and a stage, it shows costumes, masks and instruments of a UNESCO-listed art form. Free entry, and the garden alone is worth a short stop.",
+      "zh": "岭南园林式建筑，有池塘、回廊和戏台，展出粤剧（联合国非遗）的戏服、脸谱、乐器；免费入场，园林本身就值得看。"
+    },
+    "highlights": {
+      "en": [
+        "Lingnan garden architecture",
+        "Opera costumes and masks",
+        "Free entry"
+      ],
+      "zh": [
+        "岭南园林建筑",
+        "粤剧戏服和脸谱",
+        "免费入场"
+      ]
+    },
+    "tips": {
+      "en": "Closed Mondays. Free entry is from memory; booking may be required.",
+      "zh": "周一闭馆；免费入场凭记忆，可能需要预约。"
+    }
+  },
+  {
+    "id": "changshou-lu-station",
+    "aliases": [
+      "长寿路站"
+    ],
+    "kind": "transit",
+    "name": {
+      "en": "Changshou Lu Station",
+      "zh": "长寿路站"
+    },
+    "city": "Guangzhou",
+    "query": "Changshou Lu Station, Guangzhou Metro Line 1",
+    "lat": 23.118397,
+    "lng": 113.242271,
+    "summary": {
+      "en": "Line 1 station closest to Shangxiajiu and the Liwan hotel.",
+      "zh": "离上下九和荔湾酒店最近的1号线站。"
+    },
+    "why": {
+      "en": "The nearest metro stop to Shangxiajiu Pedestrian Street and the old Xiguan area. Three stops from Gongyuanqian on Line 1.",
+      "zh": "离上下九步行街和西关老城最近的地铁站，坐1号线到公园前只需3站。"
+    },
+    "highlights": {
+      "en": [
+        "Metro Line 1",
+        "Exit signed for Shangxiajiu",
+        "5–10 min walk to the pedestrian street"
+      ],
+      "zh": [
+        "地铁1号线",
+        "有上下九出口指示",
+        "步行5至10分钟到步行街"
+      ]
+    },
+    "tips": {
+      "en": "Look for the exit signed “上下九步行街” before leaving the station.",
+      "zh": "出站前看准写着“上下九步行街”的出口。"
+    },
+    "image": "/places/changshou-lu-station.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "Sơn Ca Nguyễn",
+        "rating": 5,
+        "when": "9 years ago",
+        "text": "Gate A doesn't have an elevator, so going up is a bit tiring. It's about 500 meters from Gate A to Shangxiajiu Street. The goods here are relatively cheap, much cheaper than buying them on Beijing's pedestrian streets."
+      },
+      {
+        "author": "Jenny Cecilia Prado Viteri",
+        "rating": 4,
+        "when": "6 years ago",
+        "text": "A typical city shopping destination, it's close to many restaurants, individual shops, and shopping centers."
+      },
+      {
+        "author": "Iyan",
+        "rating": 5,
+        "when": "8 years ago",
+        "text": "Nice , clean and spacious MRT station for famous tourist destination"
+      }
+    ]
+  },
+  {
+    "id": "chao-xiao-zhan-galaxy-world",
+    "aliases": [
+      "潮小栈"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Chao Xiao Zhan",
+      "zh": "潮小栈"
+    },
+    "city": "Shenzhen",
+    "query": "潮小栈 星河WORLD COCO Park, 坂田, 深圳",
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Casual Chaoshan food: rice noodles, beef balls.",
+      "zh": "潮汕小吃：粿条、牛肉丸。"
+    },
+    "why": {
+      "en": "Chaoshan beef balls are hand-beaten until springy, and kway teow soup is light enough for children. At ~35 yuan per person, it is the quickest and cheapest option in the mall.",
+      "zh": "潮汕牛肉丸手打，弹牙；粿条汤清淡，孩子也能吃。人均约35元，是商场里最快最省的选择。"
+    },
+    "highlights": {
+      "en": [
+        "Hand-beaten beef balls",
+        "Kway teow noodle soup",
+        "~35 yuan per person"
+      ],
+      "zh": [
+        "手打牛肉丸",
+        "粿条汤",
+        "人均约35元"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Beef ball kway teow (牛肉丸粿条)"
+      ],
+      "zh": [
+        "牛肉丸粿条"
+      ]
+    },
+    "tips": {
+      "en": "Name comes from older listings; presence in the mall is unconfirmed.",
+      "zh": "店名来自较早的资料，是否仍在营业待确认。"
+    }
+  },
+  {
+    "id": "chimelong-asian-elephant-park",
+    "aliases": [
+      "亚洲象园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Asian Elephant Park",
+      "zh": "亚洲象园"
+    },
+    "city": "Guangzhou",
+    "query": "Asian Elephant, Chimelong Safari Park, Guangzhou",
+    "lat": 23.003,
+    "lng": 113.318,
+    "summary": {
+      "en": "Elephant enclosure where bananas can be bought and fed by hand.",
+      "zh": "可以买香蕉亲手喂大象的展区。"
+    },
+    "why": {
+      "en": "An elephant's trunk takes the banana from your hand, an encounter most kids remember for years. Feeding is done from a raised platform.",
+      "zh": "大象用鼻子从手里卷走香蕉，孩子会记很多年。在高台上投喂，安全。"
+    },
+    "highlights": {
+      "en": [
+        "Hand-feeding elephants",
+        "Raised feeding platform",
+        "Good photo spot"
+      ],
+      "zh": [
+        "亲手喂大象",
+        "高台投喂",
+        "拍照好位置"
+      ]
+    },
+    "tips": {
+      "en": "Feed price is set on site.",
+      "zh": "投喂食物价格以现场为准。"
+    }
+  },
+  {
+    "id": "chimelong-coconut-grove-restaurant",
+    "aliases": [
+      "椰林餐厅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Coconut Grove Restaurant",
+      "zh": "椰林餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "Coconut Grove Restaurant, Chimelong Paradise, Guangzhou",
+    "lat": 23.001666,
+    "lng": 113.329082,
+    "summary": {
+      "en": "Sit-down restaurant inside Happy World, on the official route.",
+      "zh": "欢乐世界内的餐厅，官方路线推荐。"
+    },
+    "why": {
+      "en": "A seated meal in the park where both groups regroup; recommended on Chimelong's official route.",
+      "zh": "园内能坐下吃饭、两组会合的地方，长隆官方路线推荐。"
+    },
+    "highlights": {
+      "en": [
+        "Seated dining",
+        "Meeting point for both groups"
+      ],
+      "zh": [
+        "有座位",
+        "两组会合点"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Rice set meals (套餐饭)"
+      ],
+      "zh": [
+        "套餐饭"
+      ]
+    },
+    "tips": {
+      "en": "Menu not verified; arrive by 11:30.",
+      "zh": "菜单未核实；11:30前到。"
+    }
+  },
+  {
+    "id": "chimelong-dive-coaster",
+    "aliases": [
+      "律动天地：垂直过山车"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Dive Coaster, Rhythm World",
+      "zh": "律动天地：垂直过山车"
+    },
+    "city": "Guangzhou",
+    "query": "Dive Coaster, Chimelong Paradise, Guangzhou",
+    "lat": 23.006,
+    "lng": 113.333,
+    "summary": {
+      "en": "B&M dive coaster with a 90° vertical drop.",
+      "zh": "B&M垂直过山车，90度垂直俯冲。"
+    },
+    "why": {
+      "en": "The train is held at the edge before a 90° drop, the park's signature thrill and one of the first dive coasters in China (opened 2006).",
+      "zh": "车厢在顶端悬停后90度垂直俯冲，是园区的招牌项目，也是国内最早的垂直过山车之一（2006年开放）。"
+    },
+    "highlights": {
+      "en": [
+        "90° vertical drop",
+        "Hold at the top",
+        "Park signature ride"
+      ],
+      "zh": [
+        "90度垂直俯冲",
+        "顶端悬停",
+        "招牌项目"
+      ]
+    },
+    "tips": {
+      "en": "Loose items go in a locker.",
+      "zh": "随身物品放储物柜。"
+    }
+  },
+  {
+    "id": "chimelong-drone-show",
+    "aliases": [
+      "无人机表演（待确认）"
+    ],
+    "kind": "show",
+    "name": {
+      "en": "Chimelong drone show",
+      "zh": "长隆无人机表演"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Tourist Resort, Panyu, Guangzhou",
+    "lat": 23.005,
+    "lng": 113.33,
+    "summary": {
+      "en": "Evening drone light show at the resort (dates to be confirmed).",
+      "zh": "度假区夜间无人机灯光表演（日期待确认）。"
+    },
+    "why": {
+      "en": "Hundreds of drones form shapes over the resort after dark; it is free to watch for hotel guests and ends the day without more walking.",
+      "zh": "几百架无人机在度假区夜空组成图案；住客免费观看，不用再走远路。"
+    },
+    "highlights": {
+      "en": [
+        "Night light show",
+        "Near the hotels",
+        "Short, ~15–20 min"
+      ],
+      "zh": [
+        "夜间灯光秀",
+        "就在酒店附近",
+        "时间短，约15至20分钟"
+      ]
+    },
+    "tips": {
+      "en": "Dates, time, location and whether it is free are unconfirmed; they should be checked with reception or the Chimelong app.",
+      "zh": "日期、时间、地点和是否免费均未确认，以前台或长隆APP为准。"
+    }
+  },
+  {
+    "id": "chimelong-flamingo-lake",
+    "aliases": [
+      "火烈鸟湖、纪念品店"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Flamingo Lake",
+      "zh": "火烈鸟湖"
+    },
+    "city": "Guangzhou",
+    "query": "Flamingo Lake, Chimelong Safari Park, Guangzhou",
+    "lat": 23.0045,
+    "lng": 113.3205,
+    "summary": {
+      "en": "Lake with a large flamingo flock near the exit, beside the gift shops.",
+      "zh": "出口附近的火烈鸟湖，旁边是纪念品店。"
+    },
+    "why": {
+      "en": "Hundreds of pink flamingos make the last photo of the day. Souvenir shops are on the way out.",
+      "zh": "几百只粉色火烈鸟，是当天最后一张照片；出园路上就有纪念品店。"
+    },
+    "highlights": {
+      "en": [
+        "Large flamingo flock",
+        "Souvenir shops",
+        "Near the exit"
+      ],
+      "zh": [
+        "火烈鸟群",
+        "纪念品店",
+        "靠近出口"
+      ]
+    }
+  },
+  {
+    "id": "chimelong-food-town",
+    "aliases": [
+      "美食小镇"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Food Town",
+      "zh": "美食小镇"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Food Town, Panyu, Guangzhou",
+    "lat": 23.005,
+    "lng": 113.33,
+    "summary": {
+      "en": "À la carte food court in the Chimelong resort.",
+      "zh": "长隆度假区内的单点美食区。"
+    },
+    "why": {
+      "en": "Shorter queues than the hotel buffets, with a choice of Cantonese and fast-food stalls so each person picks their own.",
+      "zh": "比酒店自助餐少排队，有粤菜和快餐档口，各人点自己想吃的。"
+    },
+    "highlights": {
+      "en": [
+        "À la carte",
+        "Shorter queues",
+        "Varied stalls"
+      ],
+      "zh": [
+        "单点",
+        "排队少",
+        "档口多"
+      ]
+    },
+    "tips": {
+      "en": "Exact location within the resort is not verified; it should be confirmed at reception.",
+      "zh": "在度假区内的具体位置未核实，以前台说明为准。"
+    }
+  },
+  {
+    "id": "chimelong-giraffe-plaza",
+    "aliases": [
+      "长颈鹿广场"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Giraffe Plaza",
+      "zh": "长颈鹿广场"
+    },
+    "city": "Guangzhou",
+    "query": "Giraffe Plaza, Chimelong Safari Park, Guangzhou",
+    "lat": 23.004,
+    "lng": 113.317,
+    "summary": {
+      "en": "Raised deck for feeding giraffes at head height.",
+      "zh": "高台上与长颈鹿平视投喂。"
+    },
+    "why": {
+      "en": "Giraffes are met eye to eye and fed leaves by hand, the park's most popular activity. The herd is one of the largest in China.",
+      "zh": "和长颈鹿面对面、亲手喂树叶，是全园最受欢迎的项目；这里的长颈鹿群是国内最大的之一。"
+    },
+    "highlights": {
+      "en": [
+        "Eye-level giraffe feeding",
+        "Large giraffe herd",
+        "Photo spot"
+      ],
+      "zh": [
+        "平视喂长颈鹿",
+        "长颈鹿数量多",
+        "拍照打卡"
+      ]
+    },
+    "tips": {
+      "en": "Queues are long; one adult can queue while the others rest. Feed is sold separately.",
+      "zh": "排队长，可以一人排队其他人休息；食物另外买。"
+    }
+  },
+  {
+    "id": "chimelong-happy-theatre-magic-show",
+    "aliases": [
+      "欢乐剧场：魔术表演"
+    ],
+    "kind": "show",
+    "name": {
+      "en": "Magic show, Happy Theatre",
+      "zh": "欢乐剧场魔术表演"
+    },
+    "city": "Guangzhou",
+    "query": "Happy Theatre, Chimelong Paradise, Guangzhou",
+    "lat": 23.0068,
+    "lng": 113.3298,
+    "summary": {
+      "en": "Seated indoor magic show with audience interaction.",
+      "zh": "有观众互动的室内魔术表演。"
+    },
+    "why": {
+      "en": "An indoor, seated break after a morning of rides, with children often called on stage.",
+      "zh": "玩了一上午后坐下休息，孩子常被请上台互动。"
+    },
+    "highlights": {
+      "en": [
+        "Indoor and seated",
+        "Audience participation"
+      ],
+      "zh": [
+        "室内有座位",
+        "观众互动"
+      ]
+    },
+    "tips": {
+      "en": "Times per the Chimelong app; official guides mention ~14:00 and 16:30.",
+      "zh": "场次以长隆APP为准，官方攻略提过约14:00和16:30。"
+    }
+  },
+  {
+    "id": "chimelong-hotel-white-tiger-buffet",
+    "aliases": [
+      "白虎自助餐厅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "White Tiger Buffet, Chimelong Hotel",
+      "zh": "长隆酒店白虎自助餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "White Tiger Buffet Restaurant, Chimelong Hotel, Panyu, Guangzhou",
+    "lat": 23.003,
+    "lng": 113.3245,
+    "summary": {
+      "en": "Buffet beside the Chimelong Hotel's white tiger enclosure.",
+      "zh": "长隆酒店内、紧邻白虎栖息地的自助餐厅。"
+    },
+    "why": {
+      "en": "White tigers are watched through the glass while eating, which turns a meal into a sight. The spread is wide: Cantonese roasts, seafood, desserts.",
+      "zh": "隔着玻璃边吃边看白虎，一顿饭也是一个景点。菜式丰富，有烧味、海鲜、甜品。"
+    },
+    "highlights": {
+      "en": [
+        "White tigers visible from the tables",
+        "Large buffet spread",
+        "Short shuttle ride from the Panda Hotel"
+      ],
+      "zh": [
+        "餐桌上就能看到白虎",
+        "自助餐选择多",
+        "从熊猫酒店坐接驳车很近"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Cantonese roast meats (烧味)",
+        "Seafood station (海鲜)"
+      ],
+      "zh": [
+        "烧味",
+        "海鲜"
+      ]
+    },
+    "tips": {
+      "en": "In the Chimelong Hotel, not the Panda Hotel. Booking ahead is advised; price and tiger viewing times are not confirmed.",
+      "zh": "在长隆酒店，不在熊猫酒店；建议提前订位，价格和看白虎的时段未确认。"
+    }
+  },
+  {
+    "id": "chimelong-international-circus",
+    "aliases": [
+      "大马戏剧场、欢乐世界北门",
+      "长隆国际大马戏"
+    ],
+    "kind": "show",
+    "name": {
+      "en": "Chimelong International Circus",
+      "zh": "长隆国际大马戏"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong International Circus, Panyu, Guangzhou",
+    "lat": 23.008,
+    "lng": 113.3295,
+    "summary": {
+      "en": "~80 min circus with animals and aerial acrobatics, next to Happy World North Gate.",
+      "zh": "约80分钟的大型马戏，有动物和高空杂技，在欢乐世界北门旁。"
+    },
+    "why": {
+      "en": "Performers from many countries in a theatre for several thousand people, with animal acts, motorbike globes and aerial work. Scale and effects are well beyond a typical circus.",
+      "zh": "来自多个国家的演员，几千人的剧场，有动物表演、摩托车飞球和高空节目，规模和效果远超一般马戏。"
+    },
+    "highlights": {
+      "en": [
+        "Animal acts and aerial acrobatics",
+        "Huge theatre, strong lighting and sound",
+        "Next to the Panda Hotel shuttle"
+      ],
+      "zh": [
+        "动物表演和高空杂技",
+        "超大剧场，声光震撼",
+        "熊猫酒店坐接驳车就到"
+      ]
+    },
+    "tips": {
+      "en": "Doors 17:00; standard seats unassigned, so arrive 45+ min early on holidays. Original booking ID is checked. Not recommended for under-3s or children under 1 m.",
+      "zh": "17:00开放入场，普通座不对号，节假日至少提前45分钟；验证购票证件原件；未满3岁或1米以下儿童不建议入场。"
+    }
+  },
+  {
+    "id": "chimelong-koala-park",
+    "aliases": [
+      "考拉园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Koala Park",
+      "zh": "考拉园"
+    },
+    "city": "Guangzhou",
+    "query": "Koala Park, Chimelong Safari Park, Guangzhou",
+    "lat": 23.0005,
+    "lng": 113.3225,
+    "summary": {
+      "en": "One of the largest koala groups outside Australia.",
+      "zh": "澳洲以外规模最大的考拉种群之一。"
+    },
+    "why": {
+      "en": "Koalas are rarely seen outside Australia; dozens live here. They sleep most of the day, so a morning visit gives the best chance of movement.",
+      "zh": "澳洲以外很少能看到考拉，这里有几十只。它们大部分时间在睡，上午最有机会看到动。"
+    },
+    "highlights": {
+      "en": [
+        "Large koala group",
+        "Indoor, climate-controlled",
+        "Best activity in the morning"
+      ],
+      "zh": [
+        "考拉数量多",
+        "室内恒温",
+        "上午较活跃"
+      ]
+    }
+  },
+  {
+    "id": "chimelong-panda-hotel",
+    "aliases": [
+      "熊猫酒店",
+      "长隆熊猫酒店",
+      "回熊猫酒店",
+      "熊猫酒店最后一个上午"
+    ],
+    "kind": "hotel",
+    "name": {
+      "en": "Chimelong Panda Hotel",
+      "zh": "长隆熊猫酒店"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Panda Hotel, Panyu, Guangzhou",
+    "lat": 23.004,
+    "lng": 113.3335,
+    "summary": {
+      "en": "Panda-themed resort hotel next to Chimelong Safari Park and Happy World.",
+      "zh": "紧邻长隆野生动物世界和欢乐世界的熊猫主题度假酒店。"
+    },
+    "why": {
+      "en": "Guests may enter Safari Park 30 minutes before general visitors via the North Gate, which is when queues for the safari train are shortest. Free shuttles run to every park, so no taxis are needed for three days. Lobby, corridors and rooms are panda-themed throughout.",
+      "zh": "住客可比一般游客提前半小时从北门进入野生动物世界，小火车排队最短就在这段时间。免费接驳车通往各个园区，三天不用打车。大堂、走廊和客房全是熊猫主题。"
+    },
+    "highlights": {
+      "en": [
+        "Early Safari Park entry for guests (North Gate)",
+        "Free shuttles from 2F to each park",
+        "Panda décor and kids' area for photos",
+        "Delivery lockers beside the hotel"
+      ],
+      "zh": [
+        "住客提前入园（北门）",
+        "二楼坐免费接驳车去各园区",
+        "熊猫装饰和儿童区，适合拍照",
+        "酒店旁有外卖柜"
+      ]
+    },
+    "tips": {
+      "en": "Check-in from 15:00, checkout by 12:00. Shuttle departure point (2F) should be confirmed at reception.",
+      "zh": "15:00后入住，12:00前退房。接驳车上车点（二楼）以前台说明为准。"
+    }
+  },
+  {
+    "id": "chimelong-panda-paradise",
+    "aliases": [
+      "熊猫乐园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Panda Paradise",
+      "zh": "熊猫乐园"
+    },
+    "city": "Guangzhou",
+    "query": "Panda Paradise, Chimelong Safari Park, Guangzhou",
+    "lat": 23.001,
+    "lng": 113.321,
+    "summary": {
+      "en": "Giant panda enclosures, home of the Chimelong panda triplets.",
+      "zh": "大熊猫馆，长隆熊猫三胞胎的家。"
+    },
+    "why": {
+      "en": "Pandas are most active in the morning, eating bamboo and climbing. The triplets Mengmeng, Shuaishuai and Kuku were born here in 2014.",
+      "zh": "熊猫上午最活跃，吃竹子、爬树。萌萌、帅帅、酷酷三胞胎2014年在这里出生。"
+    },
+    "highlights": {
+      "en": [
+        "Panda triplets",
+        "Morning feeding activity",
+        "Indoor and outdoor viewing"
+      ],
+      "zh": [
+        "熊猫三胞胎",
+        "上午进食最活跃",
+        "室内外都能看"
+      ]
+    },
+    "tips": {
+      "en": "Visit before 11:00 for active pandas.",
+      "zh": "11点前去，熊猫最活跃。"
+    }
+  },
+  {
+    "id": "chimelong-paradise",
+    "aliases": [],
+    "kind": "sight",
+    "name": {
+      "en": "Chimelong Paradise (Happy World)",
+      "zh": "长隆欢乐世界"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Paradise, Panyu, Guangzhou",
+    "lat": 22.99665,
+    "lng": 113.328853,
+    "summary": {
+      "en": "Theme park with major roller coasters and a large kids' area.",
+      "zh": "有多台大型过山车和大面积儿童区的主题乐园。"
+    },
+    "why": {
+      "en": "Thrill seekers get world-class coasters, including a vertical dive coaster and a ten-inversion coaster, while younger kids have a separate gentle-ride zone, so the family splits and meets for lunch.",
+      "zh": "喜欢刺激的有垂直过山车、十环过山车等大型项目；小朋友有专门的温和项目区，两组分开玩，中午会合。"
+    },
+    "highlights": {
+      "en": [
+        "Vertical dive coaster",
+        "Ten-inversion coaster",
+        "Separate kids' ride zone",
+        "Magic show at Happy Theatre"
+      ],
+      "zh": [
+        "垂直过山车",
+        "十环过山车",
+        "独立儿童区",
+        "欢乐剧场魔术表演"
+      ]
+    },
+    "tips": {
+      "en": "Queues are shortest in the first two hours. Water rides are best skipped in December.",
+      "zh": "开园头两小时排队最短；12月天冷，湿身项目建议跳过。"
+    },
+    "image": "/places/chimelong-paradise.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 489,
+    "reviews": [
+      {
+        "author": "Cola Bank",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+      },
+      {
+        "author": "NOOR MOHAMMAD",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+      },
+      {
+        "author": "ZhanYuan",
+        "rating": 4,
+        "when": "8 months ago",
+        "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+      }
+    ]
+  },
+  {
+    "id": "chimelong-rocket-coaster",
+    "aliases": [
+      "尖叫地带：火箭过山车"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Rocket Coaster, Scream Zone",
+      "zh": "尖叫地带：火箭过山车"
+    },
+    "city": "Guangzhou",
+    "query": "Scream Zone, Chimelong Paradise, Guangzhou",
+    "lat": 23.0075,
+    "lng": 113.331,
+    "summary": {
+      "en": "High-speed launched coaster just inside the North Gate.",
+      "zh": "北门进去就到的高速弹射过山车。"
+    },
+    "why": {
+      "en": "One of the park's most popular rides; done at opening, the queue is a fraction of the afternoon wait.",
+      "zh": "全园最热门的项目之一，开园就去，排队只是下午的零头。"
+    },
+    "highlights": {
+      "en": [
+        "Launch start",
+        "Near the North Gate",
+        "Shortest queue at opening"
+      ],
+      "zh": [
+        "弹射起步",
+        "靠近北门",
+        "开园排队最短"
+      ]
+    },
+    "tips": {
+      "en": "Official English name and height limit are not verified; check signage.",
+      "zh": "官方英文名和身高限制未核实，以现场标示为准。"
+    }
+  },
+  {
+    "id": "chimelong-safari-cable-car",
+    "aliases": [
+      "空中缆车"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Safari Park cable car",
+      "zh": "长隆野生动物世界空中缆车"
+    },
+    "city": "Guangzhou",
+    "query": "Cable car, Chimelong Safari Park, Guangzhou",
+    "lat": 23.002,
+    "lng": 113.3185,
+    "summary": {
+      "en": "~30 min loop over the park.",
+      "zh": "约30分钟环园缆车。"
+    },
+    "why": {
+      "en": "The whole park, including the animal plains, is seen from above while seated, which doubles as an afternoon rest.",
+      "zh": "坐着从高处看全园和放养区，也是下午的休息时间。"
+    },
+    "highlights": {
+      "en": [
+        "Aerial park views",
+        "Seated rest",
+        "Animals seen from above"
+      ],
+      "zh": [
+        "空中看全园",
+        "坐着休息",
+        "俯瞰动物"
+      ]
+    }
+  },
+  {
+    "id": "chimelong-safari-panda-restaurant",
+    "aliases": [
+      "熊猫餐厅",
+      "午餐：熊猫餐厅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Panda Restaurant, Safari Park",
+      "zh": "长隆野生动物世界熊猫餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "Panda Restaurant, Chimelong Safari Park, Guangzhou",
+    "lat": 23.0008,
+    "lng": 113.3212,
+    "summary": {
+      "en": "In-park themed restaurant serving panda-shaped dishes.",
+      "zh": "园内主题餐厅，熊猫造型餐点。"
+    },
+    "why": {
+      "en": "Rice, buns and desserts are shaped like pandas, which keeps kids eating on a long park day. Seating indoors gives a proper rest at midday.",
+      "zh": "饭团、包子、甜点都做成熊猫造型，孩子在园里走了半天也愿意吃。室内有座位，中午能好好休息。"
+    },
+    "highlights": {
+      "en": [
+        "Panda-shaped meals",
+        "Indoor seating",
+        "Near Panda Paradise"
+      ],
+      "zh": [
+        "熊猫造型餐",
+        "室内座位",
+        "靠近熊猫乐园"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Panda rice set (熊猫饭团套餐)",
+        "Panda buns (熊猫包)"
+      ],
+      "zh": [
+        "熊猫饭团套餐",
+        "熊猫包"
+      ]
+    },
+    "tips": {
+      "en": "Exact menu and location within the park are not verified; arrive by 11:45 to beat the rush.",
+      "zh": "具体菜单和园内位置未核实；11:45前到，避开人潮。"
+    }
+  },
+  {
+    "id": "chimelong-safari-park",
+    "aliases": [
+      "野生动物世界入口"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Chimelong Safari Park",
+      "zh": "长隆野生动物世界"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Safari Park, Panyu, Guangzhou",
+    "lat": 23.0017,
+    "lng": 113.32,
+    "summary": {
+      "en": "China's largest safari park: pandas, koalas, white tigers, a safari train and cable car.",
+      "zh": "国内规模最大的野生动物园之一：熊猫、考拉、白虎、小火车和缆车。"
+    },
+    "why": {
+      "en": "Giant pandas, including the world's only surviving panda triplets born here in 2014, are seen up close. Elephants and giraffes are fed by hand, and the safari train passes free-roaming herds. A full day is filled for every age.",
+      "zh": "可以近距离看大熊猫，包括2014年在这里出生、全球唯一存活的熊猫三胞胎。可以亲手喂大象和长颈鹿，小火车穿过放养的动物群。各年龄段都能玩满一天。"
+    },
+    "highlights": {
+      "en": [
+        "Panda triplets at Panda Paradise",
+        "Hand-feeding elephants and giraffes",
+        "Safari train through open enclosures",
+        "Cable car over the whole park"
+      ],
+      "zh": [
+        "熊猫乐园看熊猫三胞胎",
+        "亲手喂大象和长颈鹿",
+        "小火车穿过开放区",
+        "缆车俯瞰全园"
+      ]
+    },
+    "tips": {
+      "en": "Panda Hotel guests enter 30 min early via the North Gate. Queue times are shown in the official Chimelong app.",
+      "zh": "熊猫酒店住客可从北门提前半小时入园；长隆官方APP有各馆排队时间。"
+    }
+  },
+  {
+    "id": "chimelong-safari-train",
+    "aliases": [
+      "小火车"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Safari Park train",
+      "zh": "长隆野生动物世界小火车"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Safari Park train station, Panyu, Guangzhou",
+    "lat": 23.0025,
+    "lng": 113.3195,
+    "summary": {
+      "en": "~35 min seated loop through the big-cat, giraffe and zebra areas.",
+      "zh": "约35分钟坐着绕园，经过猛兽区、长颈鹿和斑马。"
+    },
+    "why": {
+      "en": "The open plains, where animals roam rather than sit in pens, are only reached this way. Queues pass 1 hour by mid-morning, so it is done first.",
+      "zh": "动物放养的大片区域只能坐小火车进去。上午晚些排队超过1小时，所以第一个去。"
+    },
+    "highlights": {
+      "en": [
+        "Lions, tigers and bears from the train",
+        "Giraffe and zebra herds",
+        "Seated, good for small legs"
+      ],
+      "zh": [
+        "车上看狮子、老虎、熊",
+        "长颈鹿和斑马群",
+        "全程坐着，小朋友不累"
+      ]
+    },
+    "tips": {
+      "en": "Go straight to the station at entry.",
+      "zh": "入园后直奔小火车站。"
+    }
+  },
+  {
+    "id": "chimelong-star-dream-garden",
+    "aliases": [
+      "星梦奇园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Star Dream Garden",
+      "zh": "星梦奇园"
+    },
+    "city": "Guangzhou",
+    "query": "Star Dream Garden, Chimelong Paradise, Guangzhou",
+    "lat": 23.007,
+    "lng": 113.3285,
+    "summary": {
+      "en": "Family ride zone with carousel and bouncing rides.",
+      "zh": "亲子项目区，有转马和跳跳类项目。"
+    },
+    "why": {
+      "en": "Gentle rides grouped close together, so younger children ride many times with little walking or queuing.",
+      "zh": "温和项目集中在一起，小朋友少走路、少排队，可以玩很多次。"
+    },
+    "highlights": {
+      "en": [
+        "Dream carousel",
+        "Bouncing rides",
+        "Short queues"
+      ],
+      "zh": [
+        "梦幻转马",
+        "欢乐跳跳",
+        "排队短"
+      ]
+    },
+    "tips": {
+      "en": "Ride list per the 2026 official map; English name is a translation.",
+      "zh": "项目以官方地图为准；英文名为意译。"
+    }
+  },
+  {
+    "id": "chimelong-super-pendulum",
+    "aliases": [
+      "超级大摆锤"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Super giant pendulum",
+      "zh": "超级大摆锤"
+    },
+    "city": "Guangzhou",
+    "query": "Super pendulum, Chimelong Paradise, Guangzhou",
+    "lat": 23.0058,
+    "lng": 113.3335,
+    "summary": {
+      "en": "Giant swinging pendulum with full 360° rotation.",
+      "zh": "可360度翻转的巨型摆锤。"
+    },
+    "why": {
+      "en": "Swings past horizontal and turns riders fully upside down; short queue compared with the coasters.",
+      "zh": "摆过水平线、整圈倒转，排队通常比过山车短。"
+    },
+    "highlights": {
+      "en": [
+        "360° flip",
+        "Shorter queue",
+        "Next to Dive Coaster"
+      ],
+      "zh": [
+        "360度翻转",
+        "排队较短",
+        "垂直过山车旁"
+      ]
+    },
+    "tips": {
+      "en": "Phones and wallets go in a locker first.",
+      "zh": "手机钱包先放储物柜。"
+    }
+  },
+  {
+    "id": "chimelong-tornado",
+    "aliases": [
+      "龙卷风暴"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Tornado",
+      "zh": "龙卷风暴"
+    },
+    "city": "Guangzhou",
+    "query": "Tornado ride, Chimelong Paradise, Guangzhou",
+    "lat": 23.0072,
+    "lng": 113.3315,
+    "summary": {
+      "en": "Spinning thrill ride in the Scream Zone.",
+      "zh": "尖叫地带的旋转刺激项目。"
+    },
+    "why": {
+      "en": "Right next to the Rocket Coaster, so it is ridden straight after with no walking.",
+      "zh": "就在火箭过山车旁边，玩完直接排，不用走路。"
+    },
+    "highlights": {
+      "en": [
+        "Same area as Rocket Coaster",
+        "Intense spins"
+      ],
+      "zh": [
+        "和火箭过山车同区",
+        "高强度旋转"
+      ]
+    },
+    "tips": {
+      "en": "Ride type and restrictions are not verified.",
+      "zh": "项目类型和限制未核实。"
+    }
+  },
+  {
+    "id": "chimelong-white-tiger-area",
+    "aliases": [
+      "白虎区"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "White Tiger area",
+      "zh": "白虎区"
+    },
+    "city": "Guangzhou",
+    "query": "White Tiger, Chimelong Safari Park, Guangzhou",
+    "lat": 23,
+    "lng": 113.3215,
+    "summary": {
+      "en": "Enclosure for Chimelong's large white Bengal tiger group.",
+      "zh": "长隆白虎（白色孟加拉虎）展区。"
+    },
+    "why": {
+      "en": "Chimelong keeps one of the world's largest groups of white tigers. They are seen at close range through glass.",
+      "zh": "长隆有全球数量最多的白虎群之一，隔着玻璃近距离看。"
+    },
+    "highlights": {
+      "en": [
+        "White Bengal tigers",
+        "Close glass viewing",
+        "Next to lunch options"
+      ],
+      "zh": [
+        "白色孟加拉虎",
+        "隔玻璃近看",
+        "旁边就能吃午饭"
+      ]
+    }
+  },
+  {
+    "id": "china-seasoning-culture-museum",
+    "aliases": [
+      "中国调味文化馆"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "China Seasoning Culture Museum",
+      "zh": "中国调味文化馆"
+    },
+    "city": "Foshan",
+    "query": "中国调味文化馆 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0315,
+    "lng": 113.1162,
+    "summary": {
+      "en": "Small museum on the history of Foshan soy sauce and condiments.",
+      "zh": "讲佛山酱油和调味品历史的小型展馆。"
+    },
+    "why": {
+      "en": "Haday, China's best-known soy sauce brand, comes from Foshan, and the traditional sun-brewing process is shown here. A quick loop gives kids a link between the food they eat and where it comes from.",
+      "zh": "中国最知名的酱油品牌海天就出自佛山，这里展示传统晒制酱油的工艺。快快看一圈，孩子能把吃到的东西和来源联系起来。"
+    },
+    "highlights": {
+      "en": [
+        "Foshan soy sauce history",
+        "Traditional brewing process",
+        "Short visit"
+      ],
+      "zh": [
+        "佛山酱油历史",
+        "传统酿造工艺",
+        "参观时间短"
+      ]
+    },
+    "tips": {
+      "en": "Opening hours and exact location unverified.",
+      "zh": "开放时间和具体位置未核实。"
+    }
+  },
+  {
+    "id": "dafo-temple",
+    "aliases": [
+      "大佛寺"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Dafo Temple",
+      "zh": "大佛寺"
+    },
+    "city": "Guangzhou",
+    "query": "Dafo Temple, Huifu East Road, Yuexiu, Guangzhou",
+    "lat": 23.1255,
+    "lng": 113.273,
+    "summary": {
+      "en": "Large Buddhist temple just off Beijing Road.",
+      "zh": "北京路旁的大型佛寺。"
+    },
+    "why": {
+      "en": "Dating back over a thousand years, the main hall holds three giant bronze Buddhas cast in the Qing dynasty. It is lit at dusk and sits a few minutes from the Beijing Road pedestrian street.",
+      "zh": "历史上千年，大殿供奉三尊清代铸造的大铜佛；傍晚亮灯，离北京路步行街几分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Three large bronze Buddhas",
+        "Over 1,000 years of history",
+        "Next to Beijing Road"
+      ],
+      "zh": [
+        "三尊大铜佛",
+        "千年历史",
+        "紧邻北京路"
+      ]
+    },
+    "tips": {
+      "en": "May be closed by early evening; photos at the gate are an option.",
+      "zh": "傍晚可能已关门，可在门口拍照。"
+    }
+  },
+  {
+    "id": "dian-dou-de-tianhe",
+    "aliases": [
+      "早午茶：点都德"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Dian Dou De (Tianhe)",
+      "zh": "点都德（天河）"
+    },
+    "city": "Guangzhou",
+    "query": "点都德 天河区, 广州",
+    "lat": 23.14098,
+    "lng": 113.34046,
+    "summary": {
+      "en": "Popular Guangzhou dim sum chain; nearest Tianhe branch.",
+      "zh": "广州人气早茶连锁，选最近的天河分店。"
+    },
+    "why": {
+      "en": "A reliable introduction to Guangzhou morning tea: dim sum is made to order and ordered by QR code, so no Cantonese is needed. The pink golden-shrimp rice roll is the signature that put the chain on the map.",
+      "zh": "体验广州早茶的稳妥之选：点心现点现做，扫码点餐，不会粤语也没问题。粉红色的金莎红米肠是让它出名的招牌。"
+    },
+    "highlights": {
+      "en": [
+        "Golden crispy shrimp red rice roll",
+        "Made-to-order dim sum",
+        "QR-code ordering"
+      ],
+      "zh": [
+        "金莎红米肠",
+        "点心现点现做",
+        "扫码点餐"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Golden crispy shrimp red rice roll (金莎红米肠)",
+        "Signature shrimp dumplings (招牌虾饺皇)",
+        "Honey char siu bao (蜜汁叉烧包)",
+        "Caramel iced tofu pudding (焦糖冰豆花)"
+      ],
+      "zh": [
+        "金莎红米肠",
+        "招牌虾饺皇",
+        "蜜汁叉烧包",
+        "焦糖冰豆花"
+      ]
+    },
+    "tips": {
+      "en": "Search “点都德” in Amap for the nearest Tianhe branch; exact branch and coordinates are unconfirmed. Calling ahead about reservations can save queuing.",
+      "zh": "在高德搜“点都德”选最近的天河分店；具体分店和坐标待确认。可以先打电话问能否订位。"
+    },
+    "image": "/places/dian-dou-de-tianhe.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 5,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Aileen Chin",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "Authentic dim sum restaurant with a spacious and clean dining environment. The food was fresh, well-prepared, and overall very enjoyable. Service was comfortable and unhurried, so there was no rush to leave after the meal."
+      },
+      {
+        "author": "Tulaya Khangtatswas",
+        "rating": 5,
+        "when": "8 months ago",
+        "text": "So delicious and price is surprisingly affordable compared to quality. Staff are lovely and well-trained. This is another reason for me to visit Guangzhou."
+      },
+      {
+        "author": "김기천",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "The meal begins with warm tea. In addition to dim sum, the noodles and rice are also delicious. It is a restaurant with a long tradition."
+      }
+    ]
+  },
+  {
+    "id": "enning-ice-cream",
+    "aliases": [
+      "恩宁雪糕行"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Enning Ice Cream",
+      "zh": "恩宁雪糕行"
+    },
+    "city": "Guangzhou",
+    "query": "恩宁雪糕行 恩宁路69号 荔湾区 广州",
+    "lat": 23.12,
+    "lng": 113.2475,
+    "summary": {
+      "en": "Ice cream in Cantonese flavours at 69 Enning Road.",
+      "zh": "恩宁路69号的广式口味雪糕。"
+    },
+    "why": {
+      "en": "Flavours are taken from local food: chicken biscuit (鸡仔饼), ginger milk curd, Phoenix Dancong tea and milk tea. Next door, Enning Gongfei serves “檬茶茶”, black tea with dried plum and lemon.",
+      "zh": "口味来自本地食物：鸡仔饼、姜撞奶、凤凰单枞、奶茶；旁边的恩宁公啡有“檬茶茶”，红茶加话梅和柠檬。"
+    },
+    "highlights": {
+      "en": [
+        "Local-flavour ice cream",
+        "Lemon tea next door",
+        "On the walk to Tao Tao Ju"
+      ],
+      "zh": [
+        "本地口味雪糕",
+        "旁边有檬茶",
+        "顺路去陶陶居"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Chicken biscuit ice cream (鸡仔饼雪糕)",
+        "Ginger milk curd ice cream (姜撞奶雪糕)"
+      ],
+      "zh": [
+        "鸡仔饼雪糕",
+        "姜撞奶雪糕"
+      ]
+    }
+  },
+  {
+    "id": "enning-road",
+    "aliases": [
+      "恩宁路骑楼街"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Enning Road arcade street",
+      "zh": "恩宁路骑楼街"
+    },
+    "city": "Guangzhou",
+    "query": "Enning Road, Liwan, Guangzhou",
+    "lat": 23.1198,
+    "lng": 113.247,
+    "summary": {
+      "en": "Curving street of old qilou arcades.",
+      "zh": "弯弯的老骑楼街。"
+    },
+    "why": {
+      "en": "Often called the most beautiful qilou street in Guangzhou for its unbroken curve of arcades. It connects Yongqingfang to Dishifu Road, so it is walked on the way to lunch.",
+      "zh": "骑楼连成一道弯，常被称为广州最美的骑楼街；连接永庆坊和第十甫路，去午餐顺路走过。"
+    },
+    "highlights": {
+      "en": [
+        "Continuous curved arcades",
+        "Links Yongqingfang and Shangxiajiu",
+        "Good street photos"
+      ],
+      "zh": [
+        "连续弯曲的骑楼",
+        "连接永庆坊和上下九",
+        "适合拍街景"
+      ]
+    }
+  },
+  {
+    "id": "fashion-tianhe",
+    "aliases": [
+      "时尚天河：动漫、潮玩",
+      "时尚天河"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Fashion Tianhe",
+      "zh": "时尚天河"
+    },
+    "city": "Guangzhou",
+    "query": "Fashion Tianhe, Tianhe Sports Center, Guangzhou",
+    "lat": 23.135179,
+    "lng": 113.327995,
+    "summary": {
+      "en": "Underground mall beneath Tianhe Sports Center for anime, collectible toys and budget fashion.",
+      "zh": "天河体育中心地下商场，动漫、潮玩和平价服饰集中。"
+    },
+    "why": {
+      "en": "Anime merchandise, blind boxes and designer toys are concentrated in one underground mall, at lower prices than the big malls above.",
+      "zh": "动漫周边、盲盒和潮玩集中在一个地下商场，价格比楼上大商场低。"
+    },
+    "highlights": {
+      "en": [
+        "Anime merchandise",
+        "Blind boxes and designer toys",
+        "Budget shops"
+      ],
+      "zh": [
+        "动漫周边",
+        "盲盒、潮玩",
+        "平价小店"
+      ]
+    },
+    "tips": {
+      "en": "~10 min walk from Grandview. Children should be accompanied.",
+      "zh": "从正佳步行约10分钟；小孩要有人陪同。"
+    },
+    "image": "/places/fashion-tianhe.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Ichigo Hirukawa",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "Huge underground mall with lots of entertainment, clothing and food. Can find fashionable clothes at low prices here. A must visit in Guangzhou. We couldn't finish exploring the mall in one night."
+      },
+      {
+        "author": "Wee X Y",
+        "rating": 4,
+        "when": "4 months ago",
+        "text": "alot alot of toy shops in the underground. The place is huge and there is a separate food section & clothes section. Sometimes u might get lost & walk round & round. Exits are bathrooms are difficult to find. Seems like a popular weekend local hangout."
+      },
+      {
+        "author": "Kevin k",
+        "rating": 5,
+        "when": "a year ago",
+        "text": "11/10 - Has more unique Japanese things than the other weeb location, 广州动漫星城广场. It’s a bit of a maze, walk past the clothing area to get to the Japanese anime and pop culture goods. Also has a lot of cafes and Chinese boyloves anime goods."
+      }
+    ]
+  },
+  {
+    "id": "fengyuan-street-xiguan-mansions",
+    "aliases": [
+      "逢源大街西关大屋"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Fengyuan Street Xiguan Mansions",
+      "zh": "逢源大街西关大屋"
+    },
+    "city": "Guangzhou",
+    "query": "逢源大街 西关大屋 荔湾区 广州",
+    "lat": 23.125,
+    "lng": 113.2455,
+    "summary": {
+      "en": "Street of traditional Xiguan merchant houses.",
+      "zh": "保留传统西关大屋的老街。"
+    },
+    "why": {
+      "en": "Xiguan mansions were the homes of wealthy Qing-era merchants. Their sliding-bar gates (趟栊门) and coloured Manchu windows (满洲窗) are unique to old Guangzhou; kids can try to spot the three-layer door.",
+      "zh": "西关大屋是清代富商的住宅，趟栊门和满洲窗是老广州独有的；可以让小孩找找三重门。"
+    },
+    "highlights": {
+      "en": [
+        "Sliding-bar gates",
+        "Manchu stained-glass windows",
+        "Quiet residential lanes"
+      ],
+      "zh": [
+        "趟栊门",
+        "满洲窗",
+        "安静的居民巷子"
+      ]
+    },
+    "tips": {
+      "en": "Mostly private homes; view from outside.",
+      "zh": "多数是民居，在外面看。"
+    }
+  },
+  {
+    "id": "foshan-ancestral-temple",
+    "aliases": [
+      "佛山祖庙",
+      "祖庙大殿"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Foshan Ancestral Temple",
+      "zh": "佛山祖庙"
+    },
+    "city": "Foshan",
+    "query": "Foshan Ancestral Temple, 21 Zumiao Road, Chancheng, Foshan",
+    "lat": 23.0352,
+    "lng": 113.1117,
+    "summary": {
+      "en": "Taoist temple to the god Beidi, first built in the Northern Song dynasty; home to the lion dance show and kung fu memorial halls.",
+      "zh": "供奉北帝的道观，始建于北宋；醒狮表演和武术纪念馆都在里面。"
+    },
+    "why": {
+      "en": "Its ridges are covered in coloured Shiwan ceramic figures — some of the finest Lingnan decorative art anywhere. The daily lion dance and kung fu show, the Wong Fei-hung and Ip Man halls, and a Qing opera stage are all covered by one ticket, so a full morning is spent without moving the car.",
+      "zh": "屋脊上满是彩色石湾陶塑，是岭南装饰艺术的精品。每天的醒狮武术表演、黄飞鸿和叶问纪念馆、清代古戏台都在一张门票里，一个上午不用挪车。"
+    },
+    "highlights": {
+      "en": [
+        "Ceramic ridge figures and wood and brick carvings on the main hall",
+        "Daily lion dance and kung fu shows",
+        "Wong Fei-hung Memorial Hall and Ip Man Hall inside",
+        "Wanfu Stage, a Qing-dynasty opera stage"
+      ],
+      "zh": [
+        "大殿的陶塑瓦脊、木雕、砖雕",
+        "每天有醒狮武术表演",
+        "园内有黄飞鸿纪念馆和叶问堂",
+        "清代古戏台万福台"
+      ]
+    },
+    "tips": {
+      "en": "Open 8:30–18:00. Ask at entry whether same-day re-entry is allowed.",
+      "zh": "开放时间8:30至18:00；入园时问清楚当天能否再进。"
+    }
+  },
+  {
+    "id": "foshan-lion-dance-show",
+    "aliases": [
+      "醒狮表演场地",
+      "醒狮、武术表演"
+    ],
+    "kind": "show",
+    "name": {
+      "en": "Lion Dance and Kung Fu Show, Foshan Ancestral Temple",
+      "zh": "祖庙醒狮、武术表演"
+    },
+    "city": "Foshan",
+    "query": "Foshan Ancestral Temple, 21 Zumiao Road, Chancheng, Foshan",
+    "lat": 23.02902,
+    "lng": 113.11306,
+    "summary": {
+      "en": "Daily southern lion dance and kung fu performance inside the temple grounds.",
+      "zh": "祖庙内每天上演的南狮和武术表演。"
+    },
+    "why": {
+      "en": "Foshan is the home of the southern lion dance, and this show is performed in the town where Wong Fei-hung's lineage was rooted. Lions climb poles and leap between stands while drums play; kids are usually spellbound.",
+      "zh": "佛山是南狮的发源地，也是黄飞鸿武术流派扎根的地方。狮子在鼓声中上桩、跳跃，孩子通常看得目不转睛。"
+    },
+    "highlights": {
+      "en": [
+        "10:00–10:40 daily, plus 14:15 and 15:30",
+        "Pole-jumping lions to live drums",
+        "Kung fu forms by local troupes"
+      ],
+      "zh": [
+        "每天10:00至10:40，下午14:15和15:30",
+        "现场鼓乐，狮子上桩",
+        "本地武馆的武术套路"
+      ]
+    },
+    "tips": {
+      "en": "Arrive 15 min early for front spots. Suspended in rain; times and venue per the temple notice on the day.",
+      "zh": "提前15分钟到占前排；雨天暂停，时间和场地以当天公告为准。"
+    },
+    "image": "/places/foshan-lion-dance-show.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 73,
+    "reviews": [
+      {
+        "author": "K T Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Excellent IG spot - Start with 10 am Wong Fei Hong Kungfu & Lion Dance performance, tour Emperor HuangDi Temple and finished with Ip Man Museum - Grandmaster of Wing Chun Kungfu. Half day."
+      },
+      {
+        "author": "KT Lim",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Must visit Temple of Emperor HuangDi . Together with Ip Man Museum _ famous Martial Art Grandmaster who coached legendary Hollywood Bruce Lee And watch Wong Fei Hong Troup perform Lion Dance at 10 am in front of his memorial hall/square.."
+      },
+      {
+        "author": "KeeTat Lee",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "Foshan Ancestral Temple (佛山祖庙) A must-visit cultural landmark in Foshan with rich Lingnan heritage and impressive traditional architecture. Ticket: ¥20 for adults"
+      }
+    ]
+  },
+  {
+    "id": "from-k-hotel-tiyuxi",
+    "aliases": [
+      "K Hotel",
+      "回 K Hotel"
+    ],
+    "kind": "hotel",
+    "name": {
+      "en": "From·K Hotel (Tiyu Xilu Station)",
+      "zh": "From·K Hotel 体育西路地铁站店"
+    },
+    "city": "Guangzhou",
+    "query": "From K Hotel Tiyu Xilu Metro Station, Tianhe, Guangzhou",
+    "lat": 23.1318,
+    "lng": 113.321,
+    "summary": {
+      "en": "Tianhe base by Tiyu Xilu metro, ~10 min walk to Grandview Mall.",
+      "zh": "天河体育西路地铁站旁，步行约10分钟到正佳广场。"
+    },
+    "why": {
+      "en": "Tiyu Xilu is an interchange of Metro Lines 1 and 3, so most of the city is one ride away. Grandview, Teemall, Parc Central and Fashion Tianhe are all within a 10-minute walk.",
+      "zh": "体育西路是地铁1号线和3号线换乘站，去市内大部分地方一程可达。正佳、天河城、天环广场和时尚天河都在步行10分钟内。"
+    },
+    "highlights": {
+      "en": [
+        "Metro Lines 1 and 3 at the door",
+        "Walking distance to Tianhe's main malls",
+        "Street food along Tiyu Xilu"
+      ],
+      "zh": [
+        "门口就是地铁1号线、3号线",
+        "步行可到天河主要商场",
+        "体育西路一带小吃多"
+      ]
+    },
+    "tips": {
+      "en": "Navigate to “From K Hotel 体育西路”. Exact entrance and branch should be confirmed on Amap (高德).",
+      "zh": "导航“From K Hotel 体育西路”；具体入口和门店以高德为准。"
+    }
+  },
+  {
+    "id": "galaxy-world-coco-park",
+    "aliases": [
+      "午餐：星河WORLD COCO Park"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Galaxy WORLD COCO Park",
+      "zh": "星河WORLD COCO Park"
+    },
+    "city": "Shenzhen",
+    "query": "星河WORLD COCO Park, 坂田, 龙岗区, 深圳",
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Mall in the same Galaxy WORLD campus as the Robot 6S Store.",
+      "zh": "与机器人6S店同在星河WORLD园区的商场。"
+    },
+    "why": {
+      "en": "Lunch is reached on foot from the Robot 6S Store, so no extra ride is needed. Chain restaurants are concentrated here, which makes it easy to find something for both adults and kids.",
+      "zh": "从机器人6S店步行就到，不用再坐车。商场里连锁餐厅集中，大人小孩都容易找到合适的。"
+    },
+    "highlights": {
+      "en": [
+        "Walking distance from the Robot 6S Store",
+        "Many chain restaurants in one place",
+        "Indoor, good for a midday break"
+      ],
+      "zh": [
+        "从机器人6S店步行可达",
+        "连锁餐厅集中",
+        "室内，适合中午休息"
+      ]
+    },
+    "tips": {
+      "en": "Restaurant line-up should be checked on the day; older listings may be out of date.",
+      "zh": "餐厅以现场为准，较早的资料可能已过时。"
+    }
+  },
+  {
+    "id": "gonglu-coffee",
+    "aliases": [
+      "公路咖啡"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Gonglu Coffee",
+      "zh": "公路咖啡"
+    },
+    "city": "Guangzhou",
+    "query": "公路咖啡 永庆坊 荔湾区 广州",
+    "lat": 23.1207,
+    "lng": 113.2462,
+    "summary": {
+      "en": "Café in Yongqingfang known for its claypot latte.",
+      "zh": "永庆坊里的咖啡店，以煲仔拿铁出名。"
+    },
+    "why": {
+      "en": "The latte is served in a Cantonese clay pot (煲仔), a local twist that photographs well. Caffeine-free drinks are available for the kids.",
+      "zh": "拿铁装在广式砂锅里，很本地也很上镜；小孩可以点不含咖啡的饮品。"
+    },
+    "highlights": {
+      "en": [
+        "Claypot latte",
+        "Caffeine-free options",
+        "Inside Yongqingfang"
+      ],
+      "zh": [
+        "煲仔拿铁",
+        "有无咖啡因饮品",
+        "就在永庆坊"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Claypot latte (煲仔拿铁)"
+      ],
+      "zh": [
+        "煲仔拿铁"
+      ]
+    },
+    "tips": {
+      "en": "Shop details are from a 2022 guide and may have changed.",
+      "zh": "资料来自2022年攻略，可能已变动。"
+    }
+  },
+  {
+    "id": "gongyuanqian-station",
+    "aliases": [
+      "公园前站"
+    ],
+    "kind": "transit",
+    "name": {
+      "en": "Gongyuanqian Station",
+      "zh": "公园前站"
+    },
+    "city": "Guangzhou",
+    "query": "Gongyuanqian Station, Guangzhou Metro",
+    "lat": 23.1268,
+    "lng": 113.2647,
+    "summary": {
+      "en": "Metro interchange for Lines 1 and 2; Animation City is inside.",
+      "zh": "地铁1、2号线换乘站，动漫星城就在站内。"
+    },
+    "why": {
+      "en": "The central interchange of the metro network. Animation City opens directly off the concourse, so no street crossing is needed.",
+      "zh": "地铁网络的中心换乘站；动漫星城直接连着站厅，不用过马路。"
+    },
+    "highlights": {
+      "en": [
+        "Lines 1 and 2",
+        "Direct access to Animation City",
+        "Near Beijing Road"
+      ],
+      "zh": [
+        "1号线、2号线",
+        "直通动漫星城",
+        "靠近北京路"
+      ]
+    }
+  },
+  {
+    "id": "grandview-mall",
+    "aliases": [
+      "步行到正佳广场",
+      "正佳三楼：运动品牌",
+      "正佳五至七楼餐厅",
+      "正佳美食层",
+      "正佳广场"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Grandview Mall",
+      "zh": "正佳广场"
+    },
+    "city": "Guangzhou",
+    "query": "Grandview Mall, Tianhe Road, Tianhe, Guangzhou",
+    "lat": 23.1323,
+    "lng": 113.327,
+    "summary": {
+      "en": "One of Guangzhou's largest malls, with themed floors, an aquarium and a polar museum.",
+      "zh": "广州最大的商场之一，楼层各有主题，还有海洋馆和极地展馆。"
+    },
+    "why": {
+      "en": "Shopping, dining and kids' attractions are combined under one roof: sports brands on 3F, restaurants on 5F–7F, and an indoor aquarium. Ten minutes on foot from the hotel.",
+      "zh": "购物、吃饭和亲子景点都在一个屋檐下：三楼运动品牌，五至七楼餐厅，还有室内海洋馆。离酒店步行10分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Sports brands on 3F",
+        "Restaurants on 5F–7F",
+        "Grandview Aquarium",
+        "Connected to Teemall and Parc Central nearby"
+      ],
+      "zh": [
+        "三楼运动品牌",
+        "五至七楼餐厅",
+        "正佳海洋世界",
+        "附近有天河城和天环广场"
+      ]
+    }
+  },
+  {
+    "id": "guangzhou-baiyun-airport",
+    "aliases": [
+      "值机、托运、安检"
+    ],
+    "kind": "transit",
+    "name": {
+      "en": "Guangzhou Baiyun International Airport",
+      "zh": "广州白云国际机场"
+    },
+    "city": "Guangzhou",
+    "query": "Guangzhou Baiyun International Airport, Baiyun, Guangzhou",
+    "lat": 23.3959079,
+    "lng": 113.3079699,
+    "summary": {
+      "en": "Guangzhou's main airport, ~45 min by taxi from Tianhe in early-morning traffic.",
+      "zh": "广州主要机场，清晨从天河打车约45分钟。"
+    },
+    "why": {
+      "en": "International check-in, bag drop and security can take a while, so ~2 h 45 min is allowed. Breakfast is available airside.",
+      "zh": "国际航班值机、托运、安检耗时，所以预留约2小时45分钟；可以在机场吃早餐。"
+    },
+    "highlights": {
+      "en": [
+        "Check-in, bag drop, security",
+        "Breakfast at the airport",
+        "~2 h 45 min allowed before departure"
+      ],
+      "zh": [
+        "值机、托运、安检",
+        "在机场吃早餐",
+        "预留约2小时45分钟"
+      ]
+    },
+    "tips": {
+      "en": "Terminal depends on the airline; confirm T1, T2 or T3 on the ticket before booking the car.",
+      "zh": "航站楼按航空公司而定，叫车前在机票上确认是T1、T2还是T3。"
+    },
+    "image": "/places/guangzhou-baiyun-airport.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 6494,
+    "reviews": [
+      {
+        "author": "Joana",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "I had a pleasant experience at Guangzhou Baiyun International Airport. The airport is clean, modern, and well maintained. There are plenty of comfortable chairs throughout the terminals, making it easy to relax while waiting for a flight."
+      },
+      {
+        "author": "Ismail Faseeh",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "Had a very positive experience at Guangzhou Baiyun International Airport. The airport is huge, modern, clean, and very well maintained. Despite its size, everything is well organized, with clear signage that makes it relatively easy to navigate."
+      },
+      {
+        "author": "T3rby",
+        "rating": 4,
+        "when": "5 months ago",
+        "text": "Baiyun Airport’s new terminal opened last October, and the overall look immediately reminded me of some futuristic architecture in the Middle East."
+      }
+    ]
+  },
+  {
+    "id": "guangzhou-marriott-tianhe-chinese-restaurant",
+    "aliases": [
+      "正佳万豪酒店中餐厅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Chinese restaurant, Guangzhou Marriott Hotel Tianhe",
+      "zh": "广州正佳万豪酒店中餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "Guangzhou Marriott Hotel Tianhe Chinese restaurant, Tianhe Road, Guangzhou",
+    "lat": 23.1328,
+    "lng": 113.3258,
+    "summary": {
+      "en": "Hotel Cantonese restaurant beside Grandview Mall.",
+      "zh": "正佳广场旁的酒店粤菜餐厅。"
+    },
+    "why": {
+      "en": "A proper sit-down Cantonese dinner with hotel-level service, a few minutes' walk from the K Hotel.",
+      "zh": "酒店水准的正式粤菜晚餐，离K Hotel步行几分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Sit-down Cantonese",
+        "Next to Grandview",
+        "Quiet compared with mall dining"
+      ],
+      "zh": [
+        "正式粤菜",
+        "就在正佳旁",
+        "比商场餐厅安静"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Roast goose (烧鹅)",
+        "Steamed fish (清蒸鱼)"
+      ],
+      "zh": [
+        "烧鹅",
+        "清蒸鱼"
+      ]
+    },
+    "tips": {
+      "en": "Restaurant name and menu are not verified; booking ahead is advised.",
+      "zh": "餐厅名称和菜单未核实，建议提前订位。"
+    }
+  },
+  {
+    "id": "haixin-bridge",
+    "aliases": [
+      "海心桥"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Haixin Bridge",
+      "zh": "海心桥"
+    },
+    "city": "Guangzhou",
+    "query": "Haixin Bridge, Guangzhou",
+    "lat": 23.109,
+    "lng": 113.325,
+    "summary": {
+      "en": "Pedestrian bridge across the Pearl River beside Canton Tower.",
+      "zh": "广州塔旁跨珠江的步行桥。"
+    },
+    "why": {
+      "en": "Opened in 2021, it is the first pedestrian-only bridge across the Pearl River in central Guangzhou, shaped like a guqin. Looking back from mid-span gives the classic full-height shot of Canton Tower.",
+      "zh": "2021年开通，是广州中心城区第一座跨珠江的纯步行桥，造型像古琴；走到桥中间回头，可以拍到完整的广州塔。"
+    },
+    "highlights": {
+      "en": [
+        "Pedestrian-only",
+        "Best Canton Tower photo angle",
+        "Links the tower to Huacheng Square"
+      ],
+      "zh": [
+        "纯步行桥",
+        "拍广州塔最佳角度",
+        "连接广州塔和花城广场"
+      ]
+    },
+    "tips": {
+      "en": "Windy on the bridge; bring a jacket.",
+      "zh": "桥上风大，带外套。"
+    }
+  },
+  {
+    "id": "hang-wan-lau-lingnan-tiandi",
+    "aliases": [
+      "行运楼"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Hang Wan Lau",
+      "zh": "行运楼"
+    },
+    "city": "Foshan",
+    "query": "行运楼 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.02958,
+    "lng": 113.11712,
+    "summary": {
+      "en": "Sit-down Cantonese restaurant inside Lingnan Tiandi.",
+      "zh": "岭南天地内可以正式坐下来吃的粤菜馆。"
+    },
+    "why": {
+      "en": "A proper sit-down meal is offered inside the old quarter, so no car is needed between sights. Cantonese classics suit kids who prefer mild flavours.",
+      "zh": "就在老街区里，坐下来正式吃一餐，不用再坐车。粤菜口味清淡，适合孩子。"
+    },
+    "highlights": {
+      "en": [
+        "Inside Lingnan Tiandi",
+        "Sit-down Cantonese",
+        "Mild, kid-friendly flavours"
+      ],
+      "zh": [
+        "在岭南天地内",
+        "正式粤菜",
+        "口味清淡，适合孩子"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Roast goose (烧鹅)",
+        "Dim sum (点心)"
+      ],
+      "zh": [
+        "烧鹅",
+        "点心"
+      ]
+    },
+    "tips": {
+      "en": "Name comes from an older guide; whether it is still open should be checked on the day.",
+      "zh": "店名来自较早的攻略，到时确认是否仍在营业。"
+    },
+    "rating": 4,
+    "reviewCount": 1
+  },
+  {
+    "id": "hong-kong-tramways",
+    "aliases": [
+      "叮叮车"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Ding Ding tram",
+      "zh": "叮叮车"
+    },
+    "city": "Hong Kong",
+    "query": "Hong Kong Tramways, Des Voeux Road Central, Hong Kong",
+    "lat": 22.284,
+    "lng": 114.1565,
+    "summary": {
+      "en": "Double-decker trams across Hong Kong Island since 1904.",
+      "zh": "1904年起运营的港岛双层电车。"
+    },
+    "why": {
+      "en": "One of the few double-decker tram fleets still in service anywhere. The front row of the upper deck gives a slow street-level tour from Central to Wan Chai for a flat fare.",
+      "zh": "全世界少数仍在运营的双层电车之一。坐上层前排，慢慢看中环到湾仔的街景，车费统一。"
+    },
+    "highlights": {
+      "en": [
+        "Upper-deck front-row views",
+        "Running since 1904",
+        "Flat fare, Octopus accepted"
+      ],
+      "zh": [
+        "上层前排看街景",
+        "1904年起运营",
+        "统一车费，可用八达通"
+      ]
+    },
+    "tips": {
+      "en": "Board at the back, pay on exit at the front.",
+      "zh": "后门上车，前门下车时付款。"
+    }
+  },
+  {
+    "id": "hong-kong-west-kowloon-station",
+    "aliases": [
+      "西九龙站通关"
+    ],
+    "kind": "transit",
+    "name": {
+      "en": "Hong Kong West Kowloon Station",
+      "zh": "香港西九龙站"
+    },
+    "city": "Hong Kong",
+    "query": "Hong Kong West Kowloon Station, Kowloon, Hong Kong",
+    "lat": 22.304,
+    "lng": 114.1655,
+    "summary": {
+      "en": "High-speed rail terminus with joint mainland/Hong Kong border clearance.",
+      "zh": "高铁总站，内地与香港在站内一地两检。"
+    },
+    "why": {
+      "en": "Mainland exit and Hong Kong entry are both handled inside the station, so the border is crossed in one step. Guangzhou South is ~50 min away.",
+      "zh": "内地出境和香港入境都在站内办完，一次过关。到广州南约50分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Co-located border clearance",
+        "~50 min to Guangzhou South",
+        "Taxi ~15 min to Tsim Sha Tsui"
+      ],
+      "zh": [
+        "一地两检",
+        "到广州南约50分钟",
+        "打的士约15分钟到尖沙咀"
+      ]
+    },
+    "tips": {
+      "en": "~30–40 min should be allowed for clearance. Travel documents for Hong Kong entry and mainland return must be carried.",
+      "zh": "预留30至40分钟过关。带好入境香港和回内地的证件。"
+    }
+  },
+  {
+    "id": "huacheng-square",
+    "aliases": [
+      "花城广场"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Huacheng Square",
+      "zh": "花城广场"
+    },
+    "city": "Guangzhou",
+    "query": "Huacheng Square, Zhujiang New Town, Guangzhou",
+    "lat": 23.1241467,
+    "lng": 113.324743,
+    "summary": {
+      "en": "Central-axis plaza in Zhujiang New Town.",
+      "zh": "珠江新城的城市中轴广场。"
+    },
+    "why": {
+      "en": "The long open plaza sits on Guangzhou's new central axis, between the Guangzhou Opera House, the library and the city's tallest towers. Space to run, plus views back to Canton Tower.",
+      "zh": "位于广州新中轴线上，两边是广州大剧院、图书馆和全城最高的楼；地方大可以跑，还能回看广州塔。"
+    },
+    "highlights": {
+      "en": [
+        "Skyscraper views",
+        "Open space for kids",
+        "Mall of the World underneath"
+      ],
+      "zh": [
+        "摩天楼景观",
+        "空间开阔适合小孩",
+        "地下是花城汇"
+      ]
+    },
+    "image": "/places/huacheng-square.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 676,
+    "reviews": [
+      {
+        "author": "ImmersiveWalk",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "Absolutely stunning square! The view of the Canton Tower and the surrounding skyscrapers is breathtaking, especially at night. It’s the perfect place for a walk."
+      },
+      {
+        "author": "Dejan Braki",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "Huacheng square is the epicenter of modern Guangzhou, located on the opposite side of Canton tower and Pearl river."
+      },
+      {
+        "author": "Teck Chong Law",
+        "rating": 4,
+        "when": "5 months ago",
+        "text": "This is a nice park on the street level with a huge shopping mall underground."
+      }
+    ]
+  },
+  {
+    "id": "huagai-road-daliang",
+    "aliases": [
+      "华盖路步行街"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Huagai Road Pedestrian Street",
+      "zh": "华盖路步行街"
+    },
+    "city": "Shunde",
+    "query": "Huagai Road Pedestrian Street, Daliang, Shunde, Foshan",
+    "lat": 22.8418,
+    "lng": 113.255,
+    "summary": {
+      "en": "Daliang's oldest arcade (qilou) street, lined with old brands, snacks and souvenir shops.",
+      "zh": "大良最老的骑楼街，两边是老字号、小吃和手信店。"
+    },
+    "why": {
+      "en": "Shunde is a UNESCO City of Gastronomy, and its street snacks are sampled here in a short walk. Lunjiao cake, Daliang fried milk and beef offal skewers can be eaten on the go under the arcades.",
+      "zh": "顺德是联合国教科文组织认定的“美食之都”，这条短街就能尝到街头小吃。伦教糕、大良炒牛奶、牛杂串都可以在骑楼下边走边吃。"
+    },
+    "highlights": {
+      "en": [
+        "Historic qilou arcades",
+        "Shunde snacks and old brands",
+        "Lunjiao cake (伦教糕) for gifts",
+        "30–40 min is enough"
+      ],
+      "zh": [
+        "历史骑楼",
+        "顺德小吃和老字号",
+        "伦教糕手信",
+        "逛三四十分钟就够"
+      ]
+    }
+  },
+  {
+    "id": "hualin-jade-street",
+    "aliases": [
+      "华林玉器街"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Hualin Jade Street",
+      "zh": "华林玉器街"
+    },
+    "city": "Guangzhou",
+    "query": "华林玉器街 荔湾区 广州",
+    "lat": 23.1228,
+    "lng": 113.2548,
+    "summary": {
+      "en": "Jade and jewellery market just north of Xiajiu Road.",
+      "zh": "下九路北侧的玉器珠宝街。"
+    },
+    "why": {
+      "en": "One of China's largest jade trading streets, with hundreds of shops and stalls. Raw stones being carved and haggled over make it worth a short look even without buying.",
+      "zh": "全国规模最大的玉器集散街之一，几百家店铺档口；看人雕玉、讲价，不买也值得走一圈。"
+    },
+    "highlights": {
+      "en": [
+        "Hundreds of jade stalls",
+        "Carving and trading on view",
+        "Next to Hualin Temple"
+      ],
+      "zh": [
+        "几百家玉器档口",
+        "可看雕刻和交易",
+        "紧挨华林禅寺"
+      ]
+    },
+    "tips": {
+      "en": "Quality and pricing vary widely; serious purchases are not recommended without expertise.",
+      "zh": "质量和价格差别很大，不懂行不建议大额购买。"
+    }
+  },
+  {
+    "id": "hualin-temple",
+    "aliases": [
+      "华林禅寺、华林玉器街"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Hualin Temple",
+      "zh": "华林禅寺"
+    },
+    "city": "Guangzhou",
+    "query": "Hualin Temple, Liwan, Guangzhou",
+    "lat": 23.1163,
+    "lng": 113.247192,
+    "summary": {
+      "en": "Buddhist temple traditionally linked to Bodhidharma's landing in Guangzhou.",
+      "zh": "相传与达摩来广州登岸有关的佛寺。"
+    },
+    "why": {
+      "en": "Tradition holds that the temple stands where Bodhidharma first preached after arriving in China around 527 AD. Its Hall of 500 Arhats has rows of individual statues, which children can study for different faces and poses. It sits beside the jade street, so both are seen in one stop.",
+      "zh": "相传达摩约公元527年来华后在此最先传法；五百罗汉堂里每尊罗汉表情动作各不相同，小孩可以一尊尊找。和玉器街在一起，一次看完。"
+    },
+    "highlights": {
+      "en": [
+        "Associated with Bodhidharma",
+        "Hall of 500 Arhats",
+        "Beside Hualin Jade Street"
+      ],
+      "zh": [
+        "与达摩相关",
+        "五百罗汉堂",
+        "紧邻华林玉器街"
+      ]
+    },
+    "tips": {
+      "en": "Opening hours could not be confirmed. Go in if open; otherwise look from the gate.",
+      "zh": "开放时间未查到，能进就进，不能进就在门口看看。"
+    },
+    "image": "/places/hualin-temple.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Kevin Chan",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "This temple have almost any version of Buddhist deity inside and also it’s one of the temple sanction by multiple emperor of different era. Very well preserve"
+      },
+      {
+        "author": "Avigdor Hait",
+        "rating": 5,
+        "when": "3 years ago",
+        "text": "A very beautiful and colorful place, a must visit."
+      }
+    ]
+  },
+  {
+    "id": "inno100",
+    "aliases": [
+      "INNO100"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "INNO100",
+      "zh": "INNO100"
+    },
+    "city": "Shenzhen",
+    "query": "INNO100, 深圳湾文化广场, 南山区, 深圳",
+    "lat": 22.5145,
+    "lng": 113.9505,
+    "summary": {
+      "en": "Global innovation flagship store in Shenzhen Bay Culture Plaza.",
+      "zh": "深圳湾文化广场里的全球创新旗舰店。"
+    },
+    "why": {
+      "en": "Exoskeletons can be tried on and smart glasses tested, which is rare outside trade shows. It sits inside Shenzhen Bay Culture Plaza, so the visit flows straight into the bay at sunset.",
+      "zh": "可以试穿外骨骼、体验智能眼镜，展会以外很少能做到。就在深圳湾文化广场里，看完直接去海边看日落。"
+    },
+    "highlights": {
+      "en": [
+        "Wearable exoskeleton try-on",
+        "Smart glasses demos",
+        "Inside Shenzhen Bay Culture Plaza"
+      ],
+      "zh": [
+        "试穿外骨骼",
+        "体验智能眼镜",
+        "位于深圳湾文化广场内"
+      ]
+    }
+  },
+  {
+    "id": "ip-man-hall",
+    "aliases": [
+      "叶问堂"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Ip Man Hall",
+      "zh": "叶问堂"
+    },
+    "city": "Foshan",
+    "query": "Ip Man Hall, Foshan Ancestral Temple, Chancheng, Foshan",
+    "lat": 23.0345,
+    "lng": 113.1108,
+    "summary": {
+      "en": "Memorial hall to Foshan-born Wing Chun master Ip Man, teacher of Bruce Lee.",
+      "zh": "纪念佛山咏春宗师叶问的展馆，叶问是李小龙的师父。"
+    },
+    "why": {
+      "en": "Ip Man was born in Foshan and later taught Bruce Lee in Hong Kong. Wooden training dummies (木人桩) are set up for photos, which kids enjoy trying.",
+      "zh": "叶问生于佛山，后来在香港教出了李小龙。馆内有木人桩可以拍照，孩子喜欢上手试。"
+    },
+    "highlights": {
+      "en": [
+        "Ip Man's life and the Wing Chun lineage",
+        "Wooden dummies for photos",
+        "Link to Bruce Lee"
+      ],
+      "zh": [
+        "叶问生平和咏春传承",
+        "木人桩拍照",
+        "与李小龙的渊源"
+      ]
+    }
+  },
+  {
+    "id": "jiale-egg-tart-king",
+    "aliases": [
+      "嘉乐蛋挞王"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Jiale Egg Tart King",
+      "zh": "嘉乐蛋挞王"
+    },
+    "city": "Guangzhou",
+    "query": "嘉乐蛋挞王 永庆坊 荔湾区 广州",
+    "lat": 23.117158,
+    "lng": 113.236241,
+    "summary": {
+      "en": "Egg tart shop in Yongqingfang with eight flavours.",
+      "zh": "永庆坊里有8种口味的蛋挞店。"
+    },
+    "why": {
+      "en": "Egg tarts come out warm in eight flavours, so a mixed box lets everyone try several. A cheap, easy snack between shops.",
+      "zh": "蛋挞热乎出炉，有8种口味，买一盒混搭大家分着吃；逛店之间的平价小吃。"
+    },
+    "highlights": {
+      "en": [
+        "Eight flavours",
+        "Served warm",
+        "Easy to share"
+      ],
+      "zh": [
+        "8种口味",
+        "热乎出炉",
+        "方便分享"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Original egg tart (原味蛋挞)",
+        "Mixed-flavour box (多口味蛋挞)"
+      ],
+      "zh": [
+        "原味蛋挞",
+        "多口味蛋挞"
+      ]
+    },
+    "tips": {
+      "en": "Shop details are from a 2022 guide and may have changed.",
+      "zh": "资料来自2022年攻略，可能已变动。"
+    },
+    "image": "/places/jiale-egg-tart-king.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "hsu ting Lo",
+        "rating": 5,
+        "when": "13 years ago",
+        "text": "It's cheap, definitely a long-established Guangzhou restaurant. The coconut tarts are also quite good."
+      }
+    ]
+  },
+  {
+    "id": "jian-family-villas",
+    "aliases": [
+      "简氏别墅"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Jian Family Villas",
+      "zh": "简氏别墅"
+    },
+    "city": "Foshan",
+    "query": "Jian's Villa, Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0318,
+    "lng": 113.116,
+    "summary": {
+      "en": "Early-Republic Western-style villas built by the founders of Nanyang Brothers Tobacco.",
+      "zh": "南洋兄弟烟草公司创始人简氏兄弟建的民初西洋式别墅群。"
+    },
+    "why": {
+      "en": "The Jian brothers made their fortune with Double Happiness cigarettes, and this is Foshan's largest surviving early-Republic villa group. The balconied “Young Ladies' Tower” tells how unmarried daughters once watched the street without being seen.",
+      "zh": "简氏兄弟靠红双喜香烟起家，这里是佛山现存最大的民初洋楼群。带阳台的“小姐楼”讲的是未出嫁的小姐如何在楼上看街景。"
+    },
+    "highlights": {
+      "en": [
+        "Largest early-Republic villa group in Foshan",
+        "“Young Ladies' Tower” balcony",
+        "Mix of Western and Lingnan details"
+      ],
+      "zh": [
+        "佛山现存最大的民初洋楼群",
+        "“小姐楼”阳台",
+        "中西合璧的建筑细节"
+      ]
+    }
+  },
+  {
+    "id": "kau-kee-beef-brisket",
+    "aliases": [
+      "九记牛腩"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Kau Kee Beef Brisket",
+      "zh": "九记牛腩"
+    },
+    "city": "Hong Kong",
+    "query": "Kau Kee Restaurant, 21 Gough Street, Central, Hong Kong",
+    "lat": 22.2847,
+    "lng": 114.1525,
+    "summary": {
+      "en": "Gough Street institution for beef brisket noodles.",
+      "zh": "歌赋街老牌牛腩面店。"
+    },
+    "why": {
+      "en": "Decades-old and run by the same family, it is Hong Kong's benchmark for beef brisket. The clear-broth version shows the beef's flavour without heavy spice, which suits kids.",
+      "zh": "几十年老店，家族经营，是香港牛腩的标杆。清汤牛腩不靠重料，突出牛肉本味，孩子也能吃。"
+    },
+    "highlights": {
+      "en": [
+        "Clear-broth beef brisket",
+        "Curry beef brisket",
+        "Long-running family shop"
+      ],
+      "zh": [
+        "清汤牛腩",
+        "咖喱牛腩",
+        "老牌家族店"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Clear-broth beef brisket with noodles (清汤牛腩面)",
+        "Curry beef brisket (咖喱牛腩)"
+      ],
+      "zh": [
+        "清汤牛腩面",
+        "咖喱牛腩"
+      ]
+    },
+    "tips": {
+      "en": "Queues are common and tables are shared; closed on Sundays and public holidays (should be checked).",
+      "zh": "常需排队，需拼桌；周日及公众假期休息（需确认）。"
+    }
+  },
+  {
+    "id": "lan-fong-yuen-central",
+    "aliases": [
+      "兰芳园"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Lan Fong Yuen",
+      "zh": "兰芳园"
+    },
+    "city": "Hong Kong",
+    "query": "Lan Fong Yuen, 2 Gage Street, Central, Hong Kong",
+    "lat": 22.2825613,
+    "lng": 114.153951,
+    "summary": {
+      "en": "Dai pai dong-style café credited with silk-stocking milk tea.",
+      "zh": "以丝袜奶茶闻名的大排档式茶餐厅。"
+    },
+    "why": {
+      "en": "Operating since the 1950s, it is widely credited with popularising Hong Kong's silk-stocking milk tea, strained through a cloth bag. The pork chop bun is a simple, kid-proof lunch.",
+      "zh": "上世纪50年代开业，被普遍认为是港式丝袜奶茶的发源店，奶茶用布袋反复冲滤。猪扒包简单好吃，孩子一定能接受。"
+    },
+    "highlights": {
+      "en": [
+        "Silk-stocking milk tea",
+        "Pork chop bun",
+        "Original Gage Street stall"
+      ],
+      "zh": [
+        "丝袜奶茶",
+        "猪扒包",
+        "结志街原址"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Silk-stocking milk tea (丝袜奶茶)",
+        "Pork chop bun (猪扒包)"
+      ],
+      "zh": [
+        "丝袜奶茶",
+        "猪扒包"
+      ]
+    },
+    "image": "/places/lan-fong-yuen-central.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.7,
+    "reviewCount": 4982,
+    "reviews": [
+      {
+        "author": "Ethan",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Brought here by a native Hong Kong friend, which already felt like a great sign—and it definitely lived up to the recommendation. The place was absolutely bustling with locals, giving it that authentic cha chaan teng atmosphere."
+      },
+      {
+        "author": "BOUNCINGPLACES Level 9",
+        "rating": 5,
+        "when": "4 months ago",
+        "text": "Lan Fong Yuen is basically a Hong Kong institution. It started way back in 1952 and is the absolute birthplace of that famous \"silk stocking\" milk tea everyone raves about."
+      },
+      {
+        "author": "Ashwini Prabhu",
+        "rating": 3,
+        "when": "2 months ago",
+        "text": "Wanted to try a local favourite. We tried the hot and cold milk tea, Pineapple bun, French toast. The tea was mildly sweet and smooth. The pineapple bun was good. The French toast was alright."
+      }
+    ]
+  },
+  {
+    "id": "lei-hei-kee-lingnan-tiandi",
+    "aliases": [
+      "李禧记、佛山公"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Lei Hei Kee",
+      "zh": "李禧记"
+    },
+    "city": "Foshan",
+    "query": "李禧记 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0327,
+    "lng": 113.1153,
+    "summary": {
+      "en": "Old Foshan biscuit maker, with the Foshan Gong (佛山公) souvenir shop nearby.",
+      "zh": "佛山老字号饼家，附近还有佛山公手信店。"
+    },
+    "why": {
+      "en": "Foshan's classic snacks are bought here in one stop: bengsha (崩砂) crisp biscuits, blind man's cakes (盲公饼) and maltose candy. They travel well and make easy gifts.",
+      "zh": "佛山经典手信一站买齐：崩砂、盲公饼、麦芽糖。耐放好带，适合送人。"
+    },
+    "highlights": {
+      "en": [
+        "Bengsha (崩砂) crisp biscuits",
+        "Blind man's cakes (盲公饼)",
+        "Maltose candy"
+      ],
+      "zh": [
+        "崩砂",
+        "盲公饼",
+        "麦芽糖"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Bengsha (崩砂)",
+        "Blind man's cake (盲公饼)"
+      ],
+      "zh": [
+        "崩砂",
+        "盲公饼"
+      ]
+    },
+    "tips": {
+      "en": "Exact shop positions inside Lingnan Tiandi unverified.",
+      "zh": "两家店在岭南天地的具体位置未核实。"
+    }
+  },
+  {
+    "id": "li-zhongsheng-tang",
+    "aliases": [
+      "李众胜堂祖铺"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Li Zhongsheng Tang Original Shop",
+      "zh": "李众胜堂祖铺"
+    },
+    "city": "Foshan",
+    "query": "李众胜堂祖铺 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0333,
+    "lng": 113.114,
+    "summary": {
+      "en": "Original shop of the century-old pharmacy that created Po Chai pills.",
+      "zh": "百年老药铺，保济丸的发源地。"
+    },
+    "why": {
+      "en": "Po Chai pills (保济丸), still sold across southern China and Hong Kong, were first made here in the late Qing dynasty. The wooden loft and chandeliers of the old shop are preserved.",
+      "zh": "至今在华南和香港仍常见的保济丸，清末就在这里诞生。老铺的木阁楼和吊灯都保留着。"
+    },
+    "highlights": {
+      "en": [
+        "Birthplace of Po Chai pills",
+        "Preserved wooden loft and chandeliers",
+        "Quick 10-minute stop"
+      ],
+      "zh": [
+        "保济丸的发源地",
+        "保留木阁楼和吊灯",
+        "十分钟就能看完"
+      ]
+    }
+  },
+  {
+    "id": "lingnan-art-studio",
+    "aliases": [
+      "岭南艺苑故屋"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Lingnan Art Studio former residence",
+      "zh": "岭南艺苑故屋"
+    },
+    "city": "Guangzhou",
+    "query": "岭南艺苑 湛露直街 荔湾区 广州",
+    "lat": 23.121,
+    "lng": 113.2495,
+    "summary": {
+      "en": "Former home and studio of Lingnan School painters.",
+      "zh": "岭南画派大师的旧居画院。"
+    },
+    "why": {
+      "en": "Lingnan School masters ran an art academy from this house, training a generation of Cantonese painters. A short look from the door adds context to the old streets.",
+      "zh": "岭南画派大师在这里办画院，培养了一代广东画家；在门口看一眼，老街就多了一层故事。"
+    },
+    "highlights": {
+      "en": [
+        "Lingnan School history",
+        "Quiet lane off Dishifu Road",
+        "Quick stop"
+      ],
+      "zh": [
+        "岭南画派历史",
+        "第十甫路旁的安静巷子",
+        "停留时间短"
+      ]
+    },
+    "tips": {
+      "en": "Usually viewed from outside; which painters lived here was not verified.",
+      "zh": "一般在门外看；具体是哪位画家的旧居未核实。"
+    }
+  },
+  {
+    "id": "lingnan-tiandi",
+    "aliases": [
+      "岭南天地：逛街加午餐"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Lingnan Tiandi",
+      "zh": "岭南天地"
+    },
+    "city": "Foshan",
+    "query": "Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0325,
+    "lng": 113.115,
+    "summary": {
+      "en": "Foshan's restored old quarter: grey-brick lanes, Republic-era villas and food.",
+      "zh": "佛山修复的老城区：青砖巷子、民国洋楼和美食。"
+    },
+    "why": {
+      "en": "Lingnan Tiandi is Foshan's best-preserved old town block, set right beside the Ancestral Temple. Qing-dynasty houses, the Jian family villas and the Wedding House are all within a few minutes' walk. Lunch, local snacks and Foshan souvenirs are found in the same lanes, so no car is needed until mid-afternoon.",
+      "zh": "岭南天地是佛山保留最完整的老城街区，紧挨祖庙。清代民居、简氏别墅、嫁娶屋都在步行几分钟内；午餐、小吃和佛山手信也在同一片巷子里，下午之前都不用坐车。"
+    },
+    "highlights": {
+      "en": [
+        "Next to the Ancestral Temple",
+        "Qing and Republic-era architecture",
+        "Blind-man cakes and other Foshan souvenirs"
+      ],
+      "zh": [
+        "紧邻祖庙",
+        "清代和民国建筑",
+        "盲公饼等佛山手信"
+      ]
+    }
+  },
+  {
+    "id": "lingnan-tiandi-clock-tower",
+    "aliases": [
+      "钟楼"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Lingnan Tiandi Clock Tower",
+      "zh": "岭南天地钟楼"
+    },
+    "city": "Foshan",
+    "query": "Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.033,
+    "lng": 113.115,
+    "summary": {
+      "en": "Landmark tower on the central axis of Lingnan Tiandi, decorated with ceramic sculpture.",
+      "zh": "岭南天地中轴线上的地标，墙上有陶瓷雕塑。"
+    },
+    "why": {
+      "en": "It is the natural starting point and meeting spot in Lingnan Tiandi. Ceramic sculptures and “double happiness” tile patterns on the walls make it a good family photo.",
+      "zh": "是逛岭南天地的起点和集合点。墙上的陶瓷雕塑和“喜喜”瓦拼花适合拍全家福。"
+    },
+    "highlights": {
+      "en": [
+        "Central landmark of the quarter",
+        "Ceramic wall sculptures",
+        "Easy meeting point"
+      ],
+      "zh": [
+        "街区中心地标",
+        "陶瓷墙面雕塑",
+        "方便集合"
+      ]
+    },
+    "tips": {
+      "en": "Exact name of the tower not verified; navigate to Lingnan Tiandi and ask for 钟楼.",
+      "zh": "钟楼正式名称未核实；导航到岭南天地后现场问路。"
+    }
+  },
+  {
+    "id": "lingnan-tiandi-wedding-house",
+    "aliases": [
+      "嫁娶屋（文会里）"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Wedding House, Wenhuili",
+      "zh": "嫁娶屋（文会里）"
+    },
+    "city": "Foshan",
+    "query": "文会里嫁娶屋 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0328,
+    "lng": 113.1145,
+    "summary": {
+      "en": "Traditional house once used for weddings, now showing old Foshan wedding customs.",
+      "zh": "旧时办婚礼的大屋，现在展示佛山传统婚嫁习俗。"
+    },
+    "why": {
+      "en": "Old Cantonese wedding customs are explained through the rooms. Wedding dress and a bridal sedan chair can be tried for photos, which kids tend to love.",
+      "zh": "通过房间布置讲解旧时广府婚俗。可以穿喜服、坐花轿拍照，孩子通常很喜欢。"
+    },
+    "highlights": {
+      "en": [
+        "Traditional wedding customs",
+        "Wedding dress and sedan chair photos",
+        "Old Lingnan house interior"
+      ],
+      "zh": [
+        "传统婚嫁习俗",
+        "穿喜服、坐花轿拍照",
+        "岭南老屋内景"
+      ]
+    },
+    "tips": {
+      "en": "Dress-up may be a paid add-on; check on site.",
+      "zh": "换装拍照可能另外收费，以现场为准。"
+    }
+  },
+  {
+    "id": "liugeng-hall",
+    "aliases": [
+      "留耕堂（何氏大宗祠）",
+      "留耕堂3D投影"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Liugeng Hall (He Clan Ancestral Hall)",
+      "zh": "留耕堂（何氏大宗祠）"
+    },
+    "city": "Guangzhou",
+    "query": "Liugeng Hall, Shawan Ancient Town, Panyu, Guangzhou",
+    "lat": 22.9075,
+    "lng": 113.3285,
+    "summary": {
+      "en": "Five-courtyard Yuan-era ancestral hall, with an evening 3D projection on its façade.",
+      "zh": "始建于元代的五进大祠堂，晚上外墙有3D投影。"
+    },
+    "why": {
+      "en": "One of the largest ancestral halls in the Pearl River Delta, with massive timber columns, the “诗书世泽” plaque and oyster-shell windows. After dark, a projection on the façade tells the town's musical history.",
+      "zh": "珠三角最大的祠堂之一，有巨大木柱、“诗书世泽”牌匾和蚝壳窗；入夜外墙投影讲古镇的音乐故事。"
+    },
+    "highlights": {
+      "en": [
+        "Five courtyards",
+        "Oyster-shell windows",
+        "Giant timber columns",
+        "Evening 3D projection"
+      ],
+      "zh": [
+        "五进院落",
+        "蚝壳窗",
+        "巨大木柱",
+        "夜间3D投影"
+      ]
+    },
+    "tips": {
+      "en": "Projection schedule is not confirmed; check on site.",
+      "zh": "投影是否放映以现场为准。"
+    }
+  },
+  {
+    "id": "liwan-lake-park",
+    "aliases": [
+      "荔湾湖公园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Liwan Lake Park",
+      "zh": "荔湾湖公园"
+    },
+    "city": "Guangzhou",
+    "query": "Liwan Lake Park, Longjin West Road, Guangzhou",
+    "lat": 23.1285,
+    "lng": 113.242,
+    "summary": {
+      "en": "Lakeside park in old Xiguan, with a small Qing-style garden.",
+      "zh": "西关老城的湖景公园，有清代风格小园林。"
+    },
+    "why": {
+      "en": "A morning here shows everyday Guangzhou: elderly locals singing Cantonese opera, tai chi and dancing by the water. The small Xiaohuafangzhai (小画舫斋) garden is a compact example of Lingnan garden design.",
+      "zh": "早上来能看到广州人的日常：老人唱粤曲、打太极、跳舞；小画舫斋是一座小巧的岭南园林。"
+    },
+    "highlights": {
+      "en": [
+        "Morning Cantonese opera singing",
+        "Xiaohuafangzhai garden",
+        "Next to Panxi Restaurant"
+      ],
+      "zh": [
+        "早上有人唱粤曲",
+        "小画舫斋",
+        "紧邻泮溪酒家"
+      ]
+    }
+  },
+  {
+    "id": "liwan-plaza",
+    "aliases": [
+      "荔湾广场"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Liwan Plaza",
+      "zh": "荔湾广场"
+    },
+    "city": "Guangzhou",
+    "query": "Liwan Plaza, Xiajiu Road, Liwan, Guangzhou",
+    "lat": 23.115153,
+    "lng": 113.248892,
+    "summary": {
+      "en": "Long-established mall of jewellery, watch and small-goods shops.",
+      "zh": "老牌商场，首饰、手表、小商品店多。"
+    },
+    "why": {
+      "en": "Floors of small independent stalls sell accessories, jewellery, watches and stationery at wholesale-style prices. Kids can spend pocket money on hair clips, stickers and trinkets.",
+      "zh": "一层层独立小档口卖饰品、首饰、手表、文具，价格接近批发；小孩可以用零花钱买发夹、贴纸、小玩意。"
+    },
+    "highlights": {
+      "en": [
+        "Accessories and jewellery stalls",
+        "Low prices",
+        "East end of Shangxiajiu"
+      ],
+      "zh": [
+        "饰品和首饰档口",
+        "价格低",
+        "上下九东头"
+      ]
+    },
+    "tips": {
+      "en": "Bargaining is common at stalls.",
+      "zh": "档口一般可以讲价。"
+    },
+    "image": "/places/liwan-plaza.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 97
+  },
+  {
+    "id": "longtang-poetry-society",
+    "aliases": [
+      "龙塘诗社（小白楼）"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Longtang Poetry Society (Little White House)",
+      "zh": "龙塘诗社（小白楼）"
+    },
+    "city": "Foshan",
+    "query": "龙塘诗社 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0325,
+    "lng": 113.1148,
+    "summary": {
+      "en": "Two-storey white building mixing Chinese and Western styles, on the site of a Qing literati garden.",
+      "zh": "中西合璧的两层小白楼，前身是清代文人雅集的花园。"
+    },
+    "why": {
+      "en": "A quiet stop between busier streets, with clean white façades that photograph well. Rotating exhibitions are often held inside.",
+      "zh": "热闹街区里的安静一站，白色立面拍照好看，楼内常有展览。"
+    },
+    "highlights": {
+      "en": [
+        "Distinctive white façade",
+        "Qing-dynasty literati history",
+        "Rotating exhibitions"
+      ],
+      "zh": [
+        "白色立面",
+        "清代文人雅集的历史",
+        "常有展览"
+      ]
+    },
+    "tips": {
+      "en": "Exhibitions vary and may not be on.",
+      "zh": "展览不固定，可能当天没有。"
+    }
+  },
+  {
+    "id": "lychee-bay",
+    "aliases": [
+      "荔枝湾涌、文塔"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Lychee Bay",
+      "zh": "荔枝湾"
+    },
+    "city": "Guangzhou",
+    "query": "Lychee Bay (荔枝湾涌), Liwan, Guangzhou",
+    "lat": 23.124,
+    "lng": 113.2445,
+    "summary": {
+      "en": "Restored canal lined with Xiguan houses, with Wenta Pagoda.",
+      "zh": "两岸是西关民居的河涌，还有文塔。"
+    },
+    "why": {
+      "en": "The canal was uncovered and restored in 2010, bringing back stone bridges and old-house frontages. It is the birthplace of sampan congee (艇仔粥), once sold from boats. Wenta, a small Ming-era brick pagoda, makes a good photo stop.",
+      "zh": "2010年揭盖复涌，恢复了石桥和老屋沿河景观；这里是艇仔粥的发源地，以前在艇上卖；文塔是明代小砖塔，适合拍照。"
+    },
+    "highlights": {
+      "en": [
+        "Canal-side Xiguan houses",
+        "Wenta Pagoda",
+        "Birthplace of sampan congee"
+      ],
+      "zh": [
+        "河涌两岸西关民居",
+        "文塔",
+        "艇仔粥发源地"
+      ]
+    },
+    "tips": {
+      "en": "Wenta's dating is from memory.",
+      "zh": "文塔年代凭记忆。"
+    }
+  },
+  {
+    "id": "madame-tussauds-hong-kong",
+    "aliases": [
+      "杜莎夫人蜡像馆"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Madame Tussauds Hong Kong",
+      "zh": "香港杜莎夫人蜡像馆"
+    },
+    "city": "Hong Kong",
+    "query": "Madame Tussauds Hong Kong, The Peak Tower, Hong Kong",
+    "lat": 22.2711973,
+    "lng": 114.1497382,
+    "summary": {
+      "en": "Wax museum inside The Peak Tower.",
+      "zh": "位于山顶凌霄阁内的蜡像馆。"
+    },
+    "why": {
+      "en": "Celebrities and athletes can be photographed up close, with props and sets to pose in. It sits at the top of the Peak Tram, so no extra travel is needed.",
+      "zh": "可以和明星、运动员蜡像近距离合照，还有道具和布景。就在山顶缆车终点，不用另外坐车。"
+    },
+    "highlights": {
+      "en": [
+        "Close-up photos with celebrity figures",
+        "Sports and film stars",
+        "Inside The Peak Tower"
+      ],
+      "zh": [
+        "和明星蜡像近距离合照",
+        "体育明星、电影明星",
+        "就在凌霄阁内"
+      ]
+    },
+    "tips": {
+      "en": "Tickets should be bought online in advance; the combo with the Peak Tram saves queuing.",
+      "zh": "门票提前网上买，和山顶缆车套票可省排队。"
+    },
+    "image": "/places/madame-tussauds-hong-kong.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 4270,
+    "reviews": [
+      {
+        "author": "Anupam Sah",
+        "rating": 5,
+        "when": "3 months ago",
+        "text": "Visited Madame Tussauds Hong Kong on Victoria Peak and it was a highlight of our trip."
+      },
+      {
+        "author": "Fabyana Ong",
+        "rating": 5,
+        "when": "9 months ago",
+        "text": "It was so quiet during our visit on 15th oct , so we managed to took pictures without having to wait in line, it was so pleasant, the staff were nice too. My kid loved the projection games on the floor and dancing on the stages."
+      },
+      {
+        "author": "sarath krishnan",
+        "rating": 4,
+        "when": "5 months ago",
+        "text": "Felt bigger than Singapore one...there is lot of spots for taking photos apart from celebrity statues"
+      }
+    ]
+  },
+  {
+    "id": "mall-of-the-world",
+    "aliases": [
+      "花城汇可丽饼、松饼店"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Mall of the World",
+      "zh": "花城汇"
+    },
+    "city": "Guangzhou",
+    "query": "Mall of the World (花城汇), Huacheng Square, Guangzhou",
+    "lat": 23.119,
+    "lng": 113.3255,
+    "summary": {
+      "en": "Underground mall beneath Huacheng Square.",
+      "zh": "花城广场地下的商场。"
+    },
+    "why": {
+      "en": "Entered straight from the plaza, it offers a warm indoor stop with dessert counters, including fresh crêpes and waffles. Taxis can be taken from the entrance afterwards.",
+      "zh": "从广场直接下去，室内暖和，有可丽饼、松饼等现做甜品；吃完在门口打车。"
+    },
+    "highlights": {
+      "en": [
+        "Direct access from Huacheng Square",
+        "Fresh crêpes and waffles",
+        "Indoor break"
+      ],
+      "zh": [
+        "从花城广场直接进入",
+        "现做可丽饼、松饼",
+        "室内歇脚"
+      ]
+    },
+    "tips": {
+      "en": "Specific dessert shops were not named in the plan; choose on site.",
+      "zh": "行程没指定具体甜品店，现场挑。"
+    }
+  },
+  {
+    "id": "mixc-shenzhen-bay",
+    "aliases": [
+      "深圳湾万象城餐厅"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "MixC Shenzhen Bay",
+      "zh": "深圳湾万象城"
+    },
+    "city": "Shenzhen",
+    "query": "MixC Shenzhen Bay, Nanshan, Shenzhen",
+    "lat": 22.519,
+    "lng": 113.946,
+    "summary": {
+      "en": "Large mall near Shenzhen Bay with many restaurants.",
+      "zh": "深圳湾附近餐厅众多的大型商场。"
+    },
+    "why": {
+      "en": "The widest choice of restaurants near the bay, all under one roof. Pick-up is easy afterwards for the drive to Shenzhen North.",
+      "zh": "深圳湾附近餐厅选择最多，全在室内。吃完方便上车去深圳北。"
+    },
+    "highlights": {
+      "en": [
+        "Many restaurants in one place",
+        "Close to Shenzhen Bay Park",
+        "Easy car pick-up"
+      ],
+      "zh": [
+        "餐厅集中",
+        "靠近深圳湾公园",
+        "方便上车"
+      ]
+    }
+  },
+  {
+    "id": "mr-wildman-gelato",
+    "aliases": [
+      "野人先生"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Mr. Wild Man Gelato",
+      "zh": "野人先生"
+    },
+    "city": "Guangzhou",
+    "query": "野人先生 gelato Tianhe Road, Guangzhou",
+    "lat": 23.1325,
+    "lng": 113.323,
+    "summary": {
+      "en": "Chinese gelato chain, made fresh in-store each day with many rotating flavours.",
+      "zh": "国内连锁意式冰淇淋店，每天店内现做，口味多且常换。"
+    },
+    "why": {
+      "en": "Gelato is made in-store daily, and local flavours appear next to Italian classics. Tasting is offered before choosing, so kids can try several.",
+      "zh": "每天店内现做，除了经典意式口味，还有本地特色口味。可以先试吃再选，孩子能多试几种。"
+    },
+    "highlights": {
+      "en": [
+        "Made fresh daily",
+        "Tasting before ordering",
+        "Several branches around Tianhe Road"
+      ],
+      "zh": [
+        "每天现做",
+        "可以先试吃",
+        "天河路一带有多家分店"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Seasonal fruit gelato (时令水果)",
+        "Pistachio (开心果)"
+      ],
+      "zh": [
+        "时令水果口味",
+        "开心果口味"
+      ]
+    },
+    "tips": {
+      "en": "English brand name and exact branch unverified; search “野人先生” in Amap and pick the nearest Tianhe Road branch.",
+      "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"
+    }
+  },
+  {
+    "id": "nanxin-dessert",
+    "aliases": [
+      "南信甜品"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Nanxin Dessert",
+      "zh": "南信甜品"
+    },
+    "city": "Guangzhou",
+    "query": "南信牛奶甜品专家 第十甫路 荔湾区 广州",
+    "lat": 23.1203,
+    "lng": 113.2497,
+    "summary": {
+      "en": "Xiguan's best-known milk-dessert shop, on Dishifu Road.",
+      "zh": "西关最有名的牛奶甜品店，就在第十甫路。"
+    },
+    "why": {
+      "en": "Double-skin milk custard is made fresh here from buffalo milk and served warm or chilled. The texture is silkier and the milk flavour stronger than chain versions. It is a 2-minute walk from the Shangxiajiu arcades, so it is easily fitted in.",
+      "zh": "双皮奶用水牛奶现做，冷热都有，口感比连锁店更滑、奶味更浓。离上下九骑楼只要步行两分钟，顺路就能吃。"
+    },
+    "highlights": {
+      "en": [
+        "Operating since the 1940s",
+        "Desserts made from buffalo milk",
+        "Steps from Shangxiajiu Pedestrian Street"
+      ],
+      "zh": [
+        "上世纪四十年代开业",
+        "水牛奶做的甜品",
+        "紧邻上下九步行街"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Double-skin milk (双皮奶)",
+        "Ginger milk curd (姜撞奶)",
+        "Red bean milk custard (红豆双皮奶)"
+      ],
+      "zh": [
+        "双皮奶",
+        "姜撞奶",
+        "红豆双皮奶"
+      ]
+    },
+    "tips": {
+      "en": "Queues form after dinner; turnover is fast.",
+      "zh": "晚饭后会排队，但翻台很快。"
+    }
+  },
+  {
+    "id": "ng-choi-kee-noodles",
+    "aliases": [
+      "吴财记面家"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Ng Choi Kee Noodles",
+      "zh": "吴财记面家"
+    },
+    "city": "Guangzhou",
+    "query": "吴财记面家 荔湾区 广州",
+    "lat": 23.1222,
+    "lng": 113.2488,
+    "summary": {
+      "en": "Neighbourhood noodle house known for shrimp wontons.",
+      "zh": "街坊面家，以鲜虾云吞出名。"
+    },
+    "why": {
+      "en": "Wontons are packed with whole fresh shrimp, and the fried wontons are a crunchy snack kids pick up by hand. A quick, cheap Xiguan lunch.",
+      "zh": "云吞包整只鲜虾，炸云吞香脆，小孩可以直接用手拿着吃；快捷平价的西关午餐。"
+    },
+    "highlights": {
+      "en": [
+        "Whole-shrimp wontons",
+        "Fried wontons for kids",
+        "Local, low-priced"
+      ],
+      "zh": [
+        "整只鲜虾云吞",
+        "炸云吞适合小孩",
+        "街坊价格"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Fresh shrimp wonton noodles (鲜虾云吞面)",
+        "Fried wontons (炸云吞)"
+      ],
+      "zh": [
+        "鲜虾云吞面",
+        "炸云吞"
+      ]
+    },
+    "tips": {
+      "en": "The plan lists it on Datong Road; the exact address was not verified. Search the name in Amap before going.",
+      "zh": "行程写在大同路，具体地址未核实，出发前在高德搜店名确认。"
+    }
+  },
+  {
+    "id": "ng-zham-kee",
+    "aliases": [
+      "伍湛记"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Ng Zham Kee",
+      "zh": "伍湛记"
+    },
+    "city": "Guangzhou",
+    "query": "伍湛记 龙津东路 荔湾区 广州",
+    "lat": 23.12169,
+    "lng": 113.251754,
+    "summary": {
+      "en": "Long-standing congee shop on Longjin East Road.",
+      "zh": "龙津东路老字号粥店。"
+    },
+    "why": {
+      "en": "Jidi congee (及第粥), with pork liver, kidney and meatballs, is a classic Guangzhou breakfast and is cooked here to order. Salty fried dough cakes (咸煎饼) are a mild, bready side that children usually like.",
+      "zh": "及第粥是广州经典早餐，猪肝、猪腰、肉丸现煲；咸煎饼口味温和，小孩一般都爱吃。"
+    },
+    "highlights": {
+      "en": [
+        "Congee cooked to order",
+        "Old Xiguan breakfast spot",
+        "Inexpensive"
+      ],
+      "zh": [
+        "粥底现煲",
+        "西关老早餐店",
+        "价格实惠"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Jidi congee (及第粥)",
+        "Salty fried dough cake (咸煎饼)",
+        "Fried dough stick (油条)"
+      ],
+      "zh": [
+        "及第粥",
+        "咸煎饼",
+        "油条"
+      ]
+    },
+    "image": "/places/ng-zham-kee.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 15,
+    "reviews": [
+      {
+        "author": "Junhua Chen",
+        "rating": 5,
+        "when": "7 years ago",
+        "text": "A decent breakfast place, it opens at 6am! 干炒牛河 Beef stir fry noodles is really good. And the 猪肝粥 pork liver congee is also good."
+      },
+      {
+        "author": "Rock kid Brothers",
+        "rating": 4,
+        "when": "6 years ago",
+        "text": "The beef chow fun portion is roughly for four people, so please consider this before ordering. It's a bit oily, but the taste is good."
+      },
+      {
+        "author": "cat",
+        "rating": 4,
+        "when": "8 years ago",
+        "text": "The only thing I love from them is the fried dough, definitely the best in the city."
+      }
+    ]
+  },
+  {
+    "id": "our-lady-of-lourdes-chapel",
+    "aliases": [
+      "露德天主教圣母堂"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Our Lady of Lourdes Chapel",
+      "zh": "露德天主教圣母堂"
+    },
+    "city": "Guangzhou",
+    "query": "Our Lady of Lourdes Chapel, Shamian Street, Guangzhou",
+    "lat": 23.1085,
+    "lng": 113.244,
+    "summary": {
+      "en": "Small cream-white Catholic chapel on Shamian Street.",
+      "zh": "沙面大街上的米白色小教堂。"
+    },
+    "why": {
+      "en": "Built by the French in 1892, it is one of the island's signature buildings and its most photographed façade. A photo from the street takes only a few minutes.",
+      "zh": "1892年由法国人建成，是沙面的标志建筑，也是岛上最多人拍照的立面；在街上拍几张就好。"
+    },
+    "highlights": {
+      "en": [
+        "Built 1892",
+        "Gothic-style façade",
+        "On the main Shamian walking route"
+      ],
+      "zh": [
+        "建于1892年",
+        "哥特式立面",
+        "在沙面主步行线上"
+      ]
+    },
+    "tips": {
+      "en": "Usually viewed from outside; interior access is limited.",
+      "zh": "一般在门外看，内部不一定开放。"
+    }
+  },
+  {
+    "id": "panda-hotel-lobby-bar",
+    "aliases": [
+      "熊猫酒店大堂吧"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Panda Hotel lobby bar",
+      "zh": "熊猫酒店大堂吧"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Panda Hotel lobby bar, Panyu, Guangzhou",
+    "lat": 23.004,
+    "lng": 113.3335,
+    "summary": {
+      "en": "Lobby lounge for Western cakes and hot drinks.",
+      "zh": "大堂吧，西式蛋糕和热饮。"
+    },
+    "why": {
+      "en": "A seated break between the resort walk and check-in, in the panda-decorated lobby.",
+      "zh": "熟悉度假区之后、入住之前，可以在熊猫装饰的大堂坐下休息。"
+    },
+    "highlights": {
+      "en": [
+        "Cakes and hot drinks",
+        "Panda lobby views"
+      ],
+      "zh": [
+        "蛋糕、热饮",
+        "坐看熊猫大堂"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Cake of the day (蛋糕)",
+        "Hot chocolate (热巧克力)"
+      ],
+      "zh": [
+        "当日蛋糕",
+        "热巧克力"
+      ]
+    }
+  },
+  {
+    "id": "panda-hotel-restaurant",
+    "aliases": [
+      "熊猫酒店餐厅",
+      "熊猫主题甜点",
+      "熊猫酒店自助早餐"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Panda Hotel restaurant",
+      "zh": "熊猫酒店餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "Chimelong Panda Hotel restaurant, Panyu, Guangzhou",
+    "lat": 23.005314,
+    "lng": 113.33206,
+    "summary": {
+      "en": "In-hotel dining with panda-shaped cakes and buffet meals.",
+      "zh": "酒店内餐厅，有自助餐和熊猫造型蛋糕。"
+    },
+    "why": {
+      "en": "No travel is needed between park and meal, which matters on show nights. Panda-shaped desserts are made here and are a photo the kids will ask for.",
+      "zh": "不用出门就能吃，有演出的晚上最省时间。熊猫造型甜点在这里做，孩子一定会要拍。"
+    },
+    "highlights": {
+      "en": [
+        "Buffet breakfast and dinner",
+        "Panda-shaped cakes",
+        "Fastest option before the Circus"
+      ],
+      "zh": [
+        "自助早餐和晚餐",
+        "熊猫造型蛋糕",
+        "看大马戏前最省时"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Panda-shaped cake (熊猫造型蛋糕)"
+      ],
+      "zh": [
+        "熊猫造型蛋糕"
+      ]
+    },
+    "tips": {
+      "en": "The hotel has more than one outlet; exact restaurant names and hours should be checked at reception. Buffet is crowded at opening even in low season.",
+      "zh": "酒店有多个餐厅，具体名称和营业时间以前台为准；自助餐淡季开门时也很挤。"
+    },
+    "image": "/places/panda-hotel-restaurant.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 22,
+    "reviews": [
+      {
+        "author": "Occasionalfoodie",
+        "when": "8 months ago",
+        "text": "We checked into the hotel during my daughter’s birthday month and she was delighted to see the birthday decorations in the room and there was a very cute complimentary birthday cake for her. It was a pleasant stay and the rooms were clean and new."
+      },
+      {
+        "author": "Trip.com Member",
+        "when": "4 months ago",
+        "text": "Is located very near the Circus about 5 minutes walk. Whole hotel is very neat and fun for kids. Love the idea to have some live animals as part of the hotel viewing section."
+      },
+      {
+        "author": "Afonsinhotravels",
+        "when": "3 years ago",
+        "text": "The Panda Hotel is nicely decorated for the kids, as the looby and the rooms. Their guests are mainly families to the Chimelong World parks around."
+      }
+    ]
+  },
+  {
+    "id": "panxi-restaurant",
+    "aliases": [
+      "晚餐：泮溪酒家"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Panxi Restaurant",
+      "zh": "泮溪酒家"
+    },
+    "city": "Guangzhou",
+    "query": "泮溪酒家 龙津西路151号 荔湾区 广州",
+    "lat": 23.127,
+    "lng": 113.2425,
+    "summary": {
+      "en": "Garden restaurant by Liwan Lake, famed for its dim sum.",
+      "zh": "荔湾湖旁的园林酒家，点心出名。"
+    },
+    "why": {
+      "en": "Founded in 1947, it is one of the largest garden restaurants in Guangzhou, with pavilions, ponds and rockeries. Its white rabbit dumplings are the most photographed dim sum in the city, and kids love them.",
+      "zh": "1947年创办，广州最大的园林酒家之一，亭台、池塘、假山都有；白兔饺是全城最上镜的点心，小孩最喜欢。"
+    },
+    "highlights": {
+      "en": [
+        "Lingnan garden dining rooms",
+        "Eight famous dim sum and dishes",
+        "Beside Liwan Lake Park"
+      ],
+      "zh": [
+        "岭南园林式厅房",
+        "八大名点、八大名菜",
+        "紧邻荔湾湖公园"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "White rabbit dumplings (绿茵白兔饺)",
+        "Water chestnut cake (泮塘马蹄糕)",
+        "Roast suckling pig (金牌烧乳猪)",
+        "Eight-treasure winter melon soup (八宝冬瓜盅)"
+      ],
+      "zh": [
+        "绿茵白兔饺",
+        "泮塘马蹄糕",
+        "金牌烧乳猪",
+        "八宝冬瓜盅"
+      ]
+    },
+    "tips": {
+      "en": "Booking ahead is recommended; window seats in the garden go early.",
+      "zh": "建议提前订位，园林靠窗位置要早订。"
+    }
+  },
+  {
+    "id": "parc-central",
+    "aliases": [
+      "天环广场"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Parc Central",
+      "zh": "天环广场"
+    },
+    "city": "Guangzhou",
+    "query": "Parc Central, Tianhe Road, Tianhe, Guangzhou",
+    "lat": 23.132,
+    "lng": 113.326,
+    "summary": {
+      "en": "Sunken, mostly underground mall beside Teemall.",
+      "zh": "天河城旁以地下为主的下沉式商场。"
+    },
+    "why": {
+      "en": "Quieter than the neighbouring malls, with a landscaped sunken garden at its centre. It is walked through underground from Teemall, so no street crossing is needed with kids.",
+      "zh": "比周边商场安静，中间是下沉式园林。从天河城地下直接走过去，带孩子不用过马路。"
+    },
+    "highlights": {
+      "en": [
+        "Quiet, less crowded",
+        "Sunken garden",
+        "Underground link from Teemall"
+      ],
+      "zh": [
+        "安静，人少",
+        "下沉式园林",
+        "地下连通天河城"
+      ]
+    }
+  },
+  {
+    "id": "peak-tram",
+    "aliases": [
+      "山顶缆车",
+      "山顶缆车下山"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Peak Tram",
+      "zh": "山顶缆车"
+    },
+    "city": "Hong Kong",
+    "query": "Peak Tram Garden Road Lower Terminus, Central, Hong Kong",
+    "lat": 22.2776827,
+    "lng": 114.1591909,
+    "summary": {
+      "en": "Funicular from Garden Road to Victoria Peak, running since 1888.",
+      "zh": "1888年开通，从花园道到太平山顶的缆车。"
+    },
+    "why": {
+      "en": "Asia's oldest funicular climbs so steeply that the buildings outside appear to lean. Kids remember the tilt long after the view.",
+      "zh": "亚洲最早的登山缆车，坡度很陡，窗外高楼看起来像是倾斜的。孩子对倾斜的感觉记得比风景还久。"
+    },
+    "highlights": {
+      "en": [
+        "Steep climb, tilting view",
+        "Running since 1888",
+        "Arrives at The Peak Tower"
+      ],
+      "zh": [
+        "坡度陡，窗外高楼倾斜",
+        "1888年开通",
+        "直达凌霄阁"
+      ]
+    },
+    "tips": {
+      "en": "Queues can be long; a Madame Tussauds + Peak Tram combo ticket gives a dedicated lane. Sit on the right going up for the harbour view.",
+      "zh": "排队可能很长，买蜡像馆加缆车套票有专用通道。上山坐右边看海景。"
+    },
+    "image": "/places/peak-tram.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 26030,
+    "reviews": [
+      {
+        "author": "akhil shanbhag",
+        "rating": 5,
+        "when": "5 months ago",
+        "text": "Bought tickets at the counter - waited in the queue about 10 minutes on a Sunday morning. Queue moves fast. Paid with credit card."
+      },
+      {
+        "author": "K Ooi",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "The Peak Tram is definitely one of the must-try experiences when visiting Hong Kong."
+      },
+      {
+        "author": "Thameur Hamza",
+        "rating": 5,
+        "when": "a month ago",
+        "text": "Riding The Peak Tram is an absolute must-do historical and visual journey that seamlessly links the high-rises of Central to the cool heights of Victoria Peak!"
+      }
+    ]
+  },
+  {
+    "id": "pearl-river-night-cruise",
+    "aliases": [
+      "珠江夜游"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Pearl River Night Cruise",
+      "zh": "珠江夜游"
+    },
+    "city": "Guangzhou",
+    "query": "Tianzi Pier, Yanjiang Middle Road, Yuexiu, Guangzhou",
+    "lat": 23.1195,
+    "lng": 113.2705,
+    "summary": {
+      "en": "Evening boat cruise along the Pearl River past the lit-up Canton Tower and city skyline.",
+      "zh": "夜晚沿珠江坐船，看灯光下的广州塔和两岸夜景。"
+    },
+    "why": {
+      "en": "Guangzhou's skyline is seen at its best from the water: Canton Tower, Haizhu Bridge and the Bund-style buildings along Yanjiang Road are all lit up. Kids get a boat ride without much walking at the end of the day.",
+      "zh": "从江上看广州夜景最好：广州塔、海珠桥、沿江路的老建筑都亮灯。一天下来不用多走路，孩子还能坐船。"
+    },
+    "highlights": {
+      "en": [
+        "Canton Tower lit up",
+        "Departs from Tianzi Pier",
+        "~1–1.5 h on the water"
+      ],
+      "zh": [
+        "灯光下的广州塔",
+        "从天字码头上船",
+        "船程约1至1.5小时"
+      ]
+    },
+    "tips": {
+      "en": "Tickets and pier should be confirmed in advance; be at the pier 20 min early and bring a jacket.",
+      "zh": "船票和码头提前确定；开船前20分钟到，带外套。"
+    }
+  },
+  {
+    "id": "qinghui-garden",
+    "aliases": [
+      "清晖园",
+      "大良：清晖园、华盖路"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Qinghui Garden",
+      "zh": "清晖园"
+    },
+    "city": "Shunde",
+    "query": "Qinghui Garden, 23 Qinghui Road, Daliang, Shunde, Foshan",
+    "lat": 22.8437,
+    "lng": 113.2528,
+    "summary": {
+      "en": "One of the Four Great Gardens of Lingnan, a Ming-Qing private garden in central Daliang.",
+      "zh": "岭南四大名园之一，大良城中的明清私家园林。"
+    },
+    "why": {
+      "en": "Lingnan garden design is seen at its most compact here: bridges, ponds, bamboo and carved windows fitted into a small town plot. Paths and small bridges keep kids exploring, and a full loop takes only about 50 minutes.",
+      "zh": "岭南园林在小块地上把小桥、水池、竹林和花窗安排得很紧凑。小路和小桥让孩子一路探索，走一圈约50分钟。"
+    },
+    "highlights": {
+      "en": [
+        "One of the Four Great Gardens of Lingnan",
+        "Carved windows and coloured glass",
+        "Ponds, bridges and bamboo",
+        "~50 min loop"
+      ],
+      "zh": [
+        "岭南四大名园之一",
+        "花窗和彩色玻璃",
+        "水池、小桥、竹林",
+        "走一圈约50分钟"
+      ]
+    },
+    "tips": {
+      "en": "Closes in the early evening; check the last-entry time at the gate.",
+      "zh": "傍晚关门，到门口先看入园截止时间。"
+    }
+  },
+  {
+    "id": "robot-6s-store-bantian",
+    "aliases": [
+      "机器人6S店",
+      "机器人现场做吃的",
+      "人形机器人展区",
+      "机器人零部件超市"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Robot 6S Store",
+      "zh": "机器人6S店"
+    },
+    "city": "Shenzhen",
+    "query": "机器人6S店, 星河WORLD, 坂田, 龙岗区, 深圳",
+    "lat": 22.6225,
+    "lng": 114.063,
+    "summary": {
+      "en": "The world's first robot 6S store, in Galaxy WORLD, Bantian.",
+      "zh": "全球首家机器人6S店，位于坂田星河WORLD园区。"
+    },
+    "why": {
+      "en": "Humanoid robots and robot dogs from Chinese makers such as Unitree, Leju and DEEP Robotics are shown working, not behind glass. Robots cook jianbing and make coffee that can be bought and eaten. Few places let children see this much current Chinese robotics in one room.",
+      "zh": "宇树、乐聚、云深处等国内厂商的人形机器人和机器狗现场演示，不是隔着玻璃看。机器人现场做煎饼果子、冲咖啡，可以买来吃。很少有地方能让孩子在一个店里看到这么多国产机器人。"
+    },
+    "highlights": {
+      "en": [
+        "Robots making jianbing and coffee",
+        "Humanoid robot and robot dog demos",
+        "Parts 'supermarket': servo motors, reducers",
+        "Robot rental from ~1,000 yuan/day"
+      ],
+      "zh": [
+        "机器人现场做煎饼、冲咖啡",
+        "人形机器人、机器狗现场展示",
+        "零部件超市：伺服电机、减速器",
+        "机器人出租，约1000元一天起"
+      ]
+    },
+    "tips": {
+      "en": "Opening hours and live-demo times should be checked before the visit.",
+      "zh": "出发前确认营业时间和现场演示时间。"
+    }
+  },
+  {
+    "id": "rongbian-spare-rib-rice-branch-3",
+    "aliases": [
+      "大良容边排骨饭（三店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Daliang Rongbian Spare Rib Rice, Branch 3",
+      "zh": "大良容边排骨饭（三店）"
+    },
+    "city": "Shunde",
+    "query": "容边排骨饭 三店, Guangfeng Building, Daliang, Shunde, Foshan",
+    "lat": 22.8425,
+    "lng": 113.2538,
+    "summary": {
+      "en": "Local spare-rib rice institution beside Qinghui Garden and Huagai Road.",
+      "zh": "清晖园和华盖路旁的本地排骨饭名店。"
+    },
+    "why": {
+      "en": "Spare ribs are steamed directly on the rice in individual bowls, so the juices soak into the grains — a plain dish done exactly right. Sizzling clay pots and meatball soup round it out, and double-skin milk (双皮奶), which originated in Daliang, finishes the meal.",
+      "zh": "排骨直接铺在米饭上一碗一碗蒸，肉汁渗进饭里，简单但做得到位。再配啫啫煲、肉丸汤，最后来一碗大良发源的双皮奶。"
+    },
+    "highlights": {
+      "en": [
+        "Steamed spare rib rice",
+        "Opens for dinner at 17:30",
+        "Double-skin milk to finish",
+        "Steps from Qinghui Garden"
+      ],
+      "zh": [
+        "干蒸排骨饭",
+        "晚市17:30开门",
+        "最后吃双皮奶",
+        "离清晖园几步路"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Steamed spare rib rice (干蒸排骨饭)",
+        "Sizzling clay pot (啫啫煲)",
+        "Meatball soup (肉丸汤)",
+        "Double-skin milk (双皮奶)"
+      ],
+      "zh": [
+        "干蒸排骨饭",
+        "啫啫煲",
+        "肉丸汤",
+        "双皮奶"
+      ]
+    },
+    "tips": {
+      "en": "2/F Guangfeng Building (广丰大厦二楼). Arrive at 17:30 to avoid queues. Tel 13450801998.",
+      "zh": "广丰大厦二楼；17:30开门就到，不用排队。电话13450801998。"
+    }
+  },
+  {
+    "id": "runyuan-siji-coconut-chicken-nanshan",
+    "aliases": [
+      "润园四季椰子鸡"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Runyuan Siji Coconut Chicken",
+      "zh": "润园四季椰子鸡"
+    },
+    "city": "Shenzhen",
+    "query": "润园四季椰子鸡 南山, 深圳",
+    "lat": 22.518,
+    "lng": 113.945,
+    "summary": {
+      "en": "Shenzhen's best-known coconut chicken hotpot chain.",
+      "zh": "深圳最出名的椰子鸡连锁。"
+    },
+    "why": {
+      "en": "Coconut chicken is a Shenzhen speciality: fresh coconut water is used as the hotpot broth, and Wenchang chicken is cooked in it. The broth is light and sweet, so children usually drink it by the bowl.",
+      "zh": "椰子鸡是深圳特色：用新鲜椰子水做锅底，涮文昌鸡。汤清甜不油腻，孩子通常一碗接一碗。"
+    },
+    "highlights": {
+      "en": [
+        "Fresh coconut-water broth",
+        "Wenchang chicken",
+        "Light, kid-friendly"
+      ],
+      "zh": [
+        "新鲜椰子水锅底",
+        "文昌鸡",
+        "清淡，适合孩子"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Coconut chicken hotpot (椰子鸡)",
+        "Bamboo fungus (竹荪)"
+      ],
+      "zh": [
+        "椰子鸡",
+        "竹荪"
+      ]
+    },
+    "tips": {
+      "en": "A chain; the branch nearest Shenzhen Bay should be chosen. Exact branch unconfirmed.",
+      "zh": "连锁店，选离深圳湾最近的分店；具体分店待确认。"
+    }
+  },
+  {
+    "id": "shahe-clothing-market",
+    "aliases": [
+      "沙河服装城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Shahe Clothing Market",
+      "zh": "沙河服装城"
+    },
+    "city": "Guangzhou",
+    "query": "沙河服装城, 沙河, 天河区, 广州",
+    "lat": 23.155834,
+    "lng": 113.309175,
+    "summary": {
+      "en": "Large wholesale clothing district in Shahe, Tianhe.",
+      "zh": "天河区沙河的大型服装批发市场。"
+    },
+    "why": {
+      "en": "T-shirts, denim and casual wear are sold at wholesale prices, and bargaining is expected. It shows the trading side of Guangzhou that malls do not.",
+      "zh": "T恤、牛仔、休闲装批发价，可以讲价。能看到商场以外的广州批发贸易一面。"
+    },
+    "highlights": {
+      "en": [
+        "Wholesale prices",
+        "Bargaining expected",
+        "T-shirts, denim, casual wear"
+      ],
+      "zh": [
+        "批发价",
+        "可以讲价",
+        "T恤、牛仔、休闲装"
+      ]
+    },
+    "tips": {
+      "en": "Stalls are fullest in the morning; many close in the afternoon. Crowded: backpacks on the front, phones away. Metro: Shaheding (沙河顶).",
+      "zh": "上午档口最齐，下午不少收档。人多拥挤，背包背前面，手机收好。地铁：沙河顶站。"
+    },
+    "image": "/places/shahe-clothing-market.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.7,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "author": "Hussain Buzaid",
+        "rating": 3,
+        "when": "8 years ago",
+        "text": "Huge wholesale market with average quality and cheap prices."
+      },
+      {
+        "author": "Quang Si",
+        "rating": 4,
+        "when": "a year ago",
+        "text": "very very busy. shops and people everywhere."
+      }
+    ]
+  },
+  {
+    "id": "shamian-island",
+    "aliases": [
+      "沙面岛步行路线",
+      "沙面大街",
+      "欧陆建筑群",
+      "铜像雕塑",
+      "珠江边步道",
+      "午餐：沙面"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shamian Island",
+      "zh": "沙面岛"
+    },
+    "city": "Guangzhou",
+    "query": "Shamian Island, Liwan, Guangzhou",
+    "lat": 23.108,
+    "lng": 113.242,
+    "summary": {
+      "en": "Former foreign concession island of colonial buildings and banyan-lined streets.",
+      "zh": "百年前的租界小岛，满是欧式建筑和大榕树。"
+    },
+    "why": {
+      "en": "From 1859 the island was the British and French concession, and over 150 European-style consulates, banks and trading houses still stand, most with plaques. It is car-light and flat, so kids can walk freely and hunt for the life-size bronze statues along the streets. The southern edge opens onto a Pearl River promenade.",
+      "zh": "1859年起为英法租界，至今保留150多栋欧式领事馆、银行、洋行，大多有铭牌介绍；岛上车少路平，小孩可以放心走，一路找真人大小的铜像合影；南边就是珠江边步道。"
+    },
+    "highlights": {
+      "en": [
+        "150+ colonial-era buildings",
+        "Bronze street statues for a kids' hunt",
+        "Pearl River promenade",
+        "Quiet and photogenic in the morning"
+      ],
+      "zh": [
+        "150多栋租界时期建筑",
+        "街头铜像，适合小孩寻宝",
+        "珠江边步道",
+        "上午人少好拍照"
+      ]
+    },
+    "tips": {
+      "en": "Arrive after 9 am, before the crowds. Several cafés and riverside Western restaurants on Shamian South Street serve light lunches.",
+      "zh": "九点多到，人少。沙面南街一带有多家咖啡馆和江边西餐厅，可吃轻食午餐。"
+    }
+  },
+  {
+    "id": "shamian-park",
+    "aliases": [
+      "沙面公园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shamian Park",
+      "zh": "沙面公园"
+    },
+    "city": "Guangzhou",
+    "query": "Shamian Park, Shamian Island, Guangzhou",
+    "lat": 23.1078,
+    "lng": 113.2405,
+    "summary": {
+      "en": "Small riverside park with lawns and benches.",
+      "zh": "岛上有草地和长椅的小公园。"
+    },
+    "why": {
+      "en": "A shaded green space mid-walk where kids can run and adults can sit. It overlooks the river, so the break comes with a view.",
+      "zh": "走到一半让小孩跑跳、大人坐下的树荫绿地，还能看江景。"
+    },
+    "highlights": {
+      "en": [
+        "Lawns for running around",
+        "Benches in the shade",
+        "River views"
+      ],
+      "zh": [
+        "草地可跑跳",
+        "树荫下长椅",
+        "江景"
+      ]
+    }
+  },
+  {
+    "id": "shangxiajiu",
+    "aliases": [
+      "上下九步行街",
+      "第十甫路老字号",
+      "下九路、上九路骑楼",
+      "下九路骑楼、文澜巷",
+      "上下九：逛街、晚餐、甜品"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shangxiajiu Pedestrian Street",
+      "zh": "上下九步行街"
+    },
+    "city": "Guangzhou",
+    "query": "Shangxiajiu Pedestrian Street, Liwan, Guangzhou",
+    "lat": 23.11395,
+    "lng": 113.24668,
+    "summary": {
+      "en": "Guangzhou's most complete qilou arcade street.",
+      "zh": "广州最完整的骑楼街。"
+    },
+    "why": {
+      "en": "Over a kilometre of continuous qilou arcades runs along Dishifu, Xiajiu and Shangjiu roads, with heritage brands such as Tao Tao Ju and Lin Heung Lau at the west end. Budget clothes, snacks and souvenir shops line both sides, and the covered walkways keep everyone out of sun and rain.",
+      "zh": "第十甫路、下九路、上九路连成一公里多的骑楼街，西头有陶陶居、莲香楼等老字号；两边是平价服装、小吃、手信店，骑楼下走路晒不到也淋不到。"
+    },
+    "highlights": {
+      "en": [
+        "Continuous qilou arcades",
+        "Heritage brands on Dishifu Road",
+        "Wenlan Lane, linked to Qing-era Thirteen Hongs merchants",
+        "Cheap clothes and snacks"
+      ],
+      "zh": [
+        "连片骑楼",
+        "第十甫路老字号",
+        "文澜巷，与清代十三行商人有关",
+        "平价服装和小吃"
+      ]
+    },
+    "tips": {
+      "en": "Crowded in the evening; backpacks should be worn on the front.",
+      "zh": "傍晚人多，背包背在前面。"
+    },
+    "image": "/places/shangxiajiu.jpg",
+    "imageCredit": "Google Maps"
+  },
+  {
+    "id": "shawan-ancient-town",
+    "aliases": [
+      "沙湾古镇：黄昏到夜市"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shawan Ancient Town",
+      "zh": "沙湾古镇"
+    },
+    "city": "Guangzhou",
+    "query": "Shawan Ancient Town, Panyu, Guangzhou",
+    "lat": 22.907,
+    "lng": 113.33,
+    "summary": {
+      "en": "800-year-old Lingnan town with ancestral halls, a pagoda and a weekend night market.",
+      "zh": "800多年历史的岭南古镇，有祠堂、古塔和周末夜市。"
+    },
+    "why": {
+      "en": "Founded in the Southern Song, it keeps wok-ear gabled houses, flagstone lanes and the He clan's great ancestral hall. Ginger milk curd originated here. Compact and free, it is walked in two hours.",
+      "zh": "南宋始建，保留镬耳屋、石板街和何氏大宗祠；姜撞奶的发源地。古镇不大、免费，两小时可以走完。"
+    },
+    "highlights": {
+      "en": [
+        "Liugeng Hall ancestral temple",
+        "Wenfeng Pagoda",
+        "Anning Square night market",
+        "Birthplace of ginger milk curd"
+      ],
+      "zh": [
+        "留耕堂",
+        "文峰塔",
+        "安宁广场夜市",
+        "姜撞奶发源地"
+      ]
+    },
+    "tips": {
+      "en": "Flagstone streets; wear comfortable shoes and bring a jacket for the evening.",
+      "zh": "石板路，穿好走的鞋；晚上冷，带外套。"
+    }
+  },
+  {
+    "id": "shawan-anning-square-night-market",
+    "aliases": [
+      "安宁广场光影夜市"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Anning Square light night market",
+      "zh": "安宁广场光影夜市"
+    },
+    "city": "Guangzhou",
+    "query": "Anning Square, Shawan Ancient Town, Panyu, Guangzhou",
+    "lat": 22.9068,
+    "lng": 113.3295,
+    "summary": {
+      "en": "Evening craft market, ~17:30–19:00.",
+      "zh": "傍晚手作市集，约17:30至19:00。"
+    },
+    "why": {
+      "en": "Local embroidery, copperware and tea are sold by makers under lights; the adjacent Guangdong Music Hall has weekend performances.",
+      "zh": "灯光下卖本地刺绣、铜器和茶叶；旁边的广东音乐馆周末有表演。"
+    },
+    "highlights": {
+      "en": [
+        "Embroidery and copperware",
+        "Tea stalls",
+        "Weekend music next door"
+      ],
+      "zh": [
+        "刺绣、铜器",
+        "茶叶摊",
+        "周末音乐表演"
+      ]
+    },
+    "tips": {
+      "en": "Market days and hours are not confirmed for late December.",
+      "zh": "12月下旬是否开市及时间未确认。"
+    }
+  },
+  {
+    "id": "shawan-ginger-milk-curd-old-house",
+    "aliases": [
+      "沙湾姜撞奶老屋甜品店"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Shawan Ginger Milk Curd Old House",
+      "zh": "沙湾姜撞奶老屋甜品店"
+    },
+    "city": "Guangzhou",
+    "query": "姜撞奶 甜品 沙湾古镇, Panyu, Guangzhou",
+    "lat": 22.9072,
+    "lng": 113.3302,
+    "summary": {
+      "en": "Dessert shop in a century-old house with a courtyard.",
+      "zh": "百年老屋改的甜品店，有小院子。"
+    },
+    "why": {
+      "en": "Ginger milk curd was invented in Shawan: hot buffalo milk is poured onto fresh ginger juice and sets in seconds. Eating it in the town of origin, in a courtyard house, is the point of the evening.",
+      "zh": "姜撞奶起源于沙湾：热水牛奶冲进鲜姜汁，几秒就凝固。在发源地的老屋小院里吃，是这一晚的重点。"
+    },
+    "highlights": {
+      "en": [
+        "Origin town of ginger milk curd",
+        "Century-old house",
+        "Courtyard seating"
+      ],
+      "zh": [
+        "姜撞奶发源地",
+        "百年老屋",
+        "小院座位"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Ginger milk curd (姜撞奶)",
+        "Double-skin milk (双皮奶)"
+      ],
+      "zh": [
+        "姜撞奶",
+        "双皮奶"
+      ]
+    },
+    "tips": {
+      "en": "Shop name as given in the itinerary; exact shopfront should be confirmed on Dianping.",
+      "zh": "店名按行程；具体门店以大众点评为准。"
+    }
+  },
+  {
+    "id": "shawan-wenfeng-pagoda",
+    "aliases": [
+      "文峰塔、古街"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Wenfeng Pagoda",
+      "zh": "沙湾文峰塔"
+    },
+    "city": "Guangzhou",
+    "query": "Wenfeng Pagoda, Shawan Ancient Town, Panyu, Guangzhou",
+    "lat": 22.906,
+    "lng": 113.331,
+    "summary": {
+      "en": "Seven-storey pagoda overlooking the old town's wok-ear rooftops.",
+      "zh": "七层古塔，可俯瞰古镇镬耳屋顶。"
+    },
+    "why": {
+      "en": "The best view of Shawan's rooftops, with wind chimes ringing at dusk. Nearby lanes hold the old pawnshop, Jinshi Gate and old rice mill.",
+      "zh": "看沙湾屋顶的最佳位置，黄昏风铃作响；附近古街有当楼、进士第门楼和老米机。"
+    },
+    "highlights": {
+      "en": [
+        "Rooftop views",
+        "Dusk wind chimes",
+        "Old pawnshop and rice mill nearby"
+      ],
+      "zh": [
+        "俯瞰屋顶",
+        "黄昏风铃",
+        "附近当楼和老米机"
+      ]
+    }
+  },
+  {
+    "id": "shenzhen-bay-culture-plaza",
+    "aliases": [
+      "深圳湾文化广场"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shenzhen Bay Culture Plaza",
+      "zh": "深圳湾文化广场"
+    },
+    "city": "Shenzhen",
+    "query": "Shenzhen Bay Culture Plaza, Nanshan, Shenzhen",
+    "lat": 22.5145,
+    "lng": 113.9505,
+    "summary": {
+      "en": "New cultural landmark on the Shenzhen Bay waterfront.",
+      "zh": "深圳湾海边的新文化地标。"
+    },
+    "why": {
+      "en": "The building itself is the attraction: sculptural forms right by the bay that photograph well in late-afternoon light. INNO100 is inside, and Talent Park is ~10 min away by car.",
+      "zh": "建筑本身就是看点：造型独特，紧邻海湾，傍晚光线下很好拍。INNO100就在里面，到人才公园车程约10分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Striking contemporary architecture",
+        "Waterfront setting",
+        "Home of INNO100"
+      ],
+      "zh": [
+        "当代建筑造型",
+        "紧邻海湾",
+        "INNO100所在地"
+      ]
+    }
+  },
+  {
+    "id": "shenzhen-talent-park",
+    "aliases": [
+      "人才公园、深圳湾公园"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Talent Park and Shenzhen Bay Park",
+      "zh": "人才公园、深圳湾公园"
+    },
+    "city": "Shenzhen",
+    "query": "Shenzhen Talent Park, Nanshan, Shenzhen",
+    "lat": 22.511,
+    "lng": 113.947,
+    "summary": {
+      "en": "Seafront parks for sunset and the lit-up Houhai skyline.",
+      "zh": "看日落和后海高楼夜景的海滨公园。"
+    },
+    "why": {
+      "en": "Sunset over Shenzhen Bay is around 17:50 in late December, watched from a flat seafront promenade that is easy for kids. After dark, the Houhai towers across the lake are lit up, best seen from Talent Park.",
+      "zh": "12月底深圳湾日落约17:50，海边步道平坦，孩子走起来轻松。天黑后人才公园对面后海高楼亮灯。"
+    },
+    "highlights": {
+      "en": [
+        "Sunset over Shenzhen Bay",
+        "Lit-up Houhai skyline after dark",
+        "Flat seafront promenade"
+      ],
+      "zh": [
+        "深圳湾日落",
+        "天黑后后海高楼亮灯",
+        "平坦的海滨步道"
+      ]
+    }
+  },
+  {
+    "id": "shiwan-winery-guild-hall",
+    "aliases": [
+      "石湾酒庄（酒行会馆）"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Shiwan Winery (Wine Merchants' Guild Hall)",
+      "zh": "石湾酒庄（酒行会馆）"
+    },
+    "city": "Foshan",
+    "query": "石湾酒庄 酒行会馆 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0319,
+    "lng": 113.1166,
+    "summary": {
+      "en": "Former wine merchants' guild hall showcasing Shiwan Yubingshao rice wine.",
+      "zh": "旧时酒商议事的会馆，展示石湾玉冰烧米酒。"
+    },
+    "why": {
+      "en": "Shiwan Yubingshao, a rice spirit aged with pork fat, is a Foshan speciality with roots in the Qing dynasty. The restored guild hall shows how the merchants met and traded; ten minutes is enough.",
+      "zh": "石湾玉冰烧是以肥猪肉浸泡陈酿的米酒，是佛山特产，源自清代。修复后的会馆展示旧时酒商聚会交易的场景，看十分钟就够。"
+    },
+    "highlights": {
+      "en": [
+        "Restored guild hall",
+        "Yubingshao rice wine history",
+        "Ten-minute stop"
+      ],
+      "zh": [
+        "修复的会馆建筑",
+        "玉冰烧米酒历史",
+        "十分钟就够"
+      ]
+    }
+  },
+  {
+    "id": "shun-kee-ice-bar",
+    "aliases": [
+      "顺记冰室"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Shun Kee Ice Bar",
+      "zh": "顺记冰室"
+    },
+    "city": "Guangzhou",
+    "query": "顺记冰室 宝华路 荔湾区 广州",
+    "lat": 23.124,
+    "lng": 113.251,
+    "summary": {
+      "en": "Decades-old ice-cream parlour on Baohua Road.",
+      "zh": "宝华路几十年的老冰室。"
+    },
+    "why": {
+      "en": "Founded in 1940s Xiguan, it is known for coconut ice cream made with fresh coconut, with real coconut shreds through it. A local treat that has kept the same recipe for generations.",
+      "zh": "上世纪四十年代在西关开业，招牌椰子雪糕用新鲜椰子做，吃得到椰丝；几代人不变的老味道。"
+    },
+    "highlights": {
+      "en": [
+        "Signature coconut ice cream",
+        "Old-style ice bar setting",
+        "On Baohua Road near Shangxiajiu"
+      ],
+      "zh": [
+        "招牌椰子雪糕",
+        "老式冰室环境",
+        "宝华路，近上下九"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Coconut ice cream (椰子雪糕)",
+        "Mango ice cream (芒果雪糕)"
+      ],
+      "zh": [
+        "椰子雪糕",
+        "芒果雪糕"
+      ]
+    },
+    "tips": {
+      "en": "Founding date is from memory and may be approximate.",
+      "zh": "开业年份凭记忆，可能不准确。"
+    }
+  },
+  {
+    "id": "star-ferry",
+    "aliases": [
+      "天星小轮"
+    ],
+    "kind": "ride",
+    "name": {
+      "en": "Star Ferry",
+      "zh": "天星小轮"
+    },
+    "city": "Hong Kong",
+    "query": "Star Ferry Pier, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2939,
+    "lng": 114.1683,
+    "summary": {
+      "en": "Century-old ferry across Victoria Harbour, Tsim Sha Tsui to Central.",
+      "zh": "尖沙咀到中环的百年渡轮，横渡维港。"
+    },
+    "why": {
+      "en": "Operating since the late 19th century, it is one of the cheapest and most memorable harbour crossings anywhere. The ~10 min ride puts the skyline right in front of the kids at water level.",
+      "zh": "19世纪末开始运营，是全世界最便宜也最难忘的过海方式之一。约10分钟船程，孩子在海面上近看天际线。"
+    },
+    "highlights": {
+      "en": [
+        "~10 min harbour crossing",
+        "Historic green-and-white ferries",
+        "Low fare, Octopus accepted"
+      ],
+      "zh": [
+        "过维港约10分钟",
+        "经典绿白渡轮",
+        "票价便宜，可用八达通"
+      ]
+    }
+  },
+  {
+    "id": "tai-cheong-bakery-central",
+    "aliases": [
+      "泰昌饼家"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tai Cheong Bakery",
+      "zh": "泰昌饼家"
+    },
+    "city": "Hong Kong",
+    "query": "Tai Cheong Bakery, 35 Lyndhurst Terrace, Central, Hong Kong",
+    "lat": 22.2832,
+    "lng": 114.1537,
+    "summary": {
+      "en": "Lyndhurst Terrace bakery famous for egg tarts.",
+      "zh": "摆花街以蛋挞出名的饼家。"
+    },
+    "why": {
+      "en": "Its egg tarts became famous after Hong Kong's last governor, Chris Patten, was photographed eating them. Bought warm and eaten while walking to the Peak Tram, which is ~10 min away.",
+      "zh": "末代港督彭定康被拍到吃这里的蛋挞后名声大噪。趁热买了边走边吃，步行约10分钟到山顶缆车。"
+    },
+    "highlights": {
+      "en": [
+        "Egg tarts",
+        "Takeaway, eaten on the go",
+        "On the way to the Peak Tram"
+      ],
+      "zh": [
+        "蛋挞",
+        "外带边走边吃",
+        "顺路去山顶缆车"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Egg tart (蛋挞)"
+      ],
+      "zh": [
+        "蛋挞"
+      ]
+    },
+    "tips": {
+      "en": "The Central shop is known for shortcrust tarts; the plan's “flaky pastry” description should be checked.",
+      "zh": "中环店以牛油曲奇皮蛋挞出名，行程中“酥皮”的描述待核实。"
+    }
+  },
+  {
+    "id": "taier-sauerkraut-fish-galaxy-world",
+    "aliases": [
+      "太二酸菜鱼"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tai Er Sauerkraut Fish",
+      "zh": "太二酸菜鱼"
+    },
+    "city": "Shenzhen",
+    "query": "太二酸菜鱼 星河WORLD COCO Park, 坂田, 深圳",
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Popular pickled-cabbage fish chain.",
+      "zh": "网红酸菜鱼连锁。"
+    },
+    "why": {
+      "en": "One dish is done well: boneless fish slices in a sour, gently spicy pickled-cabbage broth, with the pickles cured in-house. Fast service and a short menu suit a mid-tour lunch.",
+      "zh": "只把一道菜做好：无骨鱼片配酸辣酸菜汤，酸菜自家腌制。上菜快、菜单短，适合行程中的午餐。"
+    },
+    "highlights": {
+      "en": [
+        "Signature pickled-cabbage fish",
+        "Boneless fish slices",
+        "Quick service"
+      ],
+      "zh": [
+        "招牌酸菜鱼",
+        "鱼片无骨",
+        "上菜快"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Pickled-cabbage fish (老坛子酸菜鱼)"
+      ],
+      "zh": [
+        "老坛子酸菜鱼"
+      ]
+    },
+    "tips": {
+      "en": "The chain has historically not seated parties of more than four at one table; a larger family may be split. Branch presence in this mall is unconfirmed.",
+      "zh": "这家连锁过去不接待超过4人同桌，人多可能要分桌。该商场是否有分店待确认。"
+    }
+  },
+  {
+    "id": "taigenbao-rice-free-congee",
+    "aliases": [
+      "太艮堡毋米粥"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Taigenbao Rice-free Congee",
+      "zh": "太艮堡毋米粥"
+    },
+    "city": "Foshan",
+    "query": "太艮堡毋米粥 Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0322,
+    "lng": 113.1158,
+    "summary": {
+      "en": "Shunde-style congee hotpot, cooked in rice broth with the grains strained out.",
+      "zh": "顺德毋米粥火锅：米粒熬化后滤掉，只用米汤做锅底。"
+    },
+    "why": {
+      "en": "Rice is boiled until it dissolves and the grains are strained out, so only a silky rice broth is left as the hotpot base. Seafood and meat are cooked in it briefly, then the thickened broth is eaten as congee at the end — two courses from one pot, and gentle enough for kids.",
+      "zh": "米熬到化开后把米粒滤掉，只留顺滑米汤做锅底。海鲜、肉类涮熟先吃，最后锅底变成浓粥再喝，一锅两吃，孩子也合口。"
+    },
+    "highlights": {
+      "en": [
+        "Rice-broth hotpot, a Shunde speciality",
+        "Congee to finish",
+        "Mild and kid-friendly"
+      ],
+      "zh": [
+        "顺德特色米汤火锅",
+        "最后喝粥",
+        "口味温和，适合孩子"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Rice-free congee hotpot (毋米粥火锅)",
+        "Fresh prawns (鲜虾)",
+        "Sliced beef (牛肉)"
+      ],
+      "zh": [
+        "毋米粥火锅",
+        "鲜虾",
+        "牛肉"
+      ]
+    },
+    "tips": {
+      "en": "Name comes from an older guide; whether this branch is still open should be checked on the day.",
+      "zh": "店名来自较早的攻略，到时确认是否仍在营业。"
+    }
+  },
+  {
+    "id": "taikoo-hui",
+    "aliases": [
+      "太古汇",
+      "太古汇餐厅",
+      "太古汇法式甜品店"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Taikoo Hui",
+      "zh": "太古汇"
+    },
+    "city": "Guangzhou",
+    "query": "Taikoo Hui, 383 Tianhe Road, Tianhe, Guangzhou",
+    "lat": 23.134,
+    "lng": 113.3315,
+    "summary": {
+      "en": "High-end Swire mall on Tianhe Road.",
+      "zh": "天河路上太古集团的高端商场。"
+    },
+    "why": {
+      "en": "High-end brands and design-led shops sit alongside some of the best mall restaurants in Tianhe, which suits a proper New Year's Eve dinner. French patisseries inside serve macarons and petits gâteaux for a mid-walk break.",
+      "zh": "高端品牌和设计感强的店，加上天河区数一数二的商场餐厅，适合跨年吃一顿正式的。里面的法式甜品店有马卡龙、法式小蛋糕，逛累了可以歇一下。"
+    },
+    "highlights": {
+      "en": [
+        "High-end and design-led shops",
+        "Quality restaurants",
+        "French patisserie: macarons, petits gâteaux"
+      ],
+      "zh": [
+        "高端、设计感强的店",
+        "餐厅质量高",
+        "法式甜品：马卡龙、小蛋糕"
+      ]
+    },
+    "tips": {
+      "en": "Restaurants should be booked for New Year's Eve; arrival before 17:30 is advised. The specific patisserie is not named in the plan.",
+      "zh": "跨年夜要提前订位，最好17:30前到。行程未指定具体是哪家甜品店。"
+    }
+  },
+  {
+    "id": "taiping-guan",
+    "aliases": [
+      "太平馆"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Taiping Guan",
+      "zh": "太平馆"
+    },
+    "city": "Guangzhou",
+    "query": "太平馆 北京路 财厅前 越秀区 广州",
+    "lat": 23.129,
+    "lng": 113.27,
+    "summary": {
+      "en": "Founded 1860, China's oldest Western-style restaurant.",
+      "zh": "1860年创办，中国最早的西餐厅之一。"
+    },
+    "why": {
+      "en": "Opened in 1860 by a former cook for foreign merchants, it created “Cantonese-style Western food”. Zhou Enlai held his wedding banquet here. Roast squab and Portuguese chicken are the dishes it is known for, and both are easy wins with children.",
+      "zh": "1860年由曾为洋商做饭的厨师创办，开创“广式西餐”；周恩来曾在这里办婚宴。烧乳鸽和葡国鸡是招牌，小孩一般都爱吃。"
+    },
+    "highlights": {
+      "en": [
+        "Since 1860",
+        "Zhou Enlai's wedding venue",
+        "Old-fashioned dining room"
+      ],
+      "zh": [
+        "创于1860年",
+        "周恩来婚宴所在地",
+        "老派装修"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Roast squab (烧乳鸽)",
+        "Portuguese chicken (葡国鸡)",
+        "Baked soufflé (焗蛋白布甸)"
+      ],
+      "zh": [
+        "烧乳鸽",
+        "葡国鸡",
+        "焗蛋白布甸"
+      ]
+    },
+    "tips": {
+      "en": "The Beijing Road (Caitingqian) branch is the one in the plan.",
+      "zh": "行程指的是北京路财厅前的店。"
+    }
+  },
+  {
+    "id": "tao-tao-ju-dishifu",
+    "aliases": [
+      "午餐：陶陶居（第十甫路）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tao Tao Ju (Dishifu Road flagship)",
+      "zh": "陶陶居（第十甫路总店）"
+    },
+    "city": "Guangzhou",
+    "query": "陶陶居 第十甫路20号 荔湾区 广州",
+    "lat": 23.1205,
+    "lng": 113.25,
+    "summary": {
+      "en": "Flagship teahouse of a dim sum brand founded in 1880.",
+      "zh": "1880年创立的茶楼总店。"
+    },
+    "why": {
+      "en": "Opened in 1880, it is one of Guangzhou's most famous teahouses; its signboard is said to be written by the reformer Kang Youwei. Dim sum here is the classic Cantonese yum cha experience, steps from Shangxiajiu.",
+      "zh": "1880年开业，广州最出名的茶楼之一，招牌相传是康有为题写；在这里饮茶是最经典的广式体验，出门就是上下九。"
+    },
+    "highlights": {
+      "en": [
+        "Since 1880",
+        "Historic signboard",
+        "Classic yum cha"
+      ],
+      "zh": [
+        "创于1880年",
+        "老招牌",
+        "经典饮茶"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Shrimp dumplings (鲜虾饺皇)",
+        "Char siu buns (叉烧包)",
+        "Chicken feet (凤爪)",
+        "Malay sponge cake (马拉糕)",
+        "Red rice roll (红米肠)"
+      ],
+      "zh": [
+        "鲜虾饺皇",
+        "叉烧包",
+        "凤爪",
+        "马拉糕",
+        "红米肠"
+      ]
+    },
+    "tips": {
+      "en": "Take a queue number on arrival. A per-person tea fee is charged. Kang Youwei attribution is traditional, not verified.",
+      "zh": "到了先取号；按人头收茶位费；康有为题字是流传说法，未核实。"
+    }
+  },
+  {
+    "id": "taotaoju-grandview",
+    "aliases": [
+      "午餐：陶陶居（正佳广场店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tao Tao Ju, Grandview Mall branch",
+      "zh": "陶陶居（正佳广场店）"
+    },
+    "city": "Guangzhou",
+    "query": "陶陶居 正佳广场店, Tianhe, Guangzhou",
+    "lat": 23.1323,
+    "lng": 113.327,
+    "summary": {
+      "en": "Branch of the 1880-founded teahouse, on Grandview 6F (unit 6C059).",
+      "zh": "创于1880年的老字号茶楼分店，正佳广场六楼6C059号铺。"
+    },
+    "why": {
+      "en": "Tao Tao Ju has served Cantonese dim sum since 1880 and is one of Guangzhou's most famous teahouse names. This branch gives the same menu without the trip to the old city.",
+      "zh": "陶陶居1880年起做广式点心，是广州最有名的茶楼老字号之一；这家分店菜单一样，不用回老城。"
+    },
+    "highlights": {
+      "en": [
+        "Teahouse since 1880",
+        "Classic dim sum",
+        "Inside Grandview Mall"
+      ],
+      "zh": [
+        "1880年老字号",
+        "经典点心",
+        "就在正佳广场"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Shrimp dumplings (鲜虾饺皇)",
+        "Char siu buns (叉烧包)",
+        "Steamed chicken feet (凤爪)",
+        "Malay sponge cake (马拉糕)",
+        "Red rice roll (红米肠)"
+      ],
+      "zh": [
+        "鲜虾饺皇",
+        "叉烧包",
+        "凤爪",
+        "马拉糕",
+        "红米肠"
+      ]
+    },
+    "tips": {
+      "en": "Sunday lunch is busy; call to check the queue: 020-38373301.",
+      "zh": "周日午市人多，先打电话问排队：020-38373301。"
+    }
+  },
+  {
+    "id": "teemall",
+    "aliases": [
+      "天河城",
+      "天河城、天环美食"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Teemall",
+      "zh": "天河城"
+    },
+    "city": "Guangzhou",
+    "query": "Teemall, Tianhe Road, Tianhe, Guangzhou",
+    "lat": 23.1325,
+    "lng": 113.3225,
+    "summary": {
+      "en": "Long-established mall at the heart of Tianhe Road.",
+      "zh": "天河路商圈的老牌商场。"
+    },
+    "why": {
+      "en": "Opened in the 1990s as one of China's first large modern malls, it anchors the Tianhe Road shopping district. Year-end New Year decorations are put up, and Parc Central is reached directly by an underground passage.",
+      "zh": "上世纪90年代开业，是国内最早的大型现代商场之一，天河路商圈的核心。年底有新年装饰，地下通道直通天环广场。"
+    },
+    "highlights": {
+      "en": [
+        "New Year decorations",
+        "Underground link to Parc Central",
+        "Chain teahouses and fast food",
+        "~5 min walk from K Hotel"
+      ],
+      "zh": [
+        "新年装饰",
+        "地下通道连天环广场",
+        "连锁茶楼、快餐",
+        "离K Hotel步行约5分钟"
+      ]
+    }
+  },
+  {
+    "id": "thirteen-hongs",
+    "aliases": [
+      "十三行购物"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Thirteen Hongs clothing wholesale district",
+      "zh": "十三行服装批发区"
+    },
+    "city": "Guangzhou",
+    "query": "十三行服装批发市场 十三行路 荔湾区 广州",
+    "lat": 23.1155,
+    "lng": 113.259,
+    "summary": {
+      "en": "Women's-clothing wholesale buildings on the old Thirteen Hongs site.",
+      "zh": "清代十三行旧址上的女装批发大楼。"
+    },
+    "why": {
+      "en": "In the Qing dynasty this was China's only legal foreign-trade district. Today it is a cluster of women's-clothing wholesale towers where new styles arrive weekly; some stalls sell single pieces.",
+      "zh": "清代这里是全国唯一合法对外通商的地方；现在是女装批发大楼集中地，每周上新款，部分档口零售。"
+    },
+    "highlights": {
+      "en": [
+        "Fast-changing fashion",
+        "Wholesale prices",
+        "Historic trade site"
+      ],
+      "zh": [
+        "款式更新快",
+        "批发价",
+        "历史通商旧址"
+      ]
+    },
+    "tips": {
+      "en": "Many stalls do not allow photos or trying on. Ask the price first; bargaining is expected.",
+      "zh": "很多档口不让拍照、不一定能试穿；先问价，可以讲价。"
+    }
+  },
+  {
+    "id": "thirteen-hongs-museum",
+    "aliases": [
+      "十三行博物馆"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Thirteen Hongs Museum",
+      "zh": "十三行博物馆"
+    },
+    "city": "Guangzhou",
+    "query": "Thirteen Hongs Museum, Xidi, Liwan, Guangzhou",
+    "lat": 23.1145,
+    "lng": 113.258,
+    "summary": {
+      "en": "Free museum of Qing-era export art from the Canton trade.",
+      "zh": "免费的清代十三行外销艺术博物馆。"
+    },
+    "why": {
+      "en": "Canton enamel porcelain, embroidery, export fans and silverware made for Western buyers show how Guangzhou traded with the world. A dedicated silverware gallery is on the 3rd floor. Free entry.",
+      "zh": "广彩瓷、广绣、外销扇和银器，都是当年卖给西方的货品，看得出广州怎样和世界做生意；三楼有银器专题展，免费入场。"
+    },
+    "highlights": {
+      "en": [
+        "Canton export porcelain and fans",
+        "3rd-floor silverware gallery",
+        "Free entry"
+      ],
+      "zh": [
+        "广彩瓷和外销扇",
+        "三楼银器专题展",
+        "免费入场"
+      ]
+    },
+    "tips": {
+      "en": "Entry usually stops around 17:00; check before setting off. Kids must be accompanied.",
+      "zh": "一般17:00左右停止入场，出发前确认；小孩要有人陪同。"
+    }
+  },
+  {
+    "id": "tianhe-sports-center",
+    "aliases": [
+      "天河体育中心"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Tianhe Sports Center",
+      "zh": "天河体育中心"
+    },
+    "city": "Guangzhou",
+    "query": "Tianhe Sports Center, 299 Tianhe Road, Tianhe, Guangzhou",
+    "lat": 23.1375,
+    "lng": 113.324,
+    "summary": {
+      "en": "Stadium complex built for the 1987 National Games, with open lawns and paths in central Tianhe.",
+      "zh": "为1987年全运会建的体育场馆群，天河中心难得的大片草地和步道。"
+    },
+    "why": {
+      "en": "Open green space is rare in the middle of Tianhe's malls, and kids can run freely here. Locals jog, play ball and walk dogs, so it gives a feel for everyday Guangzhou.",
+      "zh": "天河商圈中间少有的开阔空地，孩子可以放开跑。本地人在这里跑步、打球、遛狗，能看到广州的日常生活。"
+    },
+    "highlights": {
+      "en": [
+        "Open lawns and walking paths",
+        "Between Grandview Mall and Teemall",
+        "Free to enter the outdoor grounds"
+      ],
+      "zh": [
+        "大草坪和步道",
+        "就在正佳广场和天河城之间",
+        "室外区域免费进入"
+      ]
+    },
+    "tips": {
+      "en": "Some areas may be closed during events.",
+      "zh": "有赛事或活动时部分区域可能封闭。"
+    }
+  },
+  {
+    "id": "tsim-chai-kee-noodle",
+    "aliases": [
+      "沾仔记"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tsim Chai Kee Noodle",
+      "zh": "沾仔记"
+    },
+    "city": "Hong Kong",
+    "query": "Tsim Chai Kee Noodle, 98 Wellington Street, Central, Hong Kong",
+    "lat": 22.283,
+    "lng": 114.154,
+    "summary": {
+      "en": "Wellington Street wonton noodle shop with oversized shrimp wontons.",
+      "zh": "威灵顿街云吞面店，鲜虾云吞个头大。"
+    },
+    "why": {
+      "en": "Wontons are packed with whole fresh shrimp and are roughly the size of a ping-pong ball. Service is fast, prices are low, and it has long been recognised by the Michelin guide's affordable listings.",
+      "zh": "云吞包整只鲜虾，大约乒乓球大小。出餐快、价格低，长期被米其林指南列为平价推荐。"
+    },
+    "highlights": {
+      "en": [
+        "Large fresh shrimp wontons",
+        "Fast and affordable",
+        "Fish balls, sliced beef"
+      ],
+      "zh": [
+        "大只鲜虾云吞",
+        "出餐快、平价",
+        "鱼蛋、牛肉"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Fresh shrimp wonton noodles (鲜虾云吞面)"
+      ],
+      "zh": [
+        "鲜虾云吞面"
+      ]
+    }
+  },
+  {
+    "id": "victoria-peak",
+    "aliases": [
+      "太平山顶"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Victoria Peak",
+      "zh": "太平山顶"
+    },
+    "city": "Hong Kong",
+    "query": "The Peak Tower, Victoria Peak, Hong Kong",
+    "lat": 22.271,
+    "lng": 114.1497,
+    "summary": {
+      "en": "Hong Kong's classic lookout over Victoria Harbour.",
+      "zh": "俯瞰维港的香港经典观景点。"
+    },
+    "why": {
+      "en": "The whole of Victoria Harbour, Kowloon and Hong Kong Island are seen at once from the top. It is the one view most associated with Hong Kong.",
+      "zh": "从山顶一眼看全维港、九龙和港岛。是最能代表香港的风景。"
+    },
+    "highlights": {
+      "en": [
+        "Panorama of Victoria Harbour",
+        "The Peak Tower and Sky Terrace",
+        "Linked to the Peak Tram"
+      ],
+      "zh": [
+        "维港全景",
+        "凌霄阁、摩天台",
+        "与山顶缆车相连"
+      ]
+    },
+    "tips": {
+      "en": "The Sky Terrace 428 viewing deck needs a separate or combo ticket; free viewpoints are nearby.",
+      "zh": "凌霄阁摩天台428需单独或套票；附近也有免费观景点。"
+    }
+  },
+  {
+    "id": "wai-yu-lau",
+    "aliases": [
+      "惠如楼"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Wai Yu Lau Teahouse",
+      "zh": "惠如楼"
+    },
+    "city": "Guangzhou",
+    "query": "惠如楼 中山五路 越秀区 广州",
+    "lat": 23.129,
+    "lng": 113.269,
+    "summary": {
+      "en": "Heritage teahouse on Zhongshan 5th Road.",
+      "zh": "中山五路老字号茶楼。"
+    },
+    "why": {
+      "en": "One of Guangzhou's oldest teahouses, dating to the Qing dynasty, still serving traditional dim sum and Cantonese dishes. A Chinese alternative to Taiping Guan, a few minutes away.",
+      "zh": "广州最老的茶楼之一，可追溯到清代，至今仍做传统点心和粤菜；离太平馆几分钟，想吃中餐就去这里。"
+    },
+    "highlights": {
+      "en": [
+        "Qing-era origins",
+        "Traditional dim sum",
+        "Near Beijing Road"
+      ],
+      "zh": [
+        "清代创立",
+        "传统点心",
+        "靠近北京路"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Shrimp dumplings (虾饺)",
+        "Char siu buns (叉烧包)",
+        "Cantonese roast meats (烧味)"
+      ],
+      "zh": [
+        "虾饺",
+        "叉烧包",
+        "烧味"
+      ]
+    },
+    "tips": {
+      "en": "Founding year not verified.",
+      "zh": "创立年份未核实。"
+    }
+  },
+  {
+    "id": "wanbo-business-district",
+    "aliases": [
+      "万博商圈"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Wanbo business district",
+      "zh": "万博商圈"
+    },
+    "city": "Guangzhou",
+    "query": "Wanbo CBD, Panyu, Guangzhou",
+    "lat": 23.009,
+    "lng": 113.353,
+    "summary": {
+      "en": "Panyu's main mall district, ~15 min by taxi from Chimelong.",
+      "zh": "番禺主要商圈，离长隆打车约15分钟。"
+    },
+    "why": {
+      "en": "The nearest place to Chimelong with ordinary city prices: chain teahouses, Cantonese restaurants and several large malls.",
+      "zh": "离长隆最近、价格正常的地方：连锁茶楼、粤菜馆，还有几个大型商场。"
+    },
+    "highlights": {
+      "en": [
+        "Chain teahouses and Cantonese restaurants",
+        "Several connected malls",
+        "Cheaper than in-resort dining"
+      ],
+      "zh": [
+        "连锁茶楼和粤菜馆",
+        "多个相连商场",
+        "比度假区内便宜"
+      ]
+    },
+    "tips": {
+      "en": "A district, not a single venue; a specific restaurant should be chosen on Dianping before leaving. Specific malls are not verified.",
+      "zh": "是一个商圈不是单一地点，出发前在大众点评选好餐厅；具体商场未核实。"
+    }
+  },
+  {
+    "id": "wanfu-stage-cantonese-opera",
+    "aliases": [
+      "万福台粤剧"
+    ],
+    "kind": "show",
+    "name": {
+      "en": "Cantonese Opera at Wanfu Stage",
+      "zh": "万福台粤剧"
+    },
+    "city": "Foshan",
+    "query": "Wanfu Stage, Foshan Ancestral Temple, Chancheng, Foshan",
+    "lat": 23.0353,
+    "lng": 113.1115,
+    "summary": {
+      "en": "Weekend Cantonese opera on a Qing-dynasty stage inside Foshan Ancestral Temple.",
+      "zh": "周末在祖庙清代古戏台万福台上演的粤剧。"
+    },
+    "why": {
+      "en": "Foshan is regarded as a birthplace of Cantonese opera, and Wanfu Stage, built in the Qing dynasty, is one of the oldest surviving opera stages in Guangdong. Costumes, gilded carvings and live music can be seen up close; half an hour is enough for kids.",
+      "zh": "佛山被视为粤剧发源地之一，万福台建于清代，是广东现存最古老的戏台之一。戏服、金漆木雕和现场乐队都能近看，孩子看半小时就够。"
+    },
+    "highlights": {
+      "en": [
+        "Weekend afternoons 13:30–15:30",
+        "Gilded Qing-dynasty stage",
+        "Live music and full costume"
+      ],
+      "zh": [
+        "周末下午13:30至15:30",
+        "清代金漆木雕戏台",
+        "现场乐队、全套戏服"
+      ]
+    },
+    "tips": {
+      "en": "Schedule per the temple notice on the day; re-entry to the temple may need a ticket.",
+      "zh": "演出时间以当天公告为准；重新入园可能要门票。"
+    }
+  },
+  {
+    "id": "wanguo-outlets",
+    "aliases": [
+      "万国奥特莱斯",
+      "午餐：万国奥特莱斯",
+      "万国奥特莱斯商场餐厅"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Wanguo Outlets",
+      "zh": "万国奥特莱斯"
+    },
+    "city": "Guangzhou",
+    "query": "万国奥特莱斯, 江南大道中, 海珠区, 广州",
+    "lat": 23.096,
+    "lng": 113.273,
+    "summary": {
+      "en": "Sports-focused outlet mall in Haizhu.",
+      "zh": "海珠区以运动品牌为主的奥特莱斯。"
+    },
+    "why": {
+      "en": "Brands are mostly directly operated, and the Nike and Adidas super-flagship discount stores each exceed six basketball courts in area. Sports shoes, tennis shoes, sportswear and kids' sizes are all covered in one trip.",
+      "zh": "大多是品牌直营，耐克、阿迪达斯超级旗舰折扣店面积都超过六个标准篮球场。运动鞋、网球鞋、运动服和童装童鞋一次买齐。"
+    },
+    "highlights": {
+      "en": [
+        "Nike and Adidas super-flagship discount stores",
+        "Tennis shoes and sportswear",
+        "Kids' clothing and shoes",
+        "On-site dining area"
+      ],
+      "zh": [
+        "耐克、阿迪达斯超级旗舰折扣店",
+        "网球鞋、运动服",
+        "童装童鞋",
+        "商场内有餐饮区"
+      ]
+    },
+    "tips": {
+      "en": "Traffic backs up 700–800 m from the mall; it is quicker to get out nearby and walk. Coordinates are approximate.",
+      "zh": "商场附近七八百米开始塞车，可提前下车步行。坐标为大致位置。"
+    }
+  },
+  {
+    "id": "white-swan-hotel",
+    "aliases": [
+      "白天鹅宾馆大堂"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "White Swan Hotel",
+      "zh": "白天鹅宾馆"
+    },
+    "city": "Guangzhou",
+    "query": "White Swan Hotel, 1 Shamian South Street, Guangzhou",
+    "lat": 23.1063,
+    "lng": 113.2393,
+    "summary": {
+      "en": "Landmark 1983 riverside hotel with a famous lobby garden.",
+      "zh": "1983年开业的江边地标酒店，大堂园景有名。"
+    },
+    "why": {
+      "en": "Opened in 1983 as one of mainland China's first five-star hotels, it has hosted many heads of state. The atrium's “故乡水” (Homeland Waters) rock garden and waterfall can be viewed free of charge, with the Pearl River behind the glass.",
+      "zh": "1983年开业，是内地最早的五星级酒店之一，接待过多位外国元首；中庭“故乡水”假山瀑布免费参观，玻璃外就是珠江。"
+    },
+    "highlights": {
+      "en": [
+        "“故乡水” atrium waterfall garden",
+        "Pearl River views",
+        "Free to walk in",
+        "Historic 1983 landmark"
+      ],
+      "zh": [
+        "“故乡水”中庭瀑布园景",
+        "珠江景观",
+        "免费参观",
+        "1983年的地标"
+      ]
+    }
+  },
+  {
+    "id": "white-swan-jade-river",
+    "aliases": [
+      "白天鹅宾馆 玉堂春暖"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Jade River, White Swan Hotel",
+      "zh": "白天鹅宾馆 玉堂春暖"
+    },
+    "city": "Guangzhou",
+    "query": "玉堂春暖 白天鹅宾馆 沙面 广州",
+    "lat": 23.1063,
+    "lng": 113.2393,
+    "summary": {
+      "en": "The White Swan's Cantonese restaurant, with river-view dim sum.",
+      "zh": "白天鹅宾馆的粤菜餐厅，江景点心。"
+    },
+    "why": {
+      "en": "The hotel's flagship Cantonese restaurant has held a Michelin star in the Guangzhou guide. Refined dim sum is served at window tables over the Pearl River, at the end of the Shamian walk.",
+      "zh": "宾馆的旗舰粤菜厅，曾获广州米其林一星；临江窗边吃精致点心，正好接在沙面步行之后。"
+    },
+    "highlights": {
+      "en": [
+        "Michelin-recognised Cantonese",
+        "Pearl River window seats",
+        "Refined dim sum"
+      ],
+      "zh": [
+        "米其林认可的粤菜",
+        "珠江窗边座位",
+        "精致点心"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Shrimp dumplings (虾饺)",
+        "Barbecued pork pastry (叉烧酥)",
+        "Roast goose (烧鹅)"
+      ],
+      "zh": [
+        "虾饺",
+        "叉烧酥",
+        "烧鹅"
+      ]
+    },
+    "tips": {
+      "en": "Booking recommended. Michelin status is from memory and should be checked for the current year.",
+      "zh": "建议预约；米其林星级凭记忆，以当年名单为准。"
+    }
+  },
+  {
+    "id": "wong-chun-loong-tianhe-road",
+    "aliases": [
+      "黄振龙凉茶"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Wong Chun Loong Herbal Tea",
+      "zh": "黄振龙凉茶"
+    },
+    "city": "Guangzhou",
+    "query": "黄振龙凉茶 天河路, 天河区, 广州",
+    "lat": 23.133,
+    "lng": 113.327,
+    "summary": {
+      "en": "Classic Guangzhou herbal tea chain.",
+      "zh": "广州老字号凉茶连锁。"
+    },
+    "why": {
+      "en": "Herbal tea is part of everyday Cantonese life, and this is the name locals know best. Bitter 24-herb tea is a rite of passage for adults; kids can try the milder Xia Sang Ju or sweetened herbal jelly.",
+      "zh": "凉茶是广州人日常生活的一部分，黄振龙是本地人最熟悉的牌子。大人可以挑战苦的廿四味，孩子喝清淡的夏桑菊，或者吃加糖的龟苓膏。"
+    },
+    "highlights": {
+      "en": [
+        "Herbal jelly (龟苓膏)",
+        "24-herb tea (廿四味)",
+        "Milder Xia Sang Ju for kids"
+      ],
+      "zh": [
+        "龟苓膏",
+        "廿四味",
+        "孩子可喝夏桑菊"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Herbal jelly (龟苓膏)",
+        "24-herb tea (廿四味)",
+        "Xia Sang Ju (夏桑菊)"
+      ],
+      "zh": [
+        "龟苓膏",
+        "廿四味",
+        "夏桑菊"
+      ]
+    },
+    "tips": {
+      "en": "Search “黄振龙” in Amap for the branch nearest Tianhe Road; exact branch and coordinates are approximate.",
+      "zh": "在高德搜“黄振龙”找天河路附近的分店；具体分店和坐标为大致位置。"
+    }
+  },
+  {
+    "id": "wong-fei-hung-memorial-hall",
+    "aliases": [
+      "黄飞鸿纪念馆"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Wong Fei-hung Memorial Hall",
+      "zh": "黄飞鸿纪念馆"
+    },
+    "city": "Foshan",
+    "query": "Wong Fei-hung Memorial Hall, Foshan Ancestral Temple, Chancheng, Foshan",
+    "lat": 23.0342,
+    "lng": 113.1103,
+    "summary": {
+      "en": "Memorial hall to the Foshan-born martial artist and physician Wong Fei-hung, inside the temple grounds.",
+      "zh": "纪念佛山武术家、医师黄飞鸿的展馆，在祖庙景区内。"
+    },
+    "why": {
+      "en": "Wong Fei-hung is the folk hero of dozens of kung fu films, and his real life as a martial artist and doctor is shown here. Kids who have seen the films can match the legend to the man.",
+      "zh": "黄飞鸿是几十部功夫片的主角，这里展示他作为武师和医生的真实生平。看过电影的孩子可以对照传说和真人。"
+    },
+    "highlights": {
+      "en": [
+        "Life story of Wong Fei-hung",
+        "Film stills and kung fu exhibits",
+        "Included in the temple ticket"
+      ],
+      "zh": [
+        "黄飞鸿生平",
+        "电影剧照和武术展品",
+        "祖庙门票已包含"
+      ]
+    }
+  },
+  {
+    "id": "xiangyunsha-garden-hotel",
+    "aliases": [
+      "香云纱园林酒店"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Xiangyunsha Garden Hotel Restaurant",
+      "zh": "香云纱园林酒店"
+    },
+    "city": "Shunde",
+    "query": "香云纱园林酒店, 25 Qinghui Road, Daliang, Shunde, Foshan",
+    "lat": 22.844,
+    "lng": 113.252,
+    "summary": {
+      "en": "Long-standing Daliang restaurant next to Qinghui Garden, serving classic Shunde dishes.",
+      "zh": "清晖园旁的凤城老字号，做经典顺德菜。"
+    },
+    "why": {
+      "en": "Classic Shunde home-style dishes are served right beside Qinghui Garden. Fried milk (炒牛奶) — milk and egg white stir-fried into soft curds — was invented in Daliang and is a natural pick for kids.",
+      "zh": "就在清晖园旁边吃经典顺德菜。炒牛奶是大良发明的菜，牛奶和蛋白炒成嫩滑的块，孩子容易接受。"
+    },
+    "highlights": {
+      "en": [
+        "Next to Qinghui Garden",
+        "Classic Shunde (Fengcheng) cuisine",
+        "All cooked dishes"
+      ],
+      "zh": [
+        "紧邻清晖园",
+        "经典凤城菜",
+        "全部熟食"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Open-fire roast goose (明炉烧鹅)",
+        "Fried shrimp cake (煎虾饼)",
+        "Daliang fried milk (炒牛奶)"
+      ],
+      "zh": [
+        "明炉烧鹅",
+        "煎虾饼",
+        "炒牛奶"
+      ]
+    },
+    "tips": {
+      "en": "Address: 25 Qinghui Road (清晖路25号).",
+      "zh": "地址：清晖路25号。"
+    }
+  },
+  {
+    "id": "yinji-rice-rolls-wenchang",
+    "aliases": [
+      "银记肠粉"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Yinji Rice Rolls (Wenchang North Road)",
+      "zh": "银记肠粉（文昌北路店）"
+    },
+    "city": "Guangzhou",
+    "query": "银记肠粉 文昌北路 荔湾区 广州",
+    "lat": 23.124,
+    "lng": 113.2475,
+    "summary": {
+      "en": "Original shop of Guangzhou's best-known rice-roll brand.",
+      "zh": "广州最出名的肠粉老字号本店。"
+    },
+    "why": {
+      "en": "Rice rolls are steamed on cloth (布拉) here, giving thin, silky sheets wrapped around shrimp or beef. It is a meal kids rarely refuse, open from morning to night, and minutes from Shangxiajiu.",
+      "zh": "这里是布拉肠粉，粉皮薄滑，包鲜虾或牛肉；小孩很少不爱吃，从早开到晚，离上下九几分钟。"
+    },
+    "highlights": {
+      "en": [
+        "Cloth-steamed rice rolls",
+        "Original Wenchang North Road shop",
+        "Open breakfast to dinner"
+      ],
+      "zh": [
+        "布拉肠粉",
+        "文昌北路老店",
+        "早餐到晚餐都开"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Shrimp rice rolls (鲜虾肠粉)",
+        "Beef rice rolls (牛肉肠粉)",
+        "Congee (粥)"
+      ],
+      "zh": [
+        "鲜虾肠粉",
+        "牛肉肠粉",
+        "粥"
+      ]
+    },
+    "tips": {
+      "en": "The brand has many branches; this entry is the Wenchang North Road shop named in the plan.",
+      "zh": "银记分店很多，这里指行程里的文昌北路老店。"
+    }
+  },
+  {
+    "id": "yongqing-food-hall",
+    "aliases": [
+      "永庆食集"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Yongqing Food Hall",
+      "zh": "永庆食集"
+    },
+    "city": "Guangzhou",
+    "query": "永庆食集 永庆坊 荔湾区 广州",
+    "lat": 23.1206,
+    "lng": 113.2458,
+    "summary": {
+      "en": "Food hall of heritage Cantonese snack brands in Yongqingfang.",
+      "zh": "永庆坊里的老字号小吃集合。"
+    },
+    "why": {
+      "en": "Several old-brand snack stalls sit under one roof, so a family can sample beef offal, pan-fried dumplings and Hong Kong-style yuanyang tea in one stop. Portions are small enough to taste before lunch.",
+      "zh": "几家老字号小吃集中在一起，一站就能试牛杂、煎饺、港式鸳鸯；分量小，午餐前尝一两样刚好。"
+    },
+    "highlights": {
+      "en": [
+        "Several heritage brands in one place",
+        "Small portions for sampling",
+        "Indoor seating"
+      ],
+      "zh": [
+        "多家老字号集中",
+        "小份适合试吃",
+        "室内座位"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Grandma's beef offal (阿婆牛杂)",
+        "Bazhen pan-fried dumplings (八珍煎饺)",
+        "Yuanyang milk tea (鸳鸯奶茶)"
+      ],
+      "zh": [
+        "阿婆牛杂",
+        "八珍煎饺",
+        "鸳鸯奶茶"
+      ]
+    },
+    "tips": {
+      "en": "Stall line-up is from a 2022 guide and may have changed.",
+      "zh": "档口资料来自2022年攻略，可能已变动。"
+    }
+  },
+  {
+    "id": "yongqingfang",
+    "aliases": [
+      "永庆坊精品店、文创小店"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Yongqingfang",
+      "zh": "永庆坊"
+    },
+    "city": "Guangzhou",
+    "query": "Yongqingfang, Enning Road, Liwan, Guangzhou",
+    "lat": 23.1205,
+    "lng": 113.246,
+    "summary": {
+      "en": "Restored qilou and Xiguan lanes full of creative shops.",
+      "zh": "骑楼和西关老屋改造的文创街区。"
+    },
+    "why": {
+      "en": "Narrow grey-brick lanes of restored Xiguan houses are packed with creative-design shops, handmade crafts and intangible-heritage gifts. Fushang Lane has the PICOCICI global flagship, selling Sanrio, Disney and Chiikawa goods. Snacks, egg tarts and ice cream are all within a few steps.",
+      "zh": "青砖窄巷里是改造后的西关老屋，开满文创店、手作店、非遗手信店；富上巷有PICOCICI全球旗舰店，卖三丽鸥、迪士尼、Chiikawa周边；小吃、蛋挞、雪糕都在几步之内。"
+    },
+    "highlights": {
+      "en": [
+        "Creative and heritage gift shops",
+        "PICOCICI flagship on Fushang Lane",
+        "Bruce Lee's ancestral home",
+        "Food hall and dessert shops"
+      ],
+      "zh": [
+        "文创和非遗手信店",
+        "富上巷PICOCICI旗舰店",
+        "李小龙祖居",
+        "美食集和甜品店"
+      ]
+    },
+    "tips": {
+      "en": "PICOCICI details are from summer 2026 reports. Small shops change quickly.",
+      "zh": "PICOCICI资料来自2026年夏天的报道；小店换得快。"
+    }
+  },
+  {
+    "id": "yunhaiyao-galaxy-world",
+    "aliases": [
+      "云海肴"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Yunhaiyao",
+      "zh": "云海肴"
+    },
+    "city": "Shenzhen",
+    "query": "云海肴 星河WORLD COCO Park, 坂田, 深圳",
+    "lat": 22.622,
+    "lng": 114.0625,
+    "summary": {
+      "en": "Yunnan food chain with mild flavours.",
+      "zh": "口味温和的云南菜连锁。"
+    },
+    "why": {
+      "en": "Steam-pot chicken is cooked in a Jianshui clay pot with no added water, so the broth is pure chicken. Wild-mushroom dishes and mild seasoning make it the most kid-friendly choice here.",
+      "zh": "汽锅鸡用建水紫陶汽锅蒸，不加水，汤全是鸡汁。菌菇菜和温和口味，是这里最适合孩子的选择。"
+    },
+    "highlights": {
+      "en": [
+        "Steam-pot chicken",
+        "Yunnan wild mushrooms",
+        "Mild, kid-friendly"
+      ],
+      "zh": [
+        "汽锅鸡",
+        "云南菌菇",
+        "口味温和，适合孩子"
+      ]
+    },
+    "mustTry": {
+      "en": [
+        "Steam-pot chicken (汽锅鸡)",
+        "Stir-fried wild mushrooms (野生菌)"
+      ],
+      "zh": [
+        "汽锅鸡",
+        "野生菌"
+      ]
+    },
+    "tips": {
+      "en": "Presence in this mall is unconfirmed.",
+      "zh": "该商场是否有分店待确认。"
+    }
+  }
+]

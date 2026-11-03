@@ -1,0 +1,33 @@
+{
+  "stay": 2,
+  "date": "Jan 5",
+  "dow": "Tue",
+  "locked": true,
+  "theme": "Departure day",
+  "items": [
+    {
+      "start": "04:30",
+      "end": "05:00",
+      "title": "Wake up, check out",
+      "note": "Luggage packed the night before; collect the breakfast box from reception."
+    },
+    {
+      "start": "05:00",
+      "end": "05:45",
+      "title": "K Hotel → Baiyun Airport (白云机场)",
+      "note": "Taxi, ~45 min; usually no traffic early morning. The car booked the night before is used.",
+      "tip": "The car should be booked in the ride-hailing app the night before, to avoid finding none at dawn."
+    },
+    {
+      "start": "05:45",
+      "end": "08:00",
+      "title": "Check-in, bag drop, security",
+      "note": "~2 h 45 min allowed, as for international flights; breakfast at the airport."
+    },
+    {
+      "start": "08:30",
+      "end": "08:30",
+      "title": "Flight departs"
+    }
+  ]
+}

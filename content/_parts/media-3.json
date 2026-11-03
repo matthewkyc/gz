@@ -1,0 +1,483 @@
+{
+ "baihua-dessert": {
+  "image": "/places/baihua-dessert.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.8,
+  "reviewCount": 19,
+  "lat": 23.12251,
+  "lng": 113.27555,
+  "reviews": [
+   {
+    "author": "Yingying",
+    "rating": 5,
+    "when": "a year ago",
+    "text": "Tried their red bean soup - One with barley and the other with sweet potato. I prefer the one with barley even though the sweet potato was also pretty good as well. The serving was generous and staff were also very nice too."
+   },
+   {
+    "author": "Lionel Ling",
+    "rating": 5,
+    "when": "11 months ago",
+    "text": "Pleasant warm dessert on a cold day. Not too sweet. Total damage is a respectable 31 cny. Nice service by the boss as well thumbs up."
+   },
+   {
+    "author": "Swee Chye Loh",
+    "rating": 5,
+    "when": "7 months ago",
+    "text": "Ordered a bowl of mixed dessert at a cost of 24 yuan. Food was nice and service was fast. Ordering at be done either at the counter or through scanning of QR via WeChat. There are two levels of seats available."
+   }
+  ]
+ },
+ "beijing-road": {
+  "image": "/places/beijing-road.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.9,
+  "reviewCount": 28,
+  "lat": 23.126488,
+  "lng": 113.2691274
+ },
+ "canton-tower": {
+  "image": "/places/canton-tower.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.7,
+  "reviewCount": 802,
+  "lat": 23.10649,
+  "lng": 113.32449,
+  "reviews": [
+   {
+    "author": "Husnain Mohammad",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "The tower is colourful and beautiful. It’s definitely a must visit in Guangzhou. The night view here is great. Come during sunset time and you won’t regret. Do note that this place is quite crowded during weekends and holidays"
+   },
+   {
+    "author": "Colin Leung",
+    "rating": 5,
+    "when": "7 months ago",
+    "text": "Most iconic landmark in Guangzhou.  Must visit, A+ attraction.  Beautiful both during the day and night.  Also costs like $50+ to go up it with several tiers costing more.  Recommend to go early as crowds build up at night."
+   },
+   {
+    "author": "Alaa Aljanaby",
+    "rating": 5,
+    "when": "a month ago",
+    "text": "Canton Tower is a must-visit attraction in Guangzhou. It’s an impressive landmark and looks spectacular, especially in the evening when it is fully illuminated."
+   }
+  ]
+ },
+ "changshou-lu-station": {
+  "image": "/places/changshou-lu-station.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.3,
+  "reviewCount": 20,
+  "lat": 23.118397,
+  "lng": 113.242271,
+  "reviews": [
+   {
+    "author": "Sơn Ca Nguyễn",
+    "rating": 5,
+    "when": "9 years ago",
+    "text": "Gate A doesn't have an elevator, so going up is a bit tiring. It's about 500 meters from Gate A to Shangxiajiu Street. The goods here are relatively cheap, much cheaper than buying them on Beijing's pedestrian streets."
+   },
+   {
+    "author": "Jenny Cecilia Prado Viteri",
+    "rating": 4,
+    "when": "6 years ago",
+    "text": "A typical city shopping destination, it's close to many restaurants, individual shops, and shopping centers."
+   },
+   {
+    "author": "Iyan",
+    "rating": 5,
+    "when": "8 years ago",
+    "text": "Nice , clean and spacious MRT station for famous tourist destination"
+   }
+  ]
+ },
+ "chimelong-paradise": {
+  "image": "/places/chimelong-paradise.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.4,
+  "reviewCount": 489,
+  "lat": 22.99665,
+  "lng": 113.328853,
+  "reviews": [
+   {
+    "author": "Cola Bank",
+    "rating": 5,
+    "when": "4 months ago",
+    "text": "Yet another great theme park. They shut down their old 10 loop coaster( it was really rough when I went last time) and replaced it with a really good launch coaster. The acceleration, windiness and ride was just butter smooth and I loved it."
+   },
+   {
+    "author": "NOOR MOHAMMAD",
+    "rating": 5,
+    "when": "6 months ago",
+    "text": "Chimelong Paradise is one of the most exciting and well-maintained amusement parks in China, located in Guangzhou. The park offers a wide variety of thrilling rides, including world-class roller coasters that are perfect for adrenaline lovers."
+   },
+   {
+    "author": "ZhanYuan",
+    "rating": 4,
+    "when": "8 months ago",
+    "text": "Getting here is pretty easy. When exit the metro station, there will be many different people that want to sell ponchos and delivery service to the theme park or resort. Booking tickets in advance will be better because counter was quite slow."
+   }
+  ]
+ },
+ "chimelong-coconut-grove-restaurant": {
+  "lat": 23.001666,
+  "lng": 113.329082
+ },
+ "panda-hotel-restaurant": {
+  "image": "/places/panda-hotel-restaurant.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.4,
+  "reviewCount": 22,
+  "lat": 23.005314,
+  "lng": 113.33206,
+  "reviews": [
+   {
+    "author": "Occasionalfoodie",
+    "when": "8 months ago",
+    "text": "We checked into the hotel during my daughter’s birthday month and she was delighted to see the birthday decorations in the room and there was a very cute complimentary birthday cake for her. It was a pleasant stay and the rooms were clean and new."
+   },
+   {
+    "author": "Trip.com Member",
+    "when": "4 months ago",
+    "text": "Is located very near the Circus about 5 minutes walk. Whole hotel is very neat and fun for kids. Love the idea to have some live animals as part of the hotel viewing section."
+   },
+   {
+    "author": "Afonsinhotravels",
+    "when": "3 years ago",
+    "text": "The Panda Hotel is nicely decorated for the kids, as the looby and the rooms. Their guests are mainly families to the Chimelong World parks around."
+   }
+  ]
+ },
+ "dian-dou-de-tianhe": {
+  "image": "/places/dian-dou-de-tianhe.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 5.0,
+  "reviewCount": 9,
+  "lat": 23.14098,
+  "lng": 113.34046,
+  "reviews": [
+   {
+    "author": "Aileen Chin",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "Authentic dim sum restaurant with a spacious and clean dining environment. The food was fresh, well-prepared, and overall very enjoyable. Service was comfortable and unhurried, so there was no rush to leave after the meal."
+   },
+   {
+    "author": "Tulaya Khangtatswas",
+    "rating": 5,
+    "when": "8 months ago",
+    "text": "So delicious and price is surprisingly affordable compared to quality. Staff are lovely and well-trained. This is another reason for me to visit Guangzhou."
+   },
+   {
+    "author": "김기천",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "The meal begins with warm tea. In addition to dim sum, the noodles and rice are also delicious. It is a restaurant with a long tradition."
+   }
+  ]
+ },
+ "fashion-tianhe": {
+  "image": "/places/fashion-tianhe.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.4,
+  "reviewCount": 9,
+  "lat": 23.135179,
+  "lng": 113.327995,
+  "reviews": [
+   {
+    "author": "Ichigo Hirukawa",
+    "rating": 5,
+    "when": "a year ago",
+    "text": "Huge underground mall with lots of entertainment, clothing and food. Can find fashionable clothes at low prices here. A must visit in Guangzhou. We couldn't finish exploring the mall in one night."
+   },
+   {
+    "author": "Wee X Y",
+    "rating": 4,
+    "when": "4 months ago",
+    "text": "alot alot of toy shops in the underground. The place is huge and there is a separate food section & clothes section. Sometimes u might get lost & walk round & round. Exits are bathrooms are difficult to find. Seems like a popular weekend local hangout."
+   },
+   {
+    "author": "Kevin k",
+    "rating": 5,
+    "when": "a year ago",
+    "text": "11/10 - Has more unique Japanese things than the other weeb location, 广州动漫星城广场. It’s a bit of a maze, walk past the clothing area to get to the Japanese anime and pop culture goods. Also has a lot of cafes and Chinese boyloves anime goods."
+   }
+  ]
+ },
+ "foshan-lion-dance-show": {
+  "image": "/places/foshan-lion-dance-show.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.5,
+  "reviewCount": 73,
+  "lat": 23.02902,
+  "lng": 113.11306,
+  "reviews": [
+   {
+    "author": "K T Lim",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Excellent IG spot - Start with 10 am Wong Fei Hong Kungfu & Lion Dance performance, tour Emperor HuangDi Temple and finished with Ip Man Museum - Grandmaster of Wing Chun Kungfu. Half day."
+   },
+   {
+    "author": "KT Lim",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Must visit Temple of Emperor HuangDi . Together with Ip Man Museum _ famous Martial Art Grandmaster who coached legendary Hollywood Bruce Lee And watch Wong Fei Hong Troup perform Lion Dance at 10 am in front of his memorial hall/square.."
+   },
+   {
+    "author": "KeeTat Lee",
+    "rating": 5,
+    "when": "9 months ago",
+    "text": "Foshan Ancestral Temple (佛山祖庙) A must-visit cultural landmark in Foshan with rich Lingnan heritage and impressive traditional architecture. Ticket: ¥20 for adults"
+   }
+  ]
+ },
+ "guangzhou-baiyun-airport": {
+  "image": "/places/guangzhou-baiyun-airport.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.3,
+  "reviewCount": 6494,
+  "lat": 23.3959079,
+  "lng": 113.3079699,
+  "reviews": [
+   {
+    "author": "Joana",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "I had a pleasant experience at Guangzhou Baiyun International Airport. The airport is clean, modern, and well maintained. There are plenty of comfortable chairs throughout the terminals, making it easy to relax while waiting for a flight."
+   },
+   {
+    "author": "Ismail Faseeh",
+    "rating": 5,
+    "when": "a month ago",
+    "text": "Had a very positive experience at Guangzhou Baiyun International Airport. The airport is huge, modern, clean, and very well maintained. Despite its size, everything is well organized, with clear signage that makes it relatively easy to navigate."
+   },
+   {
+    "author": "T3rby",
+    "rating": 4,
+    "when": "5 months ago",
+    "text": "Baiyun Airport’s new terminal opened last October, and the overall look immediately reminded me of some futuristic architecture in the Middle East."
+   }
+  ]
+ },
+ "hang-wan-lau-lingnan-tiandi": {
+  "rating": 4.0,
+  "reviewCount": 1,
+  "lat": 23.02958,
+  "lng": 113.11712
+ },
+ "huacheng-square": {
+  "image": "/places/huacheng-square.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.6,
+  "reviewCount": 676,
+  "lat": 23.1241467,
+  "lng": 113.324743,
+  "reviews": [
+   {
+    "author": "ImmersiveWalk",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "Absolutely stunning square! The view of the Canton Tower and the surrounding skyscrapers is breathtaking, especially at night. It’s the perfect place for a walk."
+   },
+   {
+    "author": "Dejan Braki",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "Huacheng square is the epicenter of modern Guangzhou, located on the opposite side of Canton tower and Pearl river."
+   },
+   {
+    "author": "Teck Chong Law",
+    "rating": 4,
+    "when": "5 months ago",
+    "text": "This is a nice park on the street level with a huge shopping mall underground."
+   }
+  ]
+ },
+ "hualin-temple": {
+  "image": "/places/hualin-temple.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.6,
+  "reviewCount": 5,
+  "lat": 23.1163,
+  "lng": 113.247192,
+  "reviews": [
+   {
+    "author": "Kevin Chan",
+    "rating": 5,
+    "when": "4 months ago",
+    "text": "This temple have almost any version of Buddhist deity inside and also it’s one of the temple sanction by multiple emperor of different era. Very well preserve"
+   },
+   {
+    "author": "Avigdor Hait",
+    "rating": 5,
+    "when": "3 years ago",
+    "text": "A very beautiful and colorful place, a must visit."
+   }
+  ]
+ },
+ "jiale-egg-tart-king": {
+  "image": "/places/jiale-egg-tart-king.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 5.0,
+  "reviewCount": 1,
+  "lat": 23.117158,
+  "lng": 113.236241,
+  "reviews": [
+   {
+    "author": "hsu ting Lo",
+    "rating": 5,
+    "when": "13 years ago",
+    "text": "It's cheap, definitely a long-established Guangzhou restaurant. The coconut tarts are also quite good."
+   }
+  ]
+ },
+ "lan-fong-yuen-central": {
+  "image": "/places/lan-fong-yuen-central.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 3.7,
+  "reviewCount": 4982,
+  "lat": 22.2825613,
+  "lng": 114.153951,
+  "reviews": [
+   {
+    "author": "Ethan",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Brought here by a native Hong Kong friend, which already felt like a great sign—and it definitely lived up to the recommendation. The place was absolutely bustling with locals, giving it that authentic cha chaan teng atmosphere."
+   },
+   {
+    "author": "BOUNCINGPLACES Level 9",
+    "rating": 5,
+    "when": "4 months ago",
+    "text": "Lan Fong Yuen is basically a Hong Kong institution. It started way back in 1952 and is the absolute birthplace of that famous \"silk stocking\" milk tea everyone raves about."
+   },
+   {
+    "author": "Ashwini Prabhu",
+    "rating": 3,
+    "when": "2 months ago",
+    "text": "Wanted to try a local favourite. We tried the hot and cold milk tea, Pineapple bun, French toast. The tea was mildly sweet and smooth. The pineapple bun was good. The French toast was alright."
+   }
+  ]
+ },
+ "liwan-plaza": {
+  "image": "/places/liwan-plaza.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.4,
+  "reviewCount": 97,
+  "lat": 23.115153,
+  "lng": 113.248892
+ },
+ "madame-tussauds-hong-kong": {
+  "image": "/places/madame-tussauds-hong-kong.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.3,
+  "reviewCount": 4270,
+  "lat": 22.2711973,
+  "lng": 114.1497382,
+  "reviews": [
+   {
+    "author": "Anupam Sah",
+    "rating": 5,
+    "when": "3 months ago",
+    "text": "Visited Madame Tussauds Hong Kong on Victoria Peak and it was a highlight of our trip."
+   },
+   {
+    "author": "Fabyana Ong",
+    "rating": 5,
+    "when": "9 months ago",
+    "text": "It was so quiet during our visit on 15th oct , so we managed to took pictures without having to wait in line, it was so pleasant, the staff were nice too. My kid loved the projection games on the floor and dancing on the stages."
+   },
+   {
+    "author": "sarath krishnan",
+    "rating": 4,
+    "when": "5 months ago",
+    "text": "Felt bigger than Singapore one...there is lot of spots for taking photos apart from celebrity statues"
+   }
+  ]
+ },
+ "ng-zham-kee": {
+  "image": "/places/ng-zham-kee.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.1,
+  "reviewCount": 15,
+  "lat": 23.12169,
+  "lng": 113.251754,
+  "reviews": [
+   {
+    "author": "Junhua Chen",
+    "rating": 5,
+    "when": "7 years ago",
+    "text": "A decent breakfast place, it opens at 6am! 干炒牛河 Beef stir fry noodles is really good. And the 猪肝粥 pork liver congee is also good."
+   },
+   {
+    "author": "Rock kid Brothers",
+    "rating": 4,
+    "when": "6 years ago",
+    "text": "The beef chow fun portion is roughly for four people, so please consider this before ordering. It's a bit oily, but the taste is good."
+   },
+   {
+    "author": "cat",
+    "rating": 4,
+    "when": "8 years ago",
+    "text": "The only thing I love from them is the fried dough, definitely the best in the city."
+   }
+  ]
+ },
+ "peak-tram": {
+  "image": "/places/peak-tram.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 4.3,
+  "reviewCount": 26030,
+  "lat": 22.2776827,
+  "lng": 114.1591909,
+  "reviews": [
+   {
+    "author": "akhil shanbhag",
+    "rating": 5,
+    "when": "5 months ago",
+    "text": "Bought tickets at the counter - waited in the queue about 10 minutes on a Sunday morning. Queue moves fast. Paid with credit card."
+   },
+   {
+    "author": "K Ooi",
+    "rating": 5,
+    "when": "a month ago",
+    "text": "The Peak Tram is definitely one of the must-try experiences when visiting Hong Kong."
+   },
+   {
+    "author": "Thameur Hamza",
+    "rating": 5,
+    "when": "a month ago",
+    "text": "Riding The Peak Tram is an absolute must-do historical and visual journey that seamlessly links the high-rises of Central to the cool heights of Victoria Peak!"
+   }
+  ]
+ },
+ "shahe-clothing-market": {
+  "image": "/places/shahe-clothing-market.jpg",
+  "imageCredit": "Google Maps",
+  "rating": 3.7,
+  "reviewCount": 18,
+  "lat": 23.155834,
+  "lng": 113.309175,
+  "reviews": [
+   {
+    "author": "Hussain Buzaid",
+    "rating": 3,
+    "when": "8 years ago",
+    "text": "Huge wholesale market with average quality and cheap prices."
+   },
+   {
+    "author": "Quang Si",
+    "rating": 4,
+    "when": "a year ago",
+    "text": "very very busy. shops and people everywhere."
+   }
+  ]
+ },
+ "shangxiajiu": {
+  "image": "/places/shangxiajiu.jpg",
+  "imageCredit": "Google Maps",
+  "lat": 23.11395,
+  "lng": 113.24668
+ }
+}

@@ -1,0 +1,2770 @@
+{
+  "title": "Guangzhou Winter Trip",
+  "subtitle": "Dec 21, 2026 – Jan 5, 2027 · 16 days",
+  "groups": {
+    "a": "Option A",
+    "k": "Option B"
+  },
+  "stays": [
+    {
+      "area": "Liwan",
+      "range": "Dec 21–23"
+    },
+    {
+      "area": "Panyu",
+      "range": "Dec 24–26"
+    },
+    {
+      "area": "Tianhe",
+      "range": "Dec 27 – Jan 5"
+    }
+  ],
+  "days": [
+    {
+      "date": "Dec 21",
+      "dow": "Mon",
+      "locked": true,
+      "theme": "Arrival day",
+      "pace": "Airport pickup; activities from 1 pm, mostly by metro",
+      "stay": 0,
+      "items": [
+        {
+          "start": "09:30",
+          "end": "10:30",
+          "title": "Land at the airport, collect luggage",
+          "tip": "After landing, check that mobile data works and open Amap (高德地图) plus WeChat Pay or Alipay. Save the pickup driver's number beforehand."
+        },
+        {
+          "start": "10:30",
+          "end": "11:30",
+          "title": "Pickup car to Atour Hotel (亚朵)"
+        },
+        {
+          "start": "11:30",
+          "end": "12:00",
+          "title": "Leave luggage at the hotel",
+          "note": "Ask whether early check-in is possible, for a shower and change of clothes."
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Lunch",
+          "note": "Near the hotel; keep it quick.",
+          "food": [
+            {
+              "name": "Baohua Noodle Shop (宝华面店)",
+              "desc": "Long-running shop on Baohua Road. Bamboo-pole wonton noodles (竹升云吞面); served fast."
+            },
+            {
+              "name": "Ng Choi Kee Noodles (吴财记面家)",
+              "desc": "Datong Road. Fresh shrimp wonton noodles, fried wontons."
+            },
+            {
+              "name": "Ng Zham Kee (伍湛记)",
+              "desc": "Longjin East Road. Jidi congee (及第粥), salty fried dough cakes (咸煎饼)."
+            }
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:25",
+          "title": "Hotel → Animation City (动漫星城)",
+          "note": "Walk to Changshou Lu Station; take Metro Line 1 (towards Guangzhou East Railway Station) to Gongyuanqian Station, 3 stops, ~10 min. Or taxi, ~15 min.",
+          "tip": "Mobile signal may be weak in the underground mall. A meeting point and time should be agreed first."
+        },
+        {
+          "start": "13:25",
+          "end": "16:00",
+          "title": "Animation City (动漫星城)",
+          "note": "Under Gongyuanqian metro station; Guangzhou's densest anime and manga mall."
+        },
+        {
+          "start": "16:00",
+          "end": "16:30",
+          "title": "Animation City → Shangxiajiu",
+          "note": "The metro is the easiest option; no transfer needed.",
+          "route": [
+            {
+              "time": "16:00",
+              "title": "Gongyuanqian Station (公园前站)",
+              "desc": "Animation City is inside the station. Follow the signs in and take Line 1 (towards Xilang)."
+            },
+            {
+              "time": "16:15",
+              "title": "Changshou Lu Station (长寿路站)",
+              "walk": "3 stops, ~10 min",
+              "desc": "Before exiting, look for the exit signed “上下九步行街”."
+            },
+            {
+              "time": "16:30",
+              "title": "Shangxiajiu Pedestrian Street (上下九步行街)",
+              "walk": "Walk ~5–10 min",
+              "desc": "Enter “上下九步行街” in Amap and start walking navigation. Arrival is obvious from the long row of arcade buildings."
+            }
+          ]
+        },
+        {
+          "start": "16:30",
+          "end": "19:00",
+          "title": "Shangxiajiu: shopping, dinner, dessert",
+          "note": "One straight street, walked there and back; no turns, no getting lost.",
+          "route": [
+            {
+              "time": "16:30",
+              "title": "Heritage shops on Dishifu Road (第十甫路老字号)",
+              "desc": "Photos at the old signboards of Tao Tao Ju (陶陶居) and Lin Heung Lau (莲香楼). Gifts can be bought at Lin Heung Lau.",
+              "tags": [
+                "Must-see",
+                "Shopping"
+              ]
+            },
+            {
+              "time": "16:45",
+              "title": "Xiajiu Road and Shangjiu Road arcades (下九路、上九路骑楼)",
+              "walk": "Keep walking along the pedestrian street",
+              "desc": "Guangzhou's most complete arcade-building (qilou) street, lined with budget clothing, shoe and small shops. Walk to the end of Shangjiu Road, then turn back.",
+              "tags": [
+                "Photos",
+                "Shopping"
+              ],
+              "tip": "The street is crowded in the evening; backpacks should be worn on the front."
+            },
+            {
+              "time": "17:40",
+              "title": "Hualin Jade Street (华林玉器街)",
+              "walk": "On the way back, turn off Xiajiu Road, ~3 min",
+              "desc": "A cluster of jade and jewellery shops; for browsing only. If the entrance is unclear, ask a shopkeeper or skip it.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "18:00",
+              "title": "Dinner",
+              "walk": "Back to the west end of Dishifu Road, then north ~5 min to Wenchang North Road",
+              "tags": [
+                "Dinner"
+              ],
+              "food": [
+                {
+                  "name": "Yinji Rice Rolls (银记肠粉)",
+                  "desc": "Original shop on Wenchang North Road"
+                },
+                {
+                  "name": "Shrimp rice rolls, beef rice rolls (鲜虾肠粉、牛肉肠粉)",
+                  "desc": "Add a bowl of congee",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "18:40",
+              "title": "Dessert",
+              "walk": "Back to Dishifu Road, ~5 min",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Nanxin Desserts (南信甜品)",
+                  "desc": "Dishifu Road. Double-skin milk (双皮奶), ginger milk curd (姜撞奶)."
+                },
+                {
+                  "name": "Shun Kee Ice Bar (顺记冰室)",
+                  "desc": "Baohua Road. For ice cream, go here instead; signature coconut ice cream."
+                }
+              ]
+            },
+            {
+              "time": "19:00",
+              "title": "Leave Shangxiajiu",
+              "desc": "Taxi from the roadside on Wenchang South Road back to the hotel, ~10 min."
+            }
+          ]
+        },
+        {
+          "start": "19:00",
+          "end": "19:15",
+          "title": "Shangxiajiu → Hotel",
+          "note": "Taxi, ~10 min."
+        },
+        {
+          "start": "19:15",
+          "end": "20:00",
+          "title": "Check in, rest"
+        }
+      ]
+    },
+    {
+      "date": "Dec 22",
+      "dow": "Tue",
+      "locked": true,
+      "theme": "Shamian, Canton Tower, Beijing Road in the evening",
+      "pace": "Taxi / metro per leg; no full-day car",
+      "stay": 0,
+      "items": [
+        {
+          "start": "08:00",
+          "end": "09:00",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast",
+              "desc": "Saves the most time"
+            },
+            {
+              "name": "Yinji Rice Rolls (银记肠粉)",
+              "desc": "Original shop on Wenchang North Road. Shrimp rice rolls, beef rice rolls."
+            },
+            {
+              "name": "Ng Zham Kee (伍湛记)",
+              "desc": "Jidi congee (及第粥) with fried dough sticks (油条)"
+            }
+          ]
+        },
+        {
+          "start": "09:00",
+          "end": "09:20",
+          "title": "Hotel → Shamian",
+          "note": "Taxi, ~10–15 min. Navigate to “沙面大街”. The morning is spent on foot on the island; no further rides needed.",
+          "tip": "Shamian is quiet in the morning; arriving after 9 is best for photos."
+        },
+        {
+          "start": "09:20",
+          "end": "11:45",
+          "title": "Shamian Island walking route",
+          "note": "The island is small and the route is a loop; easy to follow.",
+          "route": [
+            {
+              "time": "09:20",
+              "title": "Shamian Street (沙面大街)",
+              "desc": "From the drop-off, walk along Shamian Street, the island's central avenue, lined with large banyan trees."
+            },
+            {
+              "time": "09:30",
+              "title": "European-style buildings (欧陆建筑群)",
+              "walk": "~30 min, viewed while walking",
+              "desc": "Former consulates, trading houses and banks from a century ago, each with a plaque at the door. Best spot for photos.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:00",
+              "title": "Our Lady of Lourdes Chapel (露德天主教圣母堂)",
+              "walk": "On Shamian Street",
+              "desc": "Small cream-white church; photos from outside are enough.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:15",
+              "title": "Bronze statues (铜像雕塑)",
+              "walk": "Spread along the streets",
+              "desc": "Many life-size bronze figures stand on the streets. Kids can hunt for them and pose with each; whoever finds the most wins.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:45",
+              "title": "Shamian Park (沙面公园)",
+              "walk": "Walk ~5 min",
+              "desc": "Small park with lawns and benches; kids can rest and run around."
+            },
+            {
+              "time": "11:05",
+              "title": "Pearl River promenade (珠江边步道)",
+              "walk": "Head south to the riverside on Shamian South Street",
+              "desc": "A slow walk along the river, watching the Pearl River and passing boats.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:30",
+              "title": "White Swan Hotel lobby (白天鹅宾馆大堂)",
+              "walk": "At the end of the riverside promenade",
+              "desc": "See the lobby's “故乡水” (Homeland Waters) garden and river views; no purchase required. Lunch is here or nearby.",
+              "tags": [
+                "Must-see"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "11:45",
+          "end": "12:45",
+          "title": "Lunch: Shamian",
+          "note": "Eat early; depart for Canton Tower at 12:45.",
+          "food": [
+            {
+              "name": "Jade River at the White Swan Hotel (白天鹅宾馆 玉堂春暖)",
+              "desc": "Inside the hotel; dim sum with river views. Booking recommended."
+            },
+            {
+              "name": "Shamian Island cafés (沙面岛咖啡馆)",
+              "desc": "Several cafés and Western restaurants on the island; light meals."
+            },
+            {
+              "name": "Shamian riverside Western restaurants (沙面江边西餐厅)",
+              "desc": "Around Shamian South Street; outdoor seating facing the river."
+            }
+          ]
+        },
+        {
+          "start": "12:45",
+          "end": "13:15",
+          "title": "Shamian → Canton Tower",
+          "note": "Taxi from the White Swan Hotel entrance, ~25 min. Navigate to “广州塔”. The afternoon is on foot until Huacheng Square, where the next ride is taken."
+        },
+        {
+          "start": "13:15",
+          "end": "15:15",
+          "title": "Canton Tower, Haixin Bridge, Huacheng Square",
+          "note": "All on foot, from the south bank of the Pearl River to the north bank.",
+          "route": [
+            {
+              "time": "13:15",
+              "title": "Canton Tower observation deck (广州塔登塔)",
+              "desc": "Lift to the observation level; all of Guangzhou seen from over 400 m. Tickets should be bought in advance via official channels.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ],
+              "tip": "Visibility is poor on overcast days; check the weather before leaving. Tickets are best bought in advance via official channels."
+            },
+            {
+              "time": "13:50",
+              "title": "Bubble Tram on the tower top (塔顶摩天轮)",
+              "walk": "Follow the signs on the observation level",
+              "desc": "A Ferris-wheel ride that circles the top of the tower; a kids' favourite. Separate ticket required; queue times vary on the day.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:30",
+              "title": "Haixin Bridge (海心桥)",
+              "walk": "~5 min walk from the tower to the bridgehead",
+              "desc": "Pedestrian bridge across the Pearl River, ~10 min to cross. The best Canton Tower photo is taken looking back from the bridge.",
+              "tags": [
+                "Photos"
+              ],
+              "tip": "Windy on the bridge and riverbank; bring a jacket."
+            },
+            {
+              "time": "14:45",
+              "title": "Huacheng Square (花城广场)",
+              "walk": "Right across the bridge",
+              "desc": "Guangzhou's new central axis, flanked by the Zhujiang New Town towers.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "14:55",
+              "title": "Dessert",
+              "walk": "Enter Mall of the World (花城汇) via the underground entrance at Huacheng Square",
+              "desc": "Afterwards, a taxi is taken from the mall entrance.",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Crêpe and waffle shops at Mall of the World (花城汇可丽饼、松饼店)",
+                  "desc": "Made fresh and hot; right for winter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "start": "15:15",
+          "end": "15:45",
+          "title": "Huacheng Square → Hotel",
+          "note": "Taxi, ~30 min."
+        },
+        {
+          "start": "15:45",
+          "end": "17:30",
+          "title": "Rest at the hotel"
+        },
+        {
+          "start": "17:30",
+          "end": "17:50",
+          "title": "Hotel → Beijing Road",
+          "note": "Taxi, ~20 min. Navigate to “大佛寺”. The rest is on foot around Beijing Road."
+        },
+        {
+          "start": "17:50",
+          "end": "19:40",
+          "title": "Beijing Road: Dafo Temple, shopping, dinner, dessert",
+          "note": "All stops are within a 5–10 min walk of each other.",
+          "route": [
+            {
+              "time": "17:50",
+              "title": "Dafo Temple (大佛寺)",
+              "desc": "May already be closed by early evening. Go in if open; otherwise take photos at the gate.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "18:00",
+              "title": "Ancient road ruins (千年古道遗址)",
+              "walk": "~5 min walk to Beijing Road Pedestrian Street",
+              "desc": "Under glass panels in the middle of the street, road surfaces from the Song to the Ming and Qing dynasties can be seen.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "18:10",
+              "title": "Beijing Road Pedestrian Street (北京路步行街)",
+              "walk": "~20 min of browsing",
+              "desc": "Arcade buildings, malls and brand stores; lively at night.",
+              "tags": [
+                "Shopping"
+              ],
+              "tip": "Crowded at night; belongings should be watched."
+            },
+            {
+              "time": "18:30",
+              "title": "Dinner",
+              "walk": "~5 min walk to Caitingqian (财厅前)",
+              "tags": [
+                "Dinner"
+              ],
+              "food": [
+                {
+                  "name": "Taiping Guan (太平馆)",
+                  "desc": "Century-old Cantonese-style Western restaurant"
+                },
+                {
+                  "name": "Roast squab, Portuguese chicken (烧乳鸽、葡国鸡)",
+                  "desc": "Taiping Guan's signatures",
+                  "dish": true
+                },
+                {
+                  "name": "Wai Yu Lau Teahouse (惠如楼)",
+                  "desc": "Old teahouse on Zhongshan 5th Road; go here instead for Chinese food."
+                }
+              ]
+            },
+            {
+              "time": "19:20",
+              "title": "Dessert",
+              "walk": "~10 min walk to Wenming Road",
+              "desc": "Afterwards, a taxi is taken from the roadside on Wenming Road.",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Baihua Desserts (百花甜品)",
+                  "desc": "Heritage dessert shop on Wenming Road"
+                },
+                {
+                  "name": "Black sesame soup, almond soup (芝麻糊、杏仁糊)",
+                  "dish": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "start": "19:40",
+          "end": "20:00",
+          "title": "Beijing Road → Hotel",
+          "note": "Taxi from Wenming Road, ~20 min."
+        }
+      ]
+    },
+    {
+      "date": "Dec 23",
+      "dow": "Wed",
+      "locked": true,
+      "theme": "Xiguan old streets, walking east",
+      "intro": "Today centres on Yongqingfang (永庆坊). Its arcade lanes are full of boutiques, creative-design shops, handmade-craft stalls and intangible-heritage gift shops, good for small presents. On Fushang Lane (富上巷) is the PICOCICI global flagship store, selling Sanrio, Disney and Chiikawa merchandise, a sure hit with the kids. Nearly two hours are set aside for Yongqingfang, with 11:00–11:45 reserved for boutiques and gifts. Lunch is at Tao Tao Ju (陶陶居) at 13:00.",
+      "stay": 0,
+      "backup": {
+        "title": "Backup: Thirteen Hongs (十三行), only if time remains after Liwan Plaza",
+        "note": "If more shopping is wanted after Liwan Plaza at 16:30, take a taxi from the entrance to Thirteen Hongs, ~5–10 min, and choose Option A or Option B there. The hotel is not visited first.",
+        "items": [
+          {
+            "start": "16:40",
+            "end": "17:45",
+            "title": "Shopping at Thirteen Hongs (十三行)",
+            "note": "Site of the Qing-era “Thirteen Hongs” foreign-trade district, now a cluster of women's-clothing wholesale buildings. Wide choice, fast-changing styles. Mostly wholesale, but some stalls sell retail; bargaining is possible.",
+            "group": "a",
+            "tip": "Many stalls do not allow photos, and trying on is not always possible. Ask the price first; bargaining is expected."
+          },
+          {
+            "start": "17:45",
+            "end": "18:05",
+            "title": "Thirteen Hongs → Hotel",
+            "note": "Taxi, ~15–20 min, straight back to the hotel.",
+            "group": "a"
+          },
+          {
+            "start": "16:40",
+            "end": "17:20",
+            "title": "Thirteen Hongs Museum (十三行博物馆)",
+            "note": "Next to the Cultural Park, ~5 min walk from Thirteen Hongs; free entry. Qing-era export art from the Thirteen Hongs trade: Canton enamel porcelain (广彩), Cantonese embroidery (广绣), export fans and silverware. A silverware gallery is on the 3rd floor.",
+            "group": "k",
+            "tip": "Entry usually stops around 17:00, so arriving at 16:40 may be too late; check on the map before setting off. Kids must be accompanied by an adult or young adult."
+          },
+          {
+            "start": "17:20",
+            "end": "17:40",
+            "title": "Thirteen Hongs → Hotel",
+            "note": "Taxi, ~15–20 min, straight back to the hotel.",
+            "group": "k"
+          },
+          {
+            "start": "17:40",
+            "end": "18:05",
+            "title": "Rest at the hotel",
+            "group": "k"
+          }
+        ]
+      },
+      "items": [
+        {
+          "start": "08:00",
+          "end": "09:00",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast",
+              "desc": "Saves the most time"
+            },
+            {
+              "name": "Yinji Rice Rolls (银记肠粉)",
+              "desc": "Cloth-steamed rice rolls (布拉肠粉)"
+            },
+            {
+              "name": "Baohua Noodle Shop (宝华面店)",
+              "desc": "A morning bowl of bamboo-pole wonton noodles"
+            }
+          ]
+        },
+        {
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Morning: on foot east from the hotel",
+          "note": "All on foot, west to east, no backtracking. Nearly two hours are kept for Yongqingfang so the kids can browse boutiques and buy gifts.",
+          "route": [
+            {
+              "time": "09:00",
+              "title": "Liwan Lake Park (荔湾湖公园)",
+              "walk": "~10 min walk from the hotel",
+              "desc": "Lakeside stroll; see the small Qing-style garden Xiaohuafangzhai (小画舫斋). Elderly locals often sing Cantonese opera here.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "09:25",
+              "title": "Lychee Bay canal and Wenta Pagoda (荔枝湾涌、文塔)",
+              "walk": "Follow the canal south",
+              "desc": "Xiguan houses line both banks; walk to Wenta Pagoda for photos. Lychee Bay is the birthplace of sampan congee (艇仔粥).",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "09:45",
+              "title": "Xiguan mansions on Fengyuan Street (逢源大街西关大屋)",
+              "walk": "Walk ~5 min",
+              "desc": "Sliding-bar gates (趟栊门) and Manchu stained-glass windows (满洲窗) of old Guangzhou's wealthy households.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:05",
+              "title": "Cantonese Opera Art Museum (粤剧艺术博物馆)",
+              "walk": "~10 min walk south to Enning Road",
+              "desc": "Lingnan garden-style buildings; a quick visit is enough. Closed Mondays, open Wednesdays.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "10:40",
+              "title": "Bruce Lee's Ancestral Home (李小龙祖居)",
+              "walk": "Cross Enning Road, ~5 min, on Yongqing 1st Lane in Yongqingfang",
+              "desc": "Go in for a look and photos.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:00",
+              "title": "Yongqingfang boutiques and creative shops (永庆坊精品店、文创小店)",
+              "walk": "Browse slowly through the arcade lanes",
+              "desc": "Qilou (arcade buildings) are a Lingnan street form: ground-floor shops are set back, and the upper floors project over the pavement on a row of columns, so the walkway below is shaded from sun and rain. Yongqingfang is a block of restored qilou and old Xiguan houses, mainly Yongqing 1st Lane, Yongqing 2nd Lane and Fushang Lane: narrow lanes, grey-brick walls, sliding-bar gates, packed with creative-design shops, handmade-craft stalls and intangible-heritage gift shops. Fushang Lane has the PICOCICI global flagship store, selling Sanrio, Disney and Chiikawa merchandise, a sure hit with the kids.",
+              "tags": [
+                "Shopping"
+              ],
+              "tip": "PICOCICI details are from summer 2026 reports. Other small shops change quickly; buy when something appeals."
+            },
+            {
+              "time": "11:45",
+              "title": "Coffee",
+              "walk": "Inside Yongqingfang",
+              "tags": [
+                "Must-see"
+              ],
+              "tip": "Yongqingfang shop details are from a 2022 guide; some shops may have changed. Check on site.",
+              "food": [
+                {
+                  "name": "Gonglu Coffee (公路咖啡)",
+                  "desc": "Caffeine-free drinks can be ordered for the kids"
+                },
+                {
+                  "name": "Claypot latte (煲仔拿铁)",
+                  "desc": "Latte served in a clay pot; very photogenic",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "12:05",
+              "title": "Jiale Egg Tart King (嘉乐蛋挞王)",
+              "walk": "Inside Yongqingfang",
+              "desc": "Egg tarts in 8 flavours; buy several and share.",
+              "tags": [
+                "Dessert"
+              ]
+            },
+            {
+              "time": "12:15",
+              "title": "Yongqing Food Hall (永庆食集)",
+              "walk": "Inside Yongqingfang; heritage snack brands under one roof",
+              "desc": "Grandma's beef offal (阿婆牛杂), Bazhen pan-fried dumplings (八珍煎饺) and Hong Kong Yuanyang King (香港鸳鸯王) are all here. Try only one or two before lunch; one yuanyang milk tea can be shared.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "12:35",
+              "title": "Enning Ice Cream (恩宁雪糕行)",
+              "walk": "Exit Yongqingfang to 69 Enning Road",
+              "desc": "Local-flavour ice cream: chicken biscuit (鸡仔饼), ginger milk curd, Phoenix Dancong tea (凤凰单枞), milk tea. Next door, Enning Gongfei (恩宁公啡) is known for its “檬茶茶”: hand-pulled black tea with dried plum and lemon.",
+              "tags": [
+                "Dessert"
+              ]
+            },
+            {
+              "time": "12:50",
+              "title": "Enning Road arcade street (恩宁路骑楼街)",
+              "walk": "Walk east along Enning Road, ~10 min",
+              "desc": "Old arcade streetscape all the way; photos on the move. The end of the road leads to Tao Tao Ju on Dishifu Road.",
+              "tags": [
+                "Photos"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "14:15",
+          "title": "Lunch: Tao Tao Ju (陶陶居), Dishifu Road",
+          "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. By 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
+          "food": [
+            {
+              "name": "Shrimp dumplings (鲜虾饺皇)",
+              "desc": "A teahouse essential",
+              "dish": true
+            },
+            {
+              "name": "Char siu buns, chicken feet (叉烧包、凤爪)",
+              "desc": "Classic dim sum",
+              "dish": true
+            },
+            {
+              "name": "Malay sponge cake, red rice roll (马拉糕、红米肠)",
+              "desc": "One sweet, one savoury",
+              "dish": true
+            }
+          ],
+          "tip": "Old teahouses usually charge a per-person tea fee; expect it before sitting down."
+        },
+        {
+          "start": "14:15",
+          "end": "15:00",
+          "title": "Tao Tao Ju → Liwan Plaza",
+          "note": "Walk east along Shangxiajiu Pedestrian Street, arcades the whole way.",
+          "route": [
+            {
+              "time": "14:15",
+              "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
+              "walk": "Turn off Dishifu Road into Zhanlu Straight Street (湛露直街), ~3 min",
+              "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:30",
+              "title": "Xiajiu Road arcades and Wenlan Lane (下九路骑楼、文澜巷)",
+              "walk": "Back on the pedestrian street, heading east",
+              "desc": "Shangxiajiu is Guangzhou's most complete arcade street. Wenlan Lane is where Qing-era Thirteen Hongs merchants founded the Wenlan Academy (文澜书院).",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "14:40",
+              "title": "Hualin Temple and Hualin Jade Street (华林禅寺、华林玉器街)",
+              "walk": "Turn north off Xiajiu Road, ~3 min",
+              "desc": "The old temple and the jade street are side by side; take a look, then return to the pedestrian street.",
+              "tags": [
+                "Must-see"
+              ],
+              "tip": "Hualin Temple's opening hours could not be confirmed. Go in if open; otherwise look from the gate."
+            },
+            {
+              "time": "15:00",
+              "title": "Liwan Plaza (荔湾广场)",
+              "walk": "Back on the pedestrian street to the east end of Shangjiu Road"
+            }
+          ]
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "title": "Liwan Plaza (荔湾广场)",
+          "note": "Long-established mall with many jewellery, watch and small-goods shops; an hour and a half is allowed for browsing."
+        },
+        {
+          "start": "16:30",
+          "end": "16:45",
+          "title": "Liwan Plaza → Hotel",
+          "note": "Taxi from the entrance, ~10–15 min; slower in evening traffic. Back at the hotel around 16:45."
+        },
+        {
+          "start": "16:45",
+          "end": "18:30",
+          "title": "Laundry and rest at the hotel"
+        },
+        {
+          "start": "18:30",
+          "end": "18:45",
+          "title": "Hotel → Panxi Restaurant (泮溪酒家)",
+          "note": "Panxi Restaurant is at 151 Longjin West Road, beside Liwan Lake Park. ~10 min walk from the hotel towards Liwan Lake; use Amap walking navigation to “泮溪酒家”. Otherwise a minimum-fare taxi, ~5 min.",
+          "tip": "Walking time assumes the Atour is near Lychee Bay; recheck once the hotel address is confirmed."
+        },
+        {
+          "start": "18:45",
+          "end": "20:00",
+          "title": "Dinner: Panxi Restaurant (泮溪酒家)",
+          "note": "Last night in the old city; a proper meal at the garden restaurant.",
+          "food": [
+            {
+              "name": "White rabbit dumplings (绿茵白兔饺)",
+              "desc": "Dim sum shaped like little white rabbits; the most photogenic, and a kids' favourite",
+              "dish": true
+            },
+            {
+              "name": "Panxi water chestnut cake (泮塘马蹄糕)",
+              "desc": "Made with local Pantang water chestnuts; smooth and lightly sweet",
+              "dish": true
+            },
+            {
+              "name": "Honeycomb egg-yolk puffs, quail puff pastry (蜂巢蛋黄角、鹌鹑千层酥)",
+              "desc": "Fried pastries from the restaurant's eight famous dim sum",
+              "dish": true
+            },
+            {
+              "name": "Roast suckling pig, eight-treasure winter melon soup (金牌烧乳猪、八宝冬瓜盅)",
+              "desc": "Signatures from the eight famous dishes; for a larger group",
+              "dish": true
+            }
+          ],
+          "tip": "Booking ahead is recommended; window seats in the garden must be booked early."
+        },
+        {
+          "start": "20:00",
+          "end": "20:15",
+          "title": "Back to the hotel",
+          "note": "Walk, ~10 min."
+        }
+      ]
+    },
+    {
+      "stay": 1,
+      "date": "Dec 24",
+      "dow": "Thu",
+      "locked": true,
+      "theme": "Hotel change day",
+      "pace": "Hotel change day; kept light",
+      "items": [
+        {
+          "start": "08:00",
+          "end": "09:00",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast"
+            },
+            {
+              "name": "Yinji Rice Rolls (银记肠粉)",
+              "desc": "Last rice-roll breakfast in the old city"
+            }
+          ]
+        },
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "title": "Pack luggage"
+        },
+        {
+          "start": "10:00",
+          "end": "10:30",
+          "title": "Check out of Atour (亚朵)"
+        },
+        {
+          "start": "10:30",
+          "end": "11:30",
+          "title": "Atour → Chimelong Panda Hotel (长隆熊猫酒店)",
+          "note": "Taxi, ~50 min–1 hr. Navigate to “长隆熊猫酒店”. With many people or bags, book a 6-seater."
+        },
+        {
+          "start": "11:30",
+          "end": "11:45",
+          "title": "Store luggage; ask at reception",
+          "note": "Four things to confirm: check-in time, shuttle times to each park, how Circus tickets are collected and entry works, and the drone show time and location."
+        },
+        {
+          "start": "11:45",
+          "end": "13:00",
+          "title": "Lunch: eat early",
+          "note": "Start at 11:45 to beat the 12:00 lunch rush.",
+          "food": [
+            {
+              "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+              "desc": "No need to leave the hotel"
+            },
+            {
+              "name": "White Tiger Buffet (白虎自助餐厅)",
+              "desc": "Inside the Chimelong Hotel; white tigers can be watched while eating"
+            },
+            {
+              "name": "Wanbo business district (万博商圈)",
+              "desc": "Taxi, ~15 min. Many chain teahouses and Cantonese options"
+            }
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "15:00",
+          "title": "Get to know the resort",
+          "note": "Routes are learned today so the next two mornings run smoothly.",
+          "route": [
+            {
+              "time": "13:00",
+              "title": "Panda Hotel (熊猫酒店)",
+              "desc": "Lobby and corridors are decorated with pandas throughout; a first round of photos is taken here.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "13:30",
+              "title": "Safari Park entrance (野生动物世界入口)",
+              "walk": "Hotel shuttle, or walk as directed by reception",
+              "desc": "Tomorrow's entry gate and queue position are located."
+            },
+            {
+              "time": "14:15",
+              "title": "Circus theatre and Happy World North Gate (大马戏剧场、欢乐世界北门)",
+              "walk": "Shuttle, ~10 min",
+              "desc": "The Circus is next to Happy World North Gate. Tonight's entrance is checked, along with the gate for Happy World the day after tomorrow."
+            },
+            {
+              "time": "14:45",
+              "title": "Back to the Panda Hotel (回熊猫酒店)",
+              "walk": "Shuttle back"
+            }
+          ],
+          "tip": "Food delivery cannot enter the parks; it is collected from the delivery lockers next to the hotel."
+        },
+        {
+          "start": "15:00",
+          "end": "15:45",
+          "title": "Afternoon tea",
+          "food": [
+            {
+              "name": "Panda Hotel lobby bar (熊猫酒店大堂吧)",
+              "desc": "Western cakes, hot drinks"
+            },
+            {
+              "name": "Panda-themed desserts (熊猫主题甜点)",
+              "desc": "Panda-shaped cakes from the hotel restaurant; good for photos"
+            }
+          ]
+        },
+        {
+          "start": "15:45",
+          "end": "16:45",
+          "title": "Check in, rest",
+          "note": "Check-in opens at 15:00. A nap is advised; the Circus runs until nearly 21:00."
+        },
+        {
+          "start": "16:45",
+          "end": "17:30",
+          "title": "Dinner: eat early",
+          "note": "Circus doors open at 17:00; standard seats are first come, first served. Christmas Eve is busy, so go straight after eating.",
+          "food": [
+            {
+              "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+              "desc": "Fastest option"
+            },
+            {
+              "name": "Restaurants around the Circus (马戏场周边餐厅)",
+              "desc": "Fast food near the show area, for when time is short"
+            }
+          ]
+        },
+        {
+          "start": "17:30",
+          "end": "17:45",
+          "title": "Hotel → Circus",
+          "note": "Shuttle, ~10 min. Bring the original ID used for booking; it is checked at entry."
+        },
+        {
+          "start": "17:45",
+          "end": "19:30",
+          "title": "Enter, claim seats",
+          "note": "Entry at least 45 min early is officially advised on holidays. Standard seats are unassigned; the earlier you arrive, the more central the seats.",
+          "tip": "Own snacks and drinks are allowed, but strong-smelling food such as durian is not."
+        },
+        {
+          "start": "19:30",
+          "end": "20:50",
+          "title": "Chimelong International Circus (长隆国际大马戏)",
+          "note": "~80 min, with animals and aerial acrobatics. Light and sound effects are intense; nervous children can sit near the aisle. Entry is officially not recommended for children under 3 or under 1 m tall."
+        },
+        {
+          "start": "20:50",
+          "end": "21:20",
+          "title": "Back to hotel",
+          "note": "Exit crowds are heavy. Wait ~10 min for them to thin, then take the shuttle back."
+        }
+      ]
+    },
+    {
+      "stay": 1,
+      "date": "Dec 25",
+      "dow": "Fri",
+      "locked": true,
+      "theme": "Chimelong Safari Park",
+      "items": [
+        {
+          "start": "07:30",
+          "end": "08:10",
+          "title": "Breakfast: eat early",
+          "note": "The buffet is crowded even in low season; go at opening. Take a few pieces of fruit as snacks for the day.",
+          "food": [
+            {
+              "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+            }
+          ]
+        },
+        {
+          "start": "08:10",
+          "end": "08:35",
+          "title": "Pack day bags",
+          "note": "Water, snacks, power bank, jackets (December mornings and evenings are cool). Download the official Chimelong app for queue times and show schedules.",
+          "tip": "Queue times and show schedules are shown in the Chimelong app; check once before entering."
+        },
+        {
+          "start": "08:35",
+          "end": "09:00",
+          "title": "Shuttle from hotel 2F to North Gate",
+          "note": "Panda Hotel guests may enter 30 min before general visitors, via the North Gate only. Shuttles run ~every 10 min; do not take the one to the South Gate."
+        },
+        {
+          "start": "09:00",
+          "end": "11:45",
+          "title": "Morning: popular sights first",
+          "note": "The guests-only early half hour is the most valuable; long-queue attractions are done first.",
+          "route": [
+            {
+              "time": "09:00",
+              "title": "Safari train (小火车)",
+              "walk": "Straight to the train station after entry",
+              "desc": "General visitors are not in yet, so queues are shortest; later the wait reaches 1 hr. The ~35 min loop passes the big-cat area, giraffes and zebras, all seated.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "10:20",
+              "title": "Panda Paradise (熊猫乐园)",
+              "walk": "Follow the signs on foot",
+              "desc": "Pandas are most active in the morning, eating bamboo and climbing.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:50",
+              "title": "Koala Park (考拉园)",
+              "walk": "Walk, ~10 min",
+              "desc": "Koalas sleep most of the day; movement is more likely in the morning.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:20",
+              "title": "White Tiger area (白虎区)",
+              "walk": "Walk, ~10 min",
+              "desc": "Lunch follows directly.",
+              "tags": [
+                "Photos"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "11:45",
+          "end": "12:30",
+          "title": "Lunch: Panda Restaurant",
+          "note": "Enter at 11:45 and order before the 12:00 rush.",
+          "food": [
+            {
+              "name": "Panda Restaurant (熊猫餐厅)",
+              "desc": "In-park themed restaurant with panda-shaped dishes"
+            },
+            {
+              "name": "Park fast-food outlets (园区快餐店)",
+              "desc": "Nearest one on the route; fastest"
+            }
+          ]
+        },
+        {
+          "start": "12:30",
+          "end": "13:30",
+          "title": "Rest break",
+          "note": "Sit through an indoor show or the 4D cinema to rest for an hour. Schedules per the app."
+        },
+        {
+          "start": "13:30",
+          "end": "16:30",
+          "title": "Afternoon: animal feeding and cable car",
+          "route": [
+            {
+              "time": "13:30",
+              "title": "Asian Elephant Park (亚洲象园)",
+              "desc": "Bananas can be bought to feed the elephants; price as posted on site.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "14:15",
+              "title": "Giraffe Plaza (长颈鹿广场)",
+              "walk": "Walk, ~10 min",
+              "desc": "Giraffe feeding is the most popular activity and queues are long; one person can queue while the others rest nearby.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ],
+              "tip": "Feed is sold separately; price as posted on site."
+            },
+            {
+              "time": "15:00",
+              "title": "Dessert stop",
+              "walk": "Nearest one",
+              "desc": "In-park ice cream or café kiosks: cakes, hot drinks.",
+              "tags": [
+                "Dessert"
+              ]
+            },
+            {
+              "time": "15:20",
+              "title": "Cable car (空中缆车)",
+              "walk": "Follow the signs to the cable car station",
+              "desc": "The loop takes ~30 min; the whole park is seen from above while seated.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "16:00",
+              "title": "Flamingo Lake and gift shop (火烈鸟湖、纪念品店)",
+              "walk": "Walk back toward the exit",
+              "desc": "Final flamingo photos, souvenirs, then exit.",
+              "tags": [
+                "Photos",
+                "Shopping"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "16:30",
+          "end": "17:30",
+          "title": "Back to hotel, rest",
+          "note": "Shower; the drone show is tonight."
+        },
+        {
+          "start": "17:30",
+          "end": "18:45",
+          "title": "Dinner",
+          "note": "The buffet is crowded; go at opening. To skip queues, order à la carte at the Food Town.",
+          "food": [
+            {
+              "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+              "desc": "Least effort after a full day"
+            },
+            {
+              "name": "Food Town (美食小镇)",
+              "desc": "À la carte; shorter queues than the buffet"
+            },
+            {
+              "name": "White Tiger Buffet (白虎自助餐厅)",
+              "desc": "For a bigger spread"
+            }
+          ]
+        },
+        {
+          "start": "18:45",
+          "end": "19:30",
+          "title": "Drone show (TBC)",
+          "note": "Time and location as announced by reception or the Chimelong app. If the show is on the 26th, move this slot to that evening.",
+          "optional": true
+        },
+        {
+          "start": "19:30",
+          "end": "19:45",
+          "title": "Back to hotel"
+        }
+      ]
+    },
+    {
+      "stay": 1,
+      "date": "Dec 26",
+      "dow": "Sat",
+      "locked": true,
+      "theme": "Chimelong Paradise",
+      "items": [
+        {
+          "start": "07:45",
+          "end": "08:30",
+          "title": "Breakfast: eat early",
+          "note": "Go to the buffet at opening to avoid the crowds.",
+          "food": [
+            {
+              "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+            }
+          ]
+        },
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "title": "Hotel → Happy World North Gate",
+          "note": "Shuttle; queue at the gate before opening. Saturdays are busy, so the earlier the better."
+        },
+        {
+          "start": "09:00",
+          "end": "11:30",
+          "title": "Thrill rides",
+          "note": "Queues are shortest in the first two hours; the most popular rides are done first. December is cold, so water rides such as the rapids are best skipped.",
+          "group": "k",
+          "route": [
+            {
+              "time": "09:00",
+              "title": "Scream Zone: Rocket coaster (尖叫地带：火箭过山车)",
+              "walk": "Right inside the North Gate",
+              "desc": "One of the most popular rides; go straight at opening.",
+              "tags": [
+                "Thrill"
+              ]
+            },
+            {
+              "time": "09:40",
+              "title": "Tornado (龙卷风暴)",
+              "walk": "Same area",
+              "tags": [
+                "Thrill"
+              ]
+            },
+            {
+              "time": "10:20",
+              "title": "Rhythm World: Dive coaster (律动天地：垂直过山车)",
+              "walk": "Follow the signs, ~10 min walk",
+              "tags": [
+                "Thrill"
+              ]
+            },
+            {
+              "time": "11:00",
+              "title": "Super giant pendulum (超级大摆锤)",
+              "walk": "Same area",
+              "desc": "Flips a full 360°; phones and wallets go in a locker first.",
+              "tags": [
+                "Thrill"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "09:00",
+          "end": "11:30",
+          "title": "Family rides",
+          "note": "Gentle rides around the Happy Carnival area.",
+          "group": "a",
+          "route": [
+            {
+              "time": "09:00",
+              "title": "Star Dream Garden (星梦奇园)",
+              "walk": "Follow the signs from the North Gate",
+              "desc": "Family rides such as the dream carousel and bouncing rides.",
+              "tags": [
+                "Family"
+              ]
+            },
+            {
+              "time": "10:30",
+              "title": "Kids' play area (儿童游乐区)",
+              "walk": "Same area",
+              "desc": "Suited to young children at a slow pace.",
+              "tags": [
+                "Family"
+              ]
+            },
+            {
+              "time": "11:15",
+              "title": "Meet at the restaurant",
+              "desc": "Seats are claimed first."
+            }
+          ]
+        },
+        {
+          "start": "11:30",
+          "end": "12:30",
+          "title": "Lunch: eat early",
+          "note": "Start at 11:30 to avoid the crowds.",
+          "food": [
+            {
+              "name": "Coconut Grove Restaurant (椰林餐厅)",
+              "desc": "In-park restaurant, recommended on the official route"
+            },
+            {
+              "name": "Park fast-food outlets (园区快餐店)",
+              "desc": "Fastest"
+            }
+          ]
+        },
+        {
+          "start": "12:30",
+          "end": "13:45",
+          "title": "Rest break",
+          "note": "Find seating in the park, rest and rehydrate."
+        },
+        {
+          "start": "13:45",
+          "end": "14:30",
+          "title": "Happy Theatre: magic show (欢乐剧场：魔术表演)",
+          "note": "Seated indoor show with audience interaction. Times per the Chimelong app; official guides mention shows around 14:00 and 16:30. Enter 10 min early."
+        },
+        {
+          "start": "14:30",
+          "end": "15:15",
+          "title": "Repeat favourite rides",
+          "note": "Crowds thin in the afternoon; the morning's favourites are ridden again."
+        },
+        {
+          "start": "15:15",
+          "end": "15:30",
+          "title": "Exit via North Gate; shuttle to hotel"
+        },
+        {
+          "start": "15:30",
+          "end": "16:00",
+          "title": "Back to hotel: change, rest",
+          "note": "Old town this evening; bring a jacket."
+        },
+        {
+          "start": "16:00",
+          "end": "16:40",
+          "title": "Panda Hotel → Shawan Ancient Town (沙湾古镇)",
+          "note": "Taxi, ~30–40 min. Navigate to “沙湾古镇”."
+        },
+        {
+          "start": "16:40",
+          "end": "19:20",
+          "title": "Shawan Ancient Town: dusk to night market",
+          "note": "Lingnan old town founded in the Southern Song, 800+ years old; free entry. Compact; covered entirely on foot.",
+          "route": [
+            {
+              "time": "16:40",
+              "title": "Liugeng Hall (留耕堂, He Clan Ancestral Hall)",
+              "desc": "Five-courtyard ancestral hall: the “诗书世泽” plaque, huge timber columns and oyster-shell windows in the rear hall. Visited first while it is still light.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "17:15",
+              "title": "Wenfeng Pagoda and old streets (文峰塔、古街)",
+              "walk": "Walk, ~10 min",
+              "desc": "Seven-storey pagoda overlooking the wok-ear gabled roofs. Nearby: the old pawnshop, Jinshi Gate and old rice mill. The pagoda's wind chimes are atmospheric at dusk.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "17:45",
+              "title": "Anning Square light night market (安宁广场光影夜市)",
+              "walk": "Walk, ~10 min",
+              "desc": "Market runs ~17:30–19:00: embroidery, copperware and tea stalls. Saturday the 26th is a weekend, so the adjacent Guangdong Music Hall may have a performance.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "18:00",
+              "title": "Dinner: old-town snacks",
+              "walk": "Around the night market and old streets; eaten on the go",
+              "tags": [
+                "Dinner"
+              ],
+              "food": [
+                {
+                  "name": "Pajinshan fish soup (爬金山鱼羹)",
+                  "desc": "Fish soup cooked with dried tangerine peel and lemon leaves",
+                  "dish": true
+                },
+                {
+                  "name": "Puppy congee (狗仔粥)",
+                  "desc": "Rice-flour dough shaped like puppies, cooked with shrimp and Chinese sausage",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "18:45",
+              "title": "Dessert",
+              "walk": "In the old streets",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Shawan Ginger Milk Curd Old House (沙湾姜撞奶老屋甜品店)",
+                  "desc": "Set in a converted century-old house with a small courtyard"
+                },
+                {
+                  "name": "Ginger milk curd (姜撞奶)",
+                  "desc": "Shawan's signature dessert: ginger juice is poured into hot milk, which sets like tofu",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "19:05",
+              "title": "Liugeng Hall 3D projection (留耕堂3D投影)",
+              "walk": "Walk back to Liugeng Hall",
+              "desc": "Projected on the hall's outer wall; tells the town's musical history. Whether it runs is confirmed on site.",
+              "tags": [
+                "Must-see"
+              ]
+            }
+          ],
+          "tip": "Streets are flagstone; wear comfortable shoes. It gets cold after dark; bring a jacket."
+        },
+        {
+          "start": "19:25",
+          "end": "20:00",
+          "title": "Shawan Ancient Town → Panda Hotel",
+          "note": "Taxi, ~30 min; back at the hotel around 20:00."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Dec 27",
+      "dow": "Sun",
+      "locked": true,
+      "theme": "Slow checkout, Grandview Mall",
+      "items": [
+        {
+          "start": "07:45",
+          "end": "08:45",
+          "title": "Breakfast: eat well",
+          "note": "Lunch is not until 13:30, so eat more at breakfast and take some fruit and bread as snacks.",
+          "food": [
+            {
+              "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+            }
+          ]
+        },
+        {
+          "start": "08:45",
+          "end": "11:00",
+          "title": "Last morning at the Panda Hotel",
+          "note": "No rush: panda-themed décor photos, time in the hotel kids' area, or rest in the room."
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "title": "Pack, check out",
+          "note": "Panda Hotel checkout is 12:00 at the latest.",
+          "tip": "Check the room before leaving; Chimelong souvenirs are easily left behind."
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Panda Hotel → K Hotel",
+          "note": "Taxi, ~50 min–1 hr. Navigate to “From K Hotel 体育西路”. With many bags, book a 6-seater."
+        },
+        {
+          "start": "13:00",
+          "end": "13:20",
+          "title": "Check in or store luggage",
+          "note": "If early check-in is not available, luggage is stored."
+        },
+        {
+          "start": "13:20",
+          "end": "13:30",
+          "title": "Walk to Grandview Mall (正佳广场)",
+          "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch."
+        },
+        {
+          "start": "13:30",
+          "end": "14:30",
+          "title": "Lunch: Tao Tao Ju (陶陶居), Grandview Mall branch",
+          "note": "Grandview Mall 6F, unit 6C059. Sunday lunch is busy; call before leaving Chimelong to check the queue: 020-38373301.",
+          "food": [
+            {
+              "name": "Shrimp dumplings (鲜虾饺皇)",
+              "desc": "Essential at any teahouse",
+              "dish": true
+            },
+            {
+              "name": "Char siu buns, chicken feet (叉烧包、凤爪)",
+              "desc": "Classic dim sum",
+              "dish": true
+            },
+            {
+              "name": "Malay sponge cake, red rice roll (马拉糕、红米肠)",
+              "desc": "One sweet, one savoury",
+              "dish": true
+            }
+          ],
+          "tip": "Dishes already eaten at the Dishifu Road flagship on the 23rd can be swapped for others this time."
+        },
+        {
+          "start": "14:30",
+          "end": "17:15",
+          "title": "Grandview 3F: sports brands",
+          "note": "Tennis shoes and sportswear. If time allows, neighbouring Teemall (天河城) and Parc Central (天环广场) are worth a look.",
+          "group": "a"
+        },
+        {
+          "start": "14:30",
+          "end": "17:15",
+          "title": "Fashion Tianhe (时尚天河): anime, collectible toys",
+          "note": "~10 min walk from Grandview to beneath Tianhe Sports Center. Anime, designer toys and budget shops are concentrated here.",
+          "group": "k",
+          "tip": "Children should be accompanied by an adult or older teen."
+        },
+        {
+          "start": "17:15",
+          "end": "17:30",
+          "title": "Walk back to hotel",
+          "note": "Either option: walk back to the hotel, ~10 min."
+        },
+        {
+          "start": "17:30",
+          "end": "18:30",
+          "title": "Laundry, rest"
+        },
+        {
+          "start": "18:30",
+          "end": "19:45",
+          "title": "Dinner: near the hotel",
+          "food": [
+            {
+              "name": "Grandview 5F–7F restaurants (正佳五至七楼餐厅)",
+              "desc": "Grandview's main dining floors, all cuisines; ~10 min walk"
+            },
+            {
+              "name": "Chinese restaurant, Grandview Marriott (正佳万豪酒店中餐厅)",
+              "desc": "Right beside Grandview Mall; suited to a proper Cantonese meal"
+            },
+            {
+              "name": "Tiyu Xilu local eateries (体育西路小馆)",
+              "desc": "Neighbourhood roast meats and claypot congee; nearest and fastest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Dec 28",
+      "dow": "Mon",
+      "locked": true,
+      "theme": "Shenzhen tech day trip",
+      "intro": "Today is focused on Shenzhen's robots and AI. In the morning, the world's first Robot 6S Store and the AI 6S Store are visited in Bantian, Longgang. In the afternoon, exoskeletons and smart glasses are tried at INNO100 in Shenzhen Bay Culture Plaza, Nanshan. Sunset is watched at Shenzhen Bay before dinner. High-speed rail both ways, with a local chartered car for the day.",
+      "items": [
+        {
+          "start": "07:15",
+          "end": "08:00",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast",
+              "desc": "Early departure"
+            },
+            {
+              "name": "Inside the HSR station",
+              "desc": "Fast-food chains inside the station"
+            }
+          ]
+        },
+        {
+          "start": "08:00",
+          "end": "08:40",
+          "title": "K Hotel → Guangzhou South Station (广州南站)",
+          "note": "Taxi, ~40 min."
+        },
+        {
+          "start": "08:40",
+          "end": "09:00",
+          "title": "Enter station and wait",
+          "note": "HSR tickets should be bought in advance on 12306. Enter by scanning the ID used for booking.",
+          "tip": "HSR tickets should be bought in advance on 12306. Enter by scanning the ID used for booking."
+        },
+        {
+          "start": "09:00",
+          "end": "09:35",
+          "title": "HSR: Guangzhou South → Shenzhen North (深圳北)",
+          "note": "~35 min. Shenzhen North is closest to Bantian, Longgang."
+        },
+        {
+          "start": "09:35",
+          "end": "10:30",
+          "title": "Shenzhen North → Bantian, Longgang (龙岗坂田)",
+          "note": "Meet the local chartered car at Shenzhen North. Drive ~25 min.",
+          "tip": "Price, hours, and whether tolls and parking are included should be agreed before the charter."
+        },
+        {
+          "start": "10:30",
+          "end": "12:00",
+          "title": "Robot 6S Store (机器人6S店)",
+          "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store.",
+          "route": [
+            {
+              "time": "10:30",
+              "title": "Robots cooking on site",
+              "desc": "Jianbing (煎饼果子) and coffee are made by robots on site; they can be bought and eaten.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "10:50",
+              "title": "Humanoid robot zone",
+              "walk": "In store",
+              "desc": "Humanoid robots and robot dogs from leading Chinese makers such as Leju (乐聚), Unitree (宇树) and DEEP Robotics (云深处) are demonstrated live.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:30",
+              "title": "Robot parts supermarket",
+              "walk": "In store",
+              "desc": "Core parts such as servo motors and reducers are shelved like a supermarket. Robots can also be rented, from ~1,000 yuan per day."
+            }
+          ]
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Lunch: Galaxy WORLD COCO Park (星河WORLD COCO Park)",
+          "note": "In the same Galaxy WORLD campus as the Robot 6S Store. Restaurants are concentrated in the mall; no further ride needed.",
+          "food": [
+            {
+              "name": "Tai Er Sauerkraut Fish (太二酸菜鱼)",
+              "desc": "Popular pickled-cabbage fish chain. Sour, spicy, appetising."
+            },
+            {
+              "name": "Chao Xiao Zhan (潮小栈)",
+              "desc": "Chaoshan food: rice noodles, beef balls. ~35 yuan per person."
+            },
+            {
+              "name": "Yunhaiyao (云海肴)",
+              "desc": "Yunnan food: steam-pot chicken, wild mushrooms. Milder flavours, suitable for kids."
+            }
+          ],
+          "tip": "These restaurant names come from older sources; what is in the mall on the day applies."
+        },
+        {
+          "start": "13:00",
+          "end": "14:15",
+          "title": "AI 6S Store (人工智能6S店)",
+          "note": "In the same robot block in Longgang, a short drive away. Chinese and international AI hardware is displayed in real-life settings and can be tried hands-on."
+        },
+        {
+          "start": "14:15",
+          "end": "15:00",
+          "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
+          "note": "Drive ~40 min."
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "title": "INNO100",
+          "note": "In Shenzhen Bay Culture Plaza; a global innovation flagship store. Exoskeletons and smart glasses can be tried."
+        },
+        {
+          "start": "16:30",
+          "end": "17:40",
+          "title": "Shenzhen Bay highlights",
+          "note": "Short transfers by chartered car.",
+          "route": [
+            {
+              "time": "16:30",
+              "title": "Shenzhen Bay Culture Plaza (深圳湾文化广场)",
+              "walk": "INNO100 is here",
+              "desc": "A new cultural landmark of Shenzhen. The architecture itself photographs well.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "17:00",
+              "title": "Talent Park and Shenzhen Bay Park (人才公园、深圳湾公园)",
+              "walk": "Drive ~10 min",
+              "desc": "Seafront promenade for sunset; in late December the sun sets around 17:50. After dark, the towers across the water are lit up, best seen from Talent Park.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "17:40",
+          "end": "18:40",
+          "title": "Dinner: Shenzhen Bay area",
+          "food": [
+            {
+              "name": "Runyuan Siji Coconut Chicken (润园四季椰子鸡)",
+              "desc": "Shenzhen's popular coconut chicken hotpot. Light and sweet, not oily; kids usually like the broth."
+            },
+            {
+              "name": "Bahe Li Haiji Beef Hotpot (八合里海记牛肉火锅)",
+              "desc": "Chaoshan beef hotpot: hand-beaten beef balls, diaolong (吊龙) cut."
+            },
+            {
+              "name": "Restaurants at MixC Shenzhen Bay (深圳湾万象城)",
+              "desc": "Many choices in the mall; easy to get back in the car afterwards."
+            }
+          ],
+          "tip": "Coconut chicken and beef hotpot are both chains; the driver should be asked to go to the branch nearest Shenzhen Bay."
+        },
+        {
+          "start": "18:40",
+          "end": "19:15",
+          "title": "Chartered car: Nanshan → Shenzhen North",
+          "note": "Drive ~30 min. When booking, trains from Futian Station (福田站) can also be compared."
+        },
+        {
+          "start": "19:30",
+          "end": "20:05",
+          "title": "HSR: Shenzhen North → Guangzhou South"
+        },
+        {
+          "start": "20:05",
+          "end": "20:50",
+          "title": "Guangzhou South → K Hotel",
+          "note": "Taxi, ~40 min."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Dec 29",
+      "dow": "Tue",
+      "locked": true,
+      "theme": "Wanguo Outlets, Tianhe Road shopping district",
+      "intro": "Today is focused on buying sports shoes and sportswear at the outlets. Wanguo Outlets specialises in sports and leisure brands, mostly brand-operated; Nike and Adidas both have super-flagship discount stores, with tennis shoes, sportswear and kids' clothing and shoes. Choose one of two options: Option A goes to Wanguo Outlets for sports gear; Option B walks the Tianhe Road shopping route near K Hotel. Either way, the hotel is reached by 14:30.",
+      "backup": {
+        "title": "Backup: Shahe Clothing Market (only if more clothes are wanted)",
+        "note": "If energy remains after returning to the hotel in the afternoon, it is ~15 min by taxi from K Hotel. Stalls are fullest in the morning; many close in the afternoon.",
+        "items": [
+          {
+            "start": "15:30",
+            "end": "15:45",
+            "title": "K Hotel → Shahe Clothing Market (沙河服装城)",
+            "note": "Taxi, ~15 min, or metro to Shaheding (沙河顶) station."
+          },
+          {
+            "start": "15:45",
+            "end": "17:15",
+            "title": "Shahe Clothing Market",
+            "note": "T-shirts, denim, casual wear. Low prices; bargaining is expected. Some stalls are already closed by the afternoon.",
+            "tip": "The wholesale market is crowded. Backpacks should be worn on the front and phones kept away."
+          },
+          {
+            "start": "17:15",
+            "end": "17:30",
+            "title": "Shahe → Hotel",
+            "note": "Taxi, ~15 min."
+          }
+        ]
+      },
+      "items": [
+        {
+          "start": "08:30",
+          "end": "09:45",
+          "title": "Sleep in, breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast"
+            },
+            {
+              "name": "Breakfast shops on Tiyu West Road (体育西路)",
+              "desc": "Rice rolls, congee"
+            }
+          ]
+        },
+        {
+          "start": "10:00",
+          "end": "10:30",
+          "title": "K Hotel → Wanguo Outlets (万国奥特莱斯)",
+          "note": "Taxi, ~20–30 min, on Jiangnan Avenue Middle, Haizhu District. Traffic jams start 700–800 m from the mall; it is easier to get out nearby and walk.",
+          "group": "a"
+        },
+        {
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Wanguo Outlets",
+          "note": "The Nike and Adidas super-flagship discount stores are each larger than six basketball courts. Good for sports shoes, tennis shoes and sportswear.",
+          "group": "a",
+          "tip": "Many sports brands also carry kids' clothing and shoes."
+        },
+        {
+          "start": "12:30",
+          "end": "13:30",
+          "title": "Lunch: Wanguo Outlets",
+          "note": "Eaten in the mall.",
+          "group": "a",
+          "food": [
+            {
+              "name": "Restaurants in Wanguo Outlets",
+              "desc": "The mall has a dining area; pick one and sit down."
+            }
+          ]
+        },
+        {
+          "start": "13:30",
+          "end": "14:00",
+          "title": "More shopping or pick up missed items",
+          "group": "a"
+        },
+        {
+          "start": "14:00",
+          "end": "14:30",
+          "title": "Wanguo Outlets → Hotel",
+          "note": "Taxi, ~20–30 min.",
+          "group": "a"
+        },
+        {
+          "start": "10:00",
+          "end": "14:30",
+          "title": "Tianhe Road shopping walk",
+          "note": "The malls are connected or adjacent; the whole route is walked. Lunch at Taikoo Hui or Teemall.",
+          "group": "k",
+          "food": [
+            {
+              "name": "Restaurants at Taikoo Hui (太古汇)",
+              "desc": "Pleasant setting"
+            },
+            {
+              "name": "Teemall and Parc Central food (天河城、天环美食)",
+              "desc": "Chain teahouses, fast food"
+            }
+          ],
+          "route": [
+            {
+              "time": "10:00",
+              "title": "Teemall (天河城)",
+              "walk": "~5 min walk from K Hotel",
+              "desc": "Long-established mall, with New Year decorations at year end.",
+              "tags": [
+                "Must-see",
+                "Shopping"
+              ]
+            },
+            {
+              "time": "10:30",
+              "title": "Parc Central (天环广场)",
+              "walk": "Direct via the underground passage from Teemall",
+              "desc": "Underground mall, relatively quiet.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "11:10",
+              "title": "Taikoo Hui (太古汇)",
+              "walk": "Exit Parc Central and walk east along Tianhe Road, ~10 min",
+              "desc": "High-end brands and strongly design-led shops.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "12:45",
+              "title": "Dessert",
+              "walk": "Inside Taikoo Hui",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "French patisserie at Taikoo Hui (太古汇法式甜品店)",
+                  "desc": "Macarons, French petits gâteaux"
+                }
+              ]
+            },
+            {
+              "time": "13:05",
+              "title": "Wong Chun Loong Herbal Tea (黄振龙凉茶)",
+              "walk": "Search “黄振龙” in Amap and pick the branch near Tianhe Road",
+              "desc": "Herbal jelly (龟苓膏), 24-herb tea (廿四味). Kids can have the milder Xia Sang Ju (夏桑菊).",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "13:30",
+              "title": "Fashion Tianhe (时尚天河)",
+              "walk": "~10 min walk to under Tianhe Sports Center",
+              "desc": "Anime, designer toys, budget shops.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "14:20",
+              "title": "Back to K Hotel",
+              "walk": "~10 min walk"
+            }
+          ]
+        },
+        {
+          "start": "14:30",
+          "end": "18:00",
+          "title": "Rest at the hotel",
+          "note": "A proper afternoon rest; an early start is needed tomorrow for Hong Kong."
+        },
+        {
+          "start": "18:00",
+          "end": "19:30",
+          "title": "Dinner: near the hotel"
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Dec 30",
+      "dow": "Wed",
+      "locked": true,
+      "theme": "Hong Kong day trip",
+      "intro": "Today is about giving the kids a Hong Kong day to remember: the century-old Star Ferry across Victoria Harbour, the Peak Tram up to Victoria Peak, photos with celebrity figures at Madame Tussauds, then a Ding Ding tram across Hong Kong Island. HSR tickets, Peak Tram and Madame Tussauds tickets should all be bought online in advance.",
+      "items": [
+        {
+          "start": "07:00",
+          "end": "07:30",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast"
+            }
+          ]
+        },
+        {
+          "start": "07:30",
+          "end": "08:10",
+          "title": "K Hotel → Guangzhou South Station (广州南站)",
+          "note": "Taxi, ~40 min."
+        },
+        {
+          "start": "08:10",
+          "end": "08:50",
+          "title": "Enter station, security check",
+          "note": "Trains to Hong Kong require earlier arrival; 40 min should be allowed.",
+          "tip": "Documents for entering Hong Kong and returning to the mainland must be carried; check once more before leaving."
+        },
+        {
+          "start": "08:50",
+          "end": "09:40",
+          "title": "HSR: Guangzhou South → Hong Kong West Kowloon (香港西九龙)",
+          "note": "~50 min.",
+          "tip": "HSR tickets should be bought as soon as sales open; year-end tickets sell out fast."
+        },
+        {
+          "start": "09:40",
+          "end": "10:05",
+          "title": "West Kowloon Station border clearance",
+          "note": "Mainland exit and Hong Kong entry are both done inside the station."
+        },
+        {
+          "start": "10:05",
+          "end": "16:05",
+          "title": "Hong Kong route",
+          "route": [
+            {
+              "time": "10:05",
+              "title": "West Kowloon Station → Tsim Sha Tsui",
+              "desc": "Taxi from outside the station, ~15 min."
+            },
+            {
+              "time": "10:20",
+              "title": "Tsim Sha Tsui waterfront and Avenue of Stars (尖沙咀海滨、星光大道)",
+              "desc": "The Central skyline is seen across Victoria Harbour. The Avenue of Stars has a Bruce Lee bronze statue, linking to Bruce Lee's ancestral home visited on the 23rd.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:00",
+              "title": "Star Ferry (天星小轮)",
+              "walk": "Walk to Tsim Sha Tsui pier",
+              "desc": "Century-old ferry; ~10 min across Victoria Harbour.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "11:15",
+              "title": "Lunch: Central (中环)",
+              "walk": "~10 min walk from the pier",
+              "desc": "Eat early to avoid the noon crowds.",
+              "tags": [
+                "Lunch"
+              ],
+              "food": [
+                {
+                  "name": "Kau Kee Beef Brisket (九记牛腩)",
+                  "desc": "Gough Street; clear-broth beef brisket."
+                },
+                {
+                  "name": "Tsim Chai Kee Noodle (沾仔记)",
+                  "desc": "Wellington Street; fresh shrimp wonton noodles."
+                },
+                {
+                  "name": "Lan Fong Yuen (兰芳园)",
+                  "desc": "Silk-stocking milk tea, pork chop bun."
+                }
+              ]
+            },
+            {
+              "time": "12:00",
+              "title": "Tai Cheong Bakery (泰昌饼家)",
+              "walk": "Lyndhurst Terrace (摆花街), ~5 min walk",
+              "desc": "Flaky-pastry egg tarts, bought and eaten on the go.",
+              "tags": [
+                "Dessert"
+              ]
+            },
+            {
+              "time": "12:15",
+              "title": "Peak Tram (山顶缆车)",
+              "walk": "~10 min walk to the Garden Road lower terminus",
+              "desc": "Century-old funicular; the steep tilt of the car on the way up is thrilling and memorable for kids.",
+              "tags": [
+                "Must-see"
+              ],
+              "tip": "Queues can be long. A Madame Tussauds + Peak Tram combo ticket gives access to a dedicated lane."
+            },
+            {
+              "time": "13:00",
+              "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
+              "walk": "Inside The Peak Tower (凌霄阁)",
+              "desc": "Close-up photos with wax figures of celebrities and athletes; a favourite with kids.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "14:00",
+              "title": "Victoria Peak (太平山顶)",
+              "walk": "Outside The Peak Tower",
+              "desc": "Views over Victoria Harbour and all of Hong Kong Island.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "14:20",
+              "title": "Peak Tram down",
+              "walk": "Back to the Garden Road terminus"
+            },
+            {
+              "time": "14:50",
+              "title": "Ding Ding tram (叮叮车)",
+              "walk": "Walk to Des Voeux Road Central to board",
+              "desc": "Century-old tram. Upper deck front row for street views; ~20 min to Wan Chai.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "15:15",
+              "title": "Wan Chai cha chaan teng (湾仔冰室)",
+              "walk": "Get off at Wan Chai",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Pineapple bun with butter, iced lemon tea (菠萝油、冻柠茶)",
+                  "desc": "Hong Kong café essentials",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "15:45",
+              "title": "Wan Chai → West Kowloon Station",
+              "walk": "Taxi, ~20 min"
+            }
+          ]
+        },
+        {
+          "start": "16:05",
+          "end": "16:35",
+          "title": "West Kowloon Station border clearance",
+          "note": "30 min should be allowed."
+        },
+        {
+          "start": "16:50",
+          "end": "17:40",
+          "title": "HSR: West Kowloon → Guangzhou South"
+        },
+        {
+          "start": "17:40",
+          "end": "18:25",
+          "title": "Guangzhou South → K Hotel",
+          "note": "Taxi, ~40 min."
+        },
+        {
+          "start": "18:30",
+          "end": "19:30",
+          "title": "Dinner: near the hotel"
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Dec 31",
+      "dow": "Thu",
+      "theme": "Dian Dou De, New Year's Eve",
+      "items": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "title": "Get up, get ready",
+          "note": "Dian Dou De serves as brunch; no separate breakfast needed."
+        },
+        {
+          "start": "10:00",
+          "end": "10:15",
+          "title": "K Hotel → Dian Dou De (点都德)",
+          "note": "Search “点都德” in Amap, pick the nearest Tianhe branch, and walk over to take a queue number.",
+          "tip": "Calling ahead to ask about reservations can save queuing."
+        },
+        {
+          "start": "10:15",
+          "end": "11:45",
+          "title": "Dim sum brunch: Dian Dou De",
+          "note": "Orders are placed by scanning the QR code at the table; dim sum is made to order.",
+          "food": [
+            {
+              "name": "Golden crispy shrimp red rice roll (金莎红米肠)",
+              "desc": "The most famous signature: pink rice sheet wrapped around crispy shrimp. Must order.",
+              "dish": true
+            },
+            {
+              "name": "Signature shrimp dumplings (招牌虾饺皇)",
+              "desc": "Thin, springy skin; plump shrimp.",
+              "dish": true
+            },
+            {
+              "name": "Honey char siu bao, signature siu mai (蜜汁叉烧包、招牌烧卖)",
+              "desc": "Traditional essentials.",
+              "dish": true
+            },
+            {
+              "name": "Satay beef tripe, steamed chicken feet with lily-bulb sauce (沙爹金钱肚、百合酱蒸凤爪)",
+              "desc": "For those who like bolder flavours.",
+              "dish": true
+            },
+            {
+              "name": "Mango coconut milk layer cake, caramel iced tofu pudding (香芒夹心椰汁糕、焦糖冰豆花)",
+              "desc": "Dessert after the meal.",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "start": "12:00",
+          "end": "16:30",
+          "title": "Tianhe Road shopping walk",
+          "note": "For those who did not do this route on the 29th.",
+          "group": "a",
+          "route": [
+            {
+              "time": "12:00",
+              "title": "Teemall (天河城)",
+              "walk": "~5 min walk from K Hotel",
+              "desc": "Long-established mall, with New Year decorations at year end.",
+              "tags": [
+                "Must-see",
+                "Shopping"
+              ]
+            },
+            {
+              "time": "12:30",
+              "title": "Parc Central (天环广场)",
+              "walk": "Direct via the underground passage from Teemall",
+              "desc": "Underground mall, relatively quiet.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "13:10",
+              "title": "Taikoo Hui (太古汇)",
+              "walk": "Exit Parc Central and walk east along Tianhe Road, ~10 min",
+              "desc": "High-end brands and strongly design-led shops.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "13:45",
+              "title": "Dessert",
+              "walk": "Inside Taikoo Hui",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "French patisserie at Taikoo Hui (太古汇法式甜品店)",
+                  "desc": "Macarons, French petits gâteaux"
+                }
+              ]
+            },
+            {
+              "time": "14:05",
+              "title": "Wong Chun Loong Herbal Tea (黄振龙凉茶)",
+              "walk": "Search “黄振龙” in Amap and pick the branch near Tianhe Road",
+              "desc": "Herbal jelly (龟苓膏), 24-herb tea (廿四味). Kids can have the milder Xia Sang Ju (夏桑菊).",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:30",
+              "title": "Fashion Tianhe (时尚天河)",
+              "walk": "~10 min walk to under Tianhe Sports Center",
+              "desc": "Anime, designer toys, budget shops.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "16:15",
+              "title": "Back to K Hotel",
+              "walk": "~10 min walk"
+            }
+          ]
+        },
+        {
+          "start": "12:00",
+          "end": "16:30",
+          "title": "Free time",
+          "note": "Rest at the hotel or wander nearby.",
+          "group": "k"
+        },
+        {
+          "start": "16:30",
+          "end": "17:30",
+          "title": "Rest at the hotel"
+        },
+        {
+          "start": "17:30",
+          "end": "19:00",
+          "title": "New Year's Eve dinner: eat early",
+          "note": "Restaurants are packed on New Year's Eve; arrive before 17:30, ideally with a booking.",
+          "food": [
+            {
+              "name": "Restaurants at Taikoo Hui (太古汇)",
+              "desc": "Pleasant setting; suited to a proper New Year's Eve meal."
+            },
+            {
+              "name": "Grandview Mall food floor (正佳美食层)",
+              "desc": "Widest choice."
+            }
+          ]
+        },
+        {
+          "start": "19:00",
+          "end": "20:00",
+          "title": "Tianhe Road at night",
+          "note": "New Year lights along Teemall and Grandview. Leave early if it gets crowded.",
+          "optional": true,
+          "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable."
+        },
+        {
+          "start": "20:00",
+          "end": "20:15",
+          "title": "Walk back to the hotel",
+          "note": "The countdown is skipped, avoiding the crowds around Huacheng Square and Canton Tower."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Jan 1",
+      "dow": "Fri",
+      "theme": "Tianhe rest day",
+      "items": [
+        {
+          "start": "09:00",
+          "end": "09:30",
+          "title": "Wake up"
+        },
+        {
+          "start": "09:30",
+          "end": "10:30",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast"
+            },
+            {
+              "name": "Teemall (天河城) / Parc Central (天环) food courts",
+              "desc": "Dim sum at a chain teahouse"
+            }
+          ]
+        },
+        {
+          "start": "10:30",
+          "end": "12:00",
+          "title": "Rest at the hotel or a short walk nearby"
+        },
+        {
+          "start": "12:00",
+          "end": "13:30",
+          "title": "Lunch near the hotel",
+          "food": [
+            {
+              "name": "Teemall (天河城) / Parc Central (天环) food courts",
+              "desc": "Late dim sum brunch"
+            },
+            {
+              "name": "Small eateries on Tiyu West Road (体育西路)"
+            }
+          ]
+        },
+        {
+          "start": "13:30",
+          "end": "17:00",
+          "title": "Slow stroll around K Hotel",
+          "note": "All on foot; return to the hotel whenever tired.",
+          "route": [
+            {
+              "time": "13:30",
+              "title": "Grandview Mall (正佳广场)",
+              "walk": "~10 min walk from K Hotel.",
+              "desc": "Floors missed on the 27th are covered.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "15:00",
+              "title": "Tianhe Sports Center (天河体育中心)",
+              "walk": "~10 min walk.",
+              "desc": "Big lawn and running track; a New Year's Day stroll."
+            },
+            {
+              "time": "15:45",
+              "title": "Teemall (天河城)",
+              "walk": "~10 min walk.",
+              "desc": "Items not bought on earlier days can be picked up.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "16:30",
+              "title": "Mr. Wild Man Gelato (野人先生)",
+              "walk": "Search “野人先生” in Amap; pick a branch around Tianhe Road.",
+              "desc": "Popular Italian-style gelato, made fresh daily, many flavours; tasting is offered.",
+              "tags": [
+                "Dessert"
+              ],
+              "tip": "Flavours can be tasted before choosing."
+            }
+          ]
+        },
+        {
+          "start": "17:00",
+          "end": "17:45",
+          "title": "Back to the hotel to rest",
+          "note": "Gelato just eaten; tong sui is saved for another day."
+        },
+        {
+          "start": "18:00",
+          "end": "19:30",
+          "title": "Dinner",
+          "food": [
+            {
+              "name": "Restaurants at Taikoo Hui (太古汇)",
+              "desc": "A nicer dinner for the first night of the year"
+            },
+            {
+              "name": "Grandview Mall (正佳) food floor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Jan 2",
+      "dow": "Sat",
+      "locked": true,
+      "theme": "Foshan + Shunde day trip",
+      "intro": "Today is about Foshan martial arts and Shunde food. Departure is at 8:00 to catch the 10:00 lion dance and kung fu show at Foshan Ancestral Temple, followed by the Wong Fei-hung Memorial Hall and Ip Man Hall. Midday is spent strolling the old streets of Lingnan Tiandi with lunch, then back to the temple for the weekend-only Cantonese opera at Wanfu Stage. In the afternoon, Qinghui Garden and Huagai Road in Daliang, Shunde, are visited; dinner in Shunde at 17:30, then back to Guangzhou. A chartered car is used all day.",
+      "items": [
+        {
+          "start": "07:15",
+          "end": "07:50",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast",
+              "desc": "Early start; the hotel is quickest"
+            },
+            {
+              "name": "Breakfast shops on Tiyu West Road (体育西路)",
+              "desc": "Rice rolls and congee, taken away into the car"
+            }
+          ]
+        },
+        {
+          "start": "08:00",
+          "end": "09:15",
+          "title": "Chartered car: K Hotel → Foshan Ancestral Temple",
+          "note": "Normally ~50 min–1 h. On the New Year holiday Saturday, traffic to Foshan is heavier and may take ~1 h 15 min, so departure is at 8:00, arriving after 9:00 — in time for the 10:00 lion dance.",
+          "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked."
+        },
+        {
+          "start": "09:15",
+          "end": "11:15",
+          "title": "Foshan Ancestral Temple (佛山祖庙)",
+          "note": "Open 8:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.",
+          "route": [
+            {
+              "time": "09:15",
+              "title": "Main Hall (祖庙大殿)",
+              "desc": "First built in the Northern Song dynasty, dedicated to the god Beidi. Look up at the coloured ceramic ridge figures, plus the wood and brick carvings — the finest Lingnan architecture on site.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "09:45",
+              "title": "Lion dance performance area (醒狮表演场地)",
+              "walk": "The venue is shown on the notice at the entrance.",
+              "desc": "Arrive 15 min early to get front-row spots.",
+              "tip": "Lion dance and kung fu shows are suspended in rain; venue and times are per the temple's notice on the day."
+            },
+            {
+              "time": "10:00",
+              "title": "Lion dance and kung fu show (醒狮、武术表演)",
+              "desc": "Daily 10:00–10:40, with afternoon shows at 14:15 and 15:30. Crowded over New Year, so spots should be taken early.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "10:45",
+              "title": "Wong Fei-hung Memorial Hall (黄飞鸿纪念馆)",
+              "walk": "~5 min walk inside the grounds.",
+              "desc": "The life and kung fu of Foshan martial arts master Wong Fei-hung.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "11:05",
+              "title": "Ip Man Hall (叶问堂)",
+              "walk": "~5 min walk inside the grounds.",
+              "desc": "Memorial hall for Wing Chun master Ip Man; wooden training dummies are available for photos.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "11:15",
+          "end": "15:00",
+          "title": "Lingnan Tiandi (岭南天地): stroll and lunch",
+          "note": "~10 min walk from the temple; no car needed. This is Foshan's best-preserved old town quarter, so nearly four hours are allowed.",
+          "route": [
+            {
+              "time": "11:15",
+              "title": "Clock Tower (钟楼)",
+              "desc": "Lingnan Tiandi's landmark on the central axis; the walls carry ceramic sculptures and “double happiness” tile patterns.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:30",
+              "title": "Jian Family Villas (简氏别墅)",
+              "walk": "~3 min walk.",
+              "desc": "Western-style buildings built by the Jian brothers, founders of Double Happiness cigarettes — Foshan's largest surviving early-Republic villa complex. The balconied “Young Ladies' Tower” is where unmarried daughters once watched the street.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "11:55",
+              "title": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
+              "walk": "~3 min walk.",
+              "desc": "Two-storey white building mixing Chinese and Western styles, on the site of a Qing-dynasty literati garden; exhibitions are often held.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "12:10",
+              "title": "Wedding House (嫁娶屋, 文会里)",
+              "walk": "~5 min walk.",
+              "desc": "A house once used for weddings; traditional wedding dress and a bridal sedan chair can be tried for photos.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "12:30",
+              "title": "Lunch",
+              "walk": "Inside the quarter.",
+              "tags": [
+                "Lunch"
+              ],
+              "tip": "These names come from older guides; check what is open on the day.",
+              "food": [
+                {
+                  "name": "Hang Wan Lau (行运楼)",
+                  "desc": "Cantonese, proper sit-down meal"
+                },
+                {
+                  "name": "Taigenbao Rice-free Congee (太艮堡毋米粥)",
+                  "desc": "Shunde cuisine; signature is a congee hotpot made with rice broth only"
+                }
+              ]
+            },
+            {
+              "time": "13:30",
+              "title": "Cantonese opera at Wanfu Stage (万福台)",
+              "walk": "~10 min walk back to the temple.",
+              "desc": "Weekend afternoons 13:30–15:30 on a Qing-dynasty opera stage. About half an hour is enough to get a feel for Lingnan opera.",
+              "tags": [
+                "Must-see"
+              ],
+              "tip": "Re-entry to the temple may require a ticket; ask at morning entry whether re-entry is allowed. Show times are per the notice on the day."
+            },
+            {
+              "time": "14:10",
+              "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
+              "walk": "~10 min walk back to Lingnan Tiandi.",
+              "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:20",
+              "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
+              "walk": "Inside the quarter.",
+              "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
+              "tags": [
+                "Shopping"
+              ]
+            },
+            {
+              "time": "14:35",
+              "title": "China Seasoning Culture Museum (中国调味文化馆)",
+              "walk": "Short walk inside the quarter.",
+              "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:45",
+              "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
+              "walk": "~3 min walk.",
+              "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Ten minutes is enough.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:55",
+              "title": "Back to the chartered car"
+            }
+          ]
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "title": "Chartered car: Foshan → Daliang, Shunde",
+          "note": "~45 min–1 h drive."
+        },
+        {
+          "start": "16:00",
+          "end": "17:30",
+          "title": "Daliang: Qinghui Garden and Huagai Road",
+          "note": "All on foot after drop-off.",
+          "route": [
+            {
+              "time": "16:00",
+              "title": "Qinghui Garden (清晖园)",
+              "desc": "One of the Four Great Gardens of Lingnan: small bridges, streams, bamboo, carved windows. A loop takes ~50 min.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ],
+              "tip": "The garden closes in the early evening; check the last-entry time at the gate on arrival."
+            },
+            {
+              "time": "16:55",
+              "title": "Huagai Road Pedestrian Street (华盖路步行街)",
+              "walk": "~10 min walk.",
+              "desc": "Daliang's oldest arcade street; short, 30–40 min is enough. Lined with old brands, snack shops and souvenir shops; a beef offal stall nearby is good for a skewer on the go.",
+              "tags": [
+                "Photos",
+                "Shopping"
+              ]
+            },
+            {
+              "time": "17:15",
+              "title": "Lunjiao cake (伦教糕) and souvenirs",
+              "walk": "Bakeries on Huagai Road.",
+              "desc": "Shunde's white sugar cake, lightly sweet and slightly tangy; some can be bought as gifts.",
+              "tags": [
+                "Shopping"
+              ]
+            }
+          ]
+        },
+        {
+          "start": "17:25",
+          "end": "17:30",
+          "title": "Walk to dinner",
+          "note": "Both restaurants are a few minutes' walk from Qinghui Garden and Huagai Road."
+        },
+        {
+          "start": "17:30",
+          "end": "18:20",
+          "title": "Dinner: cooked Shunde dishes",
+          "note": "Both serve cooked food only, so no concern about kids and raw fish.",
+          "food": [
+            {
+              "name": "Xiangyunsha Garden Hotel (香云纱园林酒店)",
+              "desc": "25 Qinghui Road, right next to Qinghui Garden; a long-standing Shunde name. Recommended: open-fire roast goose, fried shrimp cake with stir-fried milk"
+            },
+            {
+              "name": "Daliang Rongbian Spare Rib Rice, Branch 3 (大良容边排骨饭（三店）)",
+              "desc": "2/F Guangfeng Building, beside Qinghui Garden and Huagai Road. Signatures: steamed spare rib rice, sizzling clay pots, meatball soup, with double-skin milk to finish"
+            }
+          ],
+          "tip": "Rongbian Branch 3 opens for dinner at 17:30, so arriving then means no queue. Tel 13450801998."
+        },
+        {
+          "start": "18:20",
+          "end": "18:30",
+          "title": "Back to the chartered car"
+        },
+        {
+          "start": "18:30",
+          "end": "20:00",
+          "title": "Chartered car: Shunde → Guangzhou",
+          "note": "Evening rush is not fully over at 18:30; ~1 h 20 min–1 h 30 min expected, back at the hotel around 19:50–20:00.",
+          "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Jan 3",
+      "dow": "Sun",
+      "theme": "Baima & Hongmian, afternoon TBC, Pearl River night cruise",
+      "items": [
+        {
+          "start": "08:30",
+          "end": "09:30",
+          "title": "Breakfast",
+          "food": [
+            {
+              "name": "Hotel breakfast"
+            }
+          ]
+        },
+        {
+          "start": "09:30",
+          "end": "10:00",
+          "title": "K Hotel → Guangzhou Railway Station",
+          "note": "Metro ~25 min to Guangzhou Railway Station (广州火车站), or taxi ~20 min."
+        },
+        {
+          "start": "10:00",
+          "end": "12:00",
+          "title": "Baima Clothing Market (白马服装市场) and Hongmian International Fashion City (红棉国际时装城)",
+          "note": "Both buildings are next to Guangzhou Railway Station. Baima leans mid-to-upper-range workwear for women; Hongmian leans trendy. Many stalls sell single pieces, and bargaining is accepted.",
+          "tip": "Busy on Sunday mornings; backpacks should be worn on the front. Ask the price before deciding."
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Lunch: around Guangzhou Railway Station",
+          "food": [
+            {
+              "name": "Cha chaan teng (茶餐厅) along Liuhua Road (流花路)",
+              "desc": "A bowl of noodles or roast meat rice, quick"
+            },
+            {
+              "name": "Fast food inside the malls",
+              "desc": "Eat at the nearest mall around Baima and Hongmian"
+            },
+            {
+              "name": "Flaky pastries from a bakery",
+              "desc": "For a light bite, egg tarts and flaky buns are enough"
+            }
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "17:30",
+          "title": "TBC"
+        },
+        {
+          "start": "17:45",
+          "end": "18:30",
+          "title": "Dinner: near the hotel"
+        },
+        {
+          "start": "18:30",
+          "end": "18:55",
+          "title": "Hotel → Tianzi Pier (天字码头)",
+          "note": "Taxi, ~25 min."
+        },
+        {
+          "start": "19:00",
+          "end": "20:30",
+          "title": "Pearl River night cruise (珠江夜游)",
+          "note": "Tickets and pier should be confirmed in advance.",
+          "tip": "Be at the pier 20 min before departure; it is windy on board, so bring a jacket."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Jan 4",
+      "dow": "Mon",
+      "locked": true,
+      "theme": "Free and easy",
+      "intro": "No plans today: sleep in, wander near the hotel, or pick up last souvenirs. Only two fixed tasks: the last load of laundry in the morning, and packing in the evening with an early night — departure for the airport is at 05:00 tomorrow.",
+      "items": [
+        {
+          "start": "09:30",
+          "end": "11:30",
+          "title": "Laundry",
+          "note": "Last wash; clothes will be fully dry before tomorrow's departure."
+        },
+        {
+          "start": "19:00",
+          "end": "21:00",
+          "title": "Pack and sleep early",
+          "note": "Departure for the airport at 05:00 tomorrow. A breakfast box can be requested from reception, and tomorrow's car should be booked in advance.",
+          "tip": "Passports, power banks and daily medicines go in the carry-on; checked bags should be closed up the night before."
+        }
+      ]
+    },
+    {
+      "stay": 2,
+      "date": "Jan 5",
+      "dow": "Tue",
+      "locked": true,
+      "theme": "Departure day",
+      "items": [
+        {
+          "start": "04:30",
+          "end": "05:00",
+          "title": "Wake up, check out",
+          "note": "Luggage packed the night before; collect the breakfast box from reception."
+        },
+        {
+          "start": "05:00",
+          "end": "05:45",
+          "title": "K Hotel → Baiyun Airport (白云机场)",
+          "note": "Taxi, ~45 min; usually no traffic early morning. The car booked the night before is used.",
+          "tip": "The car should be booked in the ride-hailing app the night before, to avoid finding none at dawn."
+        },
+        {
+          "start": "05:45",
+          "end": "08:00",
+          "title": "Check-in, bag drop, security",
+          "note": "~2 h 45 min allowed, as for international flights; breakfast at the airport."
+        },
+        {
+          "start": "08:30",
+          "end": "08:30",
+          "title": "Flight departs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+[
+  { "id": "shangxiajiu", "aliases": ["上下九：逛街、晚餐、甜品"] },
+  { "id": "beijing-road", "aliases": ["北京路：大佛寺、逛街、晚餐、甜品"] },
+  { "id": "panda-hotel-restaurant", "aliases": ["熊猫酒店自助早餐"] },
+  { "id": "hong-kong-west-kowloon-station", "aliases": ["西九龙站通关"] },
+  {
+    "id": "nanxin-dessert",
+    "aliases": ["南信甜品"],
+    "kind": "food",
+    "name": { "en": "Nanxin Dessert", "zh": "南信甜品" },
+    "city": "Guangzhou",
+    "query": "南信牛奶甜品专家 第十甫路 荔湾区 广州",
+    "lat": 23.1203, "lng": 113.2497,
+    "summary": { "en": "Xiguan's best-known milk-dessert shop, on Dishifu Road.", "zh": "西关最有名的牛奶甜品店，就在第十甫路。" },
+    "why": {
+      "en": "Double-skin milk custard is made fresh here from buffalo milk and served warm or chilled. The texture is silkier and the milk flavour stronger than chain versions. It is a 2-minute walk from the Shangxiajiu arcades, so it is easily fitted in.",
+      "zh": "双皮奶用水牛奶现做，冷热都有，口感比连锁店更滑、奶味更浓。离上下九骑楼只要步行两分钟，顺路就能吃。"
+    },
+    "highlights": {
+      "en": ["Operating since the 1940s", "Desserts made from buffalo milk", "Steps from Shangxiajiu Pedestrian Street"],
+      "zh": ["上世纪四十年代开业", "水牛奶做的甜品", "紧邻上下九步行街"]
+    },
+    "mustTry": {
+      "en": ["Double-skin milk (双皮奶)", "Ginger milk curd (姜撞奶)", "Red bean milk custard (红豆双皮奶)"],
+      "zh": ["双皮奶", "姜撞奶", "红豆双皮奶"]
+    },
+    "tips": { "en": "Queues form after dinner; turnover is fast.", "zh": "晚饭后会排队，但翻台很快。" }
+  },
+  {
+    "id": "baihua-dessert",
+    "aliases": ["百花甜品"],
+    "kind": "food",
+    "name": { "en": "Baihua Dessert", "zh": "百花甜品" },
+    "city": "Guangzhou",
+    "query": "百花甜品 文明路 越秀区 广州",
+    "lat": 23.1235, "lng": 113.2748,
+    "summary": { "en": "Old-school tong sui (sweet soup) shop on Wenming Road's dessert street.", "zh": "文明路甜品街上的老字号糖水铺。" },
+    "why": {
+      "en": "Wenming Road is Guangzhou's dessert street, and Baihua is its long-standing anchor. Its sesame and almond pastes are stone-ground and served hot, which is right for a December evening after Beijing Road.",
+      "zh": "文明路是广州的甜品街，百花是街上的老牌店。芝麻糊、杏仁糊用石磨磨制，热腾腾端上来，十二月逛完北京路吃一碗刚好。"
+    },
+    "highlights": {
+      "en": ["Wenming Road's classic tong sui shop", "Hot sweet soups for winter", "A 10-minute walk from Beijing Road"],
+      "zh": ["文明路的经典糖水铺", "冬天适合吃热糖水", "从北京路步行约10分钟"]
+    },
+    "mustTry": {
+      "en": ["Black sesame paste (芝麻糊)", "Almond paste (杏仁糊)", "Coconut milk sago (椰汁西米露)"],
+      "zh": ["芝麻糊", "杏仁糊", "椰汁西米露"]
+    }
+  },
+  {
+    "id": "lingnan-tiandi",
+    "aliases": ["岭南天地：逛街加午餐"],
+    "kind": "sight",
+    "name": { "en": "Lingnan Tiandi", "zh": "岭南天地" },
+    "city": "Foshan",
+    "query": "Lingnan Tiandi, Chancheng, Foshan",
+    "lat": 23.0325, "lng": 113.115,
+    "summary": { "en": "Foshan's restored old quarter: grey-brick lanes, Republic-era villas and food.", "zh": "佛山修复的老城区：青砖巷子、民国洋楼和美食。" },
+    "why": {
+      "en": "Lingnan Tiandi is Foshan's best-preserved old town block, set right beside the Ancestral Temple. Qing-dynasty houses, the Jian family villas and the Wedding House are all within a few minutes' walk. Lunch, local snacks and Foshan souvenirs are found in the same lanes, so no car is needed until mid-afternoon.",
+      "zh": "岭南天地是佛山保留最完整的老城街区，紧挨祖庙。清代民居、简氏别墅、嫁娶屋都在步行几分钟内；午餐、小吃和佛山手信也在同一片巷子里，下午之前都不用坐车。"
+    },
+    "highlights": {
+      "en": ["Next to the Ancestral Temple", "Qing and Republic-era architecture", "Blind-man cakes and other Foshan souvenirs"],
+      "zh": ["紧邻祖庙", "清代和民国建筑", "盲公饼等佛山手信"]
+    }
+  }
+]

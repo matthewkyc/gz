@@ -1,0 +1,120 @@
+{
+  "stay": 2,
+  "date": "Dec 27",
+  "dow": "Sun",
+  "locked": true,
+  "theme": "Slow checkout, Grandview Mall",
+  "items": [
+    {
+      "start": "07:45",
+      "end": "08:45",
+      "title": "Breakfast: eat well",
+      "note": "Lunch is not until 13:30, so eat more at breakfast and take some fruit and bread as snacks.",
+      "food": [
+        {
+          "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+        }
+      ]
+    },
+    {
+      "start": "08:45",
+      "end": "11:00",
+      "title": "Last morning at the Panda Hotel",
+      "note": "No rush: panda-themed décor photos, time in the hotel kids' area, or rest in the room."
+    },
+    {
+      "start": "11:00",
+      "end": "12:00",
+      "title": "Pack, check out",
+      "note": "Panda Hotel checkout is 12:00 at the latest.",
+      "tip": "Check the room before leaving; Chimelong souvenirs are easily left behind."
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Panda Hotel → K Hotel",
+      "note": "Taxi, ~50 min–1 hr. Navigate to “From K Hotel 体育西路”. With many bags, book a 6-seater."
+    },
+    {
+      "start": "13:00",
+      "end": "13:20",
+      "title": "Check in or store luggage",
+      "note": "If early check-in is not available, luggage is stored."
+    },
+    {
+      "start": "13:20",
+      "end": "13:30",
+      "title": "Walk to Grandview Mall (正佳广场)",
+      "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch."
+    },
+    {
+      "start": "13:30",
+      "end": "14:30",
+      "title": "Lunch: Tao Tao Ju (陶陶居), Grandview Mall branch",
+      "note": "Grandview Mall 6F, unit 6C059. Sunday lunch is busy; call before leaving Chimelong to check the queue: 020-38373301.",
+      "food": [
+        {
+          "name": "Shrimp dumplings (鲜虾饺皇)",
+          "desc": "Essential at any teahouse",
+          "dish": true
+        },
+        {
+          "name": "Char siu buns, chicken feet (叉烧包、凤爪)",
+          "desc": "Classic dim sum",
+          "dish": true
+        },
+        {
+          "name": "Malay sponge cake, red rice roll (马拉糕、红米肠)",
+          "desc": "One sweet, one savoury",
+          "dish": true
+        }
+      ],
+      "tip": "Dishes already eaten at the Dishifu Road flagship on the 23rd can be swapped for others this time."
+    },
+    {
+      "start": "14:30",
+      "end": "17:15",
+      "title": "Grandview 3F: sports brands",
+      "note": "Tennis shoes and sportswear. If time allows, neighbouring Teemall (天河城) and Parc Central (天环广场) are worth a look.",
+      "group": "a"
+    },
+    {
+      "start": "14:30",
+      "end": "17:15",
+      "title": "Fashion Tianhe (时尚天河): anime, collectible toys",
+      "note": "~10 min walk from Grandview to beneath Tianhe Sports Center. Anime, designer toys and budget shops are concentrated here.",
+      "group": "k",
+      "tip": "Children should be accompanied by an adult or older teen."
+    },
+    {
+      "start": "17:15",
+      "end": "17:30",
+      "title": "Walk back to hotel",
+      "note": "Either option: walk back to the hotel, ~10 min."
+    },
+    {
+      "start": "17:30",
+      "end": "18:30",
+      "title": "Laundry, rest"
+    },
+    {
+      "start": "18:30",
+      "end": "19:45",
+      "title": "Dinner: near the hotel",
+      "food": [
+        {
+          "name": "Grandview 5F–7F restaurants (正佳五至七楼餐厅)",
+          "desc": "Grandview's main dining floors, all cuisines; ~10 min walk"
+        },
+        {
+          "name": "Chinese restaurant, Grandview Marriott (正佳万豪酒店中餐厅)",
+          "desc": "Right beside Grandview Mall; suited to a proper Cantonese meal"
+        },
+        {
+          "name": "Tiyu Xilu local eateries (体育西路小馆)",
+          "desc": "Neighbourhood roast meats and claypot congee; nearest and fastest"
+        }
+      ]
+    }
+  ]
+}

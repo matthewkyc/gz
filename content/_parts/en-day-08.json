@@ -1,0 +1,185 @@
+{
+  "stay": 2,
+  "date": "Dec 29",
+  "dow": "Tue",
+  "locked": true,
+  "theme": "Wanguo Outlets, Tianhe Road shopping district",
+  "intro": "Today is focused on buying sports shoes and sportswear at the outlets. Wanguo Outlets specialises in sports and leisure brands, mostly brand-operated; Nike and Adidas both have super-flagship discount stores, with tennis shoes, sportswear and kids' clothing and shoes. Choose one of two options: Option A goes to Wanguo Outlets for sports gear; Option B walks the Tianhe Road shopping route near K Hotel. Either way, the hotel is reached by 14:30.",
+  "backup": {
+    "title": "Backup: Shahe Clothing Market (only if more clothes are wanted)",
+    "note": "If energy remains after returning to the hotel in the afternoon, it is ~15 min by taxi from K Hotel. Stalls are fullest in the morning; many close in the afternoon.",
+    "items": [
+      {
+        "start": "15:30",
+        "end": "15:45",
+        "title": "K Hotel → Shahe Clothing Market (沙河服装城)",
+        "note": "Taxi, ~15 min, or metro to Shaheding (沙河顶) station."
+      },
+      {
+        "start": "15:45",
+        "end": "17:15",
+        "title": "Shahe Clothing Market",
+        "note": "T-shirts, denim, casual wear. Low prices; bargaining is expected. Some stalls are already closed by the afternoon.",
+        "tip": "The wholesale market is crowded. Backpacks should be worn on the front and phones kept away."
+      },
+      {
+        "start": "17:15",
+        "end": "17:30",
+        "title": "Shahe → Hotel",
+        "note": "Taxi, ~15 min."
+      }
+    ]
+  },
+  "items": [
+    {
+      "start": "08:30",
+      "end": "09:45",
+      "title": "Sleep in, breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast"
+        },
+        {
+          "name": "Breakfast shops on Tiyu West Road (体育西路)",
+          "desc": "Rice rolls, congee"
+        }
+      ]
+    },
+    {
+      "start": "10:00",
+      "end": "10:30",
+      "title": "K Hotel → Wanguo Outlets (万国奥特莱斯)",
+      "note": "Taxi, ~20–30 min, on Jiangnan Avenue Middle, Haizhu District. Traffic jams start 700–800 m from the mall; it is easier to get out nearby and walk.",
+      "group": "a"
+    },
+    {
+      "start": "10:30",
+      "end": "12:30",
+      "title": "Wanguo Outlets",
+      "note": "The Nike and Adidas super-flagship discount stores are each larger than six basketball courts. Good for sports shoes, tennis shoes and sportswear.",
+      "group": "a",
+      "tip": "Many sports brands also carry kids' clothing and shoes."
+    },
+    {
+      "start": "12:30",
+      "end": "13:30",
+      "title": "Lunch: Wanguo Outlets",
+      "note": "Eaten in the mall.",
+      "group": "a",
+      "food": [
+        {
+          "name": "Restaurants in Wanguo Outlets",
+          "desc": "The mall has a dining area; pick one and sit down."
+        }
+      ]
+    },
+    {
+      "start": "13:30",
+      "end": "14:00",
+      "title": "More shopping or pick up missed items",
+      "group": "a"
+    },
+    {
+      "start": "14:00",
+      "end": "14:30",
+      "title": "Wanguo Outlets → Hotel",
+      "note": "Taxi, ~20–30 min.",
+      "group": "a"
+    },
+    {
+      "start": "10:00",
+      "end": "14:30",
+      "title": "Tianhe Road shopping walk",
+      "note": "The malls are connected or adjacent; the whole route is walked. Lunch at Taikoo Hui or Teemall.",
+      "group": "k",
+      "food": [
+        {
+          "name": "Restaurants at Taikoo Hui (太古汇)",
+          "desc": "Pleasant setting"
+        },
+        {
+          "name": "Teemall and Parc Central food (天河城、天环美食)",
+          "desc": "Chain teahouses, fast food"
+        }
+      ],
+      "route": [
+        {
+          "time": "10:00",
+          "title": "Teemall (天河城)",
+          "walk": "~5 min walk from K Hotel",
+          "desc": "Long-established mall, with New Year decorations at year end.",
+          "tags": [
+            "Must-see",
+            "Shopping"
+          ]
+        },
+        {
+          "time": "10:30",
+          "title": "Parc Central (天环广场)",
+          "walk": "Direct via the underground passage from Teemall",
+          "desc": "Underground mall, relatively quiet.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "11:10",
+          "title": "Taikoo Hui (太古汇)",
+          "walk": "Exit Parc Central and walk east along Tianhe Road, ~10 min",
+          "desc": "High-end brands and strongly design-led shops.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "12:45",
+          "title": "Dessert",
+          "walk": "Inside Taikoo Hui",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "French patisserie at Taikoo Hui (太古汇法式甜品店)",
+              "desc": "Macarons, French petits gâteaux"
+            }
+          ]
+        },
+        {
+          "time": "13:05",
+          "title": "Wong Chun Loong Herbal Tea (黄振龙凉茶)",
+          "walk": "Search “黄振龙” in Amap and pick the branch near Tianhe Road",
+          "desc": "Herbal jelly (龟苓膏), 24-herb tea (廿四味). Kids can have the milder Xia Sang Ju (夏桑菊).",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "13:30",
+          "title": "Fashion Tianhe (时尚天河)",
+          "walk": "~10 min walk to under Tianhe Sports Center",
+          "desc": "Anime, designer toys, budget shops.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "14:20",
+          "title": "Back to K Hotel",
+          "walk": "~10 min walk"
+        }
+      ]
+    },
+    {
+      "start": "14:30",
+      "end": "18:00",
+      "title": "Rest at the hotel",
+      "note": "A proper afternoon rest; an early start is needed tomorrow for Hong Kong."
+    },
+    {
+      "start": "18:00",
+      "end": "19:30",
+      "title": "Dinner: near the hotel"
+    }
+  ]
+}

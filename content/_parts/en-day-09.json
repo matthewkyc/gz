@@ -1,0 +1,193 @@
+{
+  "stay": 2,
+  "date": "Dec 30",
+  "dow": "Wed",
+  "locked": true,
+  "theme": "Hong Kong day trip",
+  "intro": "Today is about giving the kids a Hong Kong day to remember: the century-old Star Ferry across Victoria Harbour, the Peak Tram up to Victoria Peak, photos with celebrity figures at Madame Tussauds, then a Ding Ding tram across Hong Kong Island. HSR tickets, Peak Tram and Madame Tussauds tickets should all be bought online in advance.",
+  "items": [
+    {
+      "start": "07:00",
+      "end": "07:30",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast"
+        }
+      ]
+    },
+    {
+      "start": "07:30",
+      "end": "08:10",
+      "title": "K Hotel → Guangzhou South Station (广州南站)",
+      "note": "Taxi, ~40 min."
+    },
+    {
+      "start": "08:10",
+      "end": "08:50",
+      "title": "Enter station, security check",
+      "note": "Trains to Hong Kong require earlier arrival; 40 min should be allowed.",
+      "tip": "Documents for entering Hong Kong and returning to the mainland must be carried; check once more before leaving."
+    },
+    {
+      "start": "08:50",
+      "end": "09:40",
+      "title": "HSR: Guangzhou South → Hong Kong West Kowloon (香港西九龙)",
+      "note": "~50 min.",
+      "tip": "HSR tickets should be bought as soon as sales open; year-end tickets sell out fast."
+    },
+    {
+      "start": "09:40",
+      "end": "10:05",
+      "title": "West Kowloon Station border clearance",
+      "note": "Mainland exit and Hong Kong entry are both done inside the station."
+    },
+    {
+      "start": "10:05",
+      "end": "16:05",
+      "title": "Hong Kong route",
+      "route": [
+        {
+          "time": "10:05",
+          "title": "West Kowloon Station → Tsim Sha Tsui",
+          "desc": "Taxi from outside the station, ~15 min."
+        },
+        {
+          "time": "10:20",
+          "title": "Tsim Sha Tsui waterfront and Avenue of Stars (尖沙咀海滨、星光大道)",
+          "desc": "The Central skyline is seen across Victoria Harbour. The Avenue of Stars has a Bruce Lee bronze statue, linking to Bruce Lee's ancestral home visited on the 23rd.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "11:00",
+          "title": "Star Ferry (天星小轮)",
+          "walk": "Walk to Tsim Sha Tsui pier",
+          "desc": "Century-old ferry; ~10 min across Victoria Harbour.",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "11:15",
+          "title": "Lunch: Central (中环)",
+          "walk": "~10 min walk from the pier",
+          "desc": "Eat early to avoid the noon crowds.",
+          "tags": [
+            "Lunch"
+          ],
+          "food": [
+            {
+              "name": "Kau Kee Beef Brisket (九记牛腩)",
+              "desc": "Gough Street; clear-broth beef brisket."
+            },
+            {
+              "name": "Tsim Chai Kee Noodle (沾仔记)",
+              "desc": "Wellington Street; fresh shrimp wonton noodles."
+            },
+            {
+              "name": "Lan Fong Yuen (兰芳园)",
+              "desc": "Silk-stocking milk tea, pork chop bun."
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "title": "Tai Cheong Bakery (泰昌饼家)",
+          "walk": "Lyndhurst Terrace (摆花街), ~5 min walk",
+          "desc": "Flaky-pastry egg tarts, bought and eaten on the go.",
+          "tags": [
+            "Dessert"
+          ]
+        },
+        {
+          "time": "12:15",
+          "title": "Peak Tram (山顶缆车)",
+          "walk": "~10 min walk to the Garden Road lower terminus",
+          "desc": "Century-old funicular; the steep tilt of the car on the way up is thrilling and memorable for kids.",
+          "tags": [
+            "Must-see"
+          ],
+          "tip": "Queues can be long. A Madame Tussauds + Peak Tram combo ticket gives access to a dedicated lane."
+        },
+        {
+          "time": "13:00",
+          "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
+          "walk": "Inside The Peak Tower (凌霄阁)",
+          "desc": "Close-up photos with wax figures of celebrities and athletes; a favourite with kids.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "14:00",
+          "title": "Victoria Peak (太平山顶)",
+          "walk": "Outside The Peak Tower",
+          "desc": "Views over Victoria Harbour and all of Hong Kong Island.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "14:20",
+          "title": "Peak Tram down",
+          "walk": "Back to the Garden Road terminus"
+        },
+        {
+          "time": "14:50",
+          "title": "Ding Ding tram (叮叮车)",
+          "walk": "Walk to Des Voeux Road Central to board",
+          "desc": "Century-old tram. Upper deck front row for street views; ~20 min to Wan Chai.",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "15:15",
+          "title": "Wan Chai cha chaan teng (湾仔冰室)",
+          "walk": "Get off at Wan Chai",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "Pineapple bun with butter, iced lemon tea (菠萝油、冻柠茶)",
+              "desc": "Hong Kong café essentials",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "time": "15:45",
+          "title": "Wan Chai → West Kowloon Station",
+          "walk": "Taxi, ~20 min"
+        }
+      ]
+    },
+    {
+      "start": "16:05",
+      "end": "16:35",
+      "title": "West Kowloon Station border clearance",
+      "note": "30 min should be allowed."
+    },
+    {
+      "start": "16:50",
+      "end": "17:40",
+      "title": "HSR: West Kowloon → Guangzhou South"
+    },
+    {
+      "start": "17:40",
+      "end": "18:25",
+      "title": "Guangzhou South → K Hotel",
+      "note": "Taxi, ~40 min."
+    },
+    {
+      "start": "18:30",
+      "end": "19:30",
+      "title": "Dinner: near the hotel"
+    }
+  ]
+}

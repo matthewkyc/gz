@@ -1,0 +1,290 @@
+{
+  "date": "Dec 22",
+  "dow": "Tue",
+  "locked": true,
+  "theme": "Shamian, Canton Tower, Beijing Road in the evening",
+  "pace": "Taxi / metro per leg; no full-day car",
+  "stay": 0,
+  "items": [
+    {
+      "start": "08:00",
+      "end": "09:00",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast",
+          "desc": "Saves the most time"
+        },
+        {
+          "name": "Yinji Rice Rolls (银记肠粉)",
+          "desc": "Original shop on Wenchang North Road. Shrimp rice rolls, beef rice rolls."
+        },
+        {
+          "name": "Ng Zham Kee (伍湛记)",
+          "desc": "Jidi congee (及第粥) with fried dough sticks (油条)"
+        }
+      ]
+    },
+    {
+      "start": "09:00",
+      "end": "09:20",
+      "title": "Hotel → Shamian",
+      "note": "Taxi, ~10–15 min. Navigate to “沙面大街”. The morning is spent on foot on the island; no further rides needed.",
+      "tip": "Shamian is quiet in the morning; arriving after 9 is best for photos."
+    },
+    {
+      "start": "09:20",
+      "end": "11:45",
+      "title": "Shamian Island walking route",
+      "note": "The island is small and the route is a loop; easy to follow.",
+      "route": [
+        {
+          "time": "09:20",
+          "title": "Shamian Street (沙面大街)",
+          "desc": "From the drop-off, walk along Shamian Street, the island's central avenue, lined with large banyan trees."
+        },
+        {
+          "time": "09:30",
+          "title": "European-style buildings (欧陆建筑群)",
+          "walk": "~30 min, viewed while walking",
+          "desc": "Former consulates, trading houses and banks from a century ago, each with a plaque at the door. Best spot for photos.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ]
+        },
+        {
+          "time": "10:00",
+          "title": "Our Lady of Lourdes Chapel (露德天主教圣母堂)",
+          "walk": "On Shamian Street",
+          "desc": "Small cream-white church; photos from outside are enough.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ]
+        },
+        {
+          "time": "10:15",
+          "title": "Bronze statues (铜像雕塑)",
+          "walk": "Spread along the streets",
+          "desc": "Many life-size bronze figures stand on the streets. Kids can hunt for them and pose with each; whoever finds the most wins.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "10:45",
+          "title": "Shamian Park (沙面公园)",
+          "walk": "Walk ~5 min",
+          "desc": "Small park with lawns and benches; kids can rest and run around."
+        },
+        {
+          "time": "11:05",
+          "title": "Pearl River promenade (珠江边步道)",
+          "walk": "Head south to the riverside on Shamian South Street",
+          "desc": "A slow walk along the river, watching the Pearl River and passing boats.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "11:30",
+          "title": "White Swan Hotel lobby (白天鹅宾馆大堂)",
+          "walk": "At the end of the riverside promenade",
+          "desc": "See the lobby's “故乡水” (Homeland Waters) garden and river views; no purchase required. Lunch is here or nearby.",
+          "tags": [
+            "Photo spot"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "11:45",
+      "end": "12:45",
+      "title": "Lunch: Shamian",
+      "note": "Eat early; depart for Canton Tower at 12:45.",
+      "food": [
+        {
+          "name": "Jade River at the White Swan Hotel (白天鹅宾馆 玉堂春暖)",
+          "desc": "Inside the hotel; dim sum with river views. Booking recommended."
+        },
+        {
+          "name": "Shamian Island cafés (沙面岛咖啡馆)",
+          "desc": "Several cafés and Western restaurants on the island; light meals."
+        },
+        {
+          "name": "Shamian riverside Western restaurants (沙面江边西餐厅)",
+          "desc": "Around Shamian South Street; outdoor seating facing the river."
+        }
+      ]
+    },
+    {
+      "start": "12:45",
+      "end": "13:15",
+      "title": "Shamian → Canton Tower",
+      "note": "Taxi from the White Swan Hotel entrance, ~25 min. Navigate to “广州塔”. The afternoon is on foot until Huacheng Square, where the next ride is taken."
+    },
+    {
+      "start": "13:15",
+      "end": "15:15",
+      "title": "Canton Tower, Haixin Bridge, Huacheng Square",
+      "note": "All on foot, from the south bank of the Pearl River to the north bank.",
+      "route": [
+        {
+          "time": "13:15",
+          "title": "Canton Tower observation deck (广州塔登塔)",
+          "desc": "Lift to the observation level; all of Guangzhou seen from over 400 m. Tickets should be bought in advance via official channels.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ],
+          "tip": "Visibility is poor on overcast days; check the weather before leaving. Tickets are best bought in advance via official channels."
+        },
+        {
+          "time": "13:50",
+          "title": "Bubble Tram on the tower top (塔顶摩天轮)",
+          "walk": "Follow the signs on the observation level",
+          "desc": "A Ferris-wheel ride that circles the top of the tower; a kids' favourite. Separate ticket required; queue times vary on the day.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "14:30",
+          "title": "Haixin Bridge (海心桥)",
+          "walk": "~5 min walk from the tower to the bridgehead",
+          "desc": "Pedestrian bridge across the Pearl River, ~10 min to cross. The best Canton Tower photo is taken looking back from the bridge.",
+          "tags": [
+            "Photos"
+          ],
+          "tip": "Windy on the bridge and riverbank; bring a jacket."
+        },
+        {
+          "time": "14:45",
+          "title": "Huacheng Square (花城广场)",
+          "walk": "Right across the bridge",
+          "desc": "Guangzhou's new central axis, flanked by the Zhujiang New Town towers.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "14:55",
+          "title": "Dessert",
+          "walk": "Enter Mall of the World (花城汇) via the underground entrance at Huacheng Square",
+          "desc": "Afterwards, a taxi is taken from the mall entrance.",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "Crêpe and waffle shops at Mall of the World (花城汇可丽饼、松饼店)",
+              "desc": "Made fresh and hot; right for winter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": "15:15",
+      "end": "15:45",
+      "title": "Huacheng Square → Hotel",
+      "note": "Taxi, ~30 min."
+    },
+    {
+      "start": "15:45",
+      "end": "17:30",
+      "title": "Rest at the hotel"
+    },
+    {
+      "start": "17:30",
+      "end": "17:50",
+      "title": "Hotel → Beijing Road",
+      "note": "Taxi, ~20 min. Navigate to “大佛寺”. The rest is on foot around Beijing Road."
+    },
+    {
+      "start": "17:50",
+      "end": "19:40",
+      "title": "Beijing Road: Dafo Temple, shopping, dinner, dessert",
+      "note": "All stops are within a 5–10 min walk of each other.",
+      "route": [
+        {
+          "time": "17:50",
+          "title": "Dafo Temple (大佛寺)",
+          "desc": "May already be closed by early evening. Go in if open; otherwise take photos at the gate.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "18:00",
+          "title": "Ancient road ruins (千年古道遗址)",
+          "walk": "~5 min walk to Beijing Road Pedestrian Street",
+          "desc": "Under glass panels in the middle of the street, road surfaces from the Song to the Ming and Qing dynasties can be seen.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ]
+        },
+        {
+          "time": "18:10",
+          "title": "Beijing Road Pedestrian Street (北京路步行街)",
+          "walk": "~20 min of browsing",
+          "desc": "Arcade buildings, malls and brand stores; lively at night.",
+          "tags": [
+            "Shopping"
+          ],
+          "tip": "Crowded at night; belongings should be watched."
+        },
+        {
+          "time": "18:30",
+          "title": "Dinner",
+          "walk": "~5 min walk to Caitingqian (财厅前)",
+          "tags": [
+            "Dinner"
+          ],
+          "food": [
+            {
+              "name": "Taiping Guan (太平馆)",
+              "desc": "Century-old Cantonese-style Western restaurant"
+            },
+            {
+              "name": "Roast squab, Portuguese chicken (烧乳鸽、葡国鸡)",
+              "desc": "Taiping Guan's signatures",
+              "dish": true
+            },
+            {
+              "name": "Wai Yu Lau Teahouse (惠如楼)",
+              "desc": "Old teahouse on Zhongshan 5th Road; go here instead for Chinese food."
+            }
+          ]
+        },
+        {
+          "time": "19:20",
+          "title": "Dessert",
+          "walk": "~10 min walk to Wenming Road",
+          "desc": "Afterwards, a taxi is taken from the roadside on Wenming Road.",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "Baihua Desserts (百花甜品)",
+              "desc": "Heritage dessert shop on Wenming Road"
+            },
+            {
+              "name": "Black sesame soup, almond soup (芝麻糊、杏仁糊)",
+              "dish": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": "19:40",
+      "end": "20:00",
+      "title": "Beijing Road → Hotel",
+      "note": "Taxi from Wenming Road, ~20 min."
+    }
+  ]
+}

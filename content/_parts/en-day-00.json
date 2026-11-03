@@ -1,0 +1,175 @@
+{
+  "date": "Dec 21",
+  "dow": "Mon",
+  "locked": true,
+  "theme": "Arrival day",
+  "pace": "Airport pickup; activities from 1 pm, mostly by metro",
+  "stay": 0,
+  "items": [
+    {
+      "start": "09:30",
+      "end": "10:30",
+      "title": "Land at the airport, collect luggage",
+      "tip": "After landing, check that mobile data works and open Amap (高德地图) plus WeChat Pay or Alipay. Save the pickup driver's number beforehand."
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "title": "Pickup car to Atour Hotel (亚朵)"
+    },
+    {
+      "start": "11:30",
+      "end": "12:00",
+      "title": "Leave luggage at the hotel",
+      "note": "Ask whether early check-in is possible, for a shower and change of clothes."
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Lunch",
+      "note": "Near the hotel; keep it quick.",
+      "food": [
+        {
+          "name": "Baohua Noodle Shop (宝华面店)",
+          "desc": "Long-running shop on Baohua Road. Bamboo-pole wonton noodles (竹升云吞面); served fast."
+        },
+        {
+          "name": "Ng Choi Kee Noodles (吴财记面家)",
+          "desc": "Datong Road. Fresh shrimp wonton noodles, fried wontons."
+        },
+        {
+          "name": "Ng Zham Kee (伍湛记)",
+          "desc": "Longjin East Road. Jidi congee (及第粥), salty fried dough cakes (咸煎饼)."
+        }
+      ]
+    },
+    {
+      "start": "13:00",
+      "end": "13:25",
+      "title": "Hotel → Animation City (动漫星城)",
+      "note": "Walk to Changshou Lu Station; take Metro Line 1 (towards Guangzhou East Railway Station) to Gongyuanqian Station, 3 stops, ~10 min. Or taxi, ~15 min.",
+      "tip": "Mobile signal may be weak in the underground mall. A meeting point and time should be agreed first."
+    },
+    {
+      "start": "13:25",
+      "end": "16:00",
+      "title": "Animation City (动漫星城)",
+      "note": "Under Gongyuanqian metro station; Guangzhou's densest anime and manga mall."
+    },
+    {
+      "start": "16:00",
+      "end": "16:30",
+      "title": "Animation City → Shangxiajiu",
+      "note": "The metro is the easiest option; no transfer needed.",
+      "route": [
+        {
+          "time": "16:00",
+          "title": "Gongyuanqian Station (公园前站)",
+          "desc": "Animation City is inside the station. Follow the signs in and take Line 1 (towards Xilang)."
+        },
+        {
+          "time": "16:15",
+          "title": "Changshou Lu Station (长寿路站)",
+          "walk": "3 stops, ~10 min",
+          "desc": "Before exiting, look for the exit signed “上下九步行街”."
+        },
+        {
+          "time": "16:30",
+          "title": "Shangxiajiu Pedestrian Street (上下九步行街)",
+          "walk": "Walk ~5–10 min",
+          "desc": "Enter “上下九步行街” in Amap and start walking navigation. Arrival is obvious from the long row of arcade buildings."
+        }
+      ]
+    },
+    {
+      "start": "16:30",
+      "end": "19:00",
+      "title": "Shangxiajiu: shopping, dinner, dessert",
+      "note": "One straight street, walked there and back; no turns, no getting lost.",
+      "route": [
+        {
+          "time": "16:30",
+          "title": "Heritage shops on Dishifu Road (第十甫路老字号)",
+          "desc": "Photos at the old signboards of Tao Tao Ju (陶陶居) and Lin Heung Lau (莲香楼). Gifts can be bought at Lin Heung Lau.",
+          "tags": [
+            "Photo spot",
+            "Shopping"
+          ]
+        },
+        {
+          "time": "16:45",
+          "title": "Xiajiu Road and Shangjiu Road arcades (下九路、上九路骑楼)",
+          "walk": "Keep walking along the pedestrian street",
+          "desc": "Guangzhou's most complete arcade-building (qilou) street, lined with budget clothing, shoe and small shops. Walk to the end of Shangjiu Road, then turn back.",
+          "tags": [
+            "Photos",
+            "Shopping"
+          ],
+          "tip": "The street is crowded in the evening; backpacks should be worn on the front."
+        },
+        {
+          "time": "17:40",
+          "title": "Hualin Jade Street (华林玉器街)",
+          "walk": "On the way back, turn off Xiajiu Road, ~3 min",
+          "desc": "A cluster of jade and jewellery shops; for browsing only. If the entrance is unclear, ask a shopkeeper or skip it.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "18:00",
+          "title": "Dinner",
+          "walk": "Back to the west end of Dishifu Road, then north ~5 min to Wenchang North Road",
+          "tags": [
+            "Dinner"
+          ],
+          "food": [
+            {
+              "name": "Yinji Rice Rolls (银记肠粉)",
+              "desc": "Original shop on Wenchang North Road"
+            },
+            {
+              "name": "Shrimp rice rolls, beef rice rolls (鲜虾肠粉、牛肉肠粉)",
+              "desc": "Add a bowl of congee",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "time": "18:40",
+          "title": "Dessert",
+          "walk": "Back to Dishifu Road, ~5 min",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "Nanxin Desserts (南信甜品)",
+              "desc": "Dishifu Road. Double-skin milk (双皮奶), ginger milk curd (姜撞奶)."
+            },
+            {
+              "name": "Shun Kee Ice Bar (顺记冰室)",
+              "desc": "Baohua Road. For ice cream, go here instead; signature coconut ice cream."
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "title": "Leave Shangxiajiu",
+          "desc": "Taxi from the roadside on Wenchang South Road back to the hotel, ~10 min."
+        }
+      ]
+    },
+    {
+      "start": "19:00",
+      "end": "19:15",
+      "title": "Shangxiajiu → Hotel",
+      "note": "Taxi, ~10 min."
+    },
+    {
+      "start": "19:15",
+      "end": "20:00",
+      "title": "Check in, rest"
+    }
+  ]
+}

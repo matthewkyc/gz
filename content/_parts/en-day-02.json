@@ -1,0 +1,316 @@
+{
+  "date": "Dec 23",
+  "dow": "Wed",
+  "locked": true,
+  "theme": "Xiguan old streets, walking east",
+  "intro": "Today centres on Yongqingfang (永庆坊). Its arcade lanes are full of boutiques, creative-design shops, handmade-craft stalls and intangible-heritage gift shops, good for small presents. On Fushang Lane (富上巷) is the PICOCICI global flagship store, selling Sanrio, Disney and Chiikawa merchandise, a sure hit with the kids. Nearly two hours are set aside for Yongqingfang, with 11:00–11:45 reserved for boutiques and gifts. Lunch is at Tao Tao Ju (陶陶居) at 13:00.",
+  "stay": 0,
+  "backup": {
+    "title": "Backup: Thirteen Hongs (十三行), only if time remains after Liwan Plaza",
+    "note": "If more shopping is wanted after Liwan Plaza at 16:30, take a taxi from the entrance to Thirteen Hongs, ~5–10 min, and choose Option A or Option B there. The hotel is not visited first.",
+    "items": [
+      {
+        "start": "16:40",
+        "end": "17:45",
+        "title": "Shopping at Thirteen Hongs (十三行)",
+        "note": "Site of the Qing-era “Thirteen Hongs” foreign-trade district, now a cluster of women's-clothing wholesale buildings. Wide choice, fast-changing styles. Mostly wholesale, but some stalls sell retail; bargaining is possible.",
+        "group": "a",
+        "tip": "Many stalls do not allow photos, and trying on is not always possible. Ask the price first; bargaining is expected."
+      },
+      {
+        "start": "17:45",
+        "end": "18:05",
+        "title": "Thirteen Hongs → Hotel",
+        "note": "Taxi, ~15–20 min, straight back to the hotel.",
+        "group": "a"
+      },
+      {
+        "start": "16:40",
+        "end": "17:20",
+        "title": "Thirteen Hongs Museum (十三行博物馆)",
+        "note": "Next to the Cultural Park, ~5 min walk from Thirteen Hongs; free entry. Qing-era export art from the Thirteen Hongs trade: Canton enamel porcelain (广彩), Cantonese embroidery (广绣), export fans and silverware. A silverware gallery is on the 3rd floor.",
+        "group": "k",
+        "tip": "Entry usually stops around 17:00, so arriving at 16:40 may be too late; check on the map before setting off. Kids must be accompanied by an adult or young adult."
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "title": "Thirteen Hongs → Hotel",
+        "note": "Taxi, ~15–20 min, straight back to the hotel.",
+        "group": "k"
+      },
+      {
+        "start": "17:40",
+        "end": "18:05",
+        "title": "Rest at the hotel",
+        "group": "k"
+      }
+    ]
+  },
+  "items": [
+    {
+      "start": "08:00",
+      "end": "09:00",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast",
+          "desc": "Saves the most time"
+        },
+        {
+          "name": "Yinji Rice Rolls (银记肠粉)",
+          "desc": "Cloth-steamed rice rolls (布拉肠粉)"
+        },
+        {
+          "name": "Baohua Noodle Shop (宝华面店)",
+          "desc": "A morning bowl of bamboo-pole wonton noodles"
+        }
+      ]
+    },
+    {
+      "start": "09:00",
+      "end": "13:00",
+      "title": "Morning: on foot east from the hotel",
+      "note": "All on foot, west to east, no backtracking. Nearly two hours are kept for Yongqingfang so the kids can browse boutiques and buy gifts.",
+      "route": [
+        {
+          "time": "09:00",
+          "title": "Liwan Lake Park (荔湾湖公园)",
+          "walk": "~10 min walk from the hotel",
+          "desc": "Lakeside stroll; see the small Qing-style garden Xiaohuafangzhai (小画舫斋). Elderly locals often sing Cantonese opera here.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "09:25",
+          "title": "Lychee Bay canal and Wenta Pagoda (荔枝湾涌、文塔)",
+          "walk": "Follow the canal south",
+          "desc": "Xiguan houses line both banks; walk to Wenta Pagoda for photos. Lychee Bay is the birthplace of sampan congee (艇仔粥).",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "09:45",
+          "title": "Xiguan mansions on Fengyuan Street (逢源大街西关大屋)",
+          "walk": "Walk ~5 min",
+          "desc": "Sliding-bar gates (趟栊门) and Manchu stained-glass windows (满洲窗) of old Guangzhou's wealthy households.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ]
+        },
+        {
+          "time": "10:05",
+          "title": "Cantonese Opera Art Museum (粤剧艺术博物馆)",
+          "walk": "~10 min walk south to Enning Road",
+          "desc": "Lingnan garden-style buildings; a quick visit is enough. Closed Mondays, open Wednesdays.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "10:40",
+          "title": "Bruce Lee's Ancestral Home (李小龙祖居)",
+          "walk": "Cross Enning Road, ~5 min, on Yongqing 1st Lane in Yongqingfang",
+          "desc": "Go in for a look and photos.",
+          "tags": [
+            "Photo spot",
+            "Photos"
+          ]
+        },
+        {
+          "time": "11:00",
+          "title": "Yongqingfang boutiques and creative shops (永庆坊精品店、文创小店)",
+          "walk": "Browse slowly through the arcade lanes",
+          "desc": "Qilou (arcade buildings) are a Lingnan street form: ground-floor shops are set back, and the upper floors project over the pavement on a row of columns, so the walkway below is shaded from sun and rain. Yongqingfang is a block of restored qilou and old Xiguan houses, mainly Yongqing 1st Lane, Yongqing 2nd Lane and Fushang Lane: narrow lanes, grey-brick walls, sliding-bar gates, packed with creative-design shops, handmade-craft stalls and intangible-heritage gift shops. Fushang Lane has the PICOCICI global flagship store, selling Sanrio, Disney and Chiikawa merchandise, a sure hit with the kids.",
+          "tags": [
+            "Shopping"
+          ],
+          "tip": "PICOCICI details are from summer 2026 reports. Other small shops change quickly; buy when something appeals."
+        },
+        {
+          "time": "11:45",
+          "title": "Coffee",
+          "walk": "Inside Yongqingfang",
+          "tags": [
+            "Photo spot"
+          ],
+          "tip": "Yongqingfang shop details are from a 2022 guide; some shops may have changed. Check on site.",
+          "food": [
+            {
+              "name": "Gonglu Coffee (公路咖啡)",
+              "desc": "Caffeine-free drinks can be ordered for the kids"
+            },
+            {
+              "name": "Claypot latte (煲仔拿铁)",
+              "desc": "Latte served in a clay pot; very photogenic",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "time": "12:05",
+          "title": "Jiale Egg Tart King (嘉乐蛋挞王)",
+          "walk": "Inside Yongqingfang",
+          "desc": "Egg tarts in 8 flavours; buy several and share.",
+          "tags": [
+            "Dessert"
+          ]
+        },
+        {
+          "time": "12:15",
+          "title": "Yongqing Food Hall (永庆食集)",
+          "walk": "Inside Yongqingfang; heritage snack brands under one roof",
+          "desc": "Grandma's beef offal (阿婆牛杂), Bazhen pan-fried dumplings (八珍煎饺) and Hong Kong Yuanyang King (香港鸳鸯王) are all here. Try only one or two before lunch; one yuanyang milk tea can be shared.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "12:35",
+          "title": "Enning Ice Cream (恩宁雪糕行)",
+          "walk": "Exit Yongqingfang to 69 Enning Road",
+          "desc": "Local-flavour ice cream: chicken biscuit (鸡仔饼), ginger milk curd, Phoenix Dancong tea (凤凰单枞), milk tea. Next door, Enning Gongfei (恩宁公啡) is known for its “檬茶茶”: hand-pulled black tea with dried plum and lemon.",
+          "tags": [
+            "Dessert"
+          ]
+        },
+        {
+          "time": "12:50",
+          "title": "Enning Road arcade street (恩宁路骑楼街)",
+          "walk": "Walk east along Enning Road, ~10 min",
+          "desc": "Old arcade streetscape all the way; photos on the move. The end of the road leads to Tao Tao Ju on Dishifu Road.",
+          "tags": [
+            "Photos"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "13:00",
+      "end": "14:15",
+      "title": "Lunch: Tao Tao Ju (陶陶居), Dishifu Road",
+      "note": "The flagship, open since 1880; Shangxiajiu Pedestrian Street is right outside. By 13:00 on a Wednesday the lunch peak is easing and queues are much shorter. Take a queue number on arrival.",
+      "food": [
+        {
+          "name": "Shrimp dumplings (鲜虾饺皇)",
+          "desc": "A teahouse essential",
+          "dish": true
+        },
+        {
+          "name": "Char siu buns, chicken feet (叉烧包、凤爪)",
+          "desc": "Classic dim sum",
+          "dish": true
+        },
+        {
+          "name": "Malay sponge cake, red rice roll (马拉糕、红米肠)",
+          "desc": "One sweet, one savoury",
+          "dish": true
+        }
+      ],
+      "tip": "Old teahouses usually charge a per-person tea fee; expect it before sitting down."
+    },
+    {
+      "start": "14:15",
+      "end": "15:00",
+      "title": "Tao Tao Ju → Liwan Plaza",
+      "note": "Walk east along Shangxiajiu Pedestrian Street, arcades the whole way.",
+      "route": [
+        {
+          "time": "14:15",
+          "title": "Lingnan Art Studio former residence (岭南艺苑故屋)",
+          "walk": "Turn off Dishifu Road into Zhanlu Straight Street (湛露直街), ~3 min",
+          "desc": "Former home and studio where Lingnan School painting masters ran their academy; a look from the door is enough.",
+          "tags": [
+            "Photo spot"
+          ]
+        },
+        {
+          "time": "14:30",
+          "title": "Xiajiu Road arcades and Wenlan Lane (下九路骑楼、文澜巷)",
+          "walk": "Back on the pedestrian street, heading east",
+          "desc": "Shangxiajiu is Guangzhou's most complete arcade street. Wenlan Lane is where Qing-era Thirteen Hongs merchants founded the Wenlan Academy (文澜书院).",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "14:40",
+          "title": "Hualin Temple and Hualin Jade Street (华林禅寺、华林玉器街)",
+          "walk": "Turn north off Xiajiu Road, ~3 min",
+          "desc": "The old temple and the jade street are side by side; take a look, then return to the pedestrian street.",
+          "tags": [
+            "Photo spot"
+          ],
+          "tip": "Hualin Temple's opening hours could not be confirmed. Go in if open; otherwise look from the gate."
+        },
+        {
+          "time": "15:00",
+          "title": "Liwan Plaza (荔湾广场)",
+          "walk": "Back on the pedestrian street to the east end of Shangjiu Road"
+        }
+      ]
+    },
+    {
+      "start": "15:00",
+      "end": "16:30",
+      "title": "Liwan Plaza (荔湾广场)",
+      "note": "Long-established mall with many jewellery, watch and small-goods shops; an hour and a half is allowed for browsing."
+    },
+    {
+      "start": "16:30",
+      "end": "16:45",
+      "title": "Liwan Plaza → Hotel",
+      "note": "Taxi from the entrance, ~10–15 min; slower in evening traffic. Back at the hotel around 16:45."
+    },
+    {
+      "start": "16:45",
+      "end": "18:30",
+      "title": "Laundry and rest at the hotel"
+    },
+    {
+      "start": "18:30",
+      "end": "18:45",
+      "title": "Hotel → Panxi Restaurant (泮溪酒家)",
+      "note": "Panxi Restaurant is at 151 Longjin West Road, beside Liwan Lake Park. ~10 min walk from the hotel towards Liwan Lake; use Amap walking navigation to “泮溪酒家”. Otherwise a minimum-fare taxi, ~5 min.",
+      "tip": "Walking time assumes the Atour is near Lychee Bay; recheck once the hotel address is confirmed."
+    },
+    {
+      "start": "18:45",
+      "end": "20:00",
+      "title": "Dinner: Panxi Restaurant (泮溪酒家)",
+      "note": "Last night in the old city; a proper meal at the garden restaurant.",
+      "food": [
+        {
+          "name": "White rabbit dumplings (绿茵白兔饺)",
+          "desc": "Dim sum shaped like little white rabbits; the most photogenic, and a kids' favourite",
+          "dish": true
+        },
+        {
+          "name": "Panxi water chestnut cake (泮塘马蹄糕)",
+          "desc": "Made with local Pantang water chestnuts; smooth and lightly sweet",
+          "dish": true
+        },
+        {
+          "name": "Honeycomb egg-yolk puffs, quail puff pastry (蜂巢蛋黄角、鹌鹑千层酥)",
+          "desc": "Fried pastries from the restaurant's eight famous dim sum",
+          "dish": true
+        },
+        {
+          "name": "Roast suckling pig, eight-treasure winter melon soup (金牌烧乳猪、八宝冬瓜盅)",
+          "desc": "Signatures from the eight famous dishes; for a larger group",
+          "dish": true
+        }
+      ],
+      "tip": "Booking ahead is recommended; window seats in the garden must be booked early."
+    },
+    {
+      "start": "20:00",
+      "end": "20:15",
+      "title": "Back to the hotel",
+      "note": "Walk, ~10 min."
+    }
+  ]
+}

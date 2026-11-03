@@ -1,0 +1,73 @@
+{
+  "stay": 2,
+  "date": "Jan 3",
+  "dow": "Sun",
+  "theme": "Baima & Hongmian, afternoon TBC, Pearl River night cruise",
+  "items": [
+    {
+      "start": "08:30",
+      "end": "09:30",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast"
+        }
+      ]
+    },
+    {
+      "start": "09:30",
+      "end": "10:00",
+      "title": "K Hotel → Guangzhou Railway Station",
+      "note": "Metro ~25 min to Guangzhou Railway Station (广州火车站), or taxi ~20 min."
+    },
+    {
+      "start": "10:00",
+      "end": "12:00",
+      "title": "Baima Clothing Market (白马服装市场) and Hongmian International Fashion City (红棉国际时装城)",
+      "note": "Both buildings are next to Guangzhou Railway Station. Baima leans mid-to-upper-range workwear for women; Hongmian leans trendy. Many stalls sell single pieces, and bargaining is accepted.",
+      "tip": "Busy on Sunday mornings; backpacks should be worn on the front. Ask the price before deciding."
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Lunch: around Guangzhou Railway Station",
+      "food": [
+        {
+          "name": "Cha chaan teng (茶餐厅) along Liuhua Road (流花路)",
+          "desc": "A bowl of noodles or roast meat rice, quick"
+        },
+        {
+          "name": "Fast food inside the malls",
+          "desc": "Eat at the nearest mall around Baima and Hongmian"
+        },
+        {
+          "name": "Flaky pastries from a bakery",
+          "desc": "For a light bite, egg tarts and flaky buns are enough"
+        }
+      ]
+    },
+    {
+      "start": "13:00",
+      "end": "17:30",
+      "title": "TBC"
+    },
+    {
+      "start": "17:45",
+      "end": "18:30",
+      "title": "Dinner: near the hotel"
+    },
+    {
+      "start": "18:30",
+      "end": "18:55",
+      "title": "Hotel → Tianzi Pier (天字码头)",
+      "note": "Taxi, ~25 min."
+    },
+    {
+      "start": "19:00",
+      "end": "20:30",
+      "title": "Pearl River night cruise (珠江夜游)",
+      "note": "Tickets and pier should be confirmed in advance.",
+      "tip": "Be at the pier 20 min before departure; it is windy on board, so bring a jacket."
+    }
+  ]
+}

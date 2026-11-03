@@ -1,0 +1,242 @@
+{
+  "stay": 1,
+  "date": "Dec 26",
+  "dow": "Sat",
+  "locked": true,
+  "theme": "Chimelong Paradise",
+  "items": [
+    {
+      "start": "07:45",
+      "end": "08:30",
+      "title": "Breakfast: eat early",
+      "note": "Go to the buffet at opening to avoid the crowds.",
+      "food": [
+        {
+          "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+        }
+      ]
+    },
+    {
+      "start": "08:30",
+      "end": "09:00",
+      "title": "Hotel → Happy World North Gate",
+      "note": "Shuttle; queue at the gate before opening. Saturdays are busy, so the earlier the better."
+    },
+    {
+      "start": "09:00",
+      "end": "11:30",
+      "title": "Thrill rides",
+      "note": "Queues are shortest in the first two hours; the most popular rides are done first. December is cold, so water rides such as the rapids are best skipped.",
+      "group": "k",
+      "route": [
+        {
+          "time": "09:00",
+          "title": "Scream Zone: Rocket coaster (尖叫地带：火箭过山车)",
+          "walk": "Right inside the North Gate",
+          "desc": "One of the most popular rides; go straight at opening.",
+          "tags": [
+            "Thrill"
+          ]
+        },
+        {
+          "time": "09:40",
+          "title": "Tornado (龙卷风暴)",
+          "walk": "Same area",
+          "tags": [
+            "Thrill"
+          ]
+        },
+        {
+          "time": "10:20",
+          "title": "Rhythm World: Dive coaster (律动天地：垂直过山车)",
+          "walk": "Follow the signs, ~10 min walk",
+          "tags": [
+            "Thrill"
+          ]
+        },
+        {
+          "time": "11:00",
+          "title": "Super giant pendulum (超级大摆锤)",
+          "walk": "Same area",
+          "desc": "Flips a full 360°; phones and wallets go in a locker first.",
+          "tags": [
+            "Thrill"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "09:00",
+      "end": "11:30",
+      "title": "Family rides",
+      "note": "Gentle rides around the Happy Carnival area.",
+      "group": "a",
+      "route": [
+        {
+          "time": "09:00",
+          "title": "Star Dream Garden (星梦奇园)",
+          "walk": "Follow the signs from the North Gate",
+          "desc": "Family rides such as the dream carousel and bouncing rides.",
+          "tags": [
+            "Family"
+          ]
+        },
+        {
+          "time": "10:30",
+          "title": "Kids' play area (儿童游乐区)",
+          "walk": "Same area",
+          "desc": "Suited to young children at a slow pace.",
+          "tags": [
+            "Family"
+          ]
+        },
+        {
+          "time": "11:15",
+          "title": "Meet at the restaurant",
+          "desc": "Seats are claimed first."
+        }
+      ]
+    },
+    {
+      "start": "11:30",
+      "end": "12:30",
+      "title": "Lunch: eat early",
+      "note": "Start at 11:30 to avoid the crowds.",
+      "food": [
+        {
+          "name": "Coconut Grove Restaurant (椰林餐厅)",
+          "desc": "In-park restaurant, recommended on the official route"
+        },
+        {
+          "name": "Park fast-food outlets (园区快餐店)",
+          "desc": "Fastest"
+        }
+      ]
+    },
+    {
+      "start": "12:30",
+      "end": "13:45",
+      "title": "Rest break",
+      "note": "Find seating in the park, rest and rehydrate."
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "title": "Happy Theatre: magic show (欢乐剧场：魔术表演)",
+      "note": "Seated indoor show with audience interaction. Times per the Chimelong app; official guides mention shows around 14:00 and 16:30. Enter 10 min early."
+    },
+    {
+      "start": "14:30",
+      "end": "15:15",
+      "title": "Repeat favourite rides",
+      "note": "Crowds thin in the afternoon; the morning's favourites are ridden again."
+    },
+    {
+      "start": "15:15",
+      "end": "15:30",
+      "title": "Exit via North Gate; shuttle to hotel"
+    },
+    {
+      "start": "15:30",
+      "end": "16:00",
+      "title": "Back to hotel: change, rest",
+      "note": "Old town this evening; bring a jacket."
+    },
+    {
+      "start": "16:00",
+      "end": "16:40",
+      "title": "Panda Hotel → Shawan Ancient Town (沙湾古镇)",
+      "note": "Taxi, ~30–40 min. Navigate to “沙湾古镇”."
+    },
+    {
+      "start": "16:40",
+      "end": "19:20",
+      "title": "Shawan Ancient Town: dusk to night market",
+      "note": "Lingnan old town founded in the Southern Song, 800+ years old; free entry. Compact; covered entirely on foot.",
+      "route": [
+        {
+          "time": "16:40",
+          "title": "Liugeng Hall (留耕堂, He Clan Ancestral Hall)",
+          "desc": "Five-courtyard ancestral hall: the “诗书世泽” plaque, huge timber columns and oyster-shell windows in the rear hall. Visited first while it is still light.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "17:15",
+          "title": "Wenfeng Pagoda and old streets (文峰塔、古街)",
+          "walk": "Walk, ~10 min",
+          "desc": "Seven-storey pagoda overlooking the wok-ear gabled roofs. Nearby: the old pawnshop, Jinshi Gate and old rice mill. The pagoda's wind chimes are atmospheric at dusk.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "17:45",
+          "title": "Anning Square light night market (安宁广场光影夜市)",
+          "walk": "Walk, ~10 min",
+          "desc": "Market runs ~17:30–19:00: embroidery, copperware and tea stalls. Saturday the 26th is a weekend, so the adjacent Guangdong Music Hall may have a performance.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "18:00",
+          "title": "Dinner: old-town snacks",
+          "walk": "Around the night market and old streets; eaten on the go",
+          "tags": [
+            "Dinner"
+          ],
+          "food": [
+            {
+              "name": "Pajinshan fish soup (爬金山鱼羹)",
+              "desc": "Fish soup cooked with dried tangerine peel and lemon leaves",
+              "dish": true
+            },
+            {
+              "name": "Puppy congee (狗仔粥)",
+              "desc": "Rice-flour dough shaped like puppies, cooked with shrimp and Chinese sausage",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "time": "18:45",
+          "title": "Dessert",
+          "walk": "In the old streets",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "Shawan Ginger Milk Curd Old House (沙湾姜撞奶老屋甜品店)",
+              "desc": "Set in a converted century-old house with a small courtyard"
+            },
+            {
+              "name": "Ginger milk curd (姜撞奶)",
+              "desc": "Shawan's signature dessert: ginger juice is poured into hot milk, which sets like tofu",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "time": "19:05",
+          "title": "Liugeng Hall 3D projection (留耕堂3D投影)",
+          "walk": "Walk back to Liugeng Hall",
+          "desc": "Projected on the hall's outer wall; tells the town's musical history. Whether it runs is confirmed on site.",
+          "tags": [
+            "Must-see"
+          ]
+        }
+      ],
+      "tip": "Streets are flagstone; wear comfortable shoes. It gets cold after dark; bring a jacket."
+    },
+    {
+      "start": "19:25",
+      "end": "20:00",
+      "title": "Shawan Ancient Town → Panda Hotel",
+      "note": "Taxi, ~30 min; back at the hotel around 20:00."
+    }
+  ]
+}

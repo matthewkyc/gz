@@ -1,0 +1,186 @@
+{
+  "stay": 2,
+  "date": "Dec 28",
+  "dow": "Mon",
+  "locked": true,
+  "theme": "Shenzhen tech day trip",
+  "intro": "Today is focused on Shenzhen's robots and AI. In the morning, the world's first Robot 6S Store and the AI 6S Store are visited in Bantian, Longgang. In the afternoon, exoskeletons and smart glasses are tried at INNO100 in Shenzhen Bay Culture Plaza, Nanshan. Sunset is watched at Shenzhen Bay before dinner. High-speed rail both ways, with a local chartered car for the day.",
+  "items": [
+    {
+      "start": "07:15",
+      "end": "08:00",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast",
+          "desc": "Early departure"
+        },
+        {
+          "name": "Inside the HSR station",
+          "desc": "Fast-food chains inside the station"
+        }
+      ]
+    },
+    {
+      "start": "08:00",
+      "end": "08:40",
+      "title": "K Hotel → Guangzhou South Station (广州南站)",
+      "note": "Taxi, ~40 min."
+    },
+    {
+      "start": "08:40",
+      "end": "09:00",
+      "title": "Enter station and wait",
+      "note": "HSR tickets should be bought in advance on 12306. Enter by scanning the ID used for booking.",
+      "tip": "HSR tickets should be bought in advance on 12306. Enter by scanning the ID used for booking."
+    },
+    {
+      "start": "09:00",
+      "end": "09:35",
+      "title": "HSR: Guangzhou South → Shenzhen North (深圳北)",
+      "note": "~35 min. Shenzhen North is closest to Bantian, Longgang."
+    },
+    {
+      "start": "09:35",
+      "end": "10:30",
+      "title": "Shenzhen North → Bantian, Longgang (龙岗坂田)",
+      "note": "Meet the local chartered car at Shenzhen North. Drive ~25 min.",
+      "tip": "Price, hours, and whether tolls and parking are included should be agreed before the charter."
+    },
+    {
+      "start": "10:30",
+      "end": "12:00",
+      "title": "Robot 6S Store (机器人6S店)",
+      "note": "In the Galaxy WORLD (星河WORLD) campus, Bantian, Longgang. The world's first robot 6S store.",
+      "route": [
+        {
+          "time": "10:30",
+          "title": "Robots cooking on site",
+          "desc": "Jianbing (煎饼果子) and coffee are made by robots on site; they can be bought and eaten.",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "10:50",
+          "title": "Humanoid robot zone",
+          "walk": "In store",
+          "desc": "Humanoid robots and robot dogs from leading Chinese makers such as Leju (乐聚), Unitree (宇树) and DEEP Robotics (云深处) are demonstrated live.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "11:30",
+          "title": "Robot parts supermarket",
+          "walk": "In store",
+          "desc": "Core parts such as servo motors and reducers are shelved like a supermarket. Robots can also be rented, from ~1,000 yuan per day."
+        }
+      ]
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Lunch: Galaxy WORLD COCO Park (星河WORLD COCO Park)",
+      "note": "In the same Galaxy WORLD campus as the Robot 6S Store. Restaurants are concentrated in the mall; no further ride needed.",
+      "food": [
+        {
+          "name": "Tai Er Sauerkraut Fish (太二酸菜鱼)",
+          "desc": "Popular pickled-cabbage fish chain. Sour, spicy, appetising."
+        },
+        {
+          "name": "Chao Xiao Zhan (潮小栈)",
+          "desc": "Chaoshan food: rice noodles, beef balls. ~35 yuan per person."
+        },
+        {
+          "name": "Yunhaiyao (云海肴)",
+          "desc": "Yunnan food: steam-pot chicken, wild mushrooms. Milder flavours, suitable for kids."
+        }
+      ],
+      "tip": "These restaurant names come from older sources; what is in the mall on the day applies."
+    },
+    {
+      "start": "13:00",
+      "end": "14:15",
+      "title": "AI 6S Store (人工智能6S店)",
+      "note": "In the same robot block in Longgang, a short drive away. Chinese and international AI hardware is displayed in real-life settings and can be tried hands-on."
+    },
+    {
+      "start": "14:15",
+      "end": "15:00",
+      "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
+      "note": "Drive ~40 min."
+    },
+    {
+      "start": "15:00",
+      "end": "16:30",
+      "title": "INNO100",
+      "note": "In Shenzhen Bay Culture Plaza; a global innovation flagship store. Exoskeletons and smart glasses can be tried."
+    },
+    {
+      "start": "16:30",
+      "end": "17:40",
+      "title": "Shenzhen Bay highlights",
+      "note": "Short transfers by chartered car.",
+      "route": [
+        {
+          "time": "16:30",
+          "title": "Shenzhen Bay Culture Plaza (深圳湾文化广场)",
+          "walk": "INNO100 is here",
+          "desc": "A new cultural landmark of Shenzhen. The architecture itself photographs well.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "17:00",
+          "title": "Talent Park and Shenzhen Bay Park (人才公园、深圳湾公园)",
+          "walk": "Drive ~10 min",
+          "desc": "Seafront promenade for sunset; in late December the sun sets around 17:50. After dark, the towers across the water are lit up, best seen from Talent Park.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "17:40",
+      "end": "18:40",
+      "title": "Dinner: Shenzhen Bay area",
+      "food": [
+        {
+          "name": "Runyuan Siji Coconut Chicken (润园四季椰子鸡)",
+          "desc": "Shenzhen's popular coconut chicken hotpot. Light and sweet, not oily; kids usually like the broth."
+        },
+        {
+          "name": "Bahe Li Haiji Beef Hotpot (八合里海记牛肉火锅)",
+          "desc": "Chaoshan beef hotpot: hand-beaten beef balls, diaolong (吊龙) cut."
+        },
+        {
+          "name": "Restaurants at MixC Shenzhen Bay (深圳湾万象城)",
+          "desc": "Many choices in the mall; easy to get back in the car afterwards."
+        }
+      ],
+      "tip": "Coconut chicken and beef hotpot are both chains; the driver should be asked to go to the branch nearest Shenzhen Bay."
+    },
+    {
+      "start": "18:40",
+      "end": "19:15",
+      "title": "Chartered car: Nanshan → Shenzhen North",
+      "note": "Drive ~30 min. When booking, trains from Futian Station (福田站) can also be compared."
+    },
+    {
+      "start": "19:30",
+      "end": "20:05",
+      "title": "HSR: Shenzhen North → Guangzhou South"
+    },
+    {
+      "start": "20:05",
+      "end": "20:50",
+      "title": "Guangzhou South → K Hotel",
+      "note": "Taxi, ~40 min."
+    }
+  ]
+}

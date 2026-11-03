@@ -1,0 +1,23 @@
+{
+  "stay": 2,
+  "date": "Jan 4",
+  "dow": "Mon",
+  "locked": true,
+  "theme": "Free and easy",
+  "intro": "No plans today: sleep in, wander near the hotel, or pick up last souvenirs. Only two fixed tasks: the last load of laundry in the morning, and packing in the evening with an early night — departure for the airport is at 05:00 tomorrow.",
+  "items": [
+    {
+      "start": "09:30",
+      "end": "11:30",
+      "title": "Laundry",
+      "note": "Last wash; clothes will be fully dry before tomorrow's departure."
+    },
+    {
+      "start": "19:00",
+      "end": "21:00",
+      "title": "Pack and sleep early",
+      "note": "Departure for the airport at 05:00 tomorrow. A breakfast box can be requested from reception, and tomorrow's car should be booked in advance.",
+      "tip": "Passports, power banks and daily medicines go in the carry-on; checked bags should be closed up the night before."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "stay": 1,
+  "date": "Dec 24",
+  "dow": "Thu",
+  "locked": true,
+  "theme": "Hotel change day",
+  "pace": "Hotel change day; kept light",
+  "items": [
+    {
+      "start": "08:00",
+      "end": "09:00",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast"
+        },
+        {
+          "name": "Yinji Rice Rolls (银记肠粉)",
+          "desc": "Last rice-roll breakfast in the old city"
+        }
+      ]
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "title": "Pack luggage"
+    },
+    {
+      "start": "10:00",
+      "end": "10:30",
+      "title": "Check out of Atour (亚朵)"
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "title": "Atour → Chimelong Panda Hotel (长隆熊猫酒店)",
+      "note": "Taxi, ~50 min–1 hr. Navigate to “长隆熊猫酒店”. With many people or bags, book a 6-seater."
+    },
+    {
+      "start": "11:30",
+      "end": "11:45",
+      "title": "Store luggage; ask at reception",
+      "note": "Four things to confirm: check-in time, shuttle times to each park, how Circus tickets are collected and entry works, and the drone show time and location."
+    },
+    {
+      "start": "11:45",
+      "end": "13:00",
+      "title": "Lunch: eat early",
+      "note": "Start at 11:45 to beat the 12:00 lunch rush.",
+      "food": [
+        {
+          "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+          "desc": "No need to leave the hotel"
+        },
+        {
+          "name": "White Tiger Buffet (白虎自助餐厅)",
+          "desc": "Inside the Chimelong Hotel; white tigers can be watched while eating"
+        },
+        {
+          "name": "Wanbo business district (万博商圈)",
+          "desc": "Taxi, ~15 min. Many chain teahouses and Cantonese options"
+        }
+      ]
+    },
+    {
+      "start": "13:00",
+      "end": "15:00",
+      "title": "Get to know the resort",
+      "note": "Routes are learned today so the next two mornings run smoothly.",
+      "route": [
+        {
+          "time": "13:00",
+          "title": "Panda Hotel (熊猫酒店)",
+          "desc": "Lobby and corridors are decorated with pandas throughout; a first round of photos is taken here.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "13:30",
+          "title": "Safari Park entrance (野生动物世界入口)",
+          "walk": "Hotel shuttle, or walk as directed by reception",
+          "desc": "Tomorrow's entry gate and queue position are located."
+        },
+        {
+          "time": "14:15",
+          "title": "Circus theatre and Happy World North Gate (大马戏剧场、欢乐世界北门)",
+          "walk": "Shuttle, ~10 min",
+          "desc": "The Circus is next to Happy World North Gate. Tonight's entrance is checked, along with the gate for Happy World the day after tomorrow."
+        },
+        {
+          "time": "14:45",
+          "title": "Back to the Panda Hotel (回熊猫酒店)",
+          "walk": "Shuttle back"
+        }
+      ],
+      "tip": "Food delivery cannot enter the parks; it is collected from the delivery lockers next to the hotel."
+    },
+    {
+      "start": "15:00",
+      "end": "15:45",
+      "title": "Afternoon tea",
+      "food": [
+        {
+          "name": "Panda Hotel lobby bar (熊猫酒店大堂吧)",
+          "desc": "Western cakes, hot drinks"
+        },
+        {
+          "name": "Panda-themed desserts (熊猫主题甜点)",
+          "desc": "Panda-shaped cakes from the hotel restaurant; good for photos"
+        }
+      ]
+    },
+    {
+      "start": "15:45",
+      "end": "16:45",
+      "title": "Check in, rest",
+      "note": "Check-in opens at 15:00. A nap is advised; the Circus runs until nearly 21:00."
+    },
+    {
+      "start": "16:45",
+      "end": "17:30",
+      "title": "Dinner: eat early",
+      "note": "Circus doors open at 17:00; standard seats are first come, first served. Christmas Eve is busy, so go straight after eating.",
+      "food": [
+        {
+          "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+          "desc": "Fastest option"
+        },
+        {
+          "name": "Restaurants around the Circus (马戏场周边餐厅)",
+          "desc": "Fast food near the show area, for when time is short"
+        }
+      ]
+    },
+    {
+      "start": "17:30",
+      "end": "17:45",
+      "title": "Hotel → Circus",
+      "note": "Shuttle, ~10 min. Bring the original ID used for booking; it is checked at entry."
+    },
+    {
+      "start": "17:45",
+      "end": "19:30",
+      "title": "Enter, claim seats",
+      "note": "Entry at least 45 min early is officially advised on holidays. Standard seats are unassigned; the earlier you arrive, the more central the seats.",
+      "tip": "Own snacks and drinks are allowed, but strong-smelling food such as durian is not."
+    },
+    {
+      "start": "19:30",
+      "end": "20:50",
+      "title": "Chimelong International Circus (长隆国际大马戏)",
+      "note": "~80 min, with animals and aerial acrobatics. Light and sound effects are intense; nervous children can sit near the aisle. Entry is officially not recommended for children under 3 or under 1 m tall."
+    },
+    {
+      "start": "20:50",
+      "end": "21:20",
+      "title": "Back to hotel",
+      "note": "Exit crowds are heavy. Wait ~10 min for them to thin, then take the shuttle back."
+    }
+  ]
+}

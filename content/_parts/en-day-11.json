@@ -1,0 +1,108 @@
+{
+  "stay": 2,
+  "date": "Jan 1",
+  "dow": "Fri",
+  "theme": "Tianhe rest day",
+  "items": [
+    {
+      "start": "09:00",
+      "end": "09:30",
+      "title": "Wake up"
+    },
+    {
+      "start": "09:30",
+      "end": "10:30",
+      "title": "Breakfast",
+      "food": [
+        {
+          "name": "Hotel breakfast"
+        },
+        {
+          "name": "Teemall (天河城) / Parc Central (天环) food courts",
+          "desc": "Dim sum at a chain teahouse"
+        }
+      ]
+    },
+    {
+      "start": "10:30",
+      "end": "12:00",
+      "title": "Rest at the hotel or a short walk nearby"
+    },
+    {
+      "start": "12:00",
+      "end": "13:30",
+      "title": "Lunch near the hotel",
+      "food": [
+        {
+          "name": "Teemall (天河城) / Parc Central (天环) food courts",
+          "desc": "Late dim sum brunch"
+        },
+        {
+          "name": "Small eateries on Tiyu West Road (体育西路)"
+        }
+      ]
+    },
+    {
+      "start": "13:30",
+      "end": "17:00",
+      "title": "Slow stroll around K Hotel",
+      "note": "All on foot; return to the hotel whenever tired.",
+      "route": [
+        {
+          "time": "13:30",
+          "title": "Grandview Mall (正佳广场)",
+          "walk": "~10 min walk from K Hotel.",
+          "desc": "Floors missed on the 27th are covered.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "15:00",
+          "title": "Tianhe Sports Center (天河体育中心)",
+          "walk": "~10 min walk.",
+          "desc": "Big lawn and running track; a New Year's Day stroll."
+        },
+        {
+          "time": "15:45",
+          "title": "Teemall (天河城)",
+          "walk": "~10 min walk.",
+          "desc": "Items not bought on earlier days can be picked up.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "16:30",
+          "title": "Mr. Wild Man Gelato (野人先生)",
+          "walk": "Search “野人先生” in Amap; pick a branch around Tianhe Road.",
+          "desc": "Popular Italian-style gelato, made fresh daily, many flavours; tasting is offered.",
+          "tags": [
+            "Dessert"
+          ],
+          "tip": "Flavours can be tasted before choosing."
+        }
+      ]
+    },
+    {
+      "start": "17:00",
+      "end": "17:45",
+      "title": "Back to the hotel to rest",
+      "note": "Gelato just eaten; tong sui is saved for another day."
+    },
+    {
+      "start": "18:00",
+      "end": "19:30",
+      "title": "Dinner",
+      "food": [
+        {
+          "name": "Restaurants at Taikoo Hui (太古汇)",
+          "desc": "A nicer dinner for the first night of the year"
+        },
+        {
+          "name": "Grandview Mall (正佳) food floor"
+        }
+      ]
+    }
+  ]
+}

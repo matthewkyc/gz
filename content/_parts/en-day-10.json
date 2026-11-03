@@ -1,0 +1,170 @@
+{
+  "stay": 2,
+  "date": "Dec 31",
+  "dow": "Thu",
+  "theme": "Dian Dou De, New Year's Eve",
+  "items": [
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "title": "Get up, get ready",
+      "note": "Dian Dou De serves as brunch; no separate breakfast needed."
+    },
+    {
+      "start": "10:00",
+      "end": "10:15",
+      "title": "K Hotel → Dian Dou De (点都德)",
+      "note": "Search “点都德” in Amap, pick the nearest Tianhe branch, and walk over to take a queue number.",
+      "tip": "Calling ahead to ask about reservations can save queuing."
+    },
+    {
+      "start": "10:15",
+      "end": "11:45",
+      "title": "Dim sum brunch: Dian Dou De",
+      "note": "Orders are placed by scanning the QR code at the table; dim sum is made to order.",
+      "food": [
+        {
+          "name": "Golden crispy shrimp red rice roll (金莎红米肠)",
+          "desc": "The most famous signature: pink rice sheet wrapped around crispy shrimp. Must order.",
+          "dish": true
+        },
+        {
+          "name": "Signature shrimp dumplings (招牌虾饺皇)",
+          "desc": "Thin, springy skin; plump shrimp.",
+          "dish": true
+        },
+        {
+          "name": "Honey char siu bao, signature siu mai (蜜汁叉烧包、招牌烧卖)",
+          "desc": "Traditional essentials.",
+          "dish": true
+        },
+        {
+          "name": "Satay beef tripe, steamed chicken feet with lily-bulb sauce (沙爹金钱肚、百合酱蒸凤爪)",
+          "desc": "For those who like bolder flavours.",
+          "dish": true
+        },
+        {
+          "name": "Mango coconut milk layer cake, caramel iced tofu pudding (香芒夹心椰汁糕、焦糖冰豆花)",
+          "desc": "Dessert after the meal.",
+          "dish": true
+        }
+      ]
+    },
+    {
+      "start": "12:00",
+      "end": "16:30",
+      "title": "Tianhe Road shopping walk",
+      "note": "For those who did not do this route on the 29th.",
+      "group": "a",
+      "route": [
+        {
+          "time": "12:00",
+          "title": "Teemall (天河城)",
+          "walk": "~5 min walk from K Hotel",
+          "desc": "Long-established mall, with New Year decorations at year end.",
+          "tags": [
+            "Must-see",
+            "Shopping"
+          ]
+        },
+        {
+          "time": "12:30",
+          "title": "Parc Central (天环广场)",
+          "walk": "Direct via the underground passage from Teemall",
+          "desc": "Underground mall, relatively quiet.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "13:10",
+          "title": "Taikoo Hui (太古汇)",
+          "walk": "Exit Parc Central and walk east along Tianhe Road, ~10 min",
+          "desc": "High-end brands and strongly design-led shops.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "13:45",
+          "title": "Dessert",
+          "walk": "Inside Taikoo Hui",
+          "tags": [
+            "Dessert"
+          ],
+          "food": [
+            {
+              "name": "French patisserie at Taikoo Hui (太古汇法式甜品店)",
+              "desc": "Macarons, French petits gâteaux"
+            }
+          ]
+        },
+        {
+          "time": "14:05",
+          "title": "Wong Chun Loong Herbal Tea (黄振龙凉茶)",
+          "walk": "Search “黄振龙” in Amap and pick the branch near Tianhe Road",
+          "desc": "Herbal jelly (龟苓膏), 24-herb tea (廿四味). Kids can have the milder Xia Sang Ju (夏桑菊).",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "14:30",
+          "title": "Fashion Tianhe (时尚天河)",
+          "walk": "~10 min walk to under Tianhe Sports Center",
+          "desc": "Anime, designer toys, budget shops.",
+          "tags": [
+            "Shopping"
+          ]
+        },
+        {
+          "time": "16:15",
+          "title": "Back to K Hotel",
+          "walk": "~10 min walk"
+        }
+      ]
+    },
+    {
+      "start": "12:00",
+      "end": "16:30",
+      "title": "Free time",
+      "note": "Rest at the hotel or wander nearby.",
+      "group": "k"
+    },
+    {
+      "start": "16:30",
+      "end": "17:30",
+      "title": "Rest at the hotel"
+    },
+    {
+      "start": "17:30",
+      "end": "19:00",
+      "title": "New Year's Eve dinner: eat early",
+      "note": "Restaurants are packed on New Year's Eve; arrive before 17:30, ideally with a booking.",
+      "food": [
+        {
+          "name": "Restaurants at Taikoo Hui (太古汇)",
+          "desc": "Pleasant setting; suited to a proper New Year's Eve meal."
+        },
+        {
+          "name": "Grandview Mall food floor (正佳美食层)",
+          "desc": "Widest choice."
+        }
+      ]
+    },
+    {
+      "start": "19:00",
+      "end": "20:00",
+      "title": "Tianhe Road at night",
+      "note": "New Year lights along Teemall and Grandview. Leave early if it gets crowded.",
+      "optional": true,
+      "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable."
+    },
+    {
+      "start": "20:00",
+      "end": "20:15",
+      "title": "Walk back to the hotel",
+      "note": "The countdown is skipped, avoiding the crowds around Huacheng Square and Canton Tower."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "stay": 1,
+  "date": "Dec 25",
+  "dow": "Fri",
+  "locked": true,
+  "theme": "Chimelong Safari Park",
+  "items": [
+    {
+      "start": "07:30",
+      "end": "08:10",
+      "title": "Breakfast: eat early",
+      "note": "The buffet is crowded even in low season; go at opening. Take a few pieces of fruit as snacks for the day.",
+      "food": [
+        {
+          "name": "Panda Hotel breakfast buffet (熊猫酒店自助早餐)"
+        }
+      ]
+    },
+    {
+      "start": "08:10",
+      "end": "08:35",
+      "title": "Pack day bags",
+      "note": "Water, snacks, power bank, jackets (December mornings and evenings are cool). Download the official Chimelong app for queue times and show schedules.",
+      "tip": "Queue times and show schedules are shown in the Chimelong app; check once before entering."
+    },
+    {
+      "start": "08:35",
+      "end": "09:00",
+      "title": "Shuttle from hotel 2F to North Gate",
+      "note": "Panda Hotel guests may enter 30 min before general visitors, via the North Gate only. Shuttles run ~every 10 min; do not take the one to the South Gate."
+    },
+    {
+      "start": "09:00",
+      "end": "11:45",
+      "title": "Morning: popular sights first",
+      "note": "The guests-only early half hour is the most valuable; long-queue attractions are done first.",
+      "route": [
+        {
+          "time": "09:00",
+          "title": "Safari train (小火车)",
+          "walk": "Straight to the train station after entry",
+          "desc": "General visitors are not in yet, so queues are shortest; later the wait reaches 1 hr. The ~35 min loop passes the big-cat area, giraffes and zebras, all seated.",
+          "tags": [
+            "Must-see"
+          ]
+        },
+        {
+          "time": "10:20",
+          "title": "Panda Paradise (熊猫乐园)",
+          "walk": "Follow the signs on foot",
+          "desc": "Pandas are most active in the morning, eating bamboo and climbing.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "10:50",
+          "title": "Koala Park (考拉园)",
+          "walk": "Walk, ~10 min",
+          "desc": "Koalas sleep most of the day; movement is more likely in the morning.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "11:20",
+          "title": "White Tiger area (白虎区)",
+          "walk": "Walk, ~10 min",
+          "desc": "Lunch follows directly.",
+          "tags": [
+            "Photos"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "11:45",
+      "end": "12:30",
+      "title": "Lunch: Panda Restaurant",
+      "note": "Enter at 11:45 and order before the 12:00 rush.",
+      "food": [
+        {
+          "name": "Panda Restaurant (熊猫餐厅)",
+          "desc": "In-park themed restaurant with panda-shaped dishes"
+        },
+        {
+          "name": "Park fast-food outlets (园区快餐店)",
+          "desc": "Nearest one on the route; fastest"
+        }
+      ]
+    },
+    {
+      "start": "12:30",
+      "end": "13:30",
+      "title": "Rest break",
+      "note": "Sit through an indoor show or the 4D cinema to rest for an hour. Schedules per the app."
+    },
+    {
+      "start": "13:30",
+      "end": "16:30",
+      "title": "Afternoon: animal feeding and cable car",
+      "route": [
+        {
+          "time": "13:30",
+          "title": "Asian Elephant Park (亚洲象园)",
+          "desc": "Bananas can be bought to feed the elephants; price as posted on site.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ]
+        },
+        {
+          "time": "14:15",
+          "title": "Giraffe Plaza (长颈鹿广场)",
+          "walk": "Walk, ~10 min",
+          "desc": "Giraffe feeding is the most popular activity and queues are long; one person can queue while the others rest nearby.",
+          "tags": [
+            "Must-see",
+            "Photos"
+          ],
+          "tip": "Feed is sold separately; price as posted on site."
+        },
+        {
+          "time": "15:00",
+          "title": "Dessert stop",
+          "walk": "Nearest one",
+          "desc": "In-park ice cream or café kiosks: cakes, hot drinks.",
+          "tags": [
+            "Dessert"
+          ]
+        },
+        {
+          "time": "15:20",
+          "title": "Cable car (空中缆车)",
+          "walk": "Follow the signs to the cable car station",
+          "desc": "The loop takes ~30 min; the whole park is seen from above while seated.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "16:00",
+          "title": "Flamingo Lake and gift shop (火烈鸟湖、纪念品店)",
+          "walk": "Walk back toward the exit",
+          "desc": "Final flamingo photos, souvenirs, then exit.",
+          "tags": [
+            "Photos",
+            "Shopping"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "16:30",
+      "end": "17:30",
+      "title": "Back to hotel, rest",
+      "note": "Shower; the drone show is tonight."
+    },
+    {
+      "start": "17:30",
+      "end": "18:45",
+      "title": "Dinner",
+      "note": "The buffet is crowded; go at opening. To skip queues, order à la carte at the Food Town.",
+      "food": [
+        {
+          "name": "Panda Hotel restaurant (熊猫酒店餐厅)",
+          "desc": "Least effort after a full day"
+        },
+        {
+          "name": "Food Town (美食小镇)",
+          "desc": "À la carte; shorter queues than the buffet"
+        },
+        {
+          "name": "White Tiger Buffet (白虎自助餐厅)",
+          "desc": "For a bigger spread"
+        }
+      ]
+    },
+    {
+      "start": "18:45",
+      "end": "19:30",
+      "title": "Drone show (TBC)",
+      "note": "Time and location as announced by reception or the Chimelong app. If the show is on the 26th, move this slot to that evening.",
+      "optional": true
+    },
+    {
+      "start": "19:30",
+      "end": "19:45",
+      "title": "Back to hotel"
+    }
+  ]
+}
