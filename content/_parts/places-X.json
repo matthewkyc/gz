@@ -524,5 +524,96 @@
       "en": "Queues are moderate to long; shared tables are normal. Hours are roughly 07:00–21:00/22:00.",
       "zh": "排队中到长，拼桌很正常。营业时间约07:00–21:00/22:00。"
     }
+  },
+  {
+    "id": "kams-roast-goose-wanchai",
+    "aliases": [
+      "甘牌烧鹅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Kam's Roast Goose",
+      "zh": "甘牌烧鹅"
+    },
+    "city": "Hong Kong",
+    "query": "Kam's Roast Goose 甘牌燒鵝 226 Hennessy Road Wan Chai Hong Kong",
+    "lat": 22.2778,
+    "lng": 114.1757,
+    "summary": {
+      "en": "Michelin-starred roast goose shop on Hennessy Road, Wan Chai.",
+      "zh": "湾仔轩尼诗道的米其林一星烧鹅店。"
+    },
+    "why": {
+      "en": "Kam's is one of Hong Kong's two famous roast-goose shops and holds a Michelin star. The goose comes with crisp, glossy skin and juicy meat; the leg is the cut to order. It is on the Ding Ding tram line, so it fits between Central and the Star Ferry.",
+      "zh": "甘牌是香港最有名的两家烧鹅店之一，拿过米其林一星。鹅皮脆亮、肉多汁，点鹅腿最好。就在叮叮车沿线，正好排在中环和天星小轮之间。"
+    },
+    "mustTry": {
+      "en": [
+        "Roast goose leg (烧鹅腿)",
+        "Roast goose with rice (烧鹅饭)"
+      ],
+      "zh": [
+        "烧鹅腿",
+        "烧鹅饭"
+      ]
+    },
+    "tips": {
+      "en": "G/F, Po Wah Commercial Centre, 226 Hennessy Road. Hours ~11:30–21:30; tel +852 2520 1110. Queues are common. Map pin is approximate.",
+      "zh": "轩尼诗道226号宝华商业中心地下。营业约11:30–21:30；电话 +852 2520 1110。常要排队。地图位置为大约位置。"
+    }
+  },
+  {
+    "id": "mid-levels-escalator",
+    "aliases": [
+      "中环至半山自动扶梯"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Central–Mid-Levels Escalator",
+      "zh": "中环至半山自动扶梯"
+    },
+    "city": "Hong Kong",
+    "query": "Central–Mid-Levels Escalator Hong Kong",
+    "lat": 22.283,
+    "lng": 114.1548,
+    "summary": {
+      "en": "Covered outdoor escalator up the hill from Central; free.",
+      "zh": "从中环往半山的户外有盖扶梯，免费。"
+    },
+    "why": {
+      "en": "Billed as the world's longest outdoor covered escalator system, it climbs from Central through the old streets towards the Mid-Levels. A short ride is a Hong Kong-only experience for kids, and it starts right by Tai Cheong Bakery and Lan Fong Yuen.",
+      "zh": "号称世界最长的户外有盖扶梯系统，从中环穿过老街一路往半山。坐一小段就是只有香港才有的体验，起点就在泰昌饼家和兰芳园旁边。"
+    },
+    "tips": {
+      "en": "It runs downhill in the morning and uphill from ~10:00. Map pin is approximate.",
+      "zh": "早上往下行，约10:00后改为往上行。地图位置为大约位置。"
+    }
+  },
+  {
+    "id": "toys-r-us-ocean-terminal",
+    "aliases": [
+      "海运大厦玩具反斗城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Toys\"R\"Us, Ocean Terminal",
+      "zh": "海运大厦玩具反斗城"
+    },
+    "city": "Hong Kong",
+    "query": "Toys R Us Ocean Terminal Harbour City Tsim Sha Tsui",
+    "lat": 22.2953,
+    "lng": 114.1685,
+    "summary": {
+      "en": "Toys\"R\"Us flagship in Ocean Terminal, Harbour City, next to the Star Ferry pier.",
+      "zh": "海港城海运大厦的玩具反斗城旗舰店，紧邻天星码头。"
+    },
+    "why": {
+      "en": "Toys\"R\"Us's first Hong Kong store was rebuilt as a flagship for its 40th year, with Pokémon Play Lab, a Tomica Brand Store, and Nintendo, Sanrio and VTech zones. It is a few minutes from the Star Ferry pier, so the kids can each pick a Hong Kong souvenir before the van.",
+      "zh": "玩具反斗城在香港的第一家店，40周年时改成旗舰店，有Pokémon Play Lab、Tomica专门店，以及Nintendo、Sanrio、VTech专区。离天星码头几分钟路，上车前让孩子各挑一件香港手信。"
+    },
+    "tips": {
+      "en": "Shop OT G21–24 and G39–42, Ocean Terminal. Hours unconfirmed (~11:00–21:00); check on the day.",
+      "zh": "海运大厦OT G21–24及G39–42号铺。营业时间未确认（约11:00–21:00），当天再看。"
+    }
   }
 ]

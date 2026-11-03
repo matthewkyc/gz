@@ -3629,6 +3629,65 @@
     "thumb": "/places/thumb/jian-family-villas.jpg"
   },
   {
+    "id": "kams-roast-goose-wanchai",
+    "aliases": [
+      "甘牌烧鹅"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Kam's Roast Goose",
+      "zh": "甘牌烧鹅"
+    },
+    "city": "Hong Kong",
+    "query": "Kam's Roast Goose 甘牌燒鵝 226 Hennessy Road Wan Chai Hong Kong",
+    "lat": 22.277642,
+    "lng": 114.175305,
+    "summary": {
+      "en": "Michelin-starred roast goose shop on Hennessy Road, Wan Chai.",
+      "zh": "湾仔轩尼诗道的米其林一星烧鹅店。"
+    },
+    "why": {
+      "en": "Kam's is one of Hong Kong's two famous roast-goose shops and holds a Michelin star. The goose comes with crisp, glossy skin and juicy meat; the leg is the cut to order. It is on the Ding Ding tram line, so it fits between Central and the Star Ferry.",
+      "zh": "甘牌是香港最有名的两家烧鹅店之一，拿过米其林一星。鹅皮脆亮、肉多汁，点鹅腿最好。就在叮叮车沿线，正好排在中环和天星小轮之间。"
+    },
+    "mustTry": {
+      "en": [
+        "Roast goose leg (烧鹅腿)",
+        "Roast goose with rice (烧鹅饭)"
+      ],
+      "zh": [
+        "烧鹅腿",
+        "烧鹅饭"
+      ]
+    },
+    "tips": {
+      "en": "G/F, Po Wah Commercial Centre, 226 Hennessy Road. Hours ~11:30–21:30; tel +852 2520 1110. Queues are common. Map pin is approximate.",
+      "zh": "轩尼诗道226号宝华商业中心地下。营业约11:30–21:30；电话 +852 2520 1110。常要排队。地图位置为大约位置。"
+    },
+    "image": "/places/kams-roast-goose-wanchai.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 6409,
+    "reviews": [
+      {
+        "author": "Gordon Wheeler",
+        "rating": 5,
+        "text": "How can one visit Hong Kong and not get roast goose? Goose is apparently the thing in Hong Kong. Our hotel staff recommended Kam's, and we decided to give it a shot. Turns out they have Michelin ⭐. There was a bit of a wait, you go in"
+      },
+      {
+        "author": "Khay Kid Chow",
+        "rating": 5,
+        "text": "Kam's Roast Goose gives you the HK roast goose experience, from the mandatory queuing, hustle and bustle of HK eatery and great food. The roast goose was flavourful. There is a nice mixture of multiple tastes in every part of the goose as"
+      },
+      {
+        "author": "Mick T",
+        "rating": 3,
+        "text": "I really wanted to love Kam's Roast Goose, but the experience was a massive letdown. While the food is \"decent,\" it certainly doesn't justify the logistical nightmare and the lack of respect for sit-down diners."
+      }
+    ],
+    "thumb": "/places/thumb/kams-roast-goose-wanchai.jpg"
+  },
+  {
     "id": "kau-kee-beef-brisket",
     "aliases": [
       "九记牛腩"
@@ -4587,6 +4646,55 @@
     "image": "/places/mall-of-the-world.jpg",
     "imageCredit": "Google Maps",
     "thumb": "/places/thumb/mall-of-the-world.jpg"
+  },
+  {
+    "id": "mid-levels-escalator",
+    "aliases": [
+      "中环至半山自动扶梯"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Central–Mid-Levels Escalator",
+      "zh": "中环至半山自动扶梯"
+    },
+    "city": "Hong Kong",
+    "query": "Central–Mid-Levels Escalator Hong Kong",
+    "lat": 22.2838464,
+    "lng": 114.1549689,
+    "summary": {
+      "en": "Covered outdoor escalator up the hill from Central; free.",
+      "zh": "从中环往半山的户外有盖扶梯，免费。"
+    },
+    "why": {
+      "en": "Billed as the world's longest outdoor covered escalator system, it climbs from Central through the old streets towards the Mid-Levels. A short ride is a Hong Kong-only experience for kids, and it starts right by Tai Cheong Bakery and Lan Fong Yuen.",
+      "zh": "号称世界最长的户外有盖扶梯系统，从中环穿过老街一路往半山。坐一小段就是只有香港才有的体验，起点就在泰昌饼家和兰芳园旁边。"
+    },
+    "tips": {
+      "en": "It runs downhill in the morning and uphill from ~10:00. Map pin is approximate.",
+      "zh": "早上往下行，约10:00后改为往上行。地图位置为大约位置。"
+    },
+    "image": "/places/mid-levels-escalator.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 10620,
+    "reviews": [
+      {
+        "author": "Kong Wen Sheng",
+        "rating": 5,
+        "text": "28 June 2026- It was raining and we decided not to take the cable car up the Peak tram now. We took a taxi over and explored this Central-Mid level escalators. Very interesting to link up majority of this area with escalators. We just"
+      },
+      {
+        "author": "Nitin Subhash",
+        "rating": 5,
+        "text": "The Central–Mid-Levels Escalator is a unique Hong Kong experience, an 800-meter covered ride through bustling streets, linking Central to the Mid-Levels. It's both practical and fun, offering glimpses of cafés, shops, and local life along the way. A quirky urban adventure worth trying."
+      },
+      {
+        "author": "Daphne Partridge",
+        "rating": 4,
+        "text": "Take the escalators the walk a little higher (look out for small brown signs) and suddenly you're at the Tai Kwun: revitalized colonial police station and prison complex wbich has been transformed into a cultural heritage and arts"
+      }
+    ],
+    "thumb": "/places/thumb/mid-levels-escalator.jpg"
   },
   {
     "id": "mixc-shenzhen-bay",
@@ -6185,7 +6293,8 @@
   {
     "id": "star-ferry",
     "aliases": [
-      "天星小轮"
+      "天星小轮",
+      "天星小轮：湾仔 → 尖沙咀"
     ],
     "kind": "ride",
     "name": {
@@ -6931,6 +7040,55 @@
         "text": "Lovely stadium. Not a tourist attraction but good for sporting events."
       }
     ]
+  },
+  {
+    "id": "toys-r-us-ocean-terminal",
+    "aliases": [
+      "海运大厦玩具反斗城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Toys\"R\"Us, Ocean Terminal",
+      "zh": "海运大厦玩具反斗城"
+    },
+    "city": "Hong Kong",
+    "query": "Toys R Us Ocean Terminal Harbour City Tsim Sha Tsui",
+    "lat": 22.2948105,
+    "lng": 114.1659122,
+    "summary": {
+      "en": "Toys\"R\"Us flagship in Ocean Terminal, Harbour City, next to the Star Ferry pier.",
+      "zh": "海港城海运大厦的玩具反斗城旗舰店，紧邻天星码头。"
+    },
+    "why": {
+      "en": "Toys\"R\"Us's first Hong Kong store was rebuilt as a flagship for its 40th year, with Pokémon Play Lab, a Tomica Brand Store, and Nintendo, Sanrio and VTech zones. It is a few minutes from the Star Ferry pier, so the kids can each pick a Hong Kong souvenir before the van.",
+      "zh": "玩具反斗城在香港的第一家店，40周年时改成旗舰店，有Pokémon Play Lab、Tomica专门店，以及Nintendo、Sanrio、VTech专区。离天星码头几分钟路，上车前让孩子各挑一件香港手信。"
+    },
+    "tips": {
+      "en": "Shop OT G21–24 and G39–42, Ocean Terminal. Hours unconfirmed (~11:00–21:00); check on the day.",
+      "zh": "海运大厦OT G21–24及G39–42号铺。营业时间未确认（约11:00–21:00），当天再看。"
+    },
+    "image": "/places/toys-r-us-ocean-terminal.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.2,
+    "reviewCount": 1402,
+    "reviews": [
+      {
+        "author": "Angus Stew Pitt",
+        "rating": 4,
+        "text": "Great collection of toys and you can literally find anything you need from here. The branch is located on the ground floor (G/F) of Ocean Terminal in Harbour City."
+      },
+      {
+        "author": "Mallika Jamy",
+        "rating": 5,
+        "text": "My kids were so excited to see Toys R Us as it's their favourite place. Sadly the store in Pune India shut down and now they can't shop in their happy place. I was happy to see different toys which otherwise we don't get to see, I landed"
+      },
+      {
+        "author": "Hungry Paaji",
+        "rating": 5,
+        "text": "Amazing king size toys r us store at harbour city mall in TST. One gets hands on all the global toy brands and entertainment brands for the kids and teens, bit not just limited to them 😉. Also it has amazing individual experience spots for various brands."
+      }
+    ],
+    "thumb": "/places/thumb/toys-r-us-ocean-terminal.jpg"
   },
   {
     "id": "tsim-chai-kee-noodle",

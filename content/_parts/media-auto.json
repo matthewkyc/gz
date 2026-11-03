@@ -1,0 +1,77 @@
+{
+  "kams-roast-goose-wanchai": {
+    "image": "/places/kams-roast-goose-wanchai.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 6409,
+    "reviews": [
+      {
+        "author": "Gordon Wheeler",
+        "rating": 5,
+        "text": "How can one visit Hong Kong and not get roast goose? Goose is apparently the thing in Hong Kong. Our hotel staff recommended Kam's, and we decided to give it a shot. Turns out they have Michelin ⭐. There was a bit of a wait, you go in"
+      },
+      {
+        "author": "Khay Kid Chow",
+        "rating": 5,
+        "text": "Kam's Roast Goose gives you the HK roast goose experience, from the mandatory queuing, hustle and bustle of HK eatery and great food. The roast goose was flavourful. There is a nice mixture of multiple tastes in every part of the goose as"
+      },
+      {
+        "author": "Mick T",
+        "rating": 3,
+        "text": "I really wanted to love Kam's Roast Goose, but the experience was a massive letdown. While the food is \"decent,\" it certainly doesn't justify the logistical nightmare and the lack of respect for sit-down diners."
+      }
+    ],
+    "lat": 22.277642,
+    "lng": 114.175305
+  },
+  "mid-levels-escalator": {
+    "image": "/places/mid-levels-escalator.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 10620,
+    "reviews": [
+      {
+        "author": "Kong Wen Sheng",
+        "rating": 5,
+        "text": "28 June 2026- It was raining and we decided not to take the cable car up the Peak tram now. We took a taxi over and explored this Central-Mid level escalators. Very interesting to link up majority of this area with escalators. We just"
+      },
+      {
+        "author": "Nitin Subhash",
+        "rating": 5,
+        "text": "The Central–Mid-Levels Escalator is a unique Hong Kong experience, an 800-meter covered ride through bustling streets, linking Central to the Mid-Levels. It's both practical and fun, offering glimpses of cafés, shops, and local life along the way. A quirky urban adventure worth trying."
+      },
+      {
+        "author": "Daphne Partridge",
+        "rating": 4,
+        "text": "Take the escalators the walk a little higher (look out for small brown signs) and suddenly you're at the Tai Kwun: revitalized colonial police station and prison complex wbich has been transformed into a cultural heritage and arts"
+      }
+    ],
+    "lat": 22.2838464,
+    "lng": 114.1549689
+  },
+  "toys-r-us-ocean-terminal": {
+    "image": "/places/toys-r-us-ocean-terminal.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.2,
+    "reviewCount": 1402,
+    "reviews": [
+      {
+        "author": "Angus Stew Pitt",
+        "rating": 4,
+        "text": "Great collection of toys and you can literally find anything you need from here. The branch is located on the ground floor (G/F) of Ocean Terminal in Harbour City."
+      },
+      {
+        "author": "Mallika Jamy",
+        "rating": 5,
+        "text": "My kids were so excited to see Toys R Us as it's their favourite place. Sadly the store in Pune India shut down and now they can't shop in their happy place. I was happy to see different toys which otherwise we don't get to see, I landed"
+      },
+      {
+        "author": "Hungry Paaji",
+        "rating": 5,
+        "text": "Amazing king size toys r us store at harbour city mall in TST. One gets hands on all the global toy brands and entertainment brands for the kids and teens, bit not just limited to them 😉. Also it has amazing individual experience spots for various brands."
+      }
+    ],
+    "lat": 22.2948105,
+    "lng": 114.1659122
+  }
+}

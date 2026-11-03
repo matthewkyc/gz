@@ -532,8 +532,8 @@
             "zh": "周一至六07:30–18:00，周日休息；饭点排队长"
           },
           "when": {
-            "en": "Dec 30 lunch in Central (optional)",
-            "zh": "12/30 中环午餐（可选）"
+            "en": "Dec 30 13:30 (milk tea to go)",
+            "zh": "12/30 13:30（外带奶茶）"
           },
           "placeId": "lan-fong-yuen-central",
           "heading": {
@@ -563,8 +563,8 @@
             "zh": "约07:00–21:00/22:00；排队中到长"
           },
           "when": {
-            "en": "Dec 30 15:15 (Wan Chai ice café)",
-            "zh": "12/30 15:15（湾仔冰室）"
+            "en": "Dec 30 14:35 (Wan Chai ice café)",
+            "zh": "12/30 14:35（湾仔冰室）"
           },
           "placeId": "capital-cafe-wanchai"
         },
@@ -718,8 +718,8 @@
         "zh": "购物清单"
       },
       "subtitle": {
-        "en": "Fashion, accessories, souvenirs, sports and anime, by district",
-        "zh": "按区域：服饰、配饰、手信、运动、动漫"
+        "en": "Fashion, accessories, sports and anime, by district",
+        "zh": "按区域：服饰、配饰、运动、动漫"
       },
       "items": [
         {
@@ -782,32 +782,6 @@
         },
         {
           "title": {
-            "en": "Lin Heung Lau pastry shop (莲香楼饼屋)",
-            "zh": "莲香楼饼屋"
-          },
-          "badge": {
-            "en": "Souvenirs",
-            "zh": "手信"
-          },
-          "desc": {
-            "en": "Wife cakes, chicken biscuits and lotus-paste pastries, boxed for gifts. ¥–¥¥. A small tasting box should be tried first; packing date and shelf life should be checked.",
-            "zh": "老婆饼、鸡仔饼、莲蓉饼，有礼盒装。¥–¥¥。先买小份试吃；留意生产日期和保质期。"
-          },
-          "meta": {
-            "en": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口",
-            "zh": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口"
-          },
-          "hours": {
-            "en": "About 07:00–21:00; late morning or afternoon is easiest",
-            "zh": "约07:00–21:00；上午晚些或下午最方便"
-          },
-          "when": {
-            "en": "Dec 21 16:30",
-            "zh": "12/21 16:30"
-          }
-        },
-        {
-          "title": {
             "en": "Decathlon Huangsha (迪卡侬黄沙店)",
             "zh": "迪卡侬黄沙店"
           },
@@ -865,32 +839,6 @@
         },
         {
           "title": {
-            "en": "Onelink International Plaza (万菱广场)",
-            "zh": "万菱广场"
-          },
-          "badge": {
-            "en": "Accessories · Souvenirs · Anime",
-            "zh": "配饰 · 手信 · 动漫"
-          },
-          "desc": {
-            "en": "Small gifts, stationery, toys, décor, bags and novelty goods. ¥–¥¥. Retail vs bulk price should be asked; toy safety labels and licensing checked. Not the same as 万菱汇 in Tianhe.",
-            "zh": "小礼物、文具、玩具、家居、包和新奇小物。¥–¥¥。问清零售价和批发价；留意玩具安全标识和正版授权。注意不是天河的万菱汇。"
-          },
-          "meta": {
-            "en": "解放南路39号 · 海珠广场站 B/B2出口",
-            "zh": "解放南路39号 · 海珠广场站 B/B2出口"
-          },
-          "hours": {
-            "en": "09:00–20:00; best 10:00–16:30",
-            "zh": "09:00–20:00；建议10:00–16:30"
-          },
-          "when": {
-            "en": "Not scheduled",
-            "zh": "未排入行程"
-          }
-        },
-        {
-          "title": {
             "en": "Animation City (动漫星城)",
             "zh": "动漫星城"
           },
@@ -915,32 +863,6 @@
             "zh": "12/21 13:25"
           },
           "placeId": "animation-city"
-        },
-        {
-          "title": {
-            "en": "MINISO LAND Beijing Road (名创优品MINISO LAND北京路店)",
-            "zh": "名创优品 MINISO LAND 北京路店"
-          },
-          "badge": {
-            "en": "Anime · Accessories · Souvenirs",
-            "zh": "动漫 · 配饰 · 手信"
-          },
-          "desc": {
-            "en": "Character-focused flagship: plush, stationery, accessories and blind boxes, with Sanrio. ¥–¥¥. Good for kids who like cute characters; specific Chiikawa stock is not guaranteed.",
-            "zh": "IP 主题旗舰店：公仔、文具、饰品、盲盒，有三丽鸥。¥–¥¥。适合喜欢可爱角色的孩子；不保证有特定 Chiikawa 系列。"
-          },
-          "meta": {
-            "en": "北京路249号 · 北京路站 A2出口，步行约440米",
-            "zh": "北京路249号 · 北京路站 A2出口，步行约440米"
-          },
-          "hours": {
-            "en": "About 09:30–23:30; best 10:00–11:00",
-            "zh": "约09:30–23:30；建议10:00–11:00"
-          },
-          "when": {
-            "en": "Dec 22 evening (Beijing Road walk)",
-            "zh": "12/22 傍晚（北京路）"
-          }
         },
         {
           "title": {
@@ -1328,9 +1250,267 @@
         }
       ],
       "intro": {
-        "en": "Three clusters fit the hotels: Liwan (Dec 21–23), Beijing Road for anime and gifts, and the Tianhe Road malls (from Dec 27). Info checked 3 Nov 2026; hours and stock can change. ¥ budget · ¥¥ mid · ¥¥¥ premium.",
-        "zh": "按酒店分三块：荔湾（12/21–23）、北京路一带买动漫和手信、天河路商圈（12/27起）。资料核对于2026年11月3日，营业时间和库存可能变化。¥ 平价 · ¥¥ 中档 · ¥¥¥ 高端。"
+        "en": "Three clusters fit the hotels: Liwan (Dec 21–23), Beijing Road for anime and gifts, and the Tianhe Road malls (from Dec 27). Info checked 3 Nov 2026; hours and stock can change. ¥ budget · ¥¥ mid · ¥¥¥ premium. Edible gifts and keepsakes are in the Souvenirs guide.",
+        "zh": "按酒店分三块：荔湾（12/21–23）、北京路一带买动漫和手信、天河路商圈（12/27起）。资料核对于2026年11月3日，营业时间和库存可能变化。¥ 平价 · ¥¥ 中档 · ¥¥¥ 高端。食品手信和纪念品见“手信”。"
       }
+    },
+    {
+      "id": "souvenirs",
+      "icon": "fa-gift",
+      "title": {
+        "en": "Souvenirs",
+        "zh": "手信"
+      },
+      "subtitle": {
+        "en": "Edible gifts, local specialities and keepsakes along the route",
+        "zh": "沿路可买的食品手信、本地特产和纪念品"
+      },
+      "intro": {
+        "en": "Stops are in route order. Pastries (饼食) travel best in boxes; the production date and shelf life printed on each pack should be checked, as none are confirmed here. Fresh items such as Lunjiao cake should be bought last. Liquids and sauces are better packed in checked bags. Items marked optional are not on the itinerary. Info checked 4 Nov 2026; shop stock and hours can change.",
+        "zh": "按路线顺序排列。饼食装盒最耐带；每包的生产日期和保质期以包装为准（此处均未核实）。伦教糕这类新鲜的留到最后买。液体和酱料更适合放托运行李。标“可选”的未排入行程。资料核对于2026年11月4日，库存和营业时间可能变化。"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Lin Heung Lau pastry shop (莲香楼饼屋)",
+            "zh": "莲香楼饼屋"
+          },
+          "badge": {
+            "en": "Pastries",
+            "zh": "饼食"
+          },
+          "desc": {
+            "en": "Wife cakes (老婆饼), chicken biscuits (鸡仔饼) and lotus-paste pastries, boxed for gifts. ¥–¥¥. A small box should be tried first; the printed production date and shelf life should be checked, as these are not confirmed here.",
+            "zh": "老婆饼、鸡仔饼、莲蓉饼，有礼盒装。¥–¥¥。先买小盒试吃；看包装上的生产日期和保质期（此处未核实）。"
+          },
+          "meta": {
+            "en": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口",
+            "zh": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口"
+          },
+          "hours": {
+            "en": "About 07:00–21:00; late morning or afternoon is easiest",
+            "zh": "约07:00–21:00；上午晚些或下午最方便"
+          },
+          "when": {
+            "en": "Dec 21 16:30 (Dishifu Road old brands)",
+            "zh": "12/21 16:30（第十甫路老字号）"
+          },
+          "heading": {
+            "en": "Liwan (荔湾)",
+            "zh": "荔湾区"
+          }
+        },
+        {
+          "title": {
+            "en": "Yongqingfang boutiques and PICOCICI (永庆坊精品店、PICOCICI)",
+            "zh": "永庆坊精品店、PICOCICI"
+          },
+          "badge": {
+            "en": "Crafts · Characters",
+            "zh": "文创 · 角色周边"
+          },
+          "desc": {
+            "en": "Creative-design shops, handmade crafts and intangible-heritage gifts. The PICOCICI flagship on Fushang Lane (富上巷) sells Sanrio, Disney and Chiikawa goods. ¥–¥¥. Small shops change quickly; PICOCICI details come from summer 2026 reports.",
+            "zh": "文创小店、手作和非遗手信。富上巷的 PICOCICI 旗舰店卖三丽鸥、迪士尼、Chiikawa 周边。¥–¥¥。小店更替快；PICOCICI 的资料来自2026年夏天的报道。"
+          },
+          "meta": {
+            "en": "永庆一巷、永庆二巷、富上巷 · 黄沙站，步行",
+            "zh": "永庆一巷、永庆二巷、富上巷 · 黄沙站，步行"
+          },
+          "hours": {
+            "en": "Hours not verified",
+            "zh": "营业时间未核实"
+          },
+          "when": {
+            "en": "Dec 23 11:00",
+            "zh": "12/23 11:00"
+          },
+          "placeId": "yongqingfang"
+        },
+        {
+          "title": {
+            "en": "MINISO LAND Beijing Road (名创优品MINISO LAND北京路店)",
+            "zh": "名创优品 MINISO LAND 北京路店"
+          },
+          "badge": {
+            "en": "Characters",
+            "zh": "角色周边"
+          },
+          "desc": {
+            "en": "Character flagship: Sanrio plush, stationery, accessories and blind boxes. ¥–¥¥. Specific Chiikawa stock is not guaranteed; a blind-box budget should be set first, as opened boxes are usually not returnable.",
+            "zh": "角色主题旗舰店：三丽鸥公仔、文具、饰品、盲盒。¥–¥¥。不保证有特定 Chiikawa 系列；盲盒先定预算，拆了一般不能退。"
+          },
+          "meta": {
+            "en": "北京路249号 · 北京路站 A2出口，步行约440米",
+            "zh": "北京路249号 · 北京路站 A2出口，步行约440米"
+          },
+          "hours": {
+            "en": "About 09:30–23:30; best 10:00–11:00",
+            "zh": "约09:30–23:30；建议10:00–11:00"
+          },
+          "when": {
+            "en": "Dec 22 evening (Beijing Road walk, from 18:10)",
+            "zh": "12/22 傍晚（北京路，18:10起）"
+          },
+          "heading": {
+            "en": "Yuexiu (越秀)",
+            "zh": "越秀区"
+          }
+        },
+        {
+          "title": {
+            "en": "Onelink International Plaza (万菱广场)",
+            "zh": "万菱广场"
+          },
+          "badge": {
+            "en": "Small gifts",
+            "zh": "小礼物"
+          },
+          "desc": {
+            "en": "Small gifts, stationery, toys and novelty goods. ¥–¥¥. Retail vs bulk price should be asked; toy safety labels and licensing checked. Not the same as 万菱汇 in Tianhe.",
+            "zh": "小礼物、文具、玩具和新奇小物。¥–¥¥。问清零售价和批发价；留意玩具安全标识和正版授权。注意不是天河的万菱汇。"
+          },
+          "meta": {
+            "en": "解放南路39号 · 海珠广场站 B/B2出口",
+            "zh": "解放南路39号 · 海珠广场站 B/B2出口"
+          },
+          "hours": {
+            "en": "09:00–20:00; best 10:00–16:30",
+            "zh": "09:00–20:00；建议10:00–16:30"
+          },
+          "when": {
+            "en": "Not scheduled (optional)",
+            "zh": "未排入（可选）"
+          }
+        },
+        {
+          "title": {
+            "en": "Chimelong Safari Park exit shops (长隆野生动物世界出口纪念品店)",
+            "zh": "长隆野生动物世界出口纪念品店"
+          },
+          "badge": {
+            "en": "Keepsakes",
+            "zh": "纪念品"
+          },
+          "desc": {
+            "en": "Animal-themed keepsakes at the shops beside Flamingo Lake, on the way out. ¥–¥¥. Specific items and prices are unconfirmed; compare before buying and keep purchases light to carry (hotel check-out is the next day).",
+            "zh": "火烈鸟湖旁、出园路上的纪念品店，动物主题纪念品。¥–¥¥。具体商品和价格未核实；先比再买，尽量轻巧（次日退房）。"
+          },
+          "hours": {
+            "en": "Park hours apply",
+            "zh": "随园区开放时间"
+          },
+          "when": {
+            "en": "Dec 25 16:00",
+            "zh": "12/25 16:00"
+          },
+          "placeId": "chimelong-flamingo-lake",
+          "heading": {
+            "en": "Panyu (番禺)",
+            "zh": "番禺区"
+          }
+        },
+        {
+          "title": {
+            "en": "Shawan Ancient Town night market (沙湾古镇安宁广场光影夜市)",
+            "zh": "沙湾古镇安宁广场光影夜市"
+          },
+          "badge": {
+            "en": "Crafts",
+            "zh": "手作"
+          },
+          "desc": {
+            "en": "Stalls with embroidery, copperware and tea. ¥–¥¥. Per the itinerary notes, the market runs about 17:30–19:00; stall range varies, so items are unconfirmed. Prices should be asked before buying.",
+            "zh": "有刺绣、铜器、茶叶小摊。¥–¥¥。据行程资料，夜市约17:30至19:00；摊位每次不同，具体商品未核实。买前先问价。"
+          },
+          "when": {
+            "en": "Dec 26 17:45",
+            "zh": "12/26 17:45"
+          },
+          "placeId": "shawan-ancient-town"
+        },
+        {
+          "title": {
+            "en": "Lei Hei Kee and Foshan Gong (李禧记、佛山公)",
+            "zh": "李禧记、佛山公"
+          },
+          "badge": {
+            "en": "Foshan specialities",
+            "zh": "佛山手信"
+          },
+          "desc": {
+            "en": "Blind man’s cakes (盲公饼), bengsha crisp biscuits (崩砂) and maltose candy. ¥–¥¥. Old Foshan brands; boxes travel well. Exact shop positions inside Lingnan Tiandi are unconfirmed.",
+            "zh": "盲公饼、崩砂、麦芽糖。¥–¥¥。佛山老字号，盒装耐带。两家店在岭南天地的具体位置未核实。"
+          },
+          "meta": {
+            "en": "岭南天地（禅城区）",
+            "zh": "岭南天地（禅城区）"
+          },
+          "hours": {
+            "en": "Hours not verified",
+            "zh": "营业时间未核实"
+          },
+          "when": {
+            "en": "Jan 2 13:25",
+            "zh": "1/2 13:25"
+          },
+          "placeId": "lei-hei-kee-lingnan-tiandi",
+          "heading": {
+            "en": "Foshan & Shunde (佛山·顺德)",
+            "zh": "佛山·顺德"
+          }
+        },
+        {
+          "title": {
+            "en": "Lunjiao cake on Huagai Road (华盖路伦教糕)",
+            "zh": "华盖路伦教糕"
+          },
+          "badge": {
+            "en": "Shunde speciality",
+            "zh": "顺德手信"
+          },
+          "desc": {
+            "en": "Lunjiao cake (伦教糕): a steamed white-sugar rice cake, sweet with a slight tang. ¥. Fresh and soft, so best bought last (Jan 2 17:15) and eaten within the day or by the date on the pack. A bakery on Huagai Road is the planned stop; the shop name is unconfirmed.",
+            "zh": "伦教糕：白糖米糕，清甜微酸。¥。新鲜柔软，所以留到最后买（1/2 17:15），当天吃或按包装日期吃。行程里是华盖路上的饼家，店名未核实。"
+          },
+          "meta": {
+            "en": "华盖路步行街（大良）",
+            "zh": "华盖路步行街（大良）"
+          },
+          "when": {
+            "en": "Jan 2 17:15",
+            "zh": "1/2 17:15"
+          },
+          "placeId": "huagai-road-daliang"
+        },
+        {
+          "title": {
+            "en": "Toys\"R\"Us, Ocean Terminal (海运大厦玩具反斗城)",
+            "zh": "海运大厦玩具反斗城"
+          },
+          "badge": {
+            "en": "Toys · Characters",
+            "zh": "玩具 · 角色周边"
+          },
+          "desc": {
+            "en": "One Hong Kong souvenir per child: Pokémon, Tomica, Nintendo, Sanrio and VTech zones. ¥¥. Shops OT G21–24 and G39–42; about 5 minutes’ walk from the Star Ferry pier.",
+            "zh": "每个孩子挑一件香港手信：Pokémon、Tomica、Nintendo、三丽鸥、VTech 专区。¥¥。海运大厦 G21–24、G39–42 号铺；离天星码头约5分钟。"
+          },
+          "hours": {
+            "en": "Opens about 11:00; hours to be confirmed on site",
+            "zh": "约11:00开门；营业时间到店确认"
+          },
+          "when": {
+            "en": "Dec 30 15:20",
+            "zh": "12/30 15:20"
+          },
+          "placeId": "toys-r-us-ocean-terminal",
+          "heading": {
+            "en": "Hong Kong (香港)",
+            "zh": "香港"
+          }
+        }
+      ]
     },
     {
       "id": "metro",

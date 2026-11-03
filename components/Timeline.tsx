@@ -184,6 +184,8 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
         />
       </div>
       {s.desc && <p className="note">{t(s.desc)}</p>}
+      {s.pick && <VanLine kind="pickUp" text={t(s.pick)} />}
+      {s.drop && <VanLine kind="dropOff" text={t(s.drop)} />}
       {s.tip && <Tip text={t(s.tip)} />}
       <FoodBlock food={s.food} ctx={ctx} />
     </li>
@@ -232,12 +234,17 @@ function FoodBlock({ food, ctx }: { food: Food[]; ctx: Ctx }) {
   const { t, ui } = useLang();
   const rest = food.filter((f) => !f.dish);
   const dish = food.filter((f) => f.dish);
+  /** Every entry is a non-food place: a list of sights to pop into on the way. */
+  const passBy = rest.length > 0 && rest.every((f) => f.placeId && ctx.places[f.placeId]?.kind !== "food");
   if (!food.length) return null;
   return (
     <div className="food">
       {rest.length > 0 && (
         <div className="food-group">
-          <span className="food-label"><i className="fa-solid fa-utensils" aria-hidden />{ui(rest.length > 1 ? "restaurants" : "restaurant")}</span>
+          <span className="food-label">
+            <i className={`fa-solid ${passBy ? "fa-location-dot" : "fa-utensils"}`} aria-hidden />
+            {passBy ? ui("passBy") : ui(rest.length > 1 ? "restaurants" : "restaurant")}
+          </span>
           <ul className="cards">
             {rest.map((f, i) => {
               const p = f.placeId ? ctx.places[f.placeId] : undefined;
@@ -296,3 +303,14 @@ function Tip({ text }: { text: string }) {
 }
 
 export { KIND_ICON };
+
+/** Where the chartered car picks the group up or drops it off. */
+function VanLine({ kind, text }: { kind: "pickUp" | "dropOff"; text: string }) {
+  const { ui } = useLang();
+  return (
+    <p className={`van van-${kind}`}>
+      <i className="fa-solid fa-car-side" aria-hidden />
+      <span><b>{ui(kind)}</b>{text}</span>
+    </p>
+  );
+}

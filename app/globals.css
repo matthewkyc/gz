@@ -800,3 +800,12 @@ h4.title { font-size: 16px; }
 }
 
 .pt-tail{white-space:nowrap}
+
+/* Chartered-car pick-up / drop-off line */
+.van { display: grid; grid-template-columns: 16px 1fr; gap: 8px; align-items: baseline; margin-top: 8px; font-size: 13px; line-height: 1.45; color: var(--ink2); }
+.van i { color: var(--accent); font-size: 12px; }
+.van b { color: var(--ink); font-weight: 600; margin-right: 6px; }
+
+/* Day-level reminder under the intro */
+.day-notice { display: grid; grid-template-columns: 18px 1fr; gap: 10px; align-items: baseline; margin-top: 16px; padding: 12px 14px; border-radius: 14px; background: var(--accent-soft); color: var(--ink); font-size: 14.5px; line-height: 1.45; }
+.day-notice i { color: var(--accent-ink); }

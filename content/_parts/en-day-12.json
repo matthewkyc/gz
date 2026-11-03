@@ -27,13 +27,21 @@
       "end": "09:15",
       "title": "Chartered car: K Hotel → Foshan Ancestral Temple",
       "note": "Normally ~50 min–1 hr. On the New Year holiday Saturday, traffic to Foshan is heavier and may take ~1 hr 15 min, so departure is at 08:00, arriving after 09:00 — in time for the 10:00 lion dance.",
-      "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked."
+      "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked.",
+      "route": [
+        {
+          "time": "08:00",
+          "title": "K Hotel → Foshan Ancestral Temple",
+          "pick": "Outside K Hotel (81 Huangpu Avenue West); the exact spot is agreed with the driver",
+          "drop": "Near the Ancestral Temple entrance; the exact spot is unconfirmed and depends on the driver and traffic that day"
+        }
+      ]
     },
     {
       "start": "09:15",
       "end": "11:15",
       "title": "Foshan Ancestral Temple (佛山祖庙)",
-      "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.",
+      "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.. The car does not follow the group; the driver makes their own arrangements and picks the group up at the temple at 14:35.",
       "route": [
         {
           "time": "09:15",
@@ -90,40 +98,28 @@
       "route": [
         {
           "time": "11:15",
-          "title": "Clock Tower (钟楼)",
-          "desc": "Lingnan Tiandi's landmark on the central axis; the walls carry ceramic sculptures and “double happiness” tile patterns.",
+          "title": "Lingnan Tiandi heritage buildings",
+          "desc": "All four are near the central axis, a few minutes apart; each is passed on the way and entered only if it appeals.",
           "tags": [
-            "Landmark",
-            "Photo spot"
-          ]
-        },
-        {
-          "time": "11:30",
-          "title": "Jian Family Villas (简氏别墅)",
-          "walk": "~3 min walk",
-          "desc": "Western-style buildings built by the Jian brothers, founders of Double Happiness cigarettes — Foshan's largest surviving early-Republic villa complex. The balconied “Young Ladies' Tower” is where unmarried daughters once watched the street.",
-          "tags": [
-            "Landmark",
-            "Photo spot"
-          ]
-        },
-        {
-          "time": "11:55",
-          "title": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
-          "walk": "~3 min walk",
-          "desc": "Two-storey white building mixing Chinese and Western styles, on the site of a Qing-dynasty literati garden; exhibitions are often held.",
-          "tags": [
-            "Photo spot"
-          ]
-        },
-        {
-          "time": "12:10",
-          "title": "Wedding House (嫁娶屋, 文会里)",
-          "walk": "~5 min walk",
-          "desc": "A house once used for weddings; traditional wedding dress and a bridal sedan chair can be tried for photos.",
-          "tags": [
-            "Landmark",
-            "Photo spot"
+            "Photos"
+          ],
+          "food": [
+            {
+              "name": "Clock Tower (钟楼)",
+              "desc": "Landmark on the central axis, with ceramic wall sculptures"
+            },
+            {
+              "name": "Jian Family Villas (简氏别墅)",
+              "desc": "Western-style villas built by the Double Happiness founders; the “Young Ladies' Tower”"
+            },
+            {
+              "name": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
+              "desc": "Chinese-Western white house; exhibitions are often held"
+            },
+            {
+              "name": "Wedding House (嫁娶屋, 文会里)",
+              "desc": "Wedding dress and a bridal sedan chair can be tried for photos"
+            }
           ]
         },
         {
@@ -148,38 +144,29 @@
         },
         {
           "time": "13:15",
-          "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
+          "title": "Old shops and souvenirs",
           "walk": "Short walk inside the quarter after lunch",
-          "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
-          "tags": [
-            "Landmark"
-          ]
-        },
-        {
-          "time": "13:25",
-          "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
-          "walk": "Inside the quarter",
-          "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
+          "desc": "All inside the quarter, steps apart; each is passed on the way and entered for souvenirs if wanted.",
           "tags": [
             "Shopping"
-          ]
-        },
-        {
-          "time": "13:35",
-          "title": "China Seasoning Culture Museum (中国调味文化馆)",
-          "walk": "Short walk inside the quarter",
-          "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
-          "tags": [
-            "Landmark"
-          ]
-        },
-        {
-          "time": "13:45",
-          "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
-          "walk": "~3 min walk",
-          "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Five minutes is enough.",
-          "tags": [
-            "Landmark"
+          ],
+          "food": [
+            {
+              "name": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
+              "desc": "Century-old pharmacy, home of Po Chai pills"
+            },
+            {
+              "name": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
+              "desc": "Souvenirs: blind man's cakes, bengsha, maltose candy"
+            },
+            {
+              "name": "China Seasoning Culture Museum (中国调味文化馆)",
+              "desc": "History of Foshan soy sauce; a quick loop"
+            },
+            {
+              "name": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
+              "desc": "Shiwan Yubingshao rice wine; five minutes is enough"
+            }
           ]
         },
         {
@@ -194,7 +181,8 @@
         },
         {
           "time": "14:35",
-          "title": "Board the chartered car at the temple"
+          "title": "Board the chartered car at the temple",
+          "pick": "Outside the Ancestral Temple; the exact spot is unconfirmed and agreed with the driver"
         }
       ]
     },
@@ -202,7 +190,15 @@
       "start": "14:40",
       "end": "15:40",
       "title": "Chartered car: Foshan → Daliang, Shunde",
-      "note": "~45 min–1 hr drive."
+      "note": "~45 min–1 hr drive.",
+      "route": [
+        {
+          "time": "14:40",
+          "title": "Foshan Ancestral Temple → Qinghui Garden, Daliang",
+          "pick": "Outside the Ancestral Temple (same spot as above)",
+          "drop": "Near the Qinghui Garden entrance (Qinghui Road); the exact spot is unconfirmed and agreed with the driver"
+        }
+      ]
     },
     {
       "start": "15:40",
@@ -229,6 +225,16 @@
             "Photo spot",
             "Shopping"
           ]
+        },
+        {
+          "time": "17:05",
+          "title": "Double-skin milk at Renxin (仁信老铺双皮奶)",
+          "walk": "On Huagai Road",
+          "desc": "Shunde's classic double-skin milk from an old shop; one bowl is shared, leaving room for dinner.",
+          "tags": [
+            "Dessert"
+          ],
+          "tip": "The exact location of the Huagai Road branch is unconfirmed; it should be looked for on arrival."
         },
         {
           "time": "17:15",
@@ -267,14 +273,28 @@
     {
       "start": "18:10",
       "end": "18:15",
-      "title": "Back to the chartered car"
+      "title": "Back to the chartered car",
+      "route": [
+        {
+          "time": "18:10",
+          "title": "Dinner restaurant → chartered car",
+          "pick": "Outside the dinner restaurant (near Qinghui Garden and Huagai Road); the exact spot is agreed with the driver"
+        }
+      ]
     },
     {
       "start": "18:15",
       "end": "19:45",
       "title": "Chartered car: Shunde → Guangzhou",
       "note": "Leaving at 18:15 avoids the worst of the rush; ~1 hr 20 min–1 hr 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
-      "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
+      "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation.",
+      "route": [
+        {
+          "time": "18:15",
+          "title": "Shunde → K Hotel",
+          "drop": "Outside K Hotel (81 Huangpu Avenue West); the exact spot is agreed with the driver"
+        }
+      ]
     }
   ]
 }

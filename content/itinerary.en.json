@@ -1580,8 +1580,16 @@
           "start": "09:35",
           "end": "10:30",
           "title": "Shenzhen North → Bantian, Longgang (龙岗坂田)",
-          "note": "Meet the local chartered car at Shenzhen North. Drive ~25 min.",
-          "tip": "Price, hours, and whether tolls and parking are included should be agreed before the charter."
+          "note": "Meet the local chartered car at Shenzhen North. Drive ~25 min.. The exact exit is agreed with the driver.",
+          "tip": "Price, hours, and whether tolls and parking are included should be agreed before the charter.",
+          "route": [
+            {
+              "time": "09:35",
+              "title": "Shenzhen North Station → Galaxy WORLD",
+              "pick": "Private-car drop-off/pick-up area at Shenzhen North Station; confirm the exit with the driver by phone after leaving the station",
+              "drop": "At the Galaxy WORLD (星河WORLD) campus entrance, Bantian, Longgang; exact spot unconfirmed"
+            }
+          ]
         },
         {
           "start": "10:30",
@@ -1646,7 +1654,15 @@
           "start": "13:30",
           "end": "14:15",
           "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
-          "note": "Drive ~40 min."
+          "note": "Drive ~40 min.. The driver waits near Galaxy WORLD in the morning; agree beforehand whether the car waits all day and how that is charged.",
+          "route": [
+            {
+              "time": "13:30",
+              "title": "Galaxy WORLD → Shenzhen Bay Culture Plaza",
+              "pick": "At the Galaxy WORLD campus entrance; the exact spot is agreed with the driver",
+              "drop": "Near the northeast entrance, North Hall L1, Shenzhen Bay Culture Plaza; the exact spot is agreed with the driver"
+            }
+          ]
         },
         {
           "start": "14:15",
@@ -1678,7 +1694,9 @@
               "tags": [
                 "Must-see",
                 "Photos"
-              ]
+              ],
+              "pick": "Outside the North Hall, Shenzhen Bay Culture Plaza; the exact spot is agreed with the driver",
+              "drop": "A drop-off point near Talent Park (人才公园); the exact spot is agreed with the driver"
             }
           ]
         },
@@ -1700,22 +1718,32 @@
               "desc": "Many choices in the mall; easy to get back in the car afterwards."
             }
           ],
-          "tip": "Coconut chicken and beef hotpot are both chains; the driver should be asked to go to the branch nearest Shenzhen Bay."
+          "tip": "Coconut chicken and beef hotpot are both chains; the driver should be asked to go to the branch nearest Shenzhen Bay.",
+          "note": "The car picks the group up outside the restaurant; tell the driver which one once chosen."
         },
         {
           "start": "18:40",
           "end": "19:15",
           "title": "Chartered car: Nanshan → Shenzhen North",
-          "note": "Drive ~30 min. When booking, trains from Futian Station (福田站) can also be compared."
+          "note": "Drive ~30 min. When booking, trains from Futian Station (福田站) can also be compared.",
+          "route": [
+            {
+              "time": "18:40",
+              "title": "Dinner restaurant → Shenzhen North Station",
+              "pick": "Outside the dinner restaurant; the exact spot is agreed with the driver",
+              "drop": "Private-car drop-off area at Shenzhen North Station; the exact spot is agreed with the driver"
+            }
+          ]
         },
         {
-          "start": "19:30",
-          "end": "20:05",
-          "title": "HSR: Shenzhen North → Guangzhou South"
+          "start": "20:00",
+          "end": "20:35",
+          "title": "HSR: Shenzhen North → Guangzhou South",
+          "note": "~20:00 train; ~45 min is left to enter the station and clear security. The exact train should be checked on 12306."
         },
         {
-          "start": "20:05",
-          "end": "20:50",
+          "start": "20:35",
+          "end": "21:20",
           "title": "Guangzhou South → K Hotel",
           "note": "Taxi, ~40 min."
         }
@@ -1913,7 +1941,7 @@
       "locked": true,
       "theme": "Hong Kong day trip",
       "away": "Hong Kong",
-      "intro": "HSR to West Kowloon (tickets booked in advance)\nStar Ferry; lunch in Central; Tai Cheong egg tarts\nPeak Tram, Madame Tussauds, Victoria Peak\nDing Ding tram; back to Guangzhou for dinner",
+      "intro": "HSR to West Kowloon; chartered van all day\nPeak Tram up, Madame Tussauds, lunch at the Peak, van down\nCentral: Mid-Levels Escalator, Tai Cheong egg tarts, Lan Fong Yuen milk tea\nDing Ding tram to Wan Chai: Kam's roast goose, Capital Café\nStar Ferry to Tsim Sha Tsui; souvenirs at Toys\"R\"Us",
       "items": [
         {
           "start": "07:00",
@@ -1954,81 +1982,27 @@
         {
           "start": "10:05",
           "end": "16:05",
-          "title": "Hong Kong route",
+          "title": "Hong Kong route (chartered van)",
           "route": [
             {
               "time": "10:05",
-              "title": "West Kowloon Station → Tsim Sha Tsui",
-              "desc": "Taxi from outside the station, ~15 min."
+              "title": "West Kowloon Station → Peak Tram lower terminus (花园道山顶缆车总站)",
+              "desc": "Van, ~20 min via the Western Harbour Crossing",
+              "pick": "West Kowloon Station private-car pick-up area; the level and exit should be confirmed with the driver by WhatsApp after clearance",
+              "drop": "Outside the Peak Tram lower terminus, Garden Road"
             },
             {
-              "time": "10:20",
-              "title": "Tsim Sha Tsui waterfront and Avenue of Stars (尖沙咀海滨、星光大道)",
-              "desc": "The Central skyline is seen across Victoria Harbour. The Avenue of Stars has a Bruce Lee bronze statue, linking to Bruce Lee's ancestral home visited on the 23rd.",
+              "time": "10:30",
+              "title": "Peak Tram (山顶缆车)",
+              "walk": "At the drop-off",
+              "desc": "Century-old funicular; the steep tilt on the way up is thrilling and memorable for kids. Morning queues are shorter than at noon.",
+              "tip": "A Madame Tussauds + Peak Tram combo ticket gives access to a dedicated lane.",
               "tags": [
-                "Must-see",
-                "Photos"
+                "Must-see"
               ]
             },
             {
               "time": "11:00",
-              "title": "Star Ferry (天星小轮)",
-              "walk": "Walk to Tsim Sha Tsui pier",
-              "desc": "Century-old ferry; ~10 min across Victoria Harbour.",
-              "tags": [
-                "Must-see"
-              ]
-            },
-            {
-              "time": "11:15",
-              "title": "Lunch: Central (中环)",
-              "walk": "~10 min walk from the pier",
-              "desc": "Eat early to avoid the noon crowds.",
-              "tags": [
-                "Lunch"
-              ],
-              "food": [
-                {
-                  "name": "Kau Kee Beef Brisket (九记牛腩)",
-                  "desc": "Gough Street; clear-broth beef brisket."
-                },
-                {
-                  "name": "Tsim Chai Kee Noodle (沾仔记)",
-                  "desc": "Wellington Street; fresh shrimp wonton noodles."
-                },
-                {
-                  "name": "Lan Fong Yuen (兰芳园)",
-                  "desc": "Silk-stocking milk tea, pork chop bun."
-                }
-              ]
-            },
-            {
-              "time": "12:00",
-              "title": "Tai Cheong Bakery (泰昌饼家)",
-              "walk": "Lyndhurst Terrace (摆花街), ~5 min walk",
-              "desc": "Flaky-pastry egg tarts, bought and eaten on the go.",
-              "tags": [
-                "Dessert"
-              ],
-              "food": [
-                {
-                  "name": "LINLEE Central, Lyndhurst Terrace (LINLEE（中环摆花街店）)",
-                  "desc": "Same street; hand-pounded lemon tea goes well with the egg tarts. 4.6 on Google."
-                }
-              ]
-            },
-            {
-              "time": "12:15",
-              "title": "Peak Tram (山顶缆车)",
-              "walk": "~10 min walk to the Garden Road lower terminus",
-              "desc": "Century-old funicular; the steep tilt of the car on the way up is thrilling and memorable for kids.",
-              "tags": [
-                "Must-see"
-              ],
-              "tip": "Queues can be long. A Madame Tussauds + Peak Tram combo ticket gives access to a dedicated lane."
-            },
-            {
-              "time": "13:00",
               "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
               "walk": "Inside The Peak Tower (凌霄阁)",
               "desc": "Close-up photos with wax figures of celebrities and athletes; a favourite with kids.",
@@ -2038,7 +2012,31 @@
               ]
             },
             {
-              "time": "14:00",
+              "time": "12:00",
+              "title": "Lunch at the Peak",
+              "walk": "The Peak Tower and Peak Galleria (山顶广场)",
+              "desc": "Kept light, to leave room for the roast goose later.",
+              "tip": "Which restaurants are open at the Peak should be checked on the day.",
+              "tags": [
+                "Lunch"
+              ],
+              "food": [
+                {
+                  "name": "Restaurants in The Peak Tower (凌霄阁)",
+                  "desc": "Bubba Gump, Burger King and others"
+                },
+                {
+                  "name": "Pacific Coffee, Peak Tower",
+                  "desc": "Hong Kong coffee chain"
+                },
+                {
+                  "name": "Starbucks, Peak Galleria L2",
+                  "desc": "Coffee for the adults"
+                }
+              ]
+            },
+            {
+              "time": "12:40",
               "title": "Victoria Peak (太平山顶)",
               "walk": "Outside The Peak Tower",
               "desc": "Views over Victoria Harbour and all of Hong Kong Island.",
@@ -2047,46 +2045,117 @@
               ]
             },
             {
-              "time": "14:20",
-              "title": "Peak Tram down",
-              "walk": "Back to the Garden Road terminus"
+              "time": "13:00",
+              "title": "Van down the Peak → Central",
+              "desc": "~20 min; the queue for the tram down is skipped.",
+              "pick": "Peak Galleria (山顶广场) car park; the exact spot is agreed with the driver",
+              "drop": "Near Lyndhurst Terrace and Central Market, at a stopping point the driver picks"
             },
             {
-              "time": "14:50",
-              "title": "Ding Ding tram (叮叮车)",
-              "walk": "Walk to Des Voeux Road Central to board",
-              "desc": "Century-old tram. Upper deck front row for street views; ~20 min to Wan Chai.",
+              "time": "13:20",
+              "title": "Central–Mid-Levels Escalator (中环至半山自动扶梯)",
+              "walk": "A few minutes' walk from the drop-off",
+              "desc": "Billed as the world's longest outdoor covered escalator system; free. A short ride to Lyndhurst Terrace is enough.",
               "tags": [
                 "Must-see"
               ]
             },
             {
-              "time": "15:15",
-              "title": "Capital Café (華星冰室)",
-              "walk": "Wan Chai MTR Exit A4, walk to 6 Heard Street",
+              "time": "13:30",
+              "title": "Tai Cheong Bakery (泰昌饼家)",
+              "walk": "Lyndhurst Terrace, beside the escalator",
+              "desc": "Flaky-pastry egg tarts, eaten on the go.",
               "tags": [
                 "Dessert"
               ],
               "food": [
                 {
-                  "name": "Milk tea, scrambled-egg toast, crispy condensed-milk bun (奶茶、炒蛋多士、脆皮奶油猪仔包)",
-                  "desc": "Capital Café signatures",
+                  "name": "Lan Fong Yuen (兰芳园)",
+                  "desc": "2 Gage Street, ~1 min walk; credited with silk-stocking milk tea. One cup to go."
+                },
+                {
+                  "name": "LINLEE, Lyndhurst Terrace (LINLEE（中环摆花街店）)",
+                  "desc": "Same street; hand-pounded lemon tea"
+                }
+              ]
+            },
+            {
+              "time": "13:45",
+              "title": "Ding Ding tram (叮叮车)",
+              "walk": "Walk to Des Voeux Road Central to board",
+              "desc": "Century-old tram. Upper deck front row for street views; ~20 min to Wan Chai. Paid by tapping a Wise card or Apple Pay when getting off.",
+              "tags": [
+                "Must-see"
+              ]
+            },
+            {
+              "time": "14:05",
+              "title": "Kam's Roast Goose (甘牌烧鹅)",
+              "walk": "Get off on Hennessy Road, Wan Chai; 226 Hennessy Road",
+              "desc": "Michelin-starred roast goose; the goose leg should be ordered. One or two plates are shared.",
+              "tip": "Opens 11:30. After 14:00 it is quieter, but a queue is still possible.",
+              "tags": [
+                "Must-see"
+              ],
+              "food": [
+                {
+                  "name": "Roast goose leg with rice (烧鹅腿饭)",
+                  "desc": "Regular goose rice can be upgraded to the leg",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "14:35",
+              "title": "Capital Café (華星冰室)",
+              "walk": "~5–10 min walk to 6 Heard Street",
+              "desc": "Well-known Hong Kong ice café: yuanyang or milk tea with scrambled-egg toast or a pineapple bun. Milk tea to go if it is full.",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Yuanyang, milk tea (鸳鸯、奶茶)",
+                  "desc": "Coffee mixed with milk tea; the most Hong Kong drink",
                   "dish": true
                 },
                 {
-                  "name": "Pineapple bun with butter, iced lemon tea (菠萝油、冻柠茶)",
-                  "desc": "Hong Kong café essentials",
+                  "name": "Scrambled-egg toast, pineapple bun with butter (炒蛋多士、菠萝油)",
+                  "desc": "Ice-café signatures",
                   "dish": true
                 }
-              ],
-              "desc": "Well-known Hong Kong ice café: milk tea with scrambled-egg toast or a crispy condensed-milk bun. Shared tables are accepted when queues are long."
+              ]
+            },
+            {
+              "time": "15:05",
+              "title": "Star Ferry: Wan Chai → Tsim Sha Tsui (天星小轮)",
+              "walk": "~15 min walk to Wan Chai Pier (by the Convention Centre), or taxi ~5 min",
+              "desc": "Century-old ferry; ~10 min across Victoria Harbour. Every ~12 min Mon–Sat. Tickets are bought by card at the pier's self-service machine.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "15:20",
+              "title": "Toys\"R\"Us, Ocean Terminal (海运大厦玩具反斗城)",
+              "walk": "~5 min walk from the pier, Ocean Terminal, Harbour City",
+              "desc": "Flagship store revamped in 2026, with Pokémon, Tomica, Nintendo and Sanrio zones; each child picks one Hong Kong souvenir. Egg waffles (鸡蛋仔) can be bought near the pier on the way.",
+              "tip": "Opens ~11:00; hours should be checked on the day.",
+              "tags": [
+                "Shopping"
+              ]
             },
             {
               "time": "15:45",
-              "title": "Wan Chai → West Kowloon Station",
-              "walk": "Taxi, ~20 min"
+              "title": "Tsim Sha Tsui → West Kowloon Station",
+              "desc": "Van, ~10–15 min",
+              "pick": "Pick-up area outside Ocean Terminal, Harbour City; the exact spot is agreed with the driver",
+              "drop": "West Kowloon Station private-car drop-off area"
             }
-          ]
+          ],
+          "note": "The van driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. Between 13:15 and 15:45 the van is not needed and goes ahead to Tsim Sha Tsui.",
+          "tip": "Vans are usually hired by the hour; hours, harbour-tunnel tolls and parking should be agreed first. Many Central streets are no-stopping zones, so exact pick-up and drop-off points are set by the driver."
         },
         {
           "start": "16:05",
@@ -2110,7 +2179,8 @@
           "end": "19:30",
           "title": "Dinner: near the hotel"
         }
-      ]
+      ],
+      "notice": "No Octopus card or coins needed. Ding Ding tram: a Wise card or Apple Pay is tapped when getting off; adult HK$3.3, child HK$1.6. Star Ferry: tickets are bought by card or QR at the pier's self-service machines; weekday adult HK$5.0, child HK$2.9. Foreign cards may incur cross-border fees."
     },
     {
       "stay": 2,
@@ -2428,13 +2498,21 @@
           "end": "09:15",
           "title": "Chartered car: K Hotel → Foshan Ancestral Temple",
           "note": "Normally ~50 min–1 hr. On the New Year holiday Saturday, traffic to Foshan is heavier and may take ~1 hr 15 min, so departure is at 08:00, arriving after 09:00 — in time for the 10:00 lion dance.",
-          "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked."
+          "tip": "Price, duration, and whether tolls and parking are included should be agreed before the car is booked.",
+          "route": [
+            {
+              "time": "08:00",
+              "title": "K Hotel → Foshan Ancestral Temple",
+              "pick": "Outside K Hotel (81 Huangpu Avenue West); the exact spot is agreed with the driver",
+              "drop": "Near the Ancestral Temple entrance; the exact spot is unconfirmed and depends on the driver and traffic that day"
+            }
+          ]
         },
         {
           "start": "09:15",
           "end": "11:15",
           "title": "Foshan Ancestral Temple (佛山祖庙)",
-          "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.",
+          "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.. The car does not follow the group; the driver makes their own arrangements and picks the group up at the temple at 14:35.",
           "route": [
             {
               "time": "09:15",
@@ -2491,40 +2569,28 @@
           "route": [
             {
               "time": "11:15",
-              "title": "Clock Tower (钟楼)",
-              "desc": "Lingnan Tiandi's landmark on the central axis; the walls carry ceramic sculptures and “double happiness” tile patterns.",
-              "tags": [
-                "Must-see",
-                "Photos"
-              ]
-            },
-            {
-              "time": "11:30",
-              "title": "Jian Family Villas (简氏别墅)",
-              "walk": "~3 min walk",
-              "desc": "Western-style buildings built by the Jian brothers, founders of Double Happiness cigarettes — Foshan's largest surviving early-Republic villa complex. The balconied “Young Ladies' Tower” is where unmarried daughters once watched the street.",
-              "tags": [
-                "Must-see",
-                "Photos"
-              ]
-            },
-            {
-              "time": "11:55",
-              "title": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
-              "walk": "~3 min walk",
-              "desc": "Two-storey white building mixing Chinese and Western styles, on the site of a Qing-dynasty literati garden; exhibitions are often held.",
+              "title": "Lingnan Tiandi heritage buildings",
+              "desc": "All four are near the central axis, a few minutes apart; each is passed on the way and entered only if it appeals.",
               "tags": [
                 "Photos"
-              ]
-            },
-            {
-              "time": "12:10",
-              "title": "Wedding House (嫁娶屋, 文会里)",
-              "walk": "~5 min walk",
-              "desc": "A house once used for weddings; traditional wedding dress and a bridal sedan chair can be tried for photos.",
-              "tags": [
-                "Must-see",
-                "Photos"
+              ],
+              "food": [
+                {
+                  "name": "Clock Tower (钟楼)",
+                  "desc": "Landmark on the central axis, with ceramic wall sculptures"
+                },
+                {
+                  "name": "Jian Family Villas (简氏别墅)",
+                  "desc": "Western-style villas built by the Double Happiness founders; the “Young Ladies' Tower”"
+                },
+                {
+                  "name": "Longtang Poetry Society (龙塘诗社, “Little White House”)",
+                  "desc": "Chinese-Western white house; exhibitions are often held"
+                },
+                {
+                  "name": "Wedding House (嫁娶屋, 文会里)",
+                  "desc": "Wedding dress and a bridal sedan chair can be tried for photos"
+                }
               ]
             },
             {
@@ -2549,38 +2615,29 @@
             },
             {
               "time": "13:15",
-              "title": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
+              "title": "Old shops and souvenirs",
               "walk": "Short walk inside the quarter after lunch",
-              "desc": "Century-old pharmacy, known for Po Chai pills (保济丸); the loft and chandeliers are worth a look.",
-              "tags": [
-                "Must-see"
-              ]
-            },
-            {
-              "time": "13:25",
-              "title": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
-              "walk": "Inside the quarter",
-              "desc": "Foshan souvenirs: blind man's cakes (盲公饼), maltose candy, and bengsha (崩砂), Lei Hei Kee's classic crisp biscuit.",
+              "desc": "All inside the quarter, steps apart; each is passed on the way and entered for souvenirs if wanted.",
               "tags": [
                 "Shopping"
-              ]
-            },
-            {
-              "time": "13:35",
-              "title": "China Seasoning Culture Museum (中国调味文化馆)",
-              "walk": "Short walk inside the quarter",
-              "desc": "History of Foshan soy sauce and condiments — Haday soy sauce comes from Foshan. A quick loop is enough.",
-              "tags": [
-                "Must-see"
-              ]
-            },
-            {
-              "time": "13:45",
-              "title": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
-              "walk": "~3 min walk",
-              "desc": "Former meeting hall of wine merchants; Foshan's Shiwan Yubingshao rice wine is shown. Five minutes is enough.",
-              "tags": [
-                "Must-see"
+              ],
+              "food": [
+                {
+                  "name": "Li Zhongsheng Tang original shop (李众胜堂祖铺)",
+                  "desc": "Century-old pharmacy, home of Po Chai pills"
+                },
+                {
+                  "name": "Lei Hei Kee (李禧记) and Foshan Gong (佛山公)",
+                  "desc": "Souvenirs: blind man's cakes, bengsha, maltose candy"
+                },
+                {
+                  "name": "China Seasoning Culture Museum (中国调味文化馆)",
+                  "desc": "History of Foshan soy sauce; a quick loop"
+                },
+                {
+                  "name": "Shiwan Winery (石湾酒庄, Wine Merchants' Guild Hall 酒行会馆)",
+                  "desc": "Shiwan Yubingshao rice wine; five minutes is enough"
+                }
               ]
             },
             {
@@ -2595,7 +2652,8 @@
             },
             {
               "time": "14:35",
-              "title": "Board the chartered car at the temple"
+              "title": "Board the chartered car at the temple",
+              "pick": "Outside the Ancestral Temple; the exact spot is unconfirmed and agreed with the driver"
             }
           ]
         },
@@ -2603,7 +2661,15 @@
           "start": "14:40",
           "end": "15:40",
           "title": "Chartered car: Foshan → Daliang, Shunde",
-          "note": "~45 min–1 hr drive."
+          "note": "~45 min–1 hr drive.",
+          "route": [
+            {
+              "time": "14:40",
+              "title": "Foshan Ancestral Temple → Qinghui Garden, Daliang",
+              "pick": "Outside the Ancestral Temple (same spot as above)",
+              "drop": "Near the Qinghui Garden entrance (Qinghui Road); the exact spot is unconfirmed and agreed with the driver"
+            }
+          ]
         },
         {
           "start": "15:40",
@@ -2630,6 +2696,16 @@
                 "Photos",
                 "Shopping"
               ]
+            },
+            {
+              "time": "17:05",
+              "title": "Double-skin milk at Renxin (仁信老铺双皮奶)",
+              "walk": "On Huagai Road",
+              "desc": "Shunde's classic double-skin milk from an old shop; one bowl is shared, leaving room for dinner.",
+              "tags": [
+                "Dessert"
+              ],
+              "tip": "The exact location of the Huagai Road branch is unconfirmed; it should be looked for on arrival."
             },
             {
               "time": "17:15",
@@ -2668,14 +2744,28 @@
         {
           "start": "18:10",
           "end": "18:15",
-          "title": "Back to the chartered car"
+          "title": "Back to the chartered car",
+          "route": [
+            {
+              "time": "18:10",
+              "title": "Dinner restaurant → chartered car",
+              "pick": "Outside the dinner restaurant (near Qinghui Garden and Huagai Road); the exact spot is agreed with the driver"
+            }
+          ]
         },
         {
           "start": "18:15",
           "end": "19:45",
           "title": "Chartered car: Shunde → Guangzhou",
           "note": "Leaving at 18:15 avoids the worst of the rush; ~1 hr 20 min–1 hr 30 min expected on a holiday Saturday, back at the hotel around 19:35–19:45.",
-          "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation."
+          "tip": "Traffic into Guangzhou is worst at rush hour; the driver can be asked to pick a less congested route by navigation.",
+          "route": [
+            {
+              "time": "18:15",
+              "title": "Shunde → K Hotel",
+              "drop": "Outside K Hotel (81 Huangpu Avenue West); the exact spot is agreed with the driver"
+            }
+          ]
         }
       ]
     },

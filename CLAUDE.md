@@ -14,13 +14,20 @@ Next.js 16 (App Router, Turbopack) · React 19 · TypeScript · framer-motion ·
 - `content/_parts/places-*.json` — place catalog fragments. `aliases` = exact Chinese strings from itinerary titles / food names; that is how rows link to places.
 - `content/_parts/media-*.json` — photos / rating / reviews / coords per place id (from Google Maps). Photos live in `public/places/<id>.jpg`.
 - `content/itinerary.en.json`, `content/places.json` — **generated** by `npm run content:merge`; never edit by hand.
-- Item fields: `start end title note optional group(a|k) food[] route[] tip`. Food: `name desc dish`. Stop: `time title walk desc tags tip food`.
+- Item fields: `start end title note optional group(a|k) food[] route[] tip`. Food: `name desc dish`. Stop: `time title walk desc tags tip food pick drop`.
+  - `pick` / `drop` = where the chartered car picks the group up / drops it off (shown with a car icon).
+  - A stop whose `food` entries all link to non-food places renders as "On the way: go in if it appeals" — use it to group short sights in one area.
+  - Day field `notice` = a reminder shown at the top of the day (e.g. payment on the Hong Kong day).
+- `content/_parts/checked-media.json` — place ids already searched on Google Maps for a photo + reviews (found or not; not found = orange placeholder). New photos/reviews from the place-media agent go in `content/_parts/media-auto.json`.
 
 ## Code map
 - `lib/content.ts` (server-only) merges zh + en into `{en, zh}` pairs, links places by alias, and computes each place's "previous location" + travel note for directions.
 - `lib/i18n.tsx` — language context + UI strings. Every user-visible string needs `en` and `zh`.
 - `components/` — `TripApp` (state, hash routing `#YYYY-MM-DD`), `Header` (sticky bar + date squares), `DayPager` (swipe/arrow nav), `DayView`, `Timeline`, `PlaceDrawer`.
 - `app/globals.css` — all styles; design tokens at the top.
+
+## Commit gate
+A PreToolUse hook (`.claude/settings.json`) runs `scripts/check-media.mjs` before every `git commit`. It blocks the commit while any place id is missing from `checked-media.json`; run the **place-media** agent (`.claude/agents/place-media.md`, Haiku) on the listed ids, then `npm run content:merge` and commit again.
 
 ## Conventions
 - Design: Apple-like — white/black/grey neutrals, one accent `--accent` (iPhone 17 Pro cosmic orange). Generous spacing, no extra colours. Light + dark via tokens only.

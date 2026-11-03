@@ -50,6 +50,7 @@ export function loadContent(): { trip: Trip; places: Places; guides: GuideSectio
     time: z.time, title: req(z.title, e?.title), walk: pair(z.walk, e?.walk), desc: pair(z.desc, e?.desc),
     tags: (z.tags ?? []).map((t, i) => req(t, e?.tags?.[i])), tip: pair(z.tip, e?.tip),
     food: foods(z.food, e?.food), placeId: find(z.title),
+    pick: pair(z.pick, e?.pick), drop: pair(z.drop, e?.drop),
   });
   const item = (z: RawItem, e?: RawItem): Item => ({
     start: z.start, end: z.end, title: req(z.title, e?.title), note: pair(z.note, e?.note),
@@ -68,7 +69,7 @@ export function loadContent(): { trip: Trip; places: Places; guides: GuideSectio
     const { prev, how } = sequence(list, places[STAY_HOTELS[zd.stay]] ? STAY_HOTELS[zd.stay] : undefined);
     return {
       index, iso: isoFromZh(zd.date), stay: zd.stay, locked: !!zd.locked,
-      theme: req(zd.theme, ed?.theme), intro: pair(zd.intro, ed?.intro), away: pair(zd.away, ed?.away),
+      theme: req(zd.theme, ed?.theme), intro: pair(zd.intro, ed?.intro), away: pair(zd.away, ed?.away), notice: pair(zd.notice, ed?.notice),
       backup: zd.backup && {
         title: req(zd.backup.title, ed?.backup?.title), note: pair(zd.backup.note, ed?.backup?.note),
         items: items(zd.backup.items, ed?.backup?.items),

@@ -61,6 +61,12 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
         ) : (
           <p className="intro dh-reveal">{t(day.intro)}</p>
         ))}
+        {day.notice && (
+          <p className="day-notice dh-reveal" role="note">
+            <i className="fa-solid fa-circle-exclamation" aria-hidden />
+            <span>{t(day.notice)}</span>
+          </p>
+        )}
       </section>
 
       <Timeline items={day.items} places={places} groups={trip.groups} onOpenPlace={onOpenPlace} />

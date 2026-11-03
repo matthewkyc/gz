@@ -15,5 +15,20 @@
     "deny": [
       "Read(./.env*)"
     ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Bash(git commit*)",
+            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/check-media.mjs\"",
+            "statusMessage": "Checking place photos and reviews..."
+          }
+        ]
+      }
+    ]
   }
 }

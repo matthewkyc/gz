@@ -5,6 +5,8 @@ export interface RawFood { name: string; desc?: string; dish?: boolean }
 export interface RawStop {
   time: string; title: string; walk?: string; desc?: string;
   tags?: string[]; tip?: string; food?: RawFood[];
+  /** Chartered car: where it picks the group up / drops it off at this stop. */
+  pick?: string; drop?: string;
 }
 export interface RawItem {
   start: string; end: string; title: string; note?: string; optional?: boolean;
@@ -13,6 +15,8 @@ export interface RawItem {
 export interface RawDay {
   stay: number; date: string; dow: string; locked?: boolean; theme: string;
   pace?: string; intro?: string; away?: string;
+  /** Reminder shown at the top of the day. */
+  notice?: string;
   backup?: { title: string; note?: string; items: RawItem[] };
   items: RawItem[];
 }
@@ -29,13 +33,14 @@ export interface T { en: string; zh: string }
 export interface Food { name: T; desc?: T; dish: boolean; placeId?: string }
 export interface Stop {
   time: string; title: T; walk?: T; desc?: T; tags: T[]; tip?: T; food: Food[]; placeId?: string;
+  pick?: T; drop?: T;
 }
 export interface Item {
   start: string; end: string; title: T; note?: T; optional: boolean;
   group?: "a" | "k"; food: Food[]; route: Stop[]; tip?: T; placeId?: string;
 }
 export interface Day {
-  index: number; iso: string; stay: number; locked: boolean; theme: T; intro?: T; away?: T;
+  index: number; iso: string; stay: number; locked: boolean; theme: T; intro?: T; away?: T; notice?: T;
   backup?: { title: T; note?: T; items: Item[] };
   items: Item[];
   /** placeId → previous placeId in the day's walking order (first falls back to the hotel). */
