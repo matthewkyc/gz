@@ -430,32 +430,36 @@
         "zh": "购物清单"
       },
       "subtitle": {
-        "en": "By district: fashion, accessories, souvenirs, sports, anime",
+        "en": "Fashion, accessories, souvenirs, sports and anime, by district",
         "zh": "按区域：服饰、配饰、手信、运动、动漫"
       },
       "items": [
         {
           "title": {
-            "en": "Shangxiajiu Pedestrian Street (上下九)",
-            "zh": "上下九步行街"
+            "en": "Thirteen Hongs / New China Building (十三行／新中国大厦)",
+            "zh": "十三行／新中国大厦"
+          },
+          "badge": {
+            "en": "Fashion · Accessories",
+            "zh": "服饰 · 配饰"
           },
           "desc": {
-            "en": "Qilou arcades with budget clothing, shoes and snacks.",
-            "zh": "骑楼老街，平价服装、鞋店、小吃。"
+            "en": "Dense women’s-fashion wholesale district; trend-led clothing, some bags. ¥–¥¥. Ask “可以零售吗？” first; try-ons and returns vary by stall. Best as a short adult mission.",
+            "zh": "女装批发集中地，款式新，也有包和配饰。¥–¥¥。先问“可以零售吗？”；能否试穿、退换因档口而异。适合大人短时间去。"
           },
           "meta": {
-            "en": "Changshou Lu Metro, Exit A",
-            "zh": "长寿路站A出口"
+            "en": "十三行路1号新中国大厦及周边 · 文化公园站 D出口",
+            "zh": "十三行路1号新中国大厦及周边 · 文化公园站 D出口"
+          },
+          "hours": {
+            "en": "Opens early; go 09:00–11:30, not late afternoon",
+            "zh": "开门早；建议09:00–11:30去，别下午晚去"
           },
           "when": {
-            "en": "Dec 21 · Dec 23",
-            "zh": "12/21 · 12/23"
+            "en": "Not scheduled — extra if time allows",
+            "zh": "未排入行程，有时间再去"
           },
-          "placeId": "shangxiajiu",
-          "badge": {
-            "en": "Fashion · Souvenirs",
-            "zh": "服饰 · 手信"
-          },
+          "placeId": "thirteen-hongs",
           "heading": {
             "en": "Liwan (荔湾)",
             "zh": "荔湾区"
@@ -463,128 +467,109 @@
         },
         {
           "title": {
-            "en": "Thirteen Hongs (十三行)",
-            "zh": "十三行"
-          },
-          "desc": {
-            "en": "Women’s clothing wholesale district on the old Qing trading-house site. Mostly wholesale, some retail; bargaining expected. Photos and try-ons are often not allowed. The Thirteen Hongs Museum (free) is a 5-min walk away.",
-            "zh": "清代十三行旧址，现为女装批发集中地，大多批发、也有零售，可讲价；很多档口不让拍照、不一定能试穿。附近步行5分钟有免费的十三行博物馆。"
-          },
-          "meta": {
-            "en": "~10 min taxi from Liwan Plaza",
-            "zh": "荔湾广场打车约10分钟"
-          },
-          "when": {
-            "en": "Not scheduled — extra if time allows",
-            "zh": "未排入行程，有时间再去"
-          },
-          "placeId": "thirteen-hongs",
-          "badge": {
-            "en": "Fashion",
-            "zh": "服饰"
-          }
-        },
-        {
-          "title": {
             "en": "Liwan Plaza (荔湾广场)",
             "zh": "荔湾广场"
           },
+          "badge": {
+            "en": "Accessories",
+            "zh": "配饰"
+          },
           "desc": {
-            "en": "Old-school mall for jewellery, watches and small goods.",
-            "zh": "老牌商场，首饰、手表、小商品多。"
+            "en": "Beads, crystals, pearls, silver findings and DIY jewellery parts. ¥–¥¥¥. Ask whether prices are per piece, strand or weight; expensive jade should not be bought on a verbal claim.",
+            "zh": "珠子、水晶、珍珠、银配件、DIY首饰材料。¥–¥¥¥。先问按个、按串还是按重量计价；贵的玉石别只凭口头保证就买。"
+          },
+          "meta": {
+            "en": "德星路9号 · 华林寺站 B出口",
+            "zh": "德星路9号 · 华林寺站 B出口"
+          },
+          "hours": {
+            "en": "10:00–22:00 (some wholesalers close earlier); best 11:00–16:00",
+            "zh": "10:00–22:00（部分批发档口较早收）；建议11:00–16:00"
           },
           "when": {
             "en": "Dec 23 15:00",
             "zh": "12/23 15:00"
           },
-          "placeId": "liwan-plaza",
-          "badge": {
-            "en": "Accessories",
-            "zh": "配饰"
-          }
+          "placeId": "liwan-plaza"
         },
         {
           "title": {
-            "en": "Hualin Jade Street (华林玉器街)",
-            "zh": "华林玉器街"
-          },
-          "desc": {
-            "en": "Jade and jewellery market; browse rather than buy big.",
-            "zh": "玉器、珠宝市场，看看就好。"
-          },
-          "when": {
-            "en": "Dec 21 · Dec 23",
-            "zh": "12/21 · 12/23"
-          },
-          "placeId": "hualin-jade-street",
-          "badge": {
-            "en": "Accessories",
-            "zh": "配饰"
-          }
-        },
-        {
-          "title": {
-            "en": "Yongqingfang boutiques (永庆坊)",
-            "zh": "永庆坊精品店"
-          },
-          "desc": {
-            "en": "Creative shops, handmade crafts, heritage gifts; PICOCICI flagship (Sanrio, Disney, Chiikawa).",
-            "zh": "文创店、手作小店、非遗手信；PICOCICI 旗舰店（三丽鸥、迪士尼、Chiikawa）。"
-          },
-          "when": {
-            "en": "Dec 23 11:00",
-            "zh": "12/23 11:00"
-          },
-          "placeId": "yongqingfang",
-          "badge": {
-            "en": "Souvenirs · Anime",
-            "zh": "手信 · 动漫"
-          }
-        },
-        {
-          "title": {
-            "en": "Lin Heung Lau gifts (莲香楼)",
-            "zh": "莲香楼手信"
-          },
-          "desc": {
-            "en": "Lotus-paste mooncakes, wife cakes and chicken biscuits to take home.",
-            "zh": "莲蓉月饼、老婆饼、鸡仔饼，适合带回去。"
-          },
-          "meta": {
-            "en": "67 Dishifu Road",
-            "zh": "第十甫路67号"
-          },
-          "when": {
-            "en": "Dec 21 16:30",
-            "zh": "12/21 16:30"
+            "en": "Lian Xiang Lou pastry shop (莲香楼饼屋)",
+            "zh": "莲香楼饼屋"
           },
           "badge": {
             "en": "Souvenirs",
             "zh": "手信"
+          },
+          "desc": {
+            "en": "Wife cakes, chicken biscuits and lotus-paste pastries, boxed for gifts. ¥–¥¥. A small tasting box should be tried first; packing date and shelf life should be checked.",
+            "zh": "老婆饼、鸡仔饼、莲蓉饼，有礼盒装。¥–¥¥。先买小份试吃；留意生产日期和保质期。"
+          },
+          "meta": {
+            "en": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口",
+            "zh": "第十甫路67号首层（另有139号十甫店）· 长寿路站 E出口"
+          },
+          "hours": {
+            "en": "About 07:00–21:00; late morning or afternoon is easiest",
+            "zh": "约07:00–21:00；上午晚些或下午最方便"
+          },
+          "when": {
+            "en": "Dec 21 16:30",
+            "zh": "12/21 16:30"
           }
         },
         {
           "title": {
-            "en": "Animation City (动漫星城)",
-            "zh": "动漫星城"
+            "en": "Decathlon Huangsha (迪卡侬黄沙店)",
+            "zh": "迪卡侬黄沙店"
+          },
+          "badge": {
+            "en": "Sports",
+            "zh": "运动"
           },
           "desc": {
-            "en": "Underground anime and collectibles mall at Gongyuanqian Metro.",
-            "zh": "公园前地铁站地下，广州最集中的动漫商场。"
+            "en": "Sportswear, kids’ sports basics, balls, outdoor gear and entry-level racket gear. ¥–¥¥. Refurbished July 2026. Junior racket length and shoe fit should be checked in person.",
+            "zh": "运动服、儿童运动基础款、球类、户外和入门球拍。¥–¥¥。2026年7月重新装修。儿童球拍长度和鞋码要现场试。"
           },
           "meta": {
-            "en": "Gongyuanqian Metro, Exit C",
-            "zh": "公园前站C出口"
+            "en": "黄沙大道8号荔湾领展广场L1 · 黄沙站，跟着“荔湾领展广场”指示走",
+            "zh": "黄沙大道8号荔湾领展广场L1 · 黄沙站，跟着“荔湾领展广场”指示走"
+          },
+          "hours": {
+            "en": "10:00–22:00; best at weekday opening",
+            "zh": "10:00–22:00；工作日开门时去最好"
           },
           "when": {
-            "en": "Dec 21 13:25",
-            "zh": "12/21 13:25"
+            "en": "Not scheduled — fits the Liwan stay (Dec 21–23)",
+            "zh": "未排入行程，适合荔湾那几天（12/21–23）"
+          }
+        },
+        {
+          "title": {
+            "en": "Baima Clothing Market (白马服装市场)",
+            "zh": "白马服装市场"
           },
-          "placeId": "animation-city",
           "badge": {
-            "en": "Anime",
-            "zh": "动漫"
+            "en": "Fashion · Accessories",
+            "zh": "服饰 · 配饰"
           },
+          "desc": {
+            "en": "Multi-floor clothing market, more structured than street markets. ¥–¥¥. Single-piece sales, fitting and exchanges should be asked about before choosing.",
+            "zh": "多层服装市场，比街边批发更有规划。¥–¥¥。挑之前先问能否单件买、能否试穿和换货。"
+          },
+          "meta": {
+            "en": "站南路16号 · 广州火车站 G出口",
+            "zh": "站南路16号 · 广州火车站 G出口"
+          },
+          "hours": {
+            "en": "08:00–18:00; best 09:30–12:00",
+            "zh": "08:00–18:00；建议09:30–12:00"
+          },
+          "when": {
+            "en": "Jan 3 10:00",
+            "zh": "1/3 10:00"
+          },
+          "placeId": "baima-clothing-market",
           "heading": {
             "en": "Yuexiu (越秀)",
             "zh": "越秀区"
@@ -592,44 +577,107 @@
         },
         {
           "title": {
-            "en": "Beijing Road Pedestrian Street (北京路)",
-            "zh": "北京路步行街"
+            "en": "Onelink International Plaza (万菱广场)",
+            "zh": "万菱广场"
+          },
+          "badge": {
+            "en": "Accessories · Souvenirs · Anime",
+            "zh": "配饰 · 手信 · 动漫"
           },
           "desc": {
-            "en": "Busy evening shopping street with arcades, malls and brand stores.",
-            "zh": "骑楼、商场、品牌店，晚上很热闹。"
+            "en": "Small gifts, stationery, toys, décor, bags and novelty goods. ¥–¥¥. Retail vs bulk price should be asked; toy safety labels and licensing checked. Not the same as 万菱汇 in Tianhe.",
+            "zh": "小礼物、文具、玩具、家居、包和新奇小物。¥–¥¥。问清零售价和批发价；留意玩具安全标识和正版授权。注意不是天河的万菱汇。"
           },
           "meta": {
-            "en": "Gongyuanqian Metro, Exit C",
-            "zh": "公园前站C出口"
+            "en": "解放南路39号 · 海珠广场站 B/B2出口",
+            "zh": "解放南路39号 · 海珠广场站 B/B2出口"
+          },
+          "hours": {
+            "en": "09:00–20:00; best 10:00–16:30",
+            "zh": "09:00–20:00；建议10:00–16:30"
           },
           "when": {
-            "en": "Dec 22 18:10",
-            "zh": "12/22 18:10"
-          },
-          "placeId": "beijing-road",
-          "badge": {
-            "en": "Fashion · Souvenirs",
-            "zh": "服饰 · 手信"
+            "en": "Not scheduled",
+            "zh": "未排入行程"
           }
         },
         {
           "title": {
-            "en": "Baima & Hongmian (白马 · 红棉)",
-            "zh": "白马 · 红棉"
+            "en": "Comic City (动漫星城)",
+            "zh": "动漫星城"
+          },
+          "badge": {
+            "en": "Anime · Accessories · Fashion",
+            "zh": "动漫 · 配饰 · 服饰"
           },
           "desc": {
-            "en": "Clothing markets by Guangzhou Station: Baima for office wear, Hongmian for trendier styles. Many sell single pieces.",
-            "zh": "广州站旁：白马偏通勤女装，红棉偏潮流款，很多档口一件起卖。"
+            "en": "Anime goods, figures, badges, plush and hobby shops. ¥–¥¥¥. Still busy in 2026. Licensing and whether goods are new, resale or opened-box should be checked; a spending limit helps.",
+            "zh": "动漫周边、手办、徽章、公仔和模型店。¥–¥¥¥。2026年依然热闹。留意是否正版、全新还是二手/拆盒；进去前先定好预算。"
+          },
+          "meta": {
+            "en": "吉祥路1号人民公园地下 · 公园前站 F出口（西）或 G/H（东）",
+            "zh": "吉祥路1号人民公园地下 · 公园前站 F出口（西）或 G/H（东）"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best weekday 11:00–15:00",
+            "zh": "约10:00–22:00；建议工作日11:00–15:00"
           },
           "when": {
-            "en": "Jan 3 10:00",
-            "zh": "1/3 10:00"
+            "en": "Dec 21 13:25",
+            "zh": "12/21 13:25"
           },
-          "placeId": "baima-clothing-market",
+          "placeId": "animation-city"
+        },
+        {
+          "title": {
+            "en": "MINISO LAND Beijing Road (名创优品MINISO LAND北京路店)",
+            "zh": "名创优品 MINISO LAND 北京路店"
+          },
           "badge": {
-            "en": "Fashion",
-            "zh": "服饰"
+            "en": "Anime · Accessories · Souvenirs",
+            "zh": "动漫 · 配饰 · 手信"
+          },
+          "desc": {
+            "en": "Character-focused flagship: plush, stationery, accessories and blind boxes, with Sanrio. ¥–¥¥. Good for kids who like cute characters; specific Chiikawa stock is not guaranteed.",
+            "zh": "IP 主题旗舰店：公仔、文具、饰品、盲盒，有三丽鸥。¥–¥¥。适合喜欢可爱角色的孩子；不保证有特定 Chiikawa 系列。"
+          },
+          "meta": {
+            "en": "北京路249号 · 北京路站 A2出口，步行约440米",
+            "zh": "北京路249号 · 北京路站 A2出口，步行约440米"
+          },
+          "hours": {
+            "en": "About 09:30–23:30; best 10:00–11:00",
+            "zh": "约09:30–23:30；建议10:00–11:00"
+          },
+          "when": {
+            "en": "Dec 22 evening (Beijing Road walk)",
+            "zh": "12/22 傍晚（北京路）"
+          }
+        },
+        {
+          "title": {
+            "en": "Beijing Road Teemall anime zone (北京路天河城B区动漫馆)",
+            "zh": "北京路天河城B区动漫馆"
+          },
+          "badge": {
+            "en": "Anime · Accessories",
+            "zh": "动漫 · 配饰"
+          },
+          "desc": {
+            "en": "Anime retail, cards, character goods and changing exhibitions on B1, redeveloped 2025–26. ¥–¥¥¥. Best paired with Comic City or MINISO LAND rather than all three.",
+            "zh": "B1动漫零售、卡牌、角色周边和不定期展览，2025–26年改造。¥–¥¥¥。和动漫星城或 MINISO LAND 二选一搭配就够。"
+          },
+          "meta": {
+            "en": "北京路天河城B区B1（导航到B区）· 北京路站 B出口",
+            "zh": "北京路天河城B区B1（导航到B区）· 北京路站 B出口"
+          },
+          "hours": {
+            "en": "10:00–22:00; best 11:00–16:00",
+            "zh": "10:00–22:00；建议11:00–16:00"
+          },
+          "when": {
+            "en": "Dec 22 evening (optional)",
+            "zh": "12/22 傍晚（可选）"
           }
         },
         {
@@ -637,23 +685,27 @@
             "en": "Grandview Mall (正佳广场)",
             "zh": "正佳广场"
           },
+          "badge": {
+            "en": "Fashion · Accessories · Sports · Anime",
+            "zh": "服饰 · 配饰 · 运动 · 动漫"
+          },
           "desc": {
-            "en": "One of Guangzhou’s biggest malls; sports brands on 3F, food on 5F–7F.",
-            "zh": "广州最大的商场之一；三楼运动品牌，五至七楼餐饮。"
+            "en": "Best all-round family mall: mainstream fashion, sports shops, food, and TOP TOY collectibles (1F). ¥¥–¥¥¥. Toilets, meals and rest stops make it an easy fallback.",
+            "zh": "最适合全家的综合商场：服饰、运动店、餐饮，1楼有 TOP TOY 潮玩。¥¥–¥¥¥。洗手间、吃饭、休息都方便。"
           },
           "meta": {
-            "en": "Tiyu Xilu Metro, Exit B",
-            "zh": "体育西路站B出口"
+            "en": "天河路228号 · 体育中心站 D3出口",
+            "zh": "天河路228号 · 体育中心站 D3出口"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best weekday opening–14:00",
+            "zh": "约10:00–22:00；建议工作日开门到14:00"
           },
           "when": {
             "en": "Dec 27 · Jan 1",
             "zh": "12/27 · 1/1"
           },
           "placeId": "grandview-mall",
-          "badge": {
-            "en": "Sports · Fashion",
-            "zh": "运动 · 服饰"
-          },
           "heading": {
             "en": "Tianhe (天河)",
             "zh": "天河区"
@@ -661,90 +713,162 @@
         },
         {
           "title": {
-            "en": "Fashion Tianhe (时尚天河)",
-            "zh": "时尚天河"
+            "en": "Teemall, Tianhe Road (天河城)",
+            "zh": "天河城（天河路）"
           },
-          "desc": {
-            "en": "Underground street under Tianhe Sports Center: anime, collectible toys, budget shops.",
-            "zh": "天河体育中心地下：动漫、潮玩、平价小店。"
-          },
-          "when": {
-            "en": "Dec 27 · Dec 29 · Dec 31",
-            "zh": "12/27 · 12/29 · 12/31"
-          },
-          "placeId": "fashion-tianhe",
           "badge": {
-            "en": "Anime · Accessories",
-            "zh": "动漫 · 配饰"
-          }
-        },
-        {
-          "title": {
-            "en": "Teemall · Parc Central · Taikoo Hui",
-            "zh": "天河城 · 天环 · 太古汇"
+            "en": "Fashion · Accessories · Sports",
+            "zh": "服饰 · 配饰 · 运动"
           },
           "desc": {
-            "en": "Connected malls along Tianhe Road, from mid-range to high-end.",
-            "zh": "天河路上相连的商场，从平价到高端。"
+            "en": "Mainstream fashion, department-store counters, branded footwear. ¥¥–¥¥¥. Good for comparing products; watches and jewellery should be bought at brand counters with receipts.",
+            "zh": "主流服饰、百货专柜、品牌鞋。¥¥–¥¥¥。适合比价；手表首饰请在品牌专柜买并索取发票。"
           },
           "meta": {
-            "en": "Tiyu Xilu Metro, Exit B",
-            "zh": "体育西路站B出口"
+            "en": "天河路208号 · 体育西路站 C出口",
+            "zh": "天河路208号 · 体育西路站 C出口"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best weekday 10:00–12:00",
+            "zh": "约10:00–22:00；建议工作日10:00–12:00"
           },
           "when": {
             "en": "Dec 29 · Dec 31 (Option)",
             "zh": "12/29 · 12/31（方案）"
           },
-          "placeId": "teemall",
+          "placeId": "teemall"
+        },
+        {
+          "title": {
+            "en": "Parc Central (天环广场)",
+            "zh": "天环广场"
+          },
           "badge": {
-            "en": "Fashion · Sports",
-            "zh": "服饰 · 运动"
+            "en": "Fashion · Accessories · Sports · Anime",
+            "zh": "服饰 · 配饰 · 运动 · 动漫"
+          },
+          "desc": {
+            "en": "Contemporary fashion, premium sneakers (Nike Kicks Lounge, L1-103a) and character shops. ¥¥–¥¥¥. Pleasant, not a discount destination; reseller prices should be avoided.",
+            "zh": "潮流服饰、高端球鞋（Nike Kicks Lounge，L1-103a）和潮玩店。¥¥–¥¥¥。环境好但不是折扣店；别为“难买”付黄牛价。"
+          },
+          "meta": {
+            "en": "天河路218号 · 体育西路站 B出口",
+            "zh": "天河路218号 · 体育西路站 B出口"
+          },
+          "hours": {
+            "en": "10:00–22:00 (to 22:30 Fri–Sat); best weekday afternoon",
+            "zh": "10:00–22:00（周五六至22:30）；建议工作日下午"
+          },
+          "when": {
+            "en": "Dec 29 · Dec 31 (Option)",
+            "zh": "12/29 · 12/31（方案）"
+          },
+          "placeId": "parc-central"
+        },
+        {
+          "title": {
+            "en": "Taikoo Hui (太古汇)",
+            "zh": "太古汇"
+          },
+          "badge": {
+            "en": "Fashion · Accessories · Sports",
+            "zh": "服饰 · 配饰 · 运动"
+          },
+          "desc": {
+            "en": "Premium and luxury fashion, bags and accessories. ¥¥¥. Worth it for specific brands; otherwise a short browse.",
+            "zh": "高端和奢侈品服饰、包、配饰。¥¥¥。有想买的品牌才值得，否则逛一下就好。"
+          },
+          "meta": {
+            "en": "天河路383号 · 石牌桥站，走商场直连通道",
+            "zh": "天河路383号 · 石牌桥站，走商场直连通道"
+          },
+          "hours": {
+            "en": "10:00–22:00; best weekday 10:00–12:00",
+            "zh": "10:00–22:00；建议工作日10:00–12:00"
+          },
+          "when": {
+            "en": "Dec 29 · Dec 31 (Option)",
+            "zh": "12/29 · 12/31（方案）"
+          },
+          "placeId": "taikoo-hui"
+        },
+        {
+          "title": {
+            "en": "Fashion Tianhe (时尚天河)",
+            "zh": "时尚天河"
+          },
+          "badge": {
+            "en": "Fashion · Accessories · Anime",
+            "zh": "服饰 · 配饰 · 动漫"
+          },
+          "desc": {
+            "en": "Underground street: budget fashion, accessories, novelty and themed shops. ¥–¥¥. Good for teens; a meeting point should be agreed, as it is maze-like.",
+            "zh": "地下商业街：平价服饰、饰品、新奇小店和主题街。¥–¥¥。适合青少年；像迷宫，先约好集合点。"
+          },
+          "meta": {
+            "en": "天河路299号天河体育中心南门地下 · 体育中心站 D2/D3出口",
+            "zh": "天河路299号天河体育中心南门地下 · 体育中心站 D2/D3出口"
+          },
+          "hours": {
+            "en": "10:00–22:00; best 11:00–16:00",
+            "zh": "10:00–22:00；建议11:00–16:00"
+          },
+          "when": {
+            "en": "Dec 27 · Dec 29 · Dec 31",
+            "zh": "12/27 · 12/29 · 12/31"
+          },
+          "placeId": "fashion-tianhe"
+        },
+        {
+          "title": {
+            "en": "Wilson store, Tianhe Sports Centre (Wilson广州天河体育中心专卖店)",
+            "zh": "Wilson 广州天河体育中心专卖店"
+          },
+          "badge": {
+            "en": "Sports",
+            "zh": "运动"
+          },
+          "desc": {
+            "en": "Tennis stop: rackets, grips, bags and tennis apparel. ¥¥–¥¥¥. Exact model, grip size, junior length and stringing should be confirmed by phone first: +86 189 0224 3898.",
+            "zh": "网球专门：球拍、手胶、球包、网球服。¥¥–¥¥¥。先打电话确认型号、握把尺寸、儿童拍长度和穿线：+86 189 0224 3898。"
+          },
+          "meta": {
+            "en": "体育东路122-100号（羊城国际商贸中心西塔一带）· 体育中心站",
+            "zh": "体育东路122-100号（羊城国际商贸中心西塔一带）· 体育中心站"
+          },
+          "hours": {
+            "en": "10:00–22:00; call first",
+            "zh": "10:00–22:00；先打电话"
+          },
+          "when": {
+            "en": "Not scheduled — near K Hotel",
+            "zh": "未排入行程，离 K Hotel 近"
           }
         },
         {
           "title": {
-            "en": "Shahe Clothing City (沙河服装城)",
-            "zh": "沙河服装城"
+            "en": "Decathlon Dongpu (迪卡侬东圃店)",
+            "zh": "迪卡侬东圃店"
+          },
+          "badge": {
+            "en": "Sports",
+            "zh": "运动"
           },
           "desc": {
-            "en": "Cheap T-shirts, denim and casual wear; best in the morning.",
-            "zh": "T恤、牛仔、休闲装，价格低，上午档口最齐。"
+            "en": "Larger sports-equipment store, kids’ basics and racket accessories. ¥–¥¥. Only worth the detour if Huangsha lacks something; stock should be checked by phone: 020-82169990.",
+            "zh": "更大的运动装备店，有儿童基础款和球拍配件。¥–¥¥。黄沙店没有才值得专程去；先打电话问库存：020-82169990。"
           },
           "meta": {
-            "en": "~15 min taxi from K Hotel",
-            "zh": "K Hotel 打车约15分钟"
+            "en": "奥体南路12号（近广东奥林匹克体育中心）· 黄村站，建议打车",
+            "zh": "奥体南路12号（近广东奥林匹克体育中心）· 黄村站，建议打车"
+          },
+          "hours": {
+            "en": "09:30–22:00; best weekday morning",
+            "zh": "09:30–22:00；建议工作日上午"
           },
           "when": {
-            "en": "Dec 29 backup",
-            "zh": "12/29 备案"
-          },
-          "placeId": "shahe-clothing-market",
-          "badge": {
-            "en": "Fashion",
-            "zh": "服饰"
-          }
-        },
-        {
-          "title": {
-            "en": "Mall of the World (花城汇)",
-            "zh": "花城汇"
-          },
-          "desc": {
-            "en": "Underground mall under Huacheng Square.",
-            "zh": "花城广场地下商场。"
-          },
-          "meta": {
-            "en": "Zhujiang New Town Metro, Exit A1",
-            "zh": "珠江新城站A1出口"
-          },
-          "when": {
-            "en": "Dec 22 14:55",
-            "zh": "12/22 14:55"
-          },
-          "placeId": "mall-of-the-world",
-          "badge": {
-            "en": "Fashion",
-            "zh": "服饰"
+            "en": "Not scheduled",
+            "zh": "未排入行程"
           }
         },
         {
@@ -752,23 +876,27 @@
             "en": "Wanguo Outlets (万国奥特莱斯)",
             "zh": "万国奥特莱斯"
           },
+          "badge": {
+            "en": "Fashion · Accessories · Sports",
+            "zh": "服饰 · 配饰 · 运动"
+          },
           "desc": {
-            "en": "Sports-brand outlets; Nike and Adidas super-flagship discount stores, kids’ sizes too.",
-            "zh": "运动品牌奥莱，耐克、阿迪达斯超级旗舰折扣店，也有童装童鞋。"
+            "en": "Central outlet for sportswear, sneakers and casual clothing. ¥–¥¥. Sizes and colours are uneven; the real price matters more than the discount %. Junior stock not assured.",
+            "zh": "市中心的奥特莱斯，运动服、球鞋、休闲装。¥–¥¥。尺码颜色不齐；看实际价格，别只看折扣。儿童鞋不一定有货。"
           },
           "meta": {
-            "en": "Jiangnan Avenue Middle, Haizhu",
-            "zh": "海珠区江南大道中"
+            "en": "前进路40号（入口以导航为准）· 江南西站 E出口",
+            "zh": "前进路40号（入口以导航为准）· 江南西站 E出口"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best weekday opening–13:00",
+            "zh": "约10:00–22:00；建议工作日开门到13:00"
           },
           "when": {
             "en": "Dec 29 (Option A)",
             "zh": "12/29（方案 A）"
           },
           "placeId": "wanguo-outlets",
-          "badge": {
-            "en": "Sports",
-            "zh": "运动"
-          },
           "heading": {
             "en": "Haizhu (海珠)",
             "zh": "海珠区"
@@ -776,31 +904,144 @@
         },
         {
           "title": {
-            "en": "Foshan & Shunde souvenirs",
-            "zh": "佛山·顺德手信"
+            "en": "Jiangnan Xindi (江南新地)",
+            "zh": "江南新地"
+          },
+          "badge": {
+            "en": "Fashion · Accessories",
+            "zh": "服饰 · 配饰"
           },
           "desc": {
-            "en": "Blind-man cakes and malt candy at Lingnan Tiandi; Lunjiao cake on Huagai Road.",
-            "zh": "岭南天地买盲公饼、麦芽糖；华盖路买伦教糕。"
+            "en": "Underground local-fashion and accessories street with food stops. ¥–¥¥. Optional; similar to Fashion Tianhe, so one of the two is enough.",
+            "zh": "地下平价服饰、饰品街，有小吃。¥–¥¥。可选；和时尚天河类似，去一个就够。"
+          },
+          "meta": {
+            "en": "江南西路地下商业街 · 江南西站 A出口",
+            "zh": "江南西路地下商业街 · 江南西站 A出口"
+          },
+          "hours": {
+            "en": "Hours not verified; aim for 11:00–18:00",
+            "zh": "营业时间未核实；建议11:00–18:00"
           },
           "when": {
-            "en": "Jan 2",
-            "zh": "1/2"
+            "en": "Not scheduled — near Wanguo",
+            "zh": "未排入行程，在万国附近"
+          }
+        },
+        {
+          "title": {
+            "en": "Panyu Teemall (番禺天河城)",
+            "zh": "番禺天河城"
           },
-          "placeId": "lingnan-tiandi",
           "badge": {
-            "en": "Souvenirs",
-            "zh": "手信"
+            "en": "Fashion · Accessories · Sports · Anime",
+            "zh": "服饰 · 配饰 · 运动 · 动漫"
+          },
+          "desc": {
+            "en": "Most convenient mall near Chimelong: mainstream fashion, kids’ shopping and meals. ¥–¥¥¥. A good lunch-and-shop stop on the hotel-change day, not after a full park day.",
+            "zh": "长隆附近最方便的商场：服饰、儿童用品、餐饮。¥–¥¥¥。适合换酒店那天顺路吃饭逛逛，别在玩了一整天后去。"
+          },
+          "meta": {
+            "en": "汉溪大道东366号 · 南村万博站 B出口",
+            "zh": "汉溪大道东366号 · 南村万博站 B出口"
+          },
+          "hours": {
+            "en": "About 10:00–22:00; best at lunchtime",
+            "zh": "约10:00–22:00；中午去最好"
+          },
+          "when": {
+            "en": "Dec 24 (Wanbo lunch option)",
+            "zh": "12/24（万博午餐选项）"
           },
           "heading": {
-            "en": "Foshan · Shunde (佛山·顺德)",
-            "zh": "佛山·顺德"
+            "en": "Panyu (番禺)",
+            "zh": "番禺区"
+          }
+        },
+        {
+          "title": {
+            "en": "Panyu Wanda Plaza (番禺万达广场)",
+            "zh": "番禺万达广场"
+          },
+          "badge": {
+            "en": "Fashion · Accessories · Sports",
+            "zh": "服饰 · 配饰 · 运动"
+          },
+          "desc": {
+            "en": "Alternative Wanbo mall for clothing, shoes and family meals. ¥–¥¥. Overlaps heavily with Panyu Teemall; one is enough.",
+            "zh": "万博另一个商场，服饰、鞋、家庭餐厅。¥–¥¥。和番禺天河城重叠，去一个就够。"
+          },
+          "meta": {
+            "en": "兴南大道368号（导航“万达广场广州番禺店”）· 南村万博站",
+            "zh": "兴南大道368号（导航“万达广场广州番禺店”）· 南村万博站"
+          },
+          "hours": {
+            "en": "10:00–22:00 (to 22:30 Fri–Sat)",
+            "zh": "10:00–22:00（周五六至22:30）"
+          },
+          "when": {
+            "en": "Not scheduled",
+            "zh": "未排入行程"
+          }
+        },
+        {
+          "title": {
+            "en": "Florentia Village Guangfo (广佛佛罗伦萨小镇)",
+            "zh": "广佛佛罗伦萨小镇名品奥特莱斯"
+          },
+          "badge": {
+            "en": "Fashion · Accessories · Sports",
+            "zh": "服饰 · 配饰 · 运动"
+          },
+          "desc": {
+            "en": "Large outlet for branded fashion, bags and sportswear (Nike outlet). ¥¥–¥¥¥. Worth half a day only for committed outlet shoppers; should not be added to the Foshan food day.",
+            "zh": "大型名品奥莱，品牌服饰、包、运动（有 Nike 奥莱）。¥¥–¥¥¥。只适合真心想逛奥莱的人，花半天；别塞进佛山美食那天。"
+          },
+          "meta": {
+            "en": "佛山市南海区桂城疏港路28号 · 南海有轨电车1号线林岳北站 A出口，步行约850米",
+            "zh": "佛山市南海区桂城疏港路28号 · 南海有轨电车1号线林岳北站 A出口，步行约850米"
+          },
+          "hours": {
+            "en": "Mon–Thu 10:00–21:30 · Fri–Sun/holidays 10:00–22:00",
+            "zh": "周一至四10:00–21:30 · 周五至日及节假日10:00–22:00"
+          },
+          "when": {
+            "en": "Not scheduled — separate half-day",
+            "zh": "未排入行程，需单独半天"
+          },
+          "heading": {
+            "en": "Foshan (佛山)",
+            "zh": "佛山"
+          }
+        },
+        {
+          "title": {
+            "en": "Shopping tips",
+            "zh": "购物小贴士"
+          },
+          "desc": {
+            "en": "Wholesale: ask “这个可以单买吗？” and “可以试穿吗？” before choosing. Malls: marked prices; ask about member promotions instead of bargaining. WeChat Pay/Alipay plus cash backup. Ask before photographing stalls. Set a blind-box budget; opened boxes are usually not returnable.",
+            "zh": "批发市场：挑之前先问“这个可以单买吗？”“可以试穿吗？”。商场：明码标价，可问会员优惠，不用讲价。准备微信/支付宝和少量现金。拍档口前先问。盲盒先定预算，拆了一般不能退。"
+          },
+          "heading": {
+            "en": "Good to know",
+            "zh": "小贴士"
+          }
+        },
+        {
+          "title": {
+            "en": "Out-of-date advice",
+            "zh": "过时的建议"
+          },
+          "desc": {
+            "en": "Ersha Island sports street closed in 2016. 西城都荟 is now 荔湾领展广场. Fangcun tea market is being redeveloped. Not all Tianhe malls connect underground yet (Parc Central–Grandview link under construction). 天河路天河城, 北京路天河城 and 番禺天河城 are different places; 万菱广场 is not 万菱汇.",
+            "zh": "二沙岛体育用品街2016年已清退。西城都荟现名荔湾领展广场。芳村茶叶市场正在改造。天河商场并非全部地下连通（天环–正佳连廊在建）。天河路天河城、北京路天河城、番禺天河城是三个地方；万菱广场不是万菱汇。"
           }
         }
       ],
       "intro": {
-        "en": "Grouped by district. Badges show what each place is best for.",
-        "zh": "按区域分组，标签说明每个地方适合买什么。"
+        "en": "Three clusters fit the hotels: Liwan (Dec 21–23), Beijing Road for anime and gifts, and the Tianhe Road malls (from Dec 27). Info checked 3 Nov 2026; hours and stock can change. ¥ budget · ¥¥ mid · ¥¥¥ premium.",
+        "zh": "按酒店分三块：荔湾（12/21–23）、北京路一带买动漫和手信、天河路商圈（12/27起）。资料核对于2026年11月3日，营业时间和库存可能变化。¥ 平价 · ¥¥ 中档 · ¥¥¥ 高端。"
       }
     },
     {

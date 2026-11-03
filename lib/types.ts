@@ -77,7 +77,7 @@ export type Places = Record<string, Place>;
 
 /** Menu guides (content/guides.json): curated lists shown in the ☰ menu. */
 export interface GuideItem {
-  title: T; desc: T; meta?: T; when?: T; placeId?: string; badge?: T; heading?: T;
+  title: T; desc: T; meta?: T; hours?: T; when?: T; placeId?: string; badge?: T; heading?: T;
 }
 export interface GuideSection {
   id: string; icon: string; title: T; subtitle: T; intro?: T; items: GuideItem[];

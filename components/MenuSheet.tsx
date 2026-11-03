@@ -153,6 +153,7 @@ function MenuBody({ trip, places, guides, index, onSelect, onClose, onOpenPlace,
                       </span>
                       <span className="gi-desc">{t(it.desc)}</span>
                       {it.meta && <span className="gi-meta"><i className="fa-solid fa-location-dot" aria-hidden />{t(it.meta)}</span>}
+                      {it.hours && <span className="gi-meta"><i className="fa-regular fa-clock" aria-hidden />{t(it.hours)}</span>}
                       {it.when && <span className="gi-when"><i className="fa-regular fa-calendar" aria-hidden />{t(it.when)}</span>}
                     </>
                   );
