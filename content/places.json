@@ -792,6 +792,68 @@
     "thumb": "/places/thumb/cantonese-opera-art-museum.jpg"
   },
   {
+    "id": "chalyishi-huachenghui",
+    "aliases": [
+      "茶理宜世（花城汇店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Cha Li Yi Shi (Mall of the World)",
+      "zh": "茶理宜世（花城汇店）"
+    },
+    "city": "Guangzhou",
+    "query": "茶理宜世 花城汇中区负1层 天河区 广州",
+    "lat": 23.11965,
+    "lng": 113.32457,
+    "summary": {
+      "en": "Guangzhou-born Chinese-style milk tea, inside Mall of the World.",
+      "zh": "广州本土国风奶茶，在花城汇里面。"
+    },
+    "why": {
+      "en": "Cha Li Yi Shi is a Guangzhou brand known for tea-forward, Chinese-style milk teas with floral notes. It sits in the same mall as the dessert stop, so a drink is added without any detour.",
+      "zh": "茶理宜世是广州本土品牌，奶茶茶味重、带花香，国风设计。就在甜品同一个商场，不用绕路。"
+    },
+    "mustTry": {
+      "en": [
+        "Yu Yu You Lan (郁郁幽兰)"
+      ],
+      "zh": [
+        "郁郁幽兰"
+      ]
+    }
+  },
+  {
+    "id": "chalyishi-tianhe-south",
+    "aliases": [
+      "茶理宜世（天河南一路店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Cha Li Yi Shi (Tianhe South Road 1)",
+      "zh": "茶理宜世（天河南一路店）"
+    },
+    "city": "Guangzhou",
+    "query": "茶理宜世 天河南一路92号 天河区 广州",
+    "lat": 23.13092,
+    "lng": 113.3257,
+    "summary": {
+      "en": "Guangzhou-born Chinese-style milk tea, between K Hotel and Grandview.",
+      "zh": "广州本土国风奶茶，在 K Hotel 和正佳之间。"
+    },
+    "why": {
+      "en": "Cha Li Yi Shi is the milk-tea pick on Tianhe South Road 1, the street the walk to Grandview passes through. Its teas are tea-forward with floral notes.",
+      "zh": "茶理宜世是天河南一路上的奶茶选择，去正佳的路上经过。茶味重、带花香。"
+    },
+    "mustTry": {
+      "en": [
+        "Yu Yu You Lan (郁郁幽兰)"
+      ],
+      "zh": [
+        "郁郁幽兰"
+      ]
+    }
+  },
+  {
     "id": "changshou-lu-station",
     "aliases": [
       "长寿路站"
@@ -3987,6 +4049,144 @@
     }
   },
   {
+    "id": "linlee-beijing-road",
+    "aliases": [
+      "LINLEE林里（北京路店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "LINLEE (Beijing Road)",
+      "zh": "LINLEE林里（北京路店）"
+    },
+    "city": "Guangzhou",
+    "query": "LINLEE手打柠檬茶 北京路168号 越秀区 广州",
+    "lat": 23.1262,
+    "lng": 113.27,
+    "summary": {
+      "en": "Hand-pounded lemon tea on Beijing Road.",
+      "zh": "北京路上的手打柠檬茶。"
+    },
+    "why": {
+      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+    },
+    "mustTry": {
+      "en": [
+        "Hand-pounded lemon tea (手打柠檬茶)"
+      ],
+      "zh": [
+        "手打柠檬茶"
+      ]
+    },
+    "tips": {
+      "en": "Map pin is approximate (168 Beijing Road).",
+      "zh": "地图位置为估算（北京路168号）。"
+    }
+  },
+  {
+    "id": "linlee-central-hk",
+    "aliases": [
+      "LINLEE（中环摆花街店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "LINLEE (Central, Lyndhurst Terrace)",
+      "zh": "LINLEE（中环摆花街店）"
+    },
+    "city": "Hong Kong",
+    "query": "LINLEE Central Lyndhurst Terrace Shop Hong Kong",
+    "lat": 22.2825433,
+    "lng": 114.1538151,
+    "summary": {
+      "en": "Hand-pounded lemon tea on Lyndhurst Terrace, next to Tai Cheong Bakery.",
+      "zh": "摆花街上的手打柠檬茶，就在泰昌饼家旁边。"
+    },
+    "why": {
+      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+    },
+    "mustTry": {
+      "en": [
+        "Hand-pounded lemon tea (手打柠檬茶)"
+      ],
+      "zh": [
+        "手打柠檬茶"
+      ]
+    },
+    "rating": 4.6,
+    "reviewCount": 427
+  },
+  {
+    "id": "linlee-grandview",
+    "aliases": [
+      "LINLEE林里（正佳广场店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "LINLEE (Grandview Mall)",
+      "zh": "LINLEE林里（正佳广场店）"
+    },
+    "city": "Guangzhou",
+    "query": "LINLEE手打柠檬茶 正佳广场负一层 天河区 广州",
+    "lat": 23.132146,
+    "lng": 113.326998,
+    "summary": {
+      "en": "Hand-pounded lemon tea in Grandview Mall B1.",
+      "zh": "正佳广场负一层的手打柠檬茶。"
+    },
+    "why": {
+      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+    },
+    "mustTry": {
+      "en": [
+        "Hand-pounded lemon tea (手打柠檬茶)"
+      ],
+      "zh": [
+        "手打柠檬茶"
+      ]
+    },
+    "tips": {
+      "en": "Map pin is the mall; the shop is on B1.",
+      "zh": "地图位置为商场，店在负一层。"
+    }
+  },
+  {
+    "id": "linlee-yuexiu-park",
+    "aliases": [
+      "LINLEE林里（越秀公园店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "LINLEE (Yuexiu Park)",
+      "zh": "LINLEE林里（越秀公园店）"
+    },
+    "city": "Guangzhou",
+    "query": "LINLEE手打柠檬茶 流花路城壹汇 越秀公园地铁站 广州",
+    "lat": 23.1405,
+    "lng": 113.2625,
+    "summary": {
+      "en": "Hand-pounded lemon tea by Yuexiu Park Metro, near the Baima market area.",
+      "zh": "越秀公园地铁站旁的手打柠檬茶，靠近白马一带。"
+    },
+    "why": {
+      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+    },
+    "mustTry": {
+      "en": [
+        "Hand-pounded lemon tea (手打柠檬茶)"
+      ],
+      "zh": [
+        "手打柠檬茶"
+      ]
+    },
+    "tips": {
+      "en": "Map pin is approximate; the shop is in Chengyi Hui mall B1, by Metro exit C.",
+      "zh": "地图位置为估算，店在城壹汇负一层，越秀公园地铁站C口旁。"
+    }
+  },
+  {
     "id": "liugeng-hall",
     "aliases": [
       "留耕堂（何氏大宗祠）",
@@ -5168,6 +5368,37 @@
       }
     ],
     "thumb": "/places/thumb/qinghui-garden.jpg"
+  },
+  {
+    "id": "qiudashu-tianhe-south",
+    "aliases": [
+      "丘大叔柠檬茶（天河南店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Uncle Qiu Lemon Tea (Tianhe South)",
+      "zh": "丘大叔柠檬茶（天河南店）"
+    },
+    "city": "Guangzhou",
+    "query": "丘大叔柠檬茶 天河南路80号 天河区 广州",
+    "lat": 23.13095,
+    "lng": 113.32471,
+    "summary": {
+      "en": "The shop that made duck-shit oolong lemon tea famous.",
+      "zh": "把鸭屎香柠檬茶带火的店。"
+    },
+    "why": {
+      "en": "Uncle Qiu popularised lemon tea made with duck-shit oolong (鸭屎香), a Phoenix dancong tea named for its soil, not its taste. The tea gives a floral, honeyed aroma under the lemon. It is between K Hotel and Grandview Mall.",
+      "zh": "丘大叔把鸭屎香柠檬茶带火：鸭屎香是凤凰单丛的一种，名字来自土壤，跟味道无关，茶香带花蜜味。店就在 K Hotel 和正佳之间。"
+    },
+    "mustTry": {
+      "en": [
+        "Duck-shit oolong lemon tea (鸭屎香柠檬茶)"
+      ],
+      "zh": [
+        "鸭屎香柠檬茶"
+      ]
+    }
   },
   {
     "id": "robot-6s-store-bantian",

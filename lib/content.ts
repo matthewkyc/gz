@@ -3,7 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { isoFromZh } from "./dates";
 import type {
-  Day, Food, Item, Places, Place, RawDay, RawFood, RawItem, RawStop, RawTrip, Stop, T, Trip,
+  Day, Food, GuideSection, Item, Places, Place, RawDay, RawFood, RawItem, RawStop, RawTrip, Stop, T, Trip,
 } from "./types";
 
 const DIR = path.join(process.cwd(), "content");
@@ -33,7 +33,7 @@ function aliasIndex(places: Places) {
   return (zh: string) => idx.get(zh) ?? idx.get(normalise(zh));
 }
 
-export function loadContent(): { trip: Trip; places: Places } {
+export function loadContent(): { trip: Trip; places: Places; guides: GuideSection[] } {
   const zh = read<RawTrip>("itinerary.json");
   if (!zh) throw new Error("content/itinerary.json missing");
   const en = read<RawTrip>("itinerary.en.json");
@@ -82,11 +82,13 @@ export function loadContent(): { trip: Trip; places: Places } {
     groups: { a: req(zh.groups.a, en?.groups?.a), k: req(zh.groups.k, en?.groups?.k) },
     stays: zh.stays.map((s, i) => ({
       area: req(s.area, en?.stays?.[i]?.area), range: req(s.range, en?.stays?.[i]?.range),
+      hotel: pair(s.hotel, en?.stays?.[i]?.hotel), address: pair(s.address, en?.stays?.[i]?.address), phone: s.phone,
       hotelId: places[STAY_HOTELS[i]] ? STAY_HOTELS[i] : undefined,
     })),
     days,
   };
-  return { trip, places };
+  const guides = read<{ sections: GuideSection[] }>("guides.json")?.sections ?? [];
+  return { trip, places, guides };
 }
 
 /** Walk the day in order to find, for each place, where you arrive from and the itinerary's travel note. */

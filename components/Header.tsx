@@ -5,7 +5,7 @@ import { useLang } from "@/lib/i18n";
 import { parts, todayIso } from "@/lib/dates";
 import type { Trip } from "@/lib/types";
 
-export default function Header({ trip, index, onSelect }: { trip: Trip; index: number; onSelect: (i: number) => void }) {
+export default function Header({ trip, index, onSelect, onMenu }: { trip: Trip; index: number; onSelect: (i: number) => void; onMenu: () => void }) {
   const { lang, setLang, t, ui } = useLang();
   const strip = useRef<HTMLDivElement>(null);
   const today = todayIso();
@@ -27,6 +27,7 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
         <div className="brand">
           <span className="brand-title">{t(trip.title)}</span>
         </div>
+        <div className="top-actions">
         <button
           type="button"
           className="globe"
@@ -37,6 +38,10 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
           <i className="fa-solid fa-globe" aria-hidden />
           <span>{lang === "en" ? "EN" : "中"}</span>
         </button>
+        <button type="button" className="menu-btn" onClick={onMenu} aria-label={ui("openMenu")} title={ui("menu")}>
+          <i className="fa-solid fa-bars" aria-hidden />
+        </button>
+        </div>
       </div>
     </header>
 

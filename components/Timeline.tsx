@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useLang } from "@/lib/i18n";
 import type { Food, Item, Place, Places, Stop, T } from "@/lib/types";
@@ -50,104 +50,69 @@ export default function Timeline({ items, places, groups, onOpenPlace, compact }
     <ol className={`tl${compact ? " tl-compact" : ""}`}>
       {blocks.map((b, bi) => {
         if ("one" in b) return <Row key={bi} it={b.one} ctx={ctx} />;
-        return <OptionsRow key={bi} id={`${bi}`} run={b.run} s={b.s} e={b.e} groups={groups} ctx={ctx} />;
+        return <OptionsRow key={bi} run={b.run} s={b.s} e={b.e} groups={groups} ctx={ctx} />;
       })}
     </ol>
   );
-}
-
-function useWide() {
-  const [wide, setWide] = useState(false);
-  useEffect(() => {
-    const mq = matchMedia("(min-width: 900px)");
-    const on = () => setWide(mq.matches);
-    on();
-    mq.addEventListener("change", on);
-    return () => mq.removeEventListener("change", on);
-  }, []);
-  return wide;
 }
 
 const GROUPS = ["a", "k"] as const;
 type Group = (typeof GROUPS)[number];
 
 /**
- * Two alternative plans for the same time slot. Phones: full-width card with an
- * iOS segmented control showing one option at a time. Desktop: both side by side.
+ * Two alternative plans for the same time slot: time on the left like every row,
+ * two large tabs (Option A / Option B) and one card showing the chosen option.
+ * Option A is shown by default.
  */
-function OptionsRow({ id, run, s, e, groups, ctx }: {
-  id: string; run: Item[]; s: string; e: string; groups: Record<Group, T>; ctx: Ctx;
+function OptionsRow({ run, s, e, groups, ctx }: {
+  run: Item[]; s: string; e: string; groups: Record<Group, T>; ctx: Ctx;
 }) {
-  const { t, ui } = useLang();
-  const wide = useWide();
+  const { t } = useLang();
   const present = GROUPS.filter((g) => run.some((x) => x.group === g));
   const [active, setActive] = useState<Group>(present[0] ?? "a");
   const [dir, setDir] = useState(0);
   const pick = (g: Group) => { setDir(GROUPS.indexOf(g) > GROUPS.indexOf(active) ? 1 : -1); setActive(g); };
-
-  const option = (g: Group) => {
-    const list = run.filter((x) => x.group === g);
-    return list.map((it, k) => (
-      <div key={k} className="opt-item">
-        {(list.length > 1 || it.start !== s || it.end !== e) && <span className="sub-time">{it.start} – {it.end}</span>}
-        <ItemBody it={it} ctx={ctx} />
-      </div>
-    ));
-  };
+  const list = (g: Group) => run.filter((x) => x.group === g);
 
   return (
-    <li className="row row-options">
-      <section className="optblock" aria-label={`${s} – ${e}`}>
-        <header className="opt-head">
-          <span className="opt-time"><i className="fa-solid fa-signs-post" aria-hidden />{s} – {e}</span>
-          <span className="opt-hint">{ui("chooseOne")}</span>
-        </header>
-
-        {wide || present.length < 2 ? (
-          <div className="opt-cols">
-            {present.map((g) => (
-              <div key={g} className="opt-col">
-                <span className="opt-label">{t(groups[g])}</span>
-                {option(g)}
+    <li className="row row-split">
+      <Time start={s} end={e} />
+      <span className="dot dot-split" aria-hidden><i className="fa-solid fa-signs-post" /></span>
+      <div className="body">
+        <div className="opt-tabs" role="tablist">
+          {present.map((g) => (
+            <button
+              key={g}
+              type="button"
+              role="tab"
+              aria-selected={active === g}
+              className={`opt-tab${active === g ? " on" : ""}`}
+              onClick={() => pick(g)}
+            >
+              <small>{t(groups[g])}</small>
+              <span>{t(list(g)[0]?.title)}</span>
+            </button>
+          ))}
+        </div>
+        <AnimatePresence mode="wait" initial={false} custom={dir}>
+          <motion.div
+            key={active}
+            role="tabpanel"
+            className={`opt-card opt-card-${active}`}
+            initial={{ opacity: 0, x: dir * 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: dir * -20 }}
+            transition={{ duration: 0.2, ease: [0.32, 0.72, 0, 1] }}
+          >
+            {list(active).map((it, k) => (
+              <div key={k} className="opt-item">
+                {(list(active).length > 1 || it.start !== s || it.end !== e) && <span className="sub-time">{it.start} – {it.end}</span>}
+                <ItemBody it={it} ctx={ctx} />
               </div>
             ))}
-          </div>
-        ) : (
-          <>
-            <div className="segmented" role="tablist">
-              {present.map((g) => (
-                <button
-                  key={g}
-                  type="button"
-                  role="tab"
-                  aria-selected={active === g}
-                  className={`seg${active === g ? " on" : ""}`}
-                  onClick={() => pick(g)}
-                >
-                  {active === g && (
-                    <motion.span layoutId={`seg-${id}`} className="seg-pill" transition={{ type: "spring", stiffness: 500, damping: 38 }} />
-                  )}
-                  <span className="seg-text">{t(groups[g])}</span>
-                </button>
-              ))}
-            </div>
-            <AnimatePresence mode="wait" initial={false} custom={dir}>
-              <motion.div
-                key={active}
-                role="tabpanel"
-                className="opt-panel"
-                custom={dir}
-                initial={{ opacity: 0, x: dir * 24 }}
-                animate={{ opacity: 1, x: 0 }}
-                exit={{ opacity: 0, x: dir * -24 }}
-                transition={{ duration: 0.2, ease: [0.32, 0.72, 0, 1] }}
-              >
-                {option(active)}
-              </motion.div>
-            </AnimatePresence>
-          </>
-        )}
-      </section>
+          </motion.div>
+        </AnimatePresence>
+      </div>
     </li>
   );
 }

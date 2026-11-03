@@ -180,6 +180,10 @@
             {
               "name": "Crêpe and waffle shops at Mall of the World (花城汇可丽饼、松饼店)",
               "desc": "Made fresh and hot; right for winter."
+            },
+            {
+              "name": "Cha Li Yi Shi, Mall of the World (茶理宜世（花城汇店）)",
+              "desc": "B1, middle zone of the mall; Guangzhou-born Chinese-style milk tea. Signature: Yu Yu You Lan (郁郁幽兰)."
             }
           ]
         }
@@ -234,7 +238,13 @@
           "tags": [
             "Shopping"
           ],
-          "tip": "Crowded at night; belongings should be watched."
+          "tip": "Crowded at night; belongings should be watched.",
+          "food": [
+            {
+              "name": "LINLEE (林里（北京路店）)",
+              "desc": "168 Beijing Road; Guangzhou’s best-known hand-pounded lemon tea, to drink on the walk."
+            }
+          ]
         },
         {
           "time": "18:30",

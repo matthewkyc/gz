@@ -45,6 +45,22 @@ const UI = {
   swipeHint: { en: "Swipe for the next day", zh: "左右滑动切换日期" },
   places: { en: "places", zh: "个地点" },
   chooseOne: { en: "Choose one", zh: "二选一" },
+  menu: { en: "Menu", zh: "菜单" },
+  daysTitle: { en: "Days", zh: "每日行程" },
+  daysSub: { en: "Jump to any day of the trip", zh: "跳到任意一天" },
+  hotelsTitle: { en: "Hotels & Taxi Cards", zh: "酒店·给司机看" },
+  hotelsSub: { en: "Addresses in Chinese for drivers", zh: "中文地址，直接给司机看" },
+  openMenu: { en: "Open menu", zh: "打开菜单" },
+  jumpToDay: { en: "Jump to day", zh: "跳到某一天" },
+  hotels: { en: "Hotels", zh: "酒店" },
+  showDriver: { en: "Show the taxi driver", zh: "给司机看" },
+  copyAddress: { en: "Copy", zh: "复制" },
+  copied: { en: "Copied", zh: "已复制" },
+  call: { en: "Call", zh: "电话" },
+  hotelNote: {
+    en: "Addresses are from Google Maps; they should be checked against the booking confirmations.",
+    zh: "地址来自 Google 地图，请以订房确认信为准。",
+  },
 } satisfies Record<string, T>;
 export type UIKey = keyof typeof UI;
 

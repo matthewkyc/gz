@@ -45,7 +45,17 @@
       "start": "13:20",
       "end": "13:30",
       "title": "Walk to Grandview Mall (正佳广场)",
-      "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch."
+      "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch.",
+      "food": [
+        {
+          "name": "Uncle Qiu Lemon Tea, Tianhe South (丘大叔柠檬茶（天河南店）)",
+          "desc": "80 Tianhe South Road; signature duck-shit oolong lemon tea (鸭屎香柠檬茶). One can be picked up on the way."
+        },
+        {
+          "name": "Cha Li Yi Shi, Tianhe South Road 1 (茶理宜世（天河南一路店）)",
+          "desc": "92 Tianhe South Road 1; the milk tea option."
+        }
+      ]
     },
     {
       "start": "13:30",

@@ -101,6 +101,12 @@
           "desc": "Flaky-pastry egg tarts, bought and eaten on the go.",
           "tags": [
             "Dessert"
+          ],
+          "food": [
+            {
+              "name": "LINLEE Central, Lyndhurst Terrace (LINLEE（中环摆花街店）)",
+              "desc": "Same street; hand-pounded lemon tea goes well with the egg tarts. 4.6 on Google."
+            }
           ]
         },
         {

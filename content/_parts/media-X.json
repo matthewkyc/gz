@@ -2,14 +2,29 @@
   "chen-tim-kee": {
     "image": "/places/chen-tim-kee.jpg",
     "imageCredit": "Google Maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 104,
     "lat": 23.1148302,
     "lng": 113.2414199,
     "reviews": [
-      { "author": "Google reviewer", "rating": 4, "when": "4 months ago", "text": "陈添记 is tucked into an old house with the entrance down a side alley - rustic and atmospheric. It’s a cool way to experience traditional food in a setting that feels untouched by time." },
-      { "author": "Google reviewer", "rating": 5, "when": "3 years ago", "text": "This is an old and famous shop serving blanched fish skin in soy marinate and cilantro as its best known speciality. There is also congee, rice rolls, pig trotter and an interesting selection of drinks as well." },
-      { "author": "Google reviewer", "rating": 4, "when": "8 years ago", "text": "Great place for a feed. It is close to the pedestrian shopping zone. Simple menu, meal for 2 shall involve 2 bowls of congee, 1 rice noodle roll and 1 fish skin. It shall be a good combination!" }
+      {
+        "author": "Google reviewer",
+        "rating": 4,
+        "when": "4 months ago",
+        "text": "陈添记 is tucked into an old house with the entrance down a side alley - rustic and atmospheric. It’s a cool way to experience traditional food in a setting that feels untouched by time."
+      },
+      {
+        "author": "Google reviewer",
+        "rating": 5,
+        "when": "3 years ago",
+        "text": "This is an old and famous shop serving blanched fish skin in soy marinate and cilantro as its best known speciality. There is also congee, rice rolls, pig trotter and an interesting selection of drinks as well."
+      },
+      {
+        "author": "Google reviewer",
+        "rating": 4,
+        "when": "8 years ago",
+        "text": "Great place for a feed. It is close to the pedestrian shopping zone. Simple menu, meal for 2 shall involve 2 bowls of congee, 1 rice noodle roll and 1 fish skin. It shall be a good combination!"
+      }
     ]
   },
   "guangzhou-restaurant-wenchang": {
@@ -20,9 +35,30 @@
     "lat": 23.113813,
     "lng": 113.245888,
     "reviews": [
-      { "author": "Google reviewer", "rating": 5, "when": "6 months ago", "text": "Food at GZ Restaurant was very good. The roast goose, chicken, sweet and sour pork and dumplings we ordered were all delicious. One of the best meal we had in GZ." },
-      { "author": "Google reviewer", "rating": 4, "when": "4 months ago", "text": "Full marks for heritage, points deducted for service. We made a reservation in advance but still had to wait about 20 minutes upon arrival. Fortunately, we spent the time exploring the in-house Cantonese cuisine museum." },
-      { "author": "Google reviewer", "rating": 5, "when": "Edited 8 months ago", "text": "Delicious dim sum. I’ve tried 蓮香樓 and 大三元, and this place suits my taste the best. You can track the queue progress via WeChat." }
+      {
+        "author": "Google reviewer",
+        "rating": 5,
+        "when": "6 months ago",
+        "text": "Food at GZ Restaurant was very good. The roast goose, chicken, sweet and sour pork and dumplings we ordered were all delicious. One of the best meal we had in GZ."
+      },
+      {
+        "author": "Google reviewer",
+        "rating": 4,
+        "when": "4 months ago",
+        "text": "Full marks for heritage, points deducted for service. We made a reservation in advance but still had to wait about 20 minutes upon arrival. Fortunately, we spent the time exploring the in-house Cantonese cuisine museum."
+      },
+      {
+        "author": "Google reviewer",
+        "rating": 5,
+        "when": "Edited 8 months ago",
+        "text": "Delicious dim sum. I’ve tried 蓮香樓 and 大三元, and this place suits my taste the best. You can track the queue progress via WeChat."
+      }
     ]
+  },
+  "linlee-central-hk": {
+    "rating": 4.6,
+    "reviewCount": 427,
+    "lat": 22.2825433,
+    "lng": 114.1538151
   }
 }

@@ -56,6 +56,12 @@
           "desc": "Floors missed on the 27th are covered.",
           "tags": [
             "Shopping"
+          ],
+          "food": [
+            {
+              "name": "LINLEE, Grandview Mall (林里（正佳广场店）)",
+              "desc": "Grandview Mall B1; hand-pounded lemon tea."
+            }
           ]
         },
         {

@@ -5,48 +5,6 @@
   "theme": "Xiguan old streets, walking east",
   "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nLunch: Tao Tao Ju; ice cream at Shun Kee\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
   "stay": 0,
-  "backup": {
-    "title": "Backup: Thirteen Hongs (十三行), only if time remains after Liwan Plaza",
-    "note": "If more shopping is wanted after Liwan Plaza at 16:30, take a taxi from the entrance to Thirteen Hongs, ~5–10 min, and choose Option A or Option B there. The hotel is not visited first.",
-    "items": [
-      {
-        "start": "16:40",
-        "end": "17:45",
-        "title": "Shopping at Thirteen Hongs (十三行)",
-        "note": "Site of the Qing-era “Thirteen Hongs” foreign-trade district, now a cluster of women's-clothing wholesale buildings. Wide choice, fast-changing styles. Mostly wholesale, but some stalls sell retail; bargaining is possible.",
-        "group": "a",
-        "tip": "Many stalls do not allow photos, and trying on is not always possible. Ask the price first; bargaining is expected."
-      },
-      {
-        "start": "17:45",
-        "end": "18:05",
-        "title": "Thirteen Hongs → Hotel",
-        "note": "Taxi, ~15–20 min, straight back to the hotel.",
-        "group": "a"
-      },
-      {
-        "start": "16:40",
-        "end": "17:20",
-        "title": "Thirteen Hongs Museum (十三行博物馆)",
-        "note": "Next to the Cultural Park, ~5 min walk from Thirteen Hongs; free entry. Qing-era export art from the Thirteen Hongs trade: Canton enamel porcelain (广彩), Cantonese embroidery (广绣), export fans and silverware. A silverware gallery is on the 3rd floor.",
-        "group": "k",
-        "tip": "Entry usually stops around 17:00, so arriving at 16:40 may be too late; check on the map before setting off. Kids must be accompanied by an adult or young adult."
-      },
-      {
-        "start": "17:20",
-        "end": "17:40",
-        "title": "Thirteen Hongs → Hotel",
-        "note": "Taxi, ~15–20 min, straight back to the hotel.",
-        "group": "k"
-      },
-      {
-        "start": "17:40",
-        "end": "18:05",
-        "title": "Rest at the hotel",
-        "group": "k"
-      }
-    ]
-  },
   "items": [
     {
       "start": "08:00",

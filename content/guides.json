@@ -1,0 +1,1019 @@
+{
+  "sections": [
+    {
+      "id": "eats",
+      "icon": "fa-utensils",
+      "title": {
+        "en": "Classic Local Eats",
+        "zh": "广州老字号"
+      },
+      "subtitle": {
+        "en": "10 time-honoured shops, mostly in Xiguan",
+        "zh": "10家经典老字号，多在西关"
+      },
+      "intro": {
+        "en": "Most are in Liwan’s Xiguan area; Shangxiajiu and Baohua Road are walked between them. Popular shops queue at meal times, so off-peak visits are best.",
+        "zh": "大部分集中在荔湾西关一带，从上下九、宝华路一带步行就能串起来。热门店饭点要排队，建议错峰。"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Tao Tao Ju (陶陶居)",
+            "zh": "陶陶居"
+          },
+          "desc": {
+            "en": "Teahouse since 1880. Must eat: shrimp dumplings, siu mai, custard lava buns.",
+            "zh": "始于1880年的百年茶楼。必吃：虾饺、烧卖、奶黄流沙包。"
+          },
+          "meta": {
+            "en": "20 Dishifu Road, Liwan (Shangxiajiu)",
+            "zh": "荔湾区第十甫路20号（上下九）"
+          },
+          "when": {
+            "en": "Dec 23 lunch · Dec 27 lunch (Grandview branch)",
+            "zh": "12/23 午餐 · 12/27 午餐（正佳店）"
+          },
+          "placeId": "tao-tao-ju-dishifu",
+          "badge": {
+            "en": "Since 1880",
+            "zh": "1880年"
+          }
+        },
+        {
+          "title": {
+            "en": "Guangzhou Restaurant (广州酒家)",
+            "zh": "广州酒家"
+          },
+          "desc": {
+            "en": "The classic Cantonese restaurant. Must eat: Wenchang chicken, shrimp dumplings, roast meats.",
+            "zh": "粤菜代表。必吃：文昌鸡、虾饺、烧味。"
+          },
+          "meta": {
+            "en": "2 Wenchang South Road, Liwan",
+            "zh": "荔湾区文昌南路2号"
+          },
+          "when": {
+            "en": "Jan 3 dinner (option)",
+            "zh": "1/3 晚餐（可选）"
+          },
+          "placeId": "guangzhou-restaurant-wenchang",
+          "badge": {
+            "en": "Since 1935",
+            "zh": "1935年"
+          }
+        },
+        {
+          "title": {
+            "en": "Lin Heung Lau (莲香楼)",
+            "zh": "莲香楼"
+          },
+          "desc": {
+            "en": "Famous for lotus-paste pastries. Must buy: lotus-paste mooncakes, wife cakes, chicken biscuits.",
+            "zh": "地道糕饼名店。必买：莲蓉月饼、老婆饼、鸡仔饼。"
+          },
+          "meta": {
+            "en": "67 Dishifu Road, Liwan",
+            "zh": "荔湾区第十甫路67号"
+          },
+          "when": {
+            "en": "Dec 21 16:30 (photos, gifts)",
+            "zh": "12/21 16:30（拍照、买手信）"
+          },
+          "badge": {
+            "en": "Since 1889",
+            "zh": "1889年"
+          }
+        },
+        {
+          "title": {
+            "en": "Panxi Restaurant (泮溪酒家)",
+            "zh": "泮溪酒家"
+          },
+          "desc": {
+            "en": "Lingnan garden restaurant. Must eat: water-chestnut cake, sampan congee, classic dim sum.",
+            "zh": "岭南园林式老字号。必吃：马蹄糕、艇仔粥、传统粤点。"
+          },
+          "meta": {
+            "en": "151 Longjin West Road, Liwan (by Lychee Bay)",
+            "zh": "荔湾区龙津西路151号（荔枝湾附近）"
+          },
+          "when": {
+            "en": "Dec 23 dinner",
+            "zh": "12/23 晚餐"
+          },
+          "placeId": "panxi-restaurant"
+        },
+        {
+          "title": {
+            "en": "Nanxin Dessert (南信牛奶甜品专家)",
+            "zh": "南信牛奶甜品专家"
+          },
+          "desc": {
+            "en": "Traditional Cantonese milk desserts. Must eat: double-skin milk, ginger milk curd.",
+            "zh": "传统广式牛奶甜品。必吃：双皮奶、姜撞奶。"
+          },
+          "meta": {
+            "en": "47 Dishifu Road, Liwan",
+            "zh": "荔湾区第十甫路47号"
+          },
+          "when": {
+            "en": "Dec 21 dessert (option)",
+            "zh": "12/21 甜品（可选）"
+          },
+          "placeId": "nanxin-dessert"
+        },
+        {
+          "title": {
+            "en": "Yinji Rice Rolls (银记肠粉店)",
+            "zh": "银记肠粉店"
+          },
+          "desc": {
+            "en": "Classic Xiguan cloth-steamed rice rolls. Must eat: shrimp and beef rice rolls.",
+            "zh": "经典西关布拉肠粉。必吃：鲜虾肠粉、牛肉肠粉。"
+          },
+          "meta": {
+            "en": "345 Wenchang North Road, Liwan",
+            "zh": "荔湾区文昌北路345号"
+          },
+          "when": {
+            "en": "Dec 21 dinner (option) · breakfast Dec 22–24 (option)",
+            "zh": "12/21 晚餐（可选）· 12/22–24 早餐（可选）"
+          },
+          "placeId": "yinji-rice-rolls-wenchang"
+        },
+        {
+          "title": {
+            "en": "Chen Tim Kee (陈添记)",
+            "zh": "陈添记"
+          },
+          "desc": {
+            "en": "Xiguan snack shop hidden in an alley. Must eat: crunchy fish skin, sampan congee.",
+            "zh": "藏在巷子里的西关小吃。必吃：爽鱼皮、艇仔粥。"
+          },
+          "meta": {
+            "en": "Lane 3, Shiwufu, Baohua Road, Liwan",
+            "zh": "荔湾区宝华路十五甫三巷"
+          },
+          "when": {
+            "en": "Dec 21 dinner (option 1)",
+            "zh": "12/21 晚餐（首选）"
+          },
+          "placeId": "chen-tim-kee"
+        },
+        {
+          "title": {
+            "en": "Ng Choi Kee Noodles (吴财记面家)",
+            "zh": "吴财记面家"
+          },
+          "desc": {
+            "en": "Old Guangzhou wonton noodles. Must eat: fresh shrimp wonton noodles, fried wontons.",
+            "zh": "老广州传统云吞面。必吃：鲜虾云吞面、炸云吞。"
+          },
+          "meta": {
+            "en": "20 Helong Lane, Datong Road, Liwan",
+            "zh": "荔湾区大同路和隆里20号"
+          },
+          "when": {
+            "en": "Dec 21 lunch (option)",
+            "zh": "12/21 午餐（可选）"
+          },
+          "placeId": "ng-choi-kee-noodles"
+        },
+        {
+          "title": {
+            "en": "Ng Zham Kee (伍湛记)",
+            "zh": "伍湛记"
+          },
+          "desc": {
+            "en": "Traditional congee shop. Must eat: jidi congee, sampan congee, salted fried cakes.",
+            "zh": "传统广式粥品老店。必吃：及第粥、艇仔粥、咸煎饼。"
+          },
+          "meta": {
+            "en": "871 Longjin East Road, Liwan",
+            "zh": "荔湾区龙津东路871号"
+          },
+          "when": {
+            "en": "Dec 21 lunch · breakfast Dec 22–24 (option)",
+            "zh": "12/21 午餐 · 12/22–24 早餐（可选）"
+          },
+          "placeId": "ng-zham-kee"
+        },
+        {
+          "title": {
+            "en": "Shun Kee Ice Bar (顺记冰室)",
+            "zh": "顺记冰室"
+          },
+          "desc": {
+            "en": "Nostalgic Cantonese ice bar. Must eat: coconut ice cream, mango ice cream.",
+            "zh": "怀旧广式冰室。必吃：椰子雪糕、芒果雪糕。"
+          },
+          "meta": {
+            "en": "83 Baohua Road, Liwan",
+            "zh": "荔湾区宝华路83号"
+          },
+          "when": {
+            "en": "Dec 21 dessert (option) · Dec 23 14:15",
+            "zh": "12/21 甜品（可选）· 12/23 14:15"
+          },
+          "placeId": "shun-kee-ice-bar"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "icon": "fa-mug-hot",
+      "title": {
+        "en": "Milk Tea Stops",
+        "zh": "奶茶·手打柠檬茶"
+      },
+      "subtitle": {
+        "en": "Milk tea and Guangzhou’s hand-pounded lemon tea",
+        "zh": "奶茶和广州的手打柠檬茶"
+      },
+      "intro": {
+        "en": "Hand-pounded lemon tea is Guangzhou’s own craze; milk tea shops are everywhere. Sugar level can be chosen when ordering.",
+        "zh": "手打柠檬茶是广州自己的潮流，奶茶店到处都是。点单时可以选甜度。"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "LINLEE (林里)",
+            "zh": "LINLEE 林里"
+          },
+          "desc": {
+            "en": "Guangzhou’s best-known hand-pounded lemon tea. Look for the duck mascot; copycat shops exist.",
+            "zh": "广州最出名的手打柠檬茶，认准鸭子周边，市面上有山寨店。"
+          },
+          "meta": {
+            "en": "Beijing Road · Grandview B1 · Yuexiu Park · Central (HK)",
+            "zh": "北京路 · 正佳负一层 · 越秀公园 · 香港中环"
+          },
+          "when": {
+            "en": "Dec 22 · Dec 30 · Jan 1 · Jan 3",
+            "zh": "12/22 · 12/30 · 1/1 · 1/3"
+          },
+          "placeId": "linlee-grandview",
+          "badge": {
+            "en": "Lemon tea",
+            "zh": "柠檬茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Uncle Qiu Lemon Tea (丘大叔柠檬茶)",
+            "zh": "丘大叔柠檬茶"
+          },
+          "desc": {
+            "en": "Made duck-shit oolong lemon tea (鸭屎香柠檬茶) famous; floral tea under the lemon. ¥15–28.",
+            "zh": "把鸭屎香柠檬茶带火，茶香带花蜜味。¥15–28。"
+          },
+          "meta": {
+            "en": "80 Tianhe South Road, between K Hotel and Grandview",
+            "zh": "天河南路80号，K Hotel 和正佳之间"
+          },
+          "when": {
+            "en": "Dec 27 13:20 (on the walk)",
+            "zh": "12/27 13:20（顺路）"
+          },
+          "placeId": "qiudashu-tianhe-south",
+          "badge": {
+            "en": "Lemon tea",
+            "zh": "柠檬茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Cha Li Yi Shi (茶理宜世)",
+            "zh": "茶理宜世"
+          },
+          "desc": {
+            "en": "Guangzhou-born Chinese-style milk tea, tea-forward with floral notes. Signature: Yu Yu You Lan (郁郁幽兰).",
+            "zh": "广州本土国风奶茶，茶味重、带花香。招牌：郁郁幽兰。"
+          },
+          "meta": {
+            "en": "Mall of the World B1 · 92 Tianhe South Road 1",
+            "zh": "花城汇负一层 · 天河南一路92号"
+          },
+          "when": {
+            "en": "Dec 22 14:55 · Dec 27 13:20",
+            "zh": "12/22 14:55 · 12/27 13:20"
+          },
+          "placeId": "chalyishi-tianhe-south",
+          "badge": {
+            "en": "Milk tea",
+            "zh": "奶茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Chen Wen Ding (陈文鼎)",
+            "zh": "陈文鼎"
+          },
+          "desc": {
+            "en": "Guangzhou brand founded 2022; brown-sugar boba fresh milk, about ¥10.",
+            "zh": "2022年创立的广州品牌，黑糖珍珠鲜奶，约¥10。"
+          },
+          "when": {
+            "en": "Not on the route; many branches",
+            "zh": "不在路线上，门店多"
+          },
+          "badge": {
+            "en": "Milk tea",
+            "zh": "奶茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Bao Zhu Gong (煲珠公)",
+            "zh": "煲珠公"
+          },
+          "desc": {
+            "en": "Old-style brown-sugar boba milk tea; branches across Guangdong.",
+            "zh": "老红糖珍珠奶茶，广东门店密集。"
+          },
+          "when": {
+            "en": "Not on the route; many branches",
+            "zh": "不在路线上，门店多"
+          },
+          "badge": {
+            "en": "Milk tea",
+            "zh": "奶茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Guang Ye Tea Stall (廣也茶檔)",
+            "zh": "廣也茶檔"
+          },
+          "desc": {
+            "en": "Old-school Hong Kong-style silk-stocking milk tea.",
+            "zh": "复刻香港街头的港式丝袜奶茶老店。"
+          },
+          "meta": {
+            "en": "Changshou Road, Liwan (branch unverified)",
+            "zh": "荔湾长寿路（门店未核实）"
+          },
+          "when": {
+            "en": "Near the Dec 21–23 hotel",
+            "zh": "靠近 12/21–23 的酒店"
+          },
+          "badge": {
+            "en": "HK milk tea",
+            "zh": "港式奶茶"
+          }
+        },
+        {
+          "title": {
+            "en": "milkplus (泰式奶茶)",
+            "zh": "milkplus 泰式奶茶"
+          },
+          "desc": {
+            "en": "Long-running Thai milk tea specialist.",
+            "zh": "广州老牌泰式奶茶专门店。"
+          },
+          "meta": {
+            "en": "Tianhe South (per articles)",
+            "zh": "天河南（据报道）"
+          },
+          "when": {
+            "en": "Near K Hotel",
+            "zh": "K Hotel 附近"
+          },
+          "badge": {
+            "en": "Thai milk tea",
+            "zh": "泰式奶茶"
+          }
+        },
+        {
+          "title": {
+            "en": "TANING (挞柠)",
+            "zh": "挞柠 TANING"
+          },
+          "desc": {
+            "en": "Hand-pounded lemon tea served in a pouch; about ¥9.",
+            "zh": "袋装手打柠檬茶，约¥9，性价比高。"
+          },
+          "when": {
+            "en": "Not on the route",
+            "zh": "不在路线上"
+          },
+          "badge": {
+            "en": "Lemon tea",
+            "zh": "柠檬茶"
+          }
+        },
+        {
+          "title": {
+            "en": "Shao Ning (烧柠) · HEYTEA (喜茶)",
+            "zh": "烧柠 · 喜茶"
+          },
+          "desc": {
+            "en": "Top of the Guangdong rankings; reliable chains found almost everywhere.",
+            "zh": "广东榜单前列，连锁门店到处都有，稳妥之选。"
+          },
+          "when": {
+            "en": "Anywhere",
+            "zh": "随处可见"
+          },
+          "badge": {
+            "en": "Chains",
+            "zh": "连锁"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "icon": "fa-bag-shopping",
+      "title": {
+        "en": "Shopping Guide",
+        "zh": "购物清单"
+      },
+      "subtitle": {
+        "en": "By district: fashion, accessories, souvenirs, sports, anime",
+        "zh": "按区域：服饰、配饰、手信、运动、动漫"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Shangxiajiu Pedestrian Street (上下九)",
+            "zh": "上下九步行街"
+          },
+          "desc": {
+            "en": "Qilou arcades with budget clothing, shoes and snacks.",
+            "zh": "骑楼老街，平价服装、鞋店、小吃。"
+          },
+          "meta": {
+            "en": "Changshou Lu Metro, Exit A",
+            "zh": "长寿路站A出口"
+          },
+          "when": {
+            "en": "Dec 21 · Dec 23",
+            "zh": "12/21 · 12/23"
+          },
+          "placeId": "shangxiajiu",
+          "badge": {
+            "en": "Fashion · Souvenirs",
+            "zh": "服饰 · 手信"
+          },
+          "heading": {
+            "en": "Liwan (荔湾)",
+            "zh": "荔湾区"
+          }
+        },
+        {
+          "title": {
+            "en": "Thirteen Hongs (十三行)",
+            "zh": "十三行"
+          },
+          "desc": {
+            "en": "Women’s clothing wholesale district on the old Qing trading-house site. Mostly wholesale, some retail; bargaining expected. Photos and try-ons are often not allowed. The Thirteen Hongs Museum (free) is a 5-min walk away.",
+            "zh": "清代十三行旧址，现为女装批发集中地，大多批发、也有零售，可讲价；很多档口不让拍照、不一定能试穿。附近步行5分钟有免费的十三行博物馆。"
+          },
+          "meta": {
+            "en": "~10 min taxi from Liwan Plaza",
+            "zh": "荔湾广场打车约10分钟"
+          },
+          "when": {
+            "en": "Not scheduled — extra if time allows",
+            "zh": "未排入行程，有时间再去"
+          },
+          "placeId": "thirteen-hongs",
+          "badge": {
+            "en": "Fashion",
+            "zh": "服饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Liwan Plaza (荔湾广场)",
+            "zh": "荔湾广场"
+          },
+          "desc": {
+            "en": "Old-school mall for jewellery, watches and small goods.",
+            "zh": "老牌商场，首饰、手表、小商品多。"
+          },
+          "when": {
+            "en": "Dec 23 15:00",
+            "zh": "12/23 15:00"
+          },
+          "placeId": "liwan-plaza",
+          "badge": {
+            "en": "Accessories",
+            "zh": "配饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Hualin Jade Street (华林玉器街)",
+            "zh": "华林玉器街"
+          },
+          "desc": {
+            "en": "Jade and jewellery market; browse rather than buy big.",
+            "zh": "玉器、珠宝市场，看看就好。"
+          },
+          "when": {
+            "en": "Dec 21 · Dec 23",
+            "zh": "12/21 · 12/23"
+          },
+          "placeId": "hualin-jade-street",
+          "badge": {
+            "en": "Accessories",
+            "zh": "配饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Yongqingfang boutiques (永庆坊)",
+            "zh": "永庆坊精品店"
+          },
+          "desc": {
+            "en": "Creative shops, handmade crafts, heritage gifts; PICOCICI flagship (Sanrio, Disney, Chiikawa).",
+            "zh": "文创店、手作小店、非遗手信；PICOCICI 旗舰店（三丽鸥、迪士尼、Chiikawa）。"
+          },
+          "when": {
+            "en": "Dec 23 11:00",
+            "zh": "12/23 11:00"
+          },
+          "placeId": "yongqingfang",
+          "badge": {
+            "en": "Souvenirs · Anime",
+            "zh": "手信 · 动漫"
+          }
+        },
+        {
+          "title": {
+            "en": "Lin Heung Lau gifts (莲香楼)",
+            "zh": "莲香楼手信"
+          },
+          "desc": {
+            "en": "Lotus-paste mooncakes, wife cakes and chicken biscuits to take home.",
+            "zh": "莲蓉月饼、老婆饼、鸡仔饼，适合带回去。"
+          },
+          "meta": {
+            "en": "67 Dishifu Road",
+            "zh": "第十甫路67号"
+          },
+          "when": {
+            "en": "Dec 21 16:30",
+            "zh": "12/21 16:30"
+          },
+          "badge": {
+            "en": "Souvenirs",
+            "zh": "手信"
+          }
+        },
+        {
+          "title": {
+            "en": "Animation City (动漫星城)",
+            "zh": "动漫星城"
+          },
+          "desc": {
+            "en": "Underground anime and collectibles mall at Gongyuanqian Metro.",
+            "zh": "公园前地铁站地下，广州最集中的动漫商场。"
+          },
+          "meta": {
+            "en": "Gongyuanqian Metro, Exit C",
+            "zh": "公园前站C出口"
+          },
+          "when": {
+            "en": "Dec 21 13:25",
+            "zh": "12/21 13:25"
+          },
+          "placeId": "animation-city",
+          "badge": {
+            "en": "Anime",
+            "zh": "动漫"
+          },
+          "heading": {
+            "en": "Yuexiu (越秀)",
+            "zh": "越秀区"
+          }
+        },
+        {
+          "title": {
+            "en": "Beijing Road Pedestrian Street (北京路)",
+            "zh": "北京路步行街"
+          },
+          "desc": {
+            "en": "Busy evening shopping street with arcades, malls and brand stores.",
+            "zh": "骑楼、商场、品牌店，晚上很热闹。"
+          },
+          "meta": {
+            "en": "Gongyuanqian Metro, Exit C",
+            "zh": "公园前站C出口"
+          },
+          "when": {
+            "en": "Dec 22 18:10",
+            "zh": "12/22 18:10"
+          },
+          "placeId": "beijing-road",
+          "badge": {
+            "en": "Fashion · Souvenirs",
+            "zh": "服饰 · 手信"
+          }
+        },
+        {
+          "title": {
+            "en": "Baima & Hongmian (白马 · 红棉)",
+            "zh": "白马 · 红棉"
+          },
+          "desc": {
+            "en": "Clothing markets by Guangzhou Station: Baima for office wear, Hongmian for trendier styles. Many sell single pieces.",
+            "zh": "广州站旁：白马偏通勤女装，红棉偏潮流款，很多档口一件起卖。"
+          },
+          "when": {
+            "en": "Jan 3 10:00",
+            "zh": "1/3 10:00"
+          },
+          "placeId": "baima-clothing-market",
+          "badge": {
+            "en": "Fashion",
+            "zh": "服饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Grandview Mall (正佳广场)",
+            "zh": "正佳广场"
+          },
+          "desc": {
+            "en": "One of Guangzhou’s biggest malls; sports brands on 3F, food on 5F–7F.",
+            "zh": "广州最大的商场之一；三楼运动品牌，五至七楼餐饮。"
+          },
+          "meta": {
+            "en": "Tiyu Xilu Metro, Exit B",
+            "zh": "体育西路站B出口"
+          },
+          "when": {
+            "en": "Dec 27 · Jan 1",
+            "zh": "12/27 · 1/1"
+          },
+          "placeId": "grandview-mall",
+          "badge": {
+            "en": "Sports · Fashion",
+            "zh": "运动 · 服饰"
+          },
+          "heading": {
+            "en": "Tianhe (天河)",
+            "zh": "天河区"
+          }
+        },
+        {
+          "title": {
+            "en": "Fashion Tianhe (时尚天河)",
+            "zh": "时尚天河"
+          },
+          "desc": {
+            "en": "Underground street under Tianhe Sports Center: anime, collectible toys, budget shops.",
+            "zh": "天河体育中心地下：动漫、潮玩、平价小店。"
+          },
+          "when": {
+            "en": "Dec 27 · Dec 29 · Dec 31",
+            "zh": "12/27 · 12/29 · 12/31"
+          },
+          "placeId": "fashion-tianhe",
+          "badge": {
+            "en": "Anime · Accessories",
+            "zh": "动漫 · 配饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Teemall · Parc Central · Taikoo Hui",
+            "zh": "天河城 · 天环 · 太古汇"
+          },
+          "desc": {
+            "en": "Connected malls along Tianhe Road, from mid-range to high-end.",
+            "zh": "天河路上相连的商场，从平价到高端。"
+          },
+          "meta": {
+            "en": "Tiyu Xilu Metro, Exit B",
+            "zh": "体育西路站B出口"
+          },
+          "when": {
+            "en": "Dec 29 · Dec 31 (Option)",
+            "zh": "12/29 · 12/31（方案）"
+          },
+          "placeId": "teemall",
+          "badge": {
+            "en": "Fashion · Sports",
+            "zh": "服饰 · 运动"
+          }
+        },
+        {
+          "title": {
+            "en": "Shahe Clothing City (沙河服装城)",
+            "zh": "沙河服装城"
+          },
+          "desc": {
+            "en": "Cheap T-shirts, denim and casual wear; best in the morning.",
+            "zh": "T恤、牛仔、休闲装，价格低，上午档口最齐。"
+          },
+          "meta": {
+            "en": "~15 min taxi from K Hotel",
+            "zh": "K Hotel 打车约15分钟"
+          },
+          "when": {
+            "en": "Dec 29 backup",
+            "zh": "12/29 备案"
+          },
+          "placeId": "shahe-clothing-market",
+          "badge": {
+            "en": "Fashion",
+            "zh": "服饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Mall of the World (花城汇)",
+            "zh": "花城汇"
+          },
+          "desc": {
+            "en": "Underground mall under Huacheng Square.",
+            "zh": "花城广场地下商场。"
+          },
+          "meta": {
+            "en": "Zhujiang New Town Metro, Exit A1",
+            "zh": "珠江新城站A1出口"
+          },
+          "when": {
+            "en": "Dec 22 14:55",
+            "zh": "12/22 14:55"
+          },
+          "placeId": "mall-of-the-world",
+          "badge": {
+            "en": "Fashion",
+            "zh": "服饰"
+          }
+        },
+        {
+          "title": {
+            "en": "Wanguo Outlets (万国奥特莱斯)",
+            "zh": "万国奥特莱斯"
+          },
+          "desc": {
+            "en": "Sports-brand outlets; Nike and Adidas super-flagship discount stores, kids’ sizes too.",
+            "zh": "运动品牌奥莱，耐克、阿迪达斯超级旗舰折扣店，也有童装童鞋。"
+          },
+          "meta": {
+            "en": "Jiangnan Avenue Middle, Haizhu",
+            "zh": "海珠区江南大道中"
+          },
+          "when": {
+            "en": "Dec 29 (Option A)",
+            "zh": "12/29（方案 A）"
+          },
+          "placeId": "wanguo-outlets",
+          "badge": {
+            "en": "Sports",
+            "zh": "运动"
+          },
+          "heading": {
+            "en": "Haizhu (海珠)",
+            "zh": "海珠区"
+          }
+        },
+        {
+          "title": {
+            "en": "Foshan & Shunde souvenirs",
+            "zh": "佛山·顺德手信"
+          },
+          "desc": {
+            "en": "Blind-man cakes and malt candy at Lingnan Tiandi; Lunjiao cake on Huagai Road.",
+            "zh": "岭南天地买盲公饼、麦芽糖；华盖路买伦教糕。"
+          },
+          "when": {
+            "en": "Jan 2",
+            "zh": "1/2"
+          },
+          "placeId": "lingnan-tiandi",
+          "badge": {
+            "en": "Souvenirs",
+            "zh": "手信"
+          },
+          "heading": {
+            "en": "Foshan · Shunde (佛山·顺德)",
+            "zh": "佛山·顺德"
+          }
+        }
+      ],
+      "intro": {
+        "en": "Grouped by district. Badges show what each place is best for.",
+        "zh": "按区域分组，标签说明每个地方适合买什么。"
+      }
+    },
+    {
+      "id": "metro",
+      "icon": "fa-train-subway",
+      "title": {
+        "en": "Metro Exit Guide",
+        "zh": "地铁出口指南"
+      },
+      "subtitle": {
+        "en": "The right exit at 8 tricky stations",
+        "zh": "8个容易走错出口的站"
+      },
+      "intro": {
+        "en": "Reaching the right station is not enough; the wrong exit can mean a long detour. Navigate to the exact sight, mall entrance or hotel, not just the station.",
+        "zh": "到了正确的地铁站，不代表就能轻松找到景点。导航时要输入具体景点、商场入口或酒店地址，不要只输入站名。"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Gongyuanqian (公园前)",
+            "zh": "公园前站"
+          },
+          "desc": {
+            "en": "Beijing Road, People’s Park, Animation City. Beijing Road is long, so the north or south end should be decided first.",
+            "zh": "北京路、人民公园、动漫星城。北京路步行街范围很大，先确定要去北段还是南段。"
+          },
+          "meta": {
+            "en": "Lines 1, 2",
+            "zh": "1号线 · 2号线"
+          },
+          "when": {
+            "en": "Dec 21",
+            "zh": "12/21"
+          },
+          "placeId": "gongyuanqian-station",
+          "badge": {
+            "en": "Exit C",
+            "zh": "C出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Tiyu Xilu (体育西路)",
+            "zh": "体育西路站"
+          },
+          "desc": {
+            "en": "Teemall, Grandview Mall, Parc Central. The three malls are in different directions; the right one should be picked before exiting.",
+            "zh": "天河城、正佳广场、天环。三个商场位置不同，先认清要去哪一个。"
+          },
+          "meta": {
+            "en": "Lines 1, 3",
+            "zh": "1号线 · 3号线"
+          },
+          "when": {
+            "en": "Dec 27 – Jan 5 (hotel)",
+            "zh": "12/27 – 1/5（酒店）"
+          },
+          "badge": {
+            "en": "Exit B",
+            "zh": "B出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Zhujiang New Town (珠江新城)",
+            "zh": "珠江新城站"
+          },
+          "desc": {
+            "en": "Mall of the World, Huacheng Square, Guangzhou Opera House. Huacheng Square is long; the right exit depends on the destination.",
+            "zh": "高德置地、花城汇、广州大剧院。花城广场范围很长，目的地不同，出口也不同。"
+          },
+          "meta": {
+            "en": "Lines 3, 5, APM",
+            "zh": "3号线 · 5号线 · APM"
+          },
+          "when": {
+            "en": "Dec 22",
+            "zh": "12/22"
+          },
+          "badge": {
+            "en": "Exit A1",
+            "zh": "A1出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Canton Tower (广州塔)",
+            "zh": "广州塔站"
+          },
+          "desc": {
+            "en": "Canton Tower, riverside, Haixin Bridge. The tower and the bridge are reached in different directions; the signs should be checked.",
+            "zh": "广州塔、珠江边、海心桥。去广州塔和走海心桥方向不一样，先看清指示牌。"
+          },
+          "meta": {
+            "en": "Line 3, APM",
+            "zh": "3号线 · APM"
+          },
+          "when": {
+            "en": "Dec 22",
+            "zh": "12/22"
+          },
+          "badge": {
+            "en": "Exit B",
+            "zh": "B出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Changshou Lu (长寿路)",
+            "zh": "长寿路站"
+          },
+          "desc": {
+            "en": "Yongqingfang, Shangxiajiu, Hengbao Plaza. Neither is right outside the exit; navigate to the entrance.",
+            "zh": "永庆坊、上下九、恒宝广场。永庆坊不是一出站就到，上下九也要走一段，先导航具体入口。"
+          },
+          "meta": {
+            "en": "Line 1",
+            "zh": "1号线"
+          },
+          "when": {
+            "en": "Dec 21 · Dec 23",
+            "zh": "12/21 · 12/23"
+          },
+          "placeId": "changshou-lu-station",
+          "badge": {
+            "en": "Exit A",
+            "zh": "A出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Chen Clan Academy (陈家祠)",
+            "zh": "陈家祠站"
+          },
+          "desc": {
+            "en": "Chen Clan Academy, Liwan old streets. The sight entrance should be confirmed, not just the station name.",
+            "zh": "陈家祠、荔湾老街。认清景点入口，不要只看地铁站名。"
+          },
+          "meta": {
+            "en": "Line 1",
+            "zh": "1号线"
+          },
+          "badge": {
+            "en": "Exit E",
+            "zh": "E出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Guangzhou East Railway Station (广州东站)",
+            "zh": "广州东站"
+          },
+          "desc": {
+            "en": "Railway station, Dongfang Baotai mall, nearby hotels. Station, mall and hotel exits point different ways.",
+            "zh": "火车站、东方宝泰、周边酒店。火车站入口、商场入口和酒店方向要分清。"
+          },
+          "meta": {
+            "en": "Lines 1, 3",
+            "zh": "1号线 · 3号线"
+          },
+          "badge": {
+            "en": "Exit B1",
+            "zh": "B1出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Hanxi Changlong (汉溪长隆)",
+            "zh": "汉溪长隆站"
+          },
+          "desc": {
+            "en": "Chimelong Paradise, Safari Park, Chimelong Hotel. The resort is huge with separate entrances; follow the shuttle signs.",
+            "zh": "长隆欢乐世界、野生动物世界、长隆酒店。园区很大，不同园区入口不同，留意接驳指示。"
+          },
+          "meta": {
+            "en": "Lines 3, 7",
+            "zh": "3号线 · 7号线"
+          },
+          "when": {
+            "en": "Dec 24–26",
+            "zh": "12/24–26"
+          },
+          "badge": {
+            "en": "Exit E",
+            "zh": "E出口"
+          }
+        },
+        {
+          "title": {
+            "en": "Quick reference",
+            "zh": "常用目的地出口"
+          },
+          "desc": {
+            "en": "Beijing Road → Gongyuanqian C · Parc Central → Tiyu Xilu B · Huacheng Square → Zhujiang New Town A1 · Canton Tower → Canton Tower B · Shangxiajiu → Changshou Lu A · Chen Clan Academy → Chen Jia Ci E · Dongfang Baotai → Guangzhou East B1 · Chimelong → Hanxi Changlong E",
+            "zh": "北京路步行街 → 公园前C · 天环广场 → 体育西路B · 花城广场 → 珠江新城A1 · 广州塔 → 广州塔B · 上下九步行街 → 长寿路A · 陈家祠景区 → 陈家祠E · 东方宝泰 → 广州东站B1 · 长隆度假区 → 汉溪长隆E"
+          },
+          "heading": {
+            "en": "Tips",
+            "zh": "小贴士"
+          }
+        },
+        {
+          "title": {
+            "en": "Good to know",
+            "zh": "小提醒"
+          },
+          "desc": {
+            "en": "The nearest exit may not have a lift. With kids or a stroller, routes and exits should be checked in advance. Station signs and live navigation take priority on the day.",
+            "zh": "最近的出口不一定有无障碍电梯；带小孩或推婴儿车，建议提前查看路线和出口；出行当天以站内指示及实时导航为准。"
+          }
+        }
+      ]
+    }
+  ]
+}

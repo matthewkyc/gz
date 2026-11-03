@@ -35,9 +35,9 @@ const en = {
   subtitle: "Dec 21, 2026 – Jan 5, 2027 · 16 days",
   groups: { a: "Option A", k: "Option B" },
   stays: [
-    { area: "Liwan", range: "Dec 21–23" },
-    { area: "Panyu", range: "Dec 24–26" },
-    { area: "Tianhe", range: "Dec 27 – Jan 5" },
+    { area: "Liwan", range: "Dec 21–23", hotel: "Atour Hotel, Liwan (branch to be confirmed)", address: "Branch to be confirmed — see the booking confirmation" },
+    { area: "Panyu", range: "Dec 24–26", hotel: "Chimelong Panda Hotel", address: "Chimelong Tourist Resort, Panyu Avenue, Panyu District, Guangzhou" },
+    { area: "Tianhe", range: "Dec 27 – Jan 5", hotel: "From·K Hotel (Tiyu Xilu Metro)", address: "81 Huangpu Avenue West, Tianhe District, Guangzhou" },
   ],
   days: zh.days.map((zd, i) => {
     const f = `en-day-${String(i).padStart(2, "0")}.json`;

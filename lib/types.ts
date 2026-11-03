@@ -19,7 +19,7 @@ export interface RawDay {
 export interface RawTrip {
   title: string; subtitle: string;
   groups: Record<"a" | "k", string>;
-  stays: { area: string; range: string }[];
+  stays: { area: string; range: string; hotel?: string; address?: string; phone?: string }[];
   days: RawDay[];
 }
 
@@ -43,7 +43,7 @@ export interface Day {
   /** placeId → itinerary's own travel note for reaching it (e.g. "Taxi, ~15 min"). */
   how: Record<string, T>;
 }
-export interface Stay { area: T; range: T; hotelId?: string }
+export interface Stay { area: T; range: T; hotelId?: string; hotel?: T; address?: T; phone?: string }
 export interface Trip {
   title: T; subtitle: T; groups: Record<"a" | "k", T>;
   stays: Stay[]; days: Day[];
@@ -74,3 +74,11 @@ export interface Place {
   flag?: boolean;
 }
 export type Places = Record<string, Place>;
+
+/** Menu guides (content/guides.json): curated lists shown in the ☰ menu. */
+export interface GuideItem {
+  title: T; desc: T; meta?: T; when?: T; placeId?: string; badge?: T; heading?: T;
+}
+export interface GuideSection {
+  id: string; icon: string; title: T; subtitle: T; intro?: T; items: GuideItem[];
+}

@@ -8,15 +8,21 @@
   "stays": [
     {
       "area": "Liwan",
-      "range": "Dec 21–23"
+      "range": "Dec 21–23",
+      "hotel": "Atour Hotel, Liwan (branch to be confirmed)",
+      "address": "Branch to be confirmed — see the booking confirmation"
     },
     {
       "area": "Panyu",
-      "range": "Dec 24–26"
+      "range": "Dec 24–26",
+      "hotel": "Chimelong Panda Hotel",
+      "address": "Chimelong Tourist Resort, Panyu Avenue, Panyu District, Guangzhou"
     },
     {
       "area": "Tianhe",
-      "range": "Dec 27 – Jan 5"
+      "range": "Dec 27 – Jan 5",
+      "hotel": "From·K Hotel (Tiyu Xilu Metro)",
+      "address": "81 Huangpu Avenue West, Tianhe District, Guangzhou"
     }
   ],
   "days": [
@@ -386,6 +392,10 @@
                 {
                   "name": "Crêpe and waffle shops at Mall of the World (花城汇可丽饼、松饼店)",
                   "desc": "Made fresh and hot; right for winter."
+                },
+                {
+                  "name": "Cha Li Yi Shi, Mall of the World (茶理宜世（花城汇店）)",
+                  "desc": "B1, middle zone of the mall; Guangzhou-born Chinese-style milk tea. Signature: Yu Yu You Lan (郁郁幽兰)."
                 }
               ]
             }
@@ -440,7 +450,13 @@
               "tags": [
                 "Shopping"
               ],
-              "tip": "Crowded at night; belongings should be watched."
+              "tip": "Crowded at night; belongings should be watched.",
+              "food": [
+                {
+                  "name": "LINLEE (林里（北京路店）)",
+                  "desc": "168 Beijing Road; Guangzhou’s best-known hand-pounded lemon tea, to drink on the walk."
+                }
+              ]
             },
             {
               "time": "18:30",
@@ -502,48 +518,6 @@
       "theme": "Xiguan old streets, walking east",
       "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nLunch: Tao Tao Ju; ice cream at Shun Kee\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
       "stay": 0,
-      "backup": {
-        "title": "Backup: Thirteen Hongs (十三行), only if time remains after Liwan Plaza",
-        "note": "If more shopping is wanted after Liwan Plaza at 16:30, take a taxi from the entrance to Thirteen Hongs, ~5–10 min, and choose Option A or Option B there. The hotel is not visited first.",
-        "items": [
-          {
-            "start": "16:40",
-            "end": "17:45",
-            "title": "Shopping at Thirteen Hongs (十三行)",
-            "note": "Site of the Qing-era “Thirteen Hongs” foreign-trade district, now a cluster of women's-clothing wholesale buildings. Wide choice, fast-changing styles. Mostly wholesale, but some stalls sell retail; bargaining is possible.",
-            "group": "a",
-            "tip": "Many stalls do not allow photos, and trying on is not always possible. Ask the price first; bargaining is expected."
-          },
-          {
-            "start": "17:45",
-            "end": "18:05",
-            "title": "Thirteen Hongs → Hotel",
-            "note": "Taxi, ~15–20 min, straight back to the hotel.",
-            "group": "a"
-          },
-          {
-            "start": "16:40",
-            "end": "17:20",
-            "title": "Thirteen Hongs Museum (十三行博物馆)",
-            "note": "Next to the Cultural Park, ~5 min walk from Thirteen Hongs; free entry. Qing-era export art from the Thirteen Hongs trade: Canton enamel porcelain (广彩), Cantonese embroidery (广绣), export fans and silverware. A silverware gallery is on the 3rd floor.",
-            "group": "k",
-            "tip": "Entry usually stops around 17:00, so arriving at 16:40 may be too late; check on the map before setting off. Kids must be accompanied by an adult or young adult."
-          },
-          {
-            "start": "17:20",
-            "end": "17:40",
-            "title": "Thirteen Hongs → Hotel",
-            "note": "Taxi, ~15–20 min, straight back to the hotel.",
-            "group": "k"
-          },
-          {
-            "start": "17:40",
-            "end": "18:05",
-            "title": "Rest at the hotel",
-            "group": "k"
-          }
-        ]
-      },
       "items": [
         {
           "start": "08:00",
@@ -1475,7 +1449,17 @@
           "start": "13:20",
           "end": "13:30",
           "title": "Walk to Grandview Mall (正佳广场)",
-          "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch."
+          "note": "~10 min. One of Guangzhou's largest malls, each floor with a different theme. Go straight to 6F for lunch.",
+          "food": [
+            {
+              "name": "Uncle Qiu Lemon Tea, Tianhe South (丘大叔柠檬茶（天河南店）)",
+              "desc": "80 Tianhe South Road; signature duck-shit oolong lemon tea (鸭屎香柠檬茶). One can be picked up on the way."
+            },
+            {
+              "name": "Cha Li Yi Shi, Tianhe South Road 1 (茶理宜世（天河南一路店）)",
+              "desc": "92 Tianhe South Road 1; the milk tea option."
+            }
+          ]
         },
         {
           "start": "13:30",
@@ -2024,6 +2008,12 @@
               "desc": "Flaky-pastry egg tarts, bought and eaten on the go.",
               "tags": [
                 "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "LINLEE Central, Lyndhurst Terrace (LINLEE（中环摆花街店）)",
+                  "desc": "Same street; hand-pounded lemon tea goes well with the egg tarts. 4.6 on Google."
+                }
               ]
             },
             {
@@ -2344,6 +2334,12 @@
               "desc": "Floors missed on the 27th are covered.",
               "tags": [
                 "Shopping"
+              ],
+              "food": [
+                {
+                  "name": "LINLEE, Grandview Mall (林里（正佳广场店）)",
+                  "desc": "Grandview Mall B1; hand-pounded lemon tea."
+                }
               ]
             },
             {
@@ -2719,6 +2715,10 @@
             {
               "name": "Flaky pastries from a bakery",
               "desc": "For a light bite, egg tarts and flaky buns are enough"
+            },
+            {
+              "name": "LINLEE, Yuexiu Park (林里（越秀公园店）)",
+              "desc": "B1, Chengyi Hui mall on Liuhua Road, by Yuexiu Park Metro exit C; lemon tea after lunch."
             }
           ]
         },

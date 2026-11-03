@@ -2,17 +2,18 @@
 import { useCallback, useEffect, useState } from "react";
 import { LangProvider } from "@/lib/i18n";
 import { todayIso } from "@/lib/dates";
-import type { Places, Trip } from "@/lib/types";
+import type { GuideSection, Places, Trip } from "@/lib/types";
 import Header from "./Header";
 import DayPager from "./DayPager";
 import PlaceDrawer from "./PlaceDrawer";
+import MenuSheet from "./MenuSheet";
 
 export interface OpenPlace { id: string; day: number }
 
-export default function TripApp({ trip, places }: { trip: Trip; places: Places }) {
+export default function TripApp({ trip, places, guides }: { trip: Trip; places: Places; guides: GuideSection[] }) {
   return (
     <LangProvider>
-      <Shell trip={trip} places={places} />
+      <Shell trip={trip} places={places} guides={guides} />
     </LangProvider>
   );
 }
@@ -25,10 +26,11 @@ function initialIndex(trip: Trip) {
   return today >= 0 ? today : 0;
 }
 
-function Shell({ trip, places }: { trip: Trip; places: Places }) {
+function Shell({ trip, places, guides }: { trip: Trip; places: Places; guides: GuideSection[] }) {
   const [index, setIndex] = useState(0);
   const [dir, setDir] = useState(0);
   const [open, setOpen] = useState<OpenPlace | null>(null);
+  const [menu, setMenu] = useState(false);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect -- the URL hash / today is only known on the client
@@ -46,22 +48,24 @@ function Shell({ trip, places }: { trip: Trip; places: Places }) {
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (open || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (open || menu || e.metaKey || e.ctrlKey || e.altKey) return;
       if (e.key === "ArrowRight") go(index + 1);
       if (e.key === "ArrowLeft") go(index - 1);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [go, index, open]);
+  }, [go, index, open, menu]);
 
   const day = trip.days[index];
+  const closeMenu = useCallback(() => setMenu(false), []);
   const openPlace = useCallback((id: string) => setOpen({ id, day: day.index }), [day.index]);
   const drawerDay = open ? trip.days[open.day] : undefined;
 
   return (
     <>
-      <Header trip={trip} index={index} onSelect={go} />
+      <Header trip={trip} index={index} onSelect={go} onMenu={() => setMenu(true)} />
       <DayPager trip={trip} places={places} index={index} dir={dir} onGo={go} onOpenPlace={openPlace} />
+      <MenuSheet open={menu} trip={trip} places={places} guides={guides} index={index} onSelect={go} onClose={closeMenu} onOpenPlace={(id) => setOpen({ id, day: index })} />
       <PlaceDrawer
         place={open ? places[open.id] : undefined}
         from={open && drawerDay?.prev[open.id] ? places[drawerDay.prev[open.id]] : undefined}
