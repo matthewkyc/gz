@@ -2290,12 +2290,13 @@
       "stay": 2,
       "date": "Jan 1",
       "dow": "Fri",
-      "theme": "Tianhe rest day",
+      "theme": "Tianhe rest day, laundry",
       "items": [
         {
           "start": "09:00",
           "end": "09:30",
-          "title": "Wake up"
+          "title": "Wake up, laundry",
+          "note": "The wash is started first thing; clothes are hung up after breakfast."
         },
         {
           "start": "09:30",
@@ -2393,7 +2394,7 @@
           ]
         }
       ],
-      "intro": "Rest day; late start\nAfternoon stroll: Grandview Mall, Tianhe Sports Center, Teemall\nGelato at Mr. Wild Man"
+      "intro": "Rest day; late start\n09:00: laundry\nAfternoon stroll: Grandview Mall, Tianhe Sports Center, Teemall\nGelato at Mr. Wild Man"
     },
     {
       "stay": 2,
