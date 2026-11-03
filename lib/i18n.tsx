@@ -46,6 +46,7 @@ const UI = {
   places: { en: "places", zh: "个地点" },
   chooseOne: { en: "Choose one", zh: "二选一" },
   menu: { en: "Menu", zh: "菜单" },
+  jumpTo: { en: "Jump to district", zh: "跳到区域" },
   daysTitle: { en: "Days", zh: "每日行程" },
   daysSub: { en: "Jump to any day of the trip", zh: "跳到任意一天" },
   hotelsTitle: { en: "Hotels & Taxi Cards", zh: "酒店·给司机看" },

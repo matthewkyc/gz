@@ -4,7 +4,7 @@ import { AnimatePresence, motion, useDragControls, type PanInfo } from "framer-m
 import { useLang } from "@/lib/i18n";
 import { parts } from "@/lib/dates";
 import { amapSearch } from "@/lib/maps";
-import type { GuideSection, Places, Trip } from "@/lib/types";
+import type { GuideItem, GuideSection, Places, Trip } from "@/lib/types";
 
 function useWide() {
   const [wide, setWide] = useState(false);
@@ -139,41 +139,7 @@ function MenuBody({ trip, places, guides, index, onSelect, onClose, onOpenPlace,
           {view === "days" && <DaysList trip={trip} index={index} onSelect={(i) => { onSelect(i); onClose(); }} />}
           {view === "hotels" && <HotelsList trip={trip} places={places} />}
 
-          {guide && (
-            <>
-              {guide.intro && <p className="guide-intro">{t(guide.intro)}</p>}
-              <ul className="guide-list">
-                {guide.items.map((it, i) => {
-                  const linked = it.placeId && places[it.placeId];
-                  const body = (
-                    <>
-                      <span className="gi-top">
-                        <b className="gi-title">{t(it.title)}</b>
-                        {it.badge && <span className="gi-badge">{t(it.badge)}</span>}
-                      </span>
-                      <span className="gi-desc">{t(it.desc)}</span>
-                      {it.meta && <span className="gi-meta"><i className="fa-solid fa-location-dot" aria-hidden />{t(it.meta)}</span>}
-                      {it.hours && <span className="gi-meta"><i className="fa-regular fa-clock" aria-hidden />{t(it.hours)}</span>}
-                      {it.when && <span className="gi-when"><i className="fa-regular fa-calendar" aria-hidden />{t(it.when)}</span>}
-                    </>
-                  );
-                  return (
-                    <li key={i}>
-                      {it.heading && <span className="gi-heading">{t(it.heading)}</span>}
-                      {linked ? (
-                        <button type="button" className="gi gi-link" onClick={() => onOpenPlace(it.placeId!)}>
-                          <span className="gi-body">{body}</span>
-                          <i className="fa-solid fa-chevron-right menu-chev" aria-hidden />
-                        </button>
-                      ) : (
-                        <div className="gi"><span className="gi-body">{body}</span></div>
-                      )}
-                    </li>
-                  );
-                })}
-              </ul>
-            </>
-          )}
+          {guide && <GuideView guide={guide} places={places} onOpenPlace={onOpenPlace} />}
         </motion.div>
       </AnimatePresence>
     </div>
@@ -246,6 +212,87 @@ function HotelsList({ trip, places }: { trip: Trip; places: Places }) {
         })}
       </ul>
       <p className="fine">{ui("hotelNote")}</p>
+    </>
+  );
+}
+
+/** Strip the bracketed Chinese from an English heading: "Liwan (荔湾)" → "Liwan". */
+const short = (s: string) => s.replace(/\s*[（(].*?[)）]\s*/g, "").trim();
+const isUnscheduled = (it: GuideItem) => /^Not scheduled/.test(it.when?.en ?? "") || /^未排入/.test(it.when?.zh ?? "");
+
+function GuideView({ guide, places, onOpenPlace }: { guide: GuideSection; places: Places; onOpenPlace: (id: string) => void }) {
+  const { lang, t, ui } = useLang();
+
+  // Split the flat item list into groups at each heading.
+  const groups: { heading?: GuideItem["heading"]; items: GuideItem[] }[] = [];
+  for (const it of guide.items) {
+    if (it.heading || groups.length === 0) groups.push({ heading: it.heading, items: [] });
+    groups[groups.length - 1].items.push(it);
+  }
+  const headed = groups.filter((g) => g.heading);
+  const jump = (k: number) => document.getElementById(`gsec-${guide.id}-${k}`)?.scrollIntoView({ behavior: "smooth", block: "start" });
+
+  return (
+    <>
+      {guide.intro && <p className="guide-intro">{t(guide.intro)}</p>}
+      {headed.length > 1 && (
+        <nav className="gjump" aria-label={ui("jumpTo")}>
+          {groups.map((g, k) => g.heading && (
+            <button key={k} type="button" className="gjump-chip" onClick={() => jump(k)}>
+              {lang === "en" ? short(g.heading.en) : g.heading.zh}
+            </button>
+          ))}
+        </nav>
+      )}
+      {groups.map((g, k) => {
+        const counted = g.items.filter((x) => x.badge).length;
+        return (
+          <section key={k} id={`gsec-${guide.id}-${k}`} className="gsec">
+            {g.heading && (
+              <h4 className="gsec-head">
+                <i className={`fa-solid ${guide.id === "shopping" && counted ? "fa-location-dot" : "fa-circle-info"}`} aria-hidden />
+                <span>{t(g.heading)}</span>
+                {guide.id === "shopping" && counted > 0 && (
+                  <small>{lang === "en" ? `${counted} ${counted === 1 ? "place" : "places"}` : `${counted} 个地点`}</small>
+                )}
+              </h4>
+            )}
+            <ul className="guide-list">
+              {g.items.map((it, i) => {
+                const linked = it.placeId && places[it.placeId];
+                const body = (
+                  <>
+                    <span className="gi-top">
+                      <b className="gi-title">{t(it.title)}</b>
+                      {it.badge && <span className="gi-badge">{t(it.badge)}</span>}
+                    </span>
+                    <span className="gi-desc">{t(it.desc)}</span>
+                    {it.meta && <span className="gi-meta"><i className="fa-solid fa-location-dot" aria-hidden />{t(it.meta)}</span>}
+                    {it.hours && <span className="gi-meta"><i className="fa-regular fa-clock" aria-hidden />{t(it.hours)}</span>}
+                    {it.when && (
+                      <span className={`gi-when${isUnscheduled(it) ? " muted" : ""}`}>
+                        <i className="fa-regular fa-calendar" aria-hidden />{t(it.when)}
+                      </span>
+                    )}
+                  </>
+                );
+                return (
+                  <li key={i}>
+                    {linked ? (
+                      <button type="button" className="gi gi-link" onClick={() => onOpenPlace(it.placeId!)}>
+                        <span className="gi-body">{body}</span>
+                        <i className="fa-solid fa-chevron-right menu-chev" aria-hidden />
+                      </button>
+                    ) : (
+                      <div className="gi"><span className="gi-body">{body}</span></div>
+                    )}
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        );
+      })}
     </>
   );
 }

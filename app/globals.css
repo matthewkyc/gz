@@ -540,10 +540,32 @@ h4.title { font-size: 16px; }
 .menu-chev { flex: 0 0 auto; color: var(--ink3); font-size: 12px; }
 .guide-intro { font-size: 15px; line-height: 1.55; color: var(--ink2); background: var(--bg2); border-radius: 16px; padding: 12px 14px; margin-bottom: 8px; }
 .guide-list { list-style: none; margin: 0; padding: 0; }
+
+
 .guide-list > li + li .gi { border-top: 0.5px solid var(--line); }
-.gi-heading { display: block; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-ink); margin: 18px 0 2px; }
+/* district jump bar */
+.gjump { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 6px; }
+.gjump-chip {
+  font-size: 13.5px; font-weight: 600; padding: 7px 13px; border-radius: 999px;
+  background: var(--bg2); color: var(--ink); transition: background 0.2s, transform 0.15s;
+}
+.gjump-chip:hover { background: var(--bg3); }
+.gjump-chip:active { transform: scale(0.95); }
+/* pinned section headers (iOS grouped-list style) */
+.gsec { scroll-margin-top: 72px; }
+.gsec-head {
+  position: sticky; top: 70px; z-index: 1;
+  display: flex; align-items: center; gap: 8px;
+  margin: 18px -20px 0; padding: 10px 20px;
+  background: color-mix(in srgb, var(--bg2) 92%, transparent);
+  -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+  border-top: 0.5px solid var(--line); border-bottom: 0.5px solid var(--line);
+  font-size: 18px; font-weight: 700; letter-spacing: -0.01em; color: var(--ink);
+}
+.gsec-head i { color: var(--ink2); font-size: 14px; }
+.gsec-head small { margin-left: auto; font-size: 12.5px; font-weight: 600; color: var(--ink3); }
 .gi { width: 100%; display: flex; align-items: center; gap: 12px; padding: 14px 2px; text-align: left; }
-.guide-list > li:has(.gi-heading) .gi { border-top: 0; }
+
 .gi-link:active { opacity: 0.7; }
 .gi-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
 .gi-top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
@@ -552,7 +574,12 @@ h4.title { font-size: 16px; }
 .gi-desc { font-size: 14.5px; line-height: 1.5; color: var(--ink2); }
 .gi-meta, .gi-when { display: flex; align-items: baseline; gap: 7px; font-size: 13px; line-height: 1.4; }
 .gi-meta { color: var(--ink3); }
-.gi-when { color: var(--accent-ink); font-weight: 600; }
+.gi-when {
+  align-self: flex-start; margin-top: 2px; padding: 3px 10px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent-ink); font-weight: 600;
+}
+.gi-when.muted { background: var(--bg2); color: var(--ink3); font-weight: 500; }
+
 .gi-meta i, .gi-when i { font-size: 11px; width: 12px; text-align: center; }
 .menu-close { width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; background: var(--bg2); }
 
