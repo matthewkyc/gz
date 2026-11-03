@@ -44,7 +44,7 @@ export default function Header({ trip, index, onSelect }: { trip: Trip; index: n
       <nav className="strip" ref={strip} aria-label="Trip days">
         {trip.days.map((d, i) => {
           const p = parts(d.iso);
-          const firstOfStay = i === 0 || trip.days[i - 1].stay !== d.stay;
+          const firstOfStay = i > 0 && trip.days[i - 1].stay !== d.stay;
           const sel = i === index;
           return (
             <div className="strip-cell" key={d.iso}>

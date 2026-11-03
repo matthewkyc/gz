@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useLang } from "@/lib/i18n";
 import type { Food, Item, Place, Places, Stop, T } from "@/lib/types";
@@ -33,7 +33,6 @@ interface Ctx { places: Places; onOpenPlace: (id: string) => void }
 export default function Timeline({ items, places, groups, onOpenPlace, compact }: {
   items: Item[]; places: Places; groups: Record<"a" | "k", T>; onOpenPlace: (id: string) => void; compact?: boolean;
 }) {
-  const { t } = useLang();
   const ctx = { places, onOpenPlace };
 
   // Overlapping group items (a / k) render side by side as one block.
@@ -51,33 +50,105 @@ export default function Timeline({ items, places, groups, onOpenPlace, compact }
     <ol className={`tl${compact ? " tl-compact" : ""}`}>
       {blocks.map((b, bi) => {
         if ("one" in b) return <Row key={bi} it={b.one} ctx={ctx} />;
-        return (
-          <li key={bi} className="row row-split">
-            <Time start={b.s} end={b.e} />
-            <span className="dot" aria-hidden />
-            <div className="body">
-              <div className="cols">
-                {(["a", "k"] as const).map((g) => {
-                  const list = b.run.filter((x) => x.group === g);
-                  if (!list.length) return null;
-                  return (
-                    <div key={g} className={`col col-${g}`}>
-                      <span className="col-label"><i className="fa-solid fa-signs-post" aria-hidden />{t(groups[g])}</span>
-                      {list.map((it, k) => (
-                        <div key={k} className="sub">
-                          <span className="sub-time">{it.start} – {it.end}</span>
-                          <ItemBody it={it} ctx={ctx} />
-                        </div>
-                      ))}
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          </li>
-        );
+        return <OptionsRow key={bi} id={`${bi}`} run={b.run} s={b.s} e={b.e} groups={groups} ctx={ctx} />;
       })}
     </ol>
+  );
+}
+
+function useWide() {
+  const [wide, setWide] = useState(false);
+  useEffect(() => {
+    const mq = matchMedia("(min-width: 900px)");
+    const on = () => setWide(mq.matches);
+    on();
+    mq.addEventListener("change", on);
+    return () => mq.removeEventListener("change", on);
+  }, []);
+  return wide;
+}
+
+const GROUPS = ["a", "k"] as const;
+type Group = (typeof GROUPS)[number];
+
+/**
+ * Two alternative plans for the same time slot. Phones: full-width card with an
+ * iOS segmented control showing one option at a time. Desktop: both side by side.
+ */
+function OptionsRow({ id, run, s, e, groups, ctx }: {
+  id: string; run: Item[]; s: string; e: string; groups: Record<Group, T>; ctx: Ctx;
+}) {
+  const { t, ui } = useLang();
+  const wide = useWide();
+  const present = GROUPS.filter((g) => run.some((x) => x.group === g));
+  const [active, setActive] = useState<Group>(present[0] ?? "a");
+  const [dir, setDir] = useState(0);
+  const pick = (g: Group) => { setDir(GROUPS.indexOf(g) > GROUPS.indexOf(active) ? 1 : -1); setActive(g); };
+
+  const option = (g: Group) => {
+    const list = run.filter((x) => x.group === g);
+    return list.map((it, k) => (
+      <div key={k} className="opt-item">
+        {(list.length > 1 || it.start !== s || it.end !== e) && <span className="sub-time">{it.start} – {it.end}</span>}
+        <ItemBody it={it} ctx={ctx} />
+      </div>
+    ));
+  };
+
+  return (
+    <li className="row row-options">
+      <section className="optblock" aria-label={`${s} – ${e}`}>
+        <header className="opt-head">
+          <span className="opt-time"><i className="fa-solid fa-signs-post" aria-hidden />{s} – {e}</span>
+          <span className="opt-hint">{ui("chooseOne")}</span>
+        </header>
+
+        {wide || present.length < 2 ? (
+          <div className="opt-cols">
+            {present.map((g) => (
+              <div key={g} className="opt-col">
+                <span className="opt-label">{t(groups[g])}</span>
+                {option(g)}
+              </div>
+            ))}
+          </div>
+        ) : (
+          <>
+            <div className="segmented" role="tablist">
+              {present.map((g) => (
+                <button
+                  key={g}
+                  type="button"
+                  role="tab"
+                  aria-selected={active === g}
+                  className={`seg${active === g ? " on" : ""}`}
+                  onClick={() => pick(g)}
+                >
+                  {active === g && (
+                    <motion.span layoutId={`seg-${id}`} className="seg-pill" transition={{ type: "spring", stiffness: 500, damping: 38 }} />
+                  )}
+                  <span className="seg-text">{t(groups[g])}</span>
+                </button>
+              ))}
+            </div>
+            <AnimatePresence mode="wait" initial={false} custom={dir}>
+              <motion.div
+                key={active}
+                role="tabpanel"
+                className="opt-panel"
+                custom={dir}
+                initial={{ opacity: 0, x: dir * 24 }}
+                animate={{ opacity: 1, x: 0 }}
+                exit={{ opacity: 0, x: dir * -24 }}
+                transition={{ duration: 0.2, ease: [0.32, 0.72, 0, 1] }}
+              >
+                {option(active)}
+              </motion.div>
+            </AnimatePresence>
+          </>
+        )}
+      </section>
+    </li>
   );
 }
 
@@ -133,14 +204,23 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
   return (
     <li className="stop">
       {s.walk && <span className="walk"><i className="fa-solid fa-arrow-down" aria-hidden />{t(s.walk)}</span>}
-      <div className="title-line">
-        <span className="stop-time">{s.time}</span>
-        <Title text={s.title} placeId={s.placeId} ctx={ctx} as="h4" />
+      <span className="stop-time">{s.time}</span>
+      <div className="title-line title-inline">
+        <Title
+          text={s.title}
+          placeId={s.placeId}
+          ctx={ctx}
+          as="h4"
+          chips={s.tags.length > 0 && (
+            <span className="chips-inline">
+              {s.tags.map((tag, i) => (
+                <span key={i} className={`tag${TAG_CLASS[tag.zh] ? ` tag-${TAG_CLASS[tag.zh]}` : ""}`}>{t(tag)}</span>
+              ))}
+            </span>
+          )}
+        />
         {s.tip && <TipButton open={tip} onToggle={() => setTip(!tip)} />}
       </div>
-      {s.tags.length > 0 && (
-        <div className="tags">{s.tags.map((tag, i) => <span key={i} className={`tag${TAG_CLASS[tag.zh] ? ` tag-${TAG_CLASS[tag.zh]}` : ""}`}>{t(tag)}</span>)}</div>
-      )}
       {s.tip && <TipText open={tip} text={t(s.tip)} />}
       {s.desc && <p className="note">{t(s.desc)}</p>}
       <FoodBlock food={s.food} ctx={ctx} />
@@ -148,20 +228,28 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
   );
 }
 
-function Title({ text, placeId, ctx, as: Tag }: { text: T; placeId?: string; ctx: Ctx; as: "h3" | "h4" }) {
+function Title({ text, placeId, ctx, as: Tag, chips }: {
+  text: T; placeId?: string; ctx: Ctx; as: "h3" | "h4"; chips?: React.ReactNode;
+}) {
   const { t } = useLang();
   const place = placeId ? ctx.places[placeId] : undefined;
-  if (!place) return <Tag className="title">{t(text)}</Tag>;
+  if (!place) return <Tag className="title">{t(text)}{chips}</Tag>;
   return (
     <Tag className="title">
-      <button type="button" className="place-link" onClick={() => ctx.onOpenPlace(place.id)}>
+      {/* An inline link (not a button) so tag chips can flow right after the last word. */}
+      <a
+        href={`#place-${place.id}`}
+        className="place-link"
+        onClick={(e) => { e.preventDefault(); ctx.onOpenPlace(place.id); }}
+      >
         {Tag === "h4" && place.image && (
           // eslint-disable-next-line @next/next/no-img-element -- local thumbnail
           <img className="stop-thumb" src={place.thumb ?? place.image} alt="" loading="lazy" decoding="async" />
         )}
         <span className={place.flag ? "flagged" : undefined}>{t(text)}</span>
+        {chips}
         <i className="fa-solid fa-circle-chevron-right" aria-hidden />
-      </button>
+      </a>
     </Tag>
   );
 }

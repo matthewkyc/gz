@@ -44,6 +44,7 @@ const UI = {
   kind_hotel: { en: "Hotel", zh: "住宿" },
   swipeHint: { en: "Swipe for the next day", zh: "左右滑动切换日期" },
   places: { en: "places", zh: "个地点" },
+  chooseOne: { en: "Choose one", zh: "二选一" },
 } satisfies Record<string, T>;
 export type UIKey = keyof typeof UI;
 
