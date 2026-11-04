@@ -51,6 +51,7 @@ export function loadContent(): { trip: Trip; places: Places; guides: GuideSectio
     tags: (z.tags ?? []).map((t, i) => req(t, e?.tags?.[i])), tip: pair(z.tip, e?.tip),
     food: foods(z.food, e?.food), placeId: find(z.title),
     pick: pair(z.pick, e?.pick), drop: pair(z.drop, e?.drop), optional: !!z.optional,
+    section: pair(z.section, e?.section),
   });
   const item = (z: RawItem, e?: RawItem): Item => ({
     start: z.start, end: z.end, title: req(z.title, e?.title), note: pair(z.note, e?.note),

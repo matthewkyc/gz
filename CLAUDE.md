@@ -14,7 +14,8 @@ Next.js 16 (App Router, Turbopack) · React 19 · TypeScript · framer-motion ·
 - `content/_parts/places-*.json` — place catalog fragments. `aliases` = exact Chinese strings from itinerary titles / food names; that is how rows link to places.
 - `content/_parts/media-*.json` — photos / rating / reviews / coords per place id (from Google Maps). Photos live in `public/places/<id>.jpg`.
 - `content/itinerary.en.json`, `content/places.json` — **generated** by `npm run content:merge`; never edit by hand.
-- Item fields: `start end title note optional group(a|k) food[] route[] tip tags[]`. Food: `name desc dish`. Stop: `time title walk desc tags tip food pick drop optional`.
+- Item fields: `start end title note optional group(a|k) food[] route[] tip tags[]`. Food: `name desc dish`. Stop: `time title walk desc tags tip food pick drop optional section`.
+  - `section` = optional heading above a stop (grey pill with a pin icon); labels the stops that follow until the next `section`. Use it to name a cluster of small stops ("Lychee Bay: lake, canal, mansions") or to split a run of small stops around a big one (a meal). Mirror it in the English part.
   - `pick` / `drop` = where the chartered car picks the group up / drops it off (shown with a car icon).
   - A stop whose `food` entries all link to non-food places renders as "On the way: go in if it appeals" — use it to group short sights in one area.
   - Tags (items and stops) are written in Chinese only; `content:merge` fills the English labels. `拍照` renders with a camera icon.

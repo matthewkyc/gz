@@ -5,7 +5,7 @@
   "locked": true,
   "theme": "Hong Kong day trip",
   "away": "Hong Kong",
-  "intro": "HSR to West Kowloon; chartered van all day for photo stops, one area at a time\nEast Kowloon: Choi Hung Estate; through the tunnel to Quarry Bay: Monster Building\nWan Chai: Kam's roast goose at its 11:30 opening, Capital Café; Ding Ding tram west to Central\nCentral: escalator, Tai Cheong, Lan Fong Yuen; Peak Tram, Sky Terrace 428, Lugard Road, van down\nStar Ferry to Tsim Sha Tsui: Mammy Pancake, Ocean Terminal Deck, Clock Tower, 1881 Heritage, Avenue of Stars\nOptional: dinner at Tim Ho Wan in West Kowloon Station before clearance",
+  "intro": "HSR to West Kowloon; chartered van all day for photo stops, one area at a time\nEast Kowloon: Choi Hung Estate; through the tunnel to Quarry Bay: Monster Building\nWan Chai: lunch at Kam's roast goose, Capital Café; Ding Ding tram west to Central\nCentral: escalator, Tai Cheong, Lan Fong Yuen; van up to the Peak, Sky Terrace 428, Lugard Road, Peak Tram down\nStar Ferry to Tsim Sha Tsui: Mammy Pancake, Ocean Terminal Deck, 1881 Heritage, Clock Tower, Avenue of Stars\nOptional: dinner at Tim Ho Wan in West Kowloon Station before clearance",
   "items": [
     {
       "start": "07:00",
@@ -50,54 +50,56 @@
       "route": [
         {
           "time": "10:00",
+          "section": "East Kowloon and Quarry Bay: photo stops",
           "title": "West Kowloon Station → Choi Hung Estate (彩虹邨)",
-          "desc": "Van, ~30 min",
-          "pick": "West Kowloon Station private-car pick-up area; the level and exit should be confirmed with the driver by WhatsApp after clearance",
-          "drop": "Near Choi Hung Estate, at a point the driver chooses"
+          "desc": "Van, ~25 min",
+          "pick": "West Kowloon Station car park, level B2, pick-up/drop-off point (15 min free for pick-up); confirmed with the driver by WhatsApp after clearance",
+          "drop": "Choi Hung Estate car park (the basketball court is on its roof); whether the van can enter is to be confirmed with the driver"
         },
         {
           "time": "10:25",
           "title": "Choi Hung Estate (彩虹邨)",
-          "walk": "At the drop-off",
-          "desc": "Rainbow-painted blocks of an older public estate; the basketball court on the car-park roof is the best-known photo spot. 10 min, then on.",
+          "walk": "Stairs from the car-park entrance up to the roof",
+          "desc": "Rainbow-painted blocks of an older public estate; the basketball court on the car-park roof is the best-known photo spot. ~3 min up the stairs and ~10 min of photos, ~15 min in all; the driver waits at the drop-off.",
           "tags": [
             "Photos"
           ],
           "tip": "This is a residential estate: photos should be taken quietly without blocking residents, and any no-photography notice on site should be followed."
         },
         {
-          "time": "10:35",
+          "time": "10:40",
           "title": "Choi Hung → Quarry Bay (鲗鱼涌)",
           "desc": "Van, ~20 min via the Eastern Harbour Crossing, which comes out at Quarry Bay",
-          "pick": "Where the group was dropped at Choi Hung",
-          "drop": "Near Yick Cheong Building, King's Road"
+          "pick": "Where the group was dropped at Choi Hung (the driver waits)",
+          "drop": "Outside Lincoln House, Taikoo Place (太古坊林肯大厦), King's Road, a stop once used by a hotel shuttle; whether the van can stop is to be confirmed with the driver"
         },
         {
-          "time": "10:55",
+          "time": "11:00",
           "title": "Monster Building (怪兽大厦)",
-          "walk": "Into the courtyard from Yick Cheong Building, King's Road",
-          "desc": "Five linked old residential blocks; from the courtyard the windows tower on every side. A filming location for Transformers: Age of Extinction. 10 min, then on.",
+          "walk": "A few minutes across King's Road, into the courtyard from Yick Cheong Building",
+          "desc": "Five linked old residential blocks; from the courtyard the windows tower on every side. A filming location for Transformers: Age of Extinction. A few photos, ~10 min there and back; the driver waits at the drop-off.",
           "tags": [
             "Photos"
           ],
           "tip": "This is a residential estate: photos should be taken quietly without blocking residents, and any no-photography notice on site should be followed."
         },
         {
-          "time": "11:05",
+          "time": "11:10",
           "title": "Quarry Bay → Wan Chai",
           "desc": "Van, ~15 min",
-          "pick": "Where the group was dropped at Yick Cheong Building",
-          "drop": "Near Kam's Roast Goose, 226 Hennessy Road, Wan Chai"
+          "pick": "Outside Lincoln House, Taikoo Place (the driver waits)",
+          "drop": "A side street near Kam's Roast Goose (226 Hennessy Road); Hennessy Road has tram tracks and bus stops, so the spot is chosen by the driver"
         },
         {
-          "time": "11:20",
+          "time": "11:25",
+          "section": "Wan Chai: roast goose lunch, café",
           "title": "Kam's Roast Goose (甘牌烧鹅)",
-          "walk": "At the drop-off",
-          "desc": "Michelin-starred roast goose; the goose leg is the order. Doors open at 11:30; queuing before then should get a first-round table.",
+          "walk": "From the drop-off to 226 Hennessy Road",
+          "desc": "Michelin-starred roast goose; the goose leg is the order. Doors open at 11:30; arriving ~11:25 and queuing before opening should get a first-sitting table. Queue plus lunch: ~50 min.",
           "tags": [
             "Must-see"
           ],
-          "tip": "The queue grows fast after opening, so arrival should not be late.",
+          "tip": "No bookings; a queue number is taken on arrival. One visitor reported 20–30 min even off-peak. The busiest time is after 12:30.",
           "food": [
             {
               "name": "Roast goose leg rice (烧鹅腿饭)",
@@ -107,10 +109,10 @@
           ]
         },
         {
-          "time": "12:20",
+          "time": "12:35",
           "title": "Capital Café (華星冰室)",
           "walk": "~5–10 min walk to 6 Heard St",
-          "desc": "A well-known cha chaan teng: right after lunch a yuenyeung or milk tea is enough, with a pineapple bun if anyone is hungry; taken away if it is busy.",
+          "desc": "A well-known cha chaan teng: right after lunch a takeaway yuenyeung or milk tea is enough, with a pineapple bun if anyone is hungry. ~15 min.",
           "tags": [
             "Dessert"
           ],
@@ -128,29 +130,30 @@
           ]
         },
         {
-          "time": "12:45",
+          "time": "12:50",
+          "section": "Tram to Central: escalator, egg tarts, milk tea",
           "title": "Ding Ding tram (叮叮车)",
           "walk": "Back to Hennessy Road for a westbound tram (towards Central / Kennedy Town)",
-          "desc": "Century-old tram; front seats on the upper deck give the best street view. ~25 min to Central; a Wise card or Apple Pay is tapped when getting off. The van goes ahead to Central.",
+          "desc": "Century-old tram; front seats on the upper deck give the best street view. ~25 min to Central; a Wise card or Apple Pay is tapped when getting off. The van goes ahead and waits at Tai Cheong Bakery at 14:00.",
           "tags": [
             "Must-see",
             "Photos"
           ]
         },
         {
-          "time": "13:10",
+          "time": "13:15",
           "title": "Central–Mid-Levels Escalator (中环至半山自动扶梯)",
           "walk": "Off the tram in Central; ~5 min on foot to the escalator start on Queen's Road Central",
-          "desc": "Billed as the world's longest covered outdoor escalator system; free. It runs uphill in the afternoon; two or three sections reach Lyndhurst Terrace.",
+          "desc": "Billed as the world's longest covered outdoor escalator system; free. It runs uphill in the afternoon; two or three sections reach Lyndhurst Terrace, ~15 min including the walk.",
           "tags": [
             "Must-see"
           ]
         },
         {
-          "time": "13:20",
+          "time": "13:30",
           "title": "Tai Cheong Bakery (泰昌饼家)",
           "walk": "At the Lyndhurst Terrace exit of the escalator",
-          "desc": "Flaky egg tarts as an afternoon snack, eaten on the go. The stone steps of Pottinger Street (砵典乍街) are right at the corner, good for a quick photo.",
+          "desc": "Flaky egg tarts as an afternoon snack, eaten on the go, then takeaway milk tea at Lan Fong Yuen; ~25 min. The stone steps of Pottinger Street (砵典乍街) are right at the corner, good for a quick photo. Back at Tai Cheong's door for the 14:00 pick-up.",
           "tags": [
             "Dessert"
           ],
@@ -167,28 +170,19 @@
           ]
         },
         {
-          "time": "13:45",
-          "title": "Central → Peak Tram lower terminus (花园道山顶缆车总站)",
-          "desc": "Van, ~10 min",
-          "pick": "Around Lyndhurst Terrace / Hollywood Road, at a point the driver chooses",
-          "drop": "Outside the Peak Tram lower terminus, Garden Road"
-        },
-        {
           "time": "14:00",
-          "title": "Peak Tram (山顶缆车)",
-          "walk": "At the drop-off",
-          "desc": "Century-old funicular; the steep tilt on the way up is thrilling and memorable for kids. The right-hand side gives the city view.",
-          "tags": [
-            "Must-see"
-          ],
-          "tip": "Afternoon queues can run over an hour, so a fast-track combo is essential (Peak Tram + Sky Terrace 428; the three-in-one adds Madame Tussauds). The 14:00 slot should be booked with arrival 15 min early; late arrivals may lose fast-track access. The ride is ~7 min. The van is taken down, so the return tram leg goes unused."
+          "section": "The Peak: Sky Terrace, Lugard Road, tram down",
+          "title": "Central → The Peak",
+          "desc": "Van up, ~20 min; the uphill tram queue is avoided.",
+          "pick": "Outside Tai Cheong Bakery, 35 Lyndhurst Terrace: the Travel Industry Council's holiday traffic notes allow coaches to pick up and drop off on Lyndhurst Terrace, but vehicles must leave at once and may not wait; the van is called by WhatsApp once everyone is ready. If the driver says no, his chosen spot is used",
+          "drop": "The Peak Galleria (山顶广场) car park, next to the Peak Tower (the Peak Tower has no car park)"
         },
         {
           "time": "14:20",
           "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
           "optional": true,
           "walk": "Inside the Peak Tower",
-          "desc": "Close-up photos with wax figures of stars and athletes; ~45 min. The times below assume it is skipped; if visited, everything after moves 45 min later.",
+          "desc": "Close-up photos with wax figures of stars and athletes; ~45 min. The times below assume it is skipped; if visited, Lugard Road is dropped to keep the 15:30 pick-up.",
           "tags": [
             "Must-see",
             "Photos"
@@ -197,12 +191,12 @@
         {
           "time": "14:20",
           "title": "Sky Terrace 428 (凌霄阁摩天台428)",
-          "walk": "Top of the Peak Tower, by escalator",
-          "desc": "A 360° deck 428 m above sea level over Victoria Harbour and Hong Kong Island; the classic skyline photo without a hill walk.",
+          "walk": "From the Peak Galleria to the Peak Tower, then by escalator to the top",
+          "desc": "A 360° deck 428 m above sea level over Victoria Harbour and Hong Kong Island; the classic skyline photo without a hill walk. ~25 min.",
           "tags": [
             "Photos"
           ],
-          "tip": "The Peak is windier and colder than the city; a jacket should be brought.",
+          "tip": "The Peak is windier and colder than the city; a jacket should be brought. Tickets should be bought online in advance: a round-trip Peak Tram + Sky Terrace 428 combo covers the ride down; a one-way ticket may be valid uphill only, which should be checked when booking.",
           "food": [
             {
               "name": "Pacific Coffee, Peak Tower (Pacific Coffee凌霄阁)",
@@ -211,33 +205,44 @@
           ]
         },
         {
-          "time": "14:40",
+          "time": "14:45",
           "title": "Lugard Road lookout (卢吉道观景台)",
           "walk": "~10 min along flat, shaded Lugard Road from the Peak Tower",
-          "desc": "A free lookout over Victoria Harbour and the Central towers; ~30 min there and back.",
+          "desc": "A free lookout over Victoria Harbour and the Central towers; ~25 min there and back, back at the Peak Tower by 15:10.",
           "tags": [
             "Photos"
           ]
         },
         {
           "time": "15:10",
-          "title": "The Peak → Central Star Ferry Pier (中环天星码头)",
-          "desc": "Van down, ~25 min; the downhill tram queue is avoided.",
-          "pick": "The Peak Galleria car park; the exact spot should be agreed with the driver",
-          "drop": "Central Star Ferry Pier (Pier 7)"
+          "title": "Peak Tram down (山顶缆车下山)",
+          "walk": "The Peak Tram station inside the Peak Tower",
+          "desc": "Century-old funicular; the slope is so steep that the towers outside seem to lean, which kids remember. ~7 min down to the Central Terminus on Garden Road.",
+          "tags": [
+            "Must-see"
+          ],
+          "tip": "The afternoon queue down is usually shorter than the queue up; one traveller reported ~20 min, but it can be long before evening. A ticket reseller says a queue number is now taken by scanning the \"Queue Easy\" QR code at the Peak station; on-site rules apply. If a long wait is shown, the driver is messaged to pick up at the Peak Galleria instead and go straight to the Star Ferry."
         },
         {
-          "time": "15:35",
+          "time": "15:30",
+          "title": "Peak Tram Central Terminus → Central Star Ferry Pier (中环天星码头)",
+          "desc": "Van, ~10 min",
+          "pick": "Near the Peak Tram Central Terminus, Garden Road; Garden Road is busy, so the spot is chosen by the driver (whether the driveway of The Murray hotel next door can be used is worth asking)",
+          "drop": "The loading area outside Central Pier 7 (a Transport Department document lists it as drop-off only)"
+        },
+        {
+          "time": "15:40",
+          "section": "Tsim Sha Tsui: egg waffles, harbour photos, 1881 Heritage",
           "title": "Star Ferry: Central → Tsim Sha Tsui (天星小轮)",
           "walk": "At the drop-off",
-          "desc": "Century-old ferry; ~15–20 min including the wait, across Victoria Harbour with the skyline on both sides. Tickets are bought by card at the pier's self-service machines.",
+          "desc": "Century-old ferry; ~20 min for tickets, the wait and the crossing, with the skyline on both sides. Tickets are bought by card at the pier's self-service machines.",
           "tags": [
             "Must-see",
             "Photos"
           ]
         },
         {
-          "time": "15:55",
+          "time": "16:00",
           "title": "Mammy Pancake (媽咪雞蛋仔)",
           "walk": "At the Tsim Sha Tsui Star Ferry Pier, off the boat",
           "desc": "Egg waffles listed in the Michelin street food guide, crisp outside and soft inside; an afternoon snack on the go.",
@@ -254,28 +259,19 @@
           "tip": "Small stalls like this may take only cash or Octopus; card or Apple Pay should be checked first, and the stop skipped if neither works."
         },
         {
-          "time": "16:05",
+          "time": "16:10",
           "title": "Ocean Terminal Deck (海运大厦观景台)",
           "walk": "~8 min, indoors through Harbour City to the end of Ocean Terminal",
-          "desc": "A free harbourside rooftop facing Victoria Harbour and Hong Kong Island; afterwards the route heads east without turning back.",
+          "desc": "A free harbourside rooftop facing Victoria Harbour and Hong Kong Island; ~15 min. Afterwards the route heads east without doubling back.",
           "tags": [
             "Photos"
           ]
         },
         {
-          "time": "16:30",
-          "title": "Tsim Sha Tsui Clock Tower (尖沙咀钟楼)",
-          "walk": "~8 min back to beside the Star Ferry pier",
-          "desc": "The century-old clock tower left from the former Kowloon–Canton Railway terminus; a quick harbourside photo.",
-          "tags": [
-            "Photos"
-          ]
-        },
-        {
-          "time": "16:40",
+          "time": "16:35",
           "title": "1881 Heritage (前水警总部)",
-          "walk": "~3 min across Salisbury Road",
-          "desc": "The former Marine Police Headquarters; its colonial lawns and arcades photograph well, and a free Christmas installation is usually up at year end.",
+          "walk": "~10 min through Harbour City and along Canton Road to Salisbury Road",
+          "desc": "The former Marine Police Headquarters; its colonial lawns and arcades photograph well, and a free Christmas installation is usually up at year end. ~20 min.",
           "tags": [
             "Must-see",
             "Photos"
@@ -283,24 +279,33 @@
           "tip": "This year's Christmas installation has not been announced; what is on show should be checked on the day."
         },
         {
-          "time": "17:10",
-          "title": "Avenue of Stars (星光大道)",
-          "walk": "~10 min east along the waterfront",
-          "desc": "The harbourfront promenade with the Bruce Lee statue, facing the island skyline; close to sunset, the light is at its best.",
+          "time": "17:00",
+          "title": "Tsim Sha Tsui Clock Tower (尖沙咀钟楼)",
+          "walk": "~5 min across Salisbury Road, beside the Star Ferry pier",
+          "desc": "The century-old clock tower left from the former Kowloon–Canton Railway terminus; a quick harbourside photo.",
           "tags": [
             "Photos"
           ]
         },
         {
-          "time": "17:40",
+          "time": "17:10",
+          "title": "Avenue of Stars (星光大道)",
+          "walk": "East along the waterfront from the Clock Tower",
+          "desc": "The harbourfront promenade with the Bruce Lee statue, facing the island skyline; ~20 min of walking and photos to the K11 MUSEA pick-up. Close to sunset, the light is at its best.",
+          "tags": [
+            "Photos"
+          ]
+        },
+        {
+          "time": "17:30",
           "title": "Tsim Sha Tsui → West Kowloon Station",
-          "desc": "Van, ~20 min; evening traffic is expected.",
-          "pick": "Near the Avenue of Stars (Salisbury Road); the exact spot should be agreed with the driver",
-          "drop": "West Kowloon Station private-car drop-off area"
+          "desc": "Van, ~20–25 min; evening traffic is expected.",
+          "pick": "K11 MUSEA private-car pick-up/drop-off area, level B2 (the mall beside the Avenue of Stars); if it cannot be used, the pick-up points on Salisbury Road (westbound), to be confirmed with the driver",
+          "drop": "West Kowloon Station car park, level B2, pick-up/drop-off point"
         }
       ],
-      "note": "The van is hired ~10:00–18:00 and the driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. On the walking stretches the van goes ahead to the next pick-up point.",
-      "tip": "Vans are usually hired by the hour; hours, harbour-tunnel tolls and parking should be agreed first. Many Central streets are no-stopping zones, so exact pick-up and drop-off points are set by the driver."
+      "note": "The van is hired 10:00–18:00 and the driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. All pick-ups are on the hour or half hour; on the walking stretches the van goes ahead to the next pick-up point.",
+      "tip": "For the driver (WhatsApp): Dec 30 van hire, 2 adults plus kids.\n10:00 pick-up at West Kowloon Station car park B2 pick-up/drop-off point → Choi Hung Estate car park\n~10:40 pick-up at Choi Hung Estate car park (please wait ~15 min while we take photos) → outside Lincoln House, Taikoo Place, Quarry Bay\n~11:10 pick-up outside Lincoln House (please wait ~10 min while we take photos) → near Kam's Roast Goose, 226 Hennessy Road, Wan Chai (we then take the tram to Central)\n14:00 pick-up outside Tai Cheong Bakery, 35 Lyndhurst Terrace → Peak Galleria car park\n15:30 pick-up at the Peak Tram Central Terminus, Garden Road → Central Pier 7\n17:30 pick-up at K11 MUSEA B2 pick-up/drop-off area, Tsim Sha Tsui → ~18:00 drop-off at West Kowloon Station car park B2\nIf a pick-up point is not allowed, please use the nearest legal spot and tell us by WhatsApp.\nVans are usually hired by the hour; hours, harbour-tunnel tolls and parking (if the van parks at Choi Hung or the Peak Galleria) should be agreed first. Many Central streets are no-stopping zones, so the van is called once everyone is ready."
     },
     {
       "start": "18:00",
@@ -308,7 +313,7 @@
       "title": "Dinner: Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
       "note": "On level B1M of West Kowloon Station, before clearance. If taken, clearance and the train move ~50 min later, with the hotel reached ~21:10.",
       "optional": true,
-      "tip": "Payment methods should be checked in store (review sites list Visa, Mastercard and Apple Pay).",
+      "tip": "All are on level B1M, before clearance. Payment should be checked in store (review sites list Visa, Mastercard and Apple Pay for Tim Ho Wan; the others are unconfirmed). The shop list comes from older sources and may have changed.",
       "food": [
         {
           "name": "Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
@@ -327,6 +332,18 @@
           "name": "Pig liver rice roll (黄沙猪润肠)",
           "desc": "Strong flavour; for the adults to try",
           "dish": true
+        },
+        {
+          "name": "Mao Mao Eat by Tsui Wah (翠华西九龙站)",
+          "desc": "Backup: Hong Kong-style café with milk tea, pineapple buns, cart noodles and rice plates; used if the Tim Ho Wan queue is too long"
+        },
+        {
+          "name": "Ramen Bari-Uma (西九龙站)",
+          "desc": "Backup: Japanese ramen, an easy choice for kids"
+        },
+        {
+          "name": "Maxim's Cakes (美心西饼西九龙站)",
+          "desc": "Backup: cakes and bread to eat on the train if time is short"
         }
       ]
     },

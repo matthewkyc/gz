@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { Fragment, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useLang } from "@/lib/i18n";
 import PlaceTitle from "./PlaceTitle";
@@ -155,10 +155,25 @@ function ItemBody({ it, ctx }: { it: Item; ctx: Ctx }) {
       <FoodBlock food={it.food} ctx={ctx} />
       {it.route.length > 0 && (
         <ol className="route">
-          {it.route.map((s, i) => <StopRow key={i} s={s} ctx={ctx} />)}
+          {it.route.map((s, i) => (
+            <Fragment key={i}>
+              {s.section && <SectionHead text={s.section} />}
+              <StopRow s={s} ctx={ctx} />
+            </Fragment>
+          ))}
         </ol>
       )}
     </>
+  );
+}
+
+/** Heading for a cluster of stops (e.g. "Lychee Bay: lake, canal, mansions"). */
+function SectionHead({ text }: { text: T }) {
+  const { t } = useLang();
+  return (
+    <li className="stop-section" role="presentation">
+      <i className="fa-solid fa-location-dot" aria-hidden />{t(text)}
+    </li>
   );
 }
 

@@ -42,6 +42,7 @@
       "end": "11:15",
       "title": "Foshan Ancestral Temple (佛山祖庙)",
       "note": "Open 08:30–18:00. The Wong Fei-hung Memorial Hall and Ip Man Hall are inside the grounds; one ticket covers everything.. The car does not follow the group; the driver makes their own arrangements and picks the group up at the temple at 14:35.",
+      "tip": "Older sources give a ticket of about CNY 20, free for children up to 1.2 m and half price for 1.2–1.5 m; the current rules are unverified, so ask when buying. Ctrip lists last entry at 17:30.",
       "route": [
         {
           "time": "09:15",
@@ -99,6 +100,7 @@
         {
           "time": "11:15",
           "title": "Lingnan Tiandi heritage buildings",
+          "section": "Before lunch: Lingnan Tiandi old buildings",
           "desc": "All four are near the central axis, a few minutes apart; each is passed on the way and entered only if it appeals.",
           "tags": [
             "Photos"
@@ -145,6 +147,7 @@
         {
           "time": "13:15",
           "title": "Old shops and souvenirs",
+          "section": "After lunch: old shops, souvenirs, opera",
           "walk": "Short walk inside the quarter after lunch",
           "desc": "All inside the quarter, steps apart; each is passed on the way and entered for souvenirs if wanted.",
           "tags": [
@@ -214,11 +217,12 @@
             "Landmark",
             "Photo spot"
           ],
-          "tip": "The garden closes in the early evening; check the last-entry time at the gate on arrival."
+          "tip": "Ctrip lists 09:00–17:30 with last entry at 17:00 (no official notice found), so a 15:40 arrival works; the notice at the gate is final."
         },
         {
           "time": "16:50",
           "title": "Huagai Road Pedestrian Street (华盖路步行街)",
+          "section": "Huagai Road: milk pudding, Lunjiao cake, souvenirs",
           "walk": "~10 min walk",
           "desc": "Daliang's oldest arcade street; short, 30–40 min is enough. Lined with old brands, snack shops and souvenir shops; a beef offal stall nearby is good for a skewer on the go.",
           "tags": [

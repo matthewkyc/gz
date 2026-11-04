@@ -7,6 +7,8 @@ export interface RawStop {
   tags?: string[]; tip?: string; food?: RawFood[]; optional?: boolean;
   /** Chartered car: where it picks the group up / drops it off at this stop. */
   pick?: string; drop?: string;
+  /** Section heading shown above this stop; groups the following stops until the next section. */
+  section?: string;
 }
 export interface RawItem {
   start: string; end: string; title: string; note?: string; optional?: boolean;
@@ -33,7 +35,7 @@ export interface T { en: string; zh: string }
 export interface Food { name: T; desc?: T; dish: boolean; placeId?: string }
 export interface Stop {
   time: string; title: T; walk?: T; desc?: T; tags: T[]; tip?: T; food: Food[]; placeId?: string;
-  pick?: T; drop?: T; optional: boolean;
+  pick?: T; drop?: T; optional: boolean; section?: T;
 }
 export interface Item {
   start: string; end: string; title: T; note?: T; optional: boolean;

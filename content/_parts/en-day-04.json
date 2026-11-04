@@ -40,6 +40,7 @@
           "title": "Safari train (小火车)",
           "walk": "Straight to the train station after entry",
           "desc": "General visitors are not in yet, so queues are shortest; later the wait reaches 1 hr. The ~35 min loop passes the big-cat area, giraffes and zebras, all seated.",
+          "tip": "One source says the train only starts running at 09:30, so it may not be running during the guests-only first half hour. Check the first departure in the Chimelong app; if not running, go to the panda area first.",
           "tags": [
             "Must-see"
           ]
@@ -104,6 +105,7 @@
         {
           "time": "13:30",
           "title": "Asian Elephant Park (亚洲象园)",
+          "section": "Animals: Asian elephants, giraffes",
           "desc": "Bananas can be bought to feed the elephants; price as posted on site.",
           "tags": [
             "Must-see",
@@ -124,6 +126,7 @@
         {
           "time": "15:00",
           "title": "Dessert stop",
+          "section": "Dessert, cable car, flamingo lake",
           "walk": "Nearest one",
           "desc": "In-park ice cream or café kiosks: cakes, hot drinks.",
           "tags": [

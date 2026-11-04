@@ -27,6 +27,7 @@
       "end": "11:30",
       "title": "Thrill rides",
       "note": "Queues are shortest in the first two hours; the most popular rides are done first. December is cold, so water rides such as the rapids are best skipped.",
+      "tip": "Coaster-type rides usually have a minimum height, reported online as about 1.2–1.4 m (no official figures found). Measure the kids at the ride entrance before queuing; the Rocket coaster also has age and health restrictions.",
       "group": "k",
       "route": [
         {
@@ -152,16 +153,18 @@
       "start": "16:40",
       "end": "19:20",
       "title": "Shawan Ancient Town: dusk to night market",
-      "note": "Lingnan old town founded in the Southern Song, 800+ years old; free entry. Compact; covered entirely on foot.",
+      "note": "Lingnan old town founded in the Southern Song, 800+ years old; the streets are free to walk, but some halls (such as Liugeng Hall) are ticketed. Compact; covered entirely on foot.",
       "route": [
         {
           "time": "16:40",
           "title": "Liugeng Hall (留耕堂, He Clan Ancestral Hall)",
+          "section": "Old town: ancestral hall, pagoda, night market",
           "desc": "Five-courtyard ancestral hall: the “诗书世泽” plaque, huge timber columns and oyster-shell windows in the rear hall. Visited first while it is still light.",
           "tags": [
             "Must-see",
             "Photos"
-          ]
+          ],
+          "tip": "Some sources say Liugeng Hall is ticketed (combo ticket with Sannen Hall and others) and open until about 17:30; accounts differ, so check the notice at the gate. The evening 3D projection is on the outer wall and needs no entry."
         },
         {
           "time": "17:15",
@@ -184,6 +187,7 @@
         {
           "time": "18:00",
           "title": "Dinner: old-town snacks",
+          "section": "Dinner and dessert",
           "walk": "Around the night market and old streets; eaten on the go",
           "tags": [
             "Dinner"
@@ -223,6 +227,7 @@
         {
           "time": "19:05",
           "title": "Liugeng Hall 3D projection (留耕堂3D投影)",
+          "section": "After dark: 3D projection",
           "walk": "Walk back to Liugeng Hall",
           "desc": "Projected on the hall's outer wall; tells the town's musical history. Whether it runs is confirmed on site.",
           "tags": [

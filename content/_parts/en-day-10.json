@@ -60,6 +60,7 @@
         {
           "time": "12:00",
           "title": "Teemall (天河城)",
+          "section": "Three malls: Teemall, Parc Central, Taikoo Hui",
           "walk": "~5 min walk from K Hotel",
           "desc": "Long-established mall, with New Year decorations at year end.",
           "tags": [
@@ -88,6 +89,7 @@
         {
           "time": "13:45",
           "title": "Dessert",
+          "section": "Break: dessert, herbal tea",
           "walk": "Inside Taikoo Hui",
           "tags": [
             "Dessert"

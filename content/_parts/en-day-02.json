@@ -38,6 +38,7 @@
         {
           "time": "09:00",
           "title": "Liwan Lake Park (荔湾湖公园)",
+          "section": "Lychee Bay: lake, canal, Xiguan mansions",
           "walk": "~10 min walk from the hotel",
           "desc": "Lakeside stroll; see the small Qing-style garden Xiaohuafangzhai (小画舫斋). Elderly locals often sing Cantonese opera here.",
           "tags": [
@@ -66,6 +67,7 @@
         {
           "time": "10:05",
           "title": "Cantonese Opera Art Museum (粤剧艺术博物馆)",
+          "section": "Enning Road and Yongqingfang: opera, Bruce Lee home, shops",
           "walk": "~10 min walk south to Enning Road",
           "desc": "Lingnan garden-style buildings; a quick visit is enough. Closed Mondays, open Wednesdays.",
           "tags": [
@@ -95,6 +97,7 @@
         {
           "time": "11:45",
           "title": "Coffee",
+          "section": "Snack trail: coffee, egg tarts, ice cream, ice bar",
           "walk": "Inside Yongqingfang",
           "tags": [
             "Photo spot"

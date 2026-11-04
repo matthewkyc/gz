@@ -41,6 +41,7 @@
         {
           "time": "09:20",
           "title": "Shamian Street (沙面大街)",
+          "section": "Shamian Street: European buildings, chapel, statues",
           "desc": "From the drop-off, walk along Shamian Street, the island's central avenue, lined with large banyan trees."
         },
         {
@@ -75,6 +76,7 @@
         {
           "time": "10:45",
           "title": "Shamian Park (沙面公园)",
+          "section": "Park and riverside: Shamian Park, Pearl River promenade",
           "walk": "~5 min walk",
           "desc": "Small park with lawns and benches; kids can rest and run around."
         },
@@ -133,6 +135,7 @@
         {
           "time": "13:15",
           "title": "Canton Tower observation deck (广州塔登塔)",
+          "section": "Canton Tower: observation deck, Bubble Tram",
           "desc": "Lift to the observation level; all of Guangzhou seen from over 400 m. Tickets should be bought in advance via official channels.",
           "tags": [
             "Photo spot",
@@ -152,6 +155,7 @@
         {
           "time": "14:30",
           "title": "Haixin Bridge (海心桥)",
+          "section": "Haixin Bridge and Huacheng Square: photos, dessert",
           "walk": "~5 min walk from the tower to the bridgehead",
           "desc": "Pedestrian bridge across the Pearl River, ~10 min to cross. The best Canton Tower photo is taken looking back from the bridge.",
           "tags": [
@@ -215,6 +219,7 @@
         {
           "time": "17:50",
           "title": "Dafo Temple (大佛寺)",
+          "section": "Dafo Temple and Beijing Road: ancient road, shopping",
           "desc": "May already be closed by early evening. Go in if open; otherwise take photos at the gate.",
           "tags": [
             "Photo spot"
@@ -249,6 +254,7 @@
         {
           "time": "18:30",
           "title": "Dinner",
+          "section": "Dinner and dessert",
           "walk": "~5 min walk to Caitingqian (财厅前)",
           "tags": [
             "Dinner"

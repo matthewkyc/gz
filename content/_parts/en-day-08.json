@@ -50,6 +50,7 @@
       "end": "10:30",
       "title": "K Hotel → Wanguo Outlets (万国奥特莱斯)",
       "note": "Taxi, ~20–30 min, on Jiangnan Avenue Middle, Haizhu District. Traffic jams start 700–800 m from the mall; it is easier to get out nearby and walk.",
+      "tip": "One guide gives Metro Line 2 to Jiangnanxi, Exit E, then walking, as a fallback when traffic is bad (single source; check on Amap).",
       "group": "a"
     },
     {
@@ -106,6 +107,7 @@
         {
           "time": "10:00",
           "title": "Teemall (天河城)",
+          "section": "Three malls: Teemall, Parc Central, Taikoo Hui",
           "walk": "~5 min walk from K Hotel",
           "desc": "Long-established mall, with New Year decorations at year end.",
           "tags": [
@@ -134,6 +136,7 @@
         {
           "time": "12:45",
           "title": "Dessert",
+          "section": "Break: dessert, herbal tea",
           "walk": "Inside Taikoo Hui",
           "tags": [
             "Dessert"
