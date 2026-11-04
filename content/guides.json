@@ -1501,8 +1501,8 @@
             "zh": "约11:00开门；营业时间到店确认"
           },
           "when": {
-            "en": "Dec 30 15:20",
-            "zh": "12/30 15:20"
+            "en": "Not scheduled (optional)",
+            "zh": "未排入（可选）"
           },
           "placeId": "toys-r-us-ocean-terminal",
           "heading": {

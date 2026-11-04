@@ -954,7 +954,10 @@
           "start": "19:30",
           "end": "20:50",
           "title": "Chimelong International Circus (长隆国际大马戏)",
-          "note": "~80 min, with animals and aerial acrobatics. Light and sound effects are intense; nervous children can sit near the aisle. Entry is officially not recommended for children under 3 or under 1 m tall."
+          "note": "~80 min, with animals and aerial acrobatics. Light and sound effects are intense; nervous children can sit near the aisle. Entry is officially not recommended for children under 3 or under 1 m tall.",
+          "tags": [
+            "Photos"
+          ]
         },
         {
           "start": "20:50",
@@ -1149,7 +1152,10 @@
           "end": "19:30",
           "title": "Drone show (TBC)",
           "note": "Time and location as announced by reception or the Chimelong app. If the show is on the 26th, move this slot to that evening.",
-          "optional": true
+          "optional": true,
+          "tags": [
+            "Photos"
+          ]
         },
         {
           "start": "19:30",
@@ -1284,7 +1290,10 @@
           "start": "13:45",
           "end": "14:30",
           "title": "Happy Theatre: magic show (欢乐剧场：魔术表演)",
-          "note": "Seated indoor show with audience interaction. Times per the Chimelong app; official guides mention shows around 14:00 and 16:30. Enter 10 min early."
+          "note": "Seated indoor show with audience interaction. Times per the Chimelong app; official guides mention shows around 14:00 and 16:30. Enter 10 min early.",
+          "tags": [
+            "Photos"
+          ]
         },
         {
           "start": "14:30",
@@ -1941,7 +1950,7 @@
       "locked": true,
       "theme": "Hong Kong day trip",
       "away": "Hong Kong",
-      "intro": "HSR to West Kowloon; chartered van all day\nPeak Tram up, Madame Tussauds, lunch at the Peak, van down\nCentral: Mid-Levels Escalator, Tai Cheong egg tarts, Lan Fong Yuen milk tea\nDing Ding tram to Wan Chai: Kam's roast goose, Capital Café\nStar Ferry to Tsim Sha Tsui; souvenirs at Toys\"R\"Us",
+      "intro": "HSR to West Kowloon; chartered van all day for photo stops, one area at a time\nEast Kowloon: Choi Hung Estate; through the tunnel to Quarry Bay: Monster Building\nWan Chai: Kam's roast goose at its 11:30 opening, Capital Café; Ding Ding tram west to Central\nCentral: escalator, Tai Cheong, Lan Fong Yuen; Peak Tram, Sky Terrace 428, Lugard Road, van down\nStar Ferry to Tsim Sha Tsui: Mammy Pancake, Ocean Terminal Deck, Clock Tower, 1881 Heritage, Avenue of Stars\nOptional: dinner at Tim Ho Wan in West Kowloon Station before clearance",
       "items": [
         {
           "start": "07:00",
@@ -1975,209 +1984,320 @@
         },
         {
           "start": "09:40",
-          "end": "10:05",
+          "end": "10:00",
           "title": "West Kowloon Station border clearance",
           "note": "Mainland exit and Hong Kong entry are both done inside the station."
         },
         {
-          "start": "10:05",
-          "end": "16:05",
+          "start": "10:00",
+          "end": "18:00",
           "title": "Hong Kong route (chartered van)",
           "route": [
             {
-              "time": "10:05",
-              "title": "West Kowloon Station → Peak Tram lower terminus (花园道山顶缆车总站)",
-              "desc": "Van, ~20 min via the Western Harbour Crossing",
+              "time": "10:00",
+              "title": "West Kowloon Station → Choi Hung Estate (彩虹邨)",
+              "desc": "Van, ~30 min",
               "pick": "West Kowloon Station private-car pick-up area; the level and exit should be confirmed with the driver by WhatsApp after clearance",
-              "drop": "Outside the Peak Tram lower terminus, Garden Road"
+              "drop": "Near Choi Hung Estate, at a point the driver chooses"
             },
             {
-              "time": "10:30",
-              "title": "Peak Tram (山顶缆车)",
+              "time": "10:25",
+              "title": "Choi Hung Estate (彩虹邨)",
               "walk": "At the drop-off",
-              "desc": "Century-old funicular; the steep tilt on the way up is thrilling and memorable for kids. Morning queues are shorter than at noon.",
-              "tip": "A Madame Tussauds + Peak Tram combo ticket gives access to a dedicated lane.",
+              "desc": "Rainbow-painted blocks of an older public estate; the basketball court on the car-park roof is the best-known photo spot. 10 min, then on.",
+              "tags": [
+                "Photos"
+              ],
+              "tip": "This is a residential estate: photos should be taken quietly without blocking residents, and any no-photography notice on site should be followed."
+            },
+            {
+              "time": "10:35",
+              "title": "Choi Hung → Quarry Bay (鲗鱼涌)",
+              "desc": "Van, ~20 min via the Eastern Harbour Crossing, which comes out at Quarry Bay",
+              "pick": "Where the group was dropped at Choi Hung",
+              "drop": "Near Yick Cheong Building, King's Road"
+            },
+            {
+              "time": "10:55",
+              "title": "Monster Building (怪兽大厦)",
+              "walk": "Into the courtyard from Yick Cheong Building, King's Road",
+              "desc": "Five linked old residential blocks; from the courtyard the windows tower on every side. A filming location for Transformers: Age of Extinction. 10 min, then on.",
+              "tags": [
+                "Photos"
+              ],
+              "tip": "This is a residential estate: photos should be taken quietly without blocking residents, and any no-photography notice on site should be followed."
+            },
+            {
+              "time": "11:05",
+              "title": "Quarry Bay → Wan Chai",
+              "desc": "Van, ~15 min",
+              "pick": "Where the group was dropped at Yick Cheong Building",
+              "drop": "Near Kam's Roast Goose, 226 Hennessy Road, Wan Chai"
+            },
+            {
+              "time": "11:20",
+              "title": "Kam's Roast Goose (甘牌烧鹅)",
+              "walk": "At the drop-off",
+              "desc": "Michelin-starred roast goose; the goose leg is the order. Doors open at 11:30; queuing before then should get a first-round table.",
               "tags": [
                 "Must-see"
+              ],
+              "tip": "The queue grows fast after opening, so arrival should not be late.",
+              "food": [
+                {
+                  "name": "Roast goose leg rice (烧鹅腿饭)",
+                  "desc": "Roast goose rice can be upgraded to the leg for a supplement",
+                  "dish": true
+                }
               ]
             },
             {
-              "time": "11:00",
-              "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
-              "walk": "Inside The Peak Tower (凌霄阁)",
-              "desc": "Close-up photos with wax figures of celebrities and athletes; a favourite with kids.",
+              "time": "12:20",
+              "title": "Capital Café (華星冰室)",
+              "walk": "~5–10 min walk to 6 Heard St",
+              "desc": "A well-known cha chaan teng: right after lunch a yuenyeung or milk tea is enough, with a pineapple bun if anyone is hungry; taken away if it is busy.",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Yuenyeung, milk tea (鸳鸯、奶茶)",
+                  "desc": "Coffee mixed with milk tea, Hong Kong's signature drink",
+                  "dish": true
+                },
+                {
+                  "name": "Scrambled-egg toast, pineapple bun (炒蛋多士、菠萝油)",
+                  "desc": "The café's signatures",
+                  "dish": true
+                }
+              ]
+            },
+            {
+              "time": "12:45",
+              "title": "Ding Ding tram (叮叮车)",
+              "walk": "Back to Hennessy Road for a westbound tram (towards Central / Kennedy Town)",
+              "desc": "Century-old tram; front seats on the upper deck give the best street view. ~25 min to Central; a Wise card or Apple Pay is tapped when getting off. The van goes ahead to Central.",
               "tags": [
                 "Must-see",
                 "Photos"
               ]
             },
             {
-              "time": "12:00",
-              "title": "Lunch at the Peak",
-              "walk": "The Peak Tower and Peak Galleria (山顶广场)",
-              "desc": "Kept light, to leave room for the roast goose later.",
-              "tip": "Which restaurants are open at the Peak should be checked on the day.",
-              "tags": [
-                "Lunch"
-              ],
-              "food": [
-                {
-                  "name": "Restaurants in The Peak Tower (凌霄阁)",
-                  "desc": "Bubba Gump, Burger King and others"
-                },
-                {
-                  "name": "Pacific Coffee, Peak Tower",
-                  "desc": "Hong Kong coffee chain"
-                },
-                {
-                  "name": "Starbucks, Peak Galleria L2",
-                  "desc": "Coffee for the adults"
-                }
-              ]
-            },
-            {
-              "time": "12:40",
-              "title": "Victoria Peak (太平山顶)",
-              "walk": "Outside The Peak Tower",
-              "desc": "Views over Victoria Harbour and all of Hong Kong Island.",
-              "tags": [
-                "Photos"
-              ]
-            },
-            {
-              "time": "13:00",
-              "title": "Van down the Peak → Central",
-              "desc": "~20 min; the queue for the tram down is skipped.",
-              "pick": "Peak Galleria (山顶广场) car park; the exact spot is agreed with the driver",
-              "drop": "Near Lyndhurst Terrace and Central Market, at a stopping point the driver picks"
-            },
-            {
-              "time": "13:20",
+              "time": "13:10",
               "title": "Central–Mid-Levels Escalator (中环至半山自动扶梯)",
-              "walk": "A few minutes' walk from the drop-off",
-              "desc": "Billed as the world's longest outdoor covered escalator system; free. A short ride to Lyndhurst Terrace is enough.",
+              "walk": "Off the tram in Central; ~5 min on foot to the escalator start on Queen's Road Central",
+              "desc": "Billed as the world's longest covered outdoor escalator system; free. It runs uphill in the afternoon; two or three sections reach Lyndhurst Terrace.",
               "tags": [
                 "Must-see"
               ]
             },
             {
-              "time": "13:30",
+              "time": "13:20",
               "title": "Tai Cheong Bakery (泰昌饼家)",
-              "walk": "Lyndhurst Terrace, beside the escalator",
-              "desc": "Flaky-pastry egg tarts, eaten on the go.",
+              "walk": "At the Lyndhurst Terrace exit of the escalator",
+              "desc": "Flaky egg tarts as an afternoon snack, eaten on the go. The stone steps of Pottinger Street (砵典乍街) are right at the corner, good for a quick photo.",
               "tags": [
                 "Dessert"
               ],
+              "tip": "Pottinger Street is a stepped granite lane lined with stalls; the stones are uneven, so footing should be watched.",
               "food": [
                 {
                   "name": "Lan Fong Yuen (兰芳园)",
-                  "desc": "2 Gage Street, ~1 min walk; credited with silk-stocking milk tea. One cup to go."
+                  "desc": "2 Gage St, ~1 min away; the original silk-stocking milk tea, taken away"
                 },
                 {
-                  "name": "LINLEE, Lyndhurst Terrace (LINLEE（中环摆花街店）)",
+                  "name": "LINLEE, Lyndhurst Terrace (LINLEE中环摆花街店)",
                   "desc": "Same street; hand-pounded lemon tea"
                 }
               ]
             },
             {
               "time": "13:45",
-              "title": "Ding Ding tram (叮叮车)",
-              "walk": "Walk to Des Voeux Road Central to board",
-              "desc": "Century-old tram. Upper deck front row for street views; ~20 min to Wan Chai. Paid by tapping a Wise card or Apple Pay when getting off.",
-              "tags": [
-                "Must-see"
-              ]
+              "title": "Central → Peak Tram lower terminus (花园道山顶缆车总站)",
+              "desc": "Van, ~10 min",
+              "pick": "Around Lyndhurst Terrace / Hollywood Road, at a point the driver chooses",
+              "drop": "Outside the Peak Tram lower terminus, Garden Road"
             },
             {
-              "time": "14:05",
-              "title": "Kam's Roast Goose (甘牌烧鹅)",
-              "walk": "Get off on Hennessy Road, Wan Chai; 226 Hennessy Road",
-              "desc": "Michelin-starred roast goose; the goose leg should be ordered. One or two plates are shared.",
-              "tip": "Opens 11:30. After 14:00 it is quieter, but a queue is still possible.",
+              "time": "14:00",
+              "title": "Peak Tram (山顶缆车)",
+              "walk": "At the drop-off",
+              "desc": "Century-old funicular; the steep tilt on the way up is thrilling and memorable for kids. The right-hand side gives the city view.",
               "tags": [
                 "Must-see"
               ],
-              "food": [
-                {
-                  "name": "Roast goose leg with rice (烧鹅腿饭)",
-                  "desc": "Regular goose rice can be upgraded to the leg",
-                  "dish": true
-                }
-              ]
+              "tip": "Afternoon queues can run over an hour, so a fast-track combo is essential (Peak Tram + Sky Terrace 428; the three-in-one adds Madame Tussauds). The 14:00 slot should be booked with arrival 15 min early; late arrivals may lose fast-track access. The ride is ~7 min. The van is taken down, so the return tram leg goes unused."
             },
             {
-              "time": "14:35",
-              "title": "Capital Café (華星冰室)",
-              "walk": "~5–10 min walk to 6 Heard Street",
-              "desc": "Well-known Hong Kong ice café: yuanyang or milk tea with scrambled-egg toast or a pineapple bun. Milk tea to go if it is full.",
-              "tags": [
-                "Dessert"
-              ],
-              "food": [
-                {
-                  "name": "Yuanyang, milk tea (鸳鸯、奶茶)",
-                  "desc": "Coffee mixed with milk tea; the most Hong Kong drink",
-                  "dish": true
-                },
-                {
-                  "name": "Scrambled-egg toast, pineapple bun with butter (炒蛋多士、菠萝油)",
-                  "desc": "Ice-café signatures",
-                  "dish": true
-                }
-              ]
-            },
-            {
-              "time": "15:05",
-              "title": "Star Ferry: Wan Chai → Tsim Sha Tsui (天星小轮)",
-              "walk": "~15 min walk to Wan Chai Pier (by the Convention Centre), or taxi ~5 min",
-              "desc": "Century-old ferry; ~10 min across Victoria Harbour. Every ~12 min Mon–Sat. Tickets are bought by card at the pier's self-service machine.",
+              "time": "14:20",
+              "title": "Madame Tussauds Hong Kong (杜莎夫人蜡像馆)",
+              "optional": true,
+              "walk": "Inside the Peak Tower",
+              "desc": "Close-up photos with wax figures of stars and athletes; ~45 min. The times below assume it is skipped; if visited, everything after moves 45 min later.",
               "tags": [
                 "Must-see",
                 "Photos"
               ]
             },
             {
-              "time": "15:20",
-              "title": "Toys\"R\"Us, Ocean Terminal (海运大厦玩具反斗城)",
-              "walk": "~5 min walk from the pier, Ocean Terminal, Harbour City",
-              "desc": "Flagship store revamped in 2026, with Pokémon, Tomica, Nintendo and Sanrio zones; each child picks one Hong Kong souvenir. Egg waffles (鸡蛋仔) can be bought near the pier on the way.",
-              "tip": "Opens ~11:00; hours should be checked on the day.",
+              "time": "14:20",
+              "title": "Sky Terrace 428 (凌霄阁摩天台428)",
+              "walk": "Top of the Peak Tower, by escalator",
+              "desc": "A 360° deck 428 m above sea level over Victoria Harbour and Hong Kong Island; the classic skyline photo without a hill walk.",
               "tags": [
-                "Shopping"
+                "Photos"
+              ],
+              "tip": "The Peak is windier and colder than the city; a jacket should be brought.",
+              "food": [
+                {
+                  "name": "Pacific Coffee, Peak Tower (Pacific Coffee凌霄阁)",
+                  "desc": "Local Hong Kong coffee chain; a short break for the adults"
+                }
               ]
             },
             {
-              "time": "15:45",
+              "time": "14:40",
+              "title": "Lugard Road lookout (卢吉道观景台)",
+              "walk": "~10 min along flat, shaded Lugard Road from the Peak Tower",
+              "desc": "A free lookout over Victoria Harbour and the Central towers; ~30 min there and back.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "15:10",
+              "title": "The Peak → Central Star Ferry Pier (中环天星码头)",
+              "desc": "Van down, ~25 min; the downhill tram queue is avoided.",
+              "pick": "The Peak Galleria car park; the exact spot should be agreed with the driver",
+              "drop": "Central Star Ferry Pier (Pier 7)"
+            },
+            {
+              "time": "15:35",
+              "title": "Star Ferry: Central → Tsim Sha Tsui (天星小轮)",
+              "walk": "At the drop-off",
+              "desc": "Century-old ferry; ~15–20 min including the wait, across Victoria Harbour with the skyline on both sides. Tickets are bought by card at the pier's self-service machines.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ]
+            },
+            {
+              "time": "15:55",
+              "title": "Mammy Pancake (媽咪雞蛋仔)",
+              "walk": "At the Tsim Sha Tsui Star Ferry Pier, off the boat",
+              "desc": "Egg waffles listed in the Michelin street food guide, crisp outside and soft inside; an afternoon snack on the go.",
+              "tags": [
+                "Dessert"
+              ],
+              "food": [
+                {
+                  "name": "Egg waffle (鸡蛋仔)",
+                  "desc": "Original is the classic; chocolate and other flavours too",
+                  "dish": true
+                }
+              ],
+              "tip": "Small stalls like this may take only cash or Octopus; card or Apple Pay should be checked first, and the stop skipped if neither works."
+            },
+            {
+              "time": "16:05",
+              "title": "Ocean Terminal Deck (海运大厦观景台)",
+              "walk": "~8 min, indoors through Harbour City to the end of Ocean Terminal",
+              "desc": "A free harbourside rooftop facing Victoria Harbour and Hong Kong Island; afterwards the route heads east without turning back.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "16:30",
+              "title": "Tsim Sha Tsui Clock Tower (尖沙咀钟楼)",
+              "walk": "~8 min back to beside the Star Ferry pier",
+              "desc": "The century-old clock tower left from the former Kowloon–Canton Railway terminus; a quick harbourside photo.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "16:40",
+              "title": "1881 Heritage (前水警总部)",
+              "walk": "~3 min across Salisbury Road",
+              "desc": "The former Marine Police Headquarters; its colonial lawns and arcades photograph well, and a free Christmas installation is usually up at year end.",
+              "tags": [
+                "Must-see",
+                "Photos"
+              ],
+              "tip": "This year's Christmas installation has not been announced; what is on show should be checked on the day."
+            },
+            {
+              "time": "17:10",
+              "title": "Avenue of Stars (星光大道)",
+              "walk": "~10 min east along the waterfront",
+              "desc": "The harbourfront promenade with the Bruce Lee statue, facing the island skyline; close to sunset, the light is at its best.",
+              "tags": [
+                "Photos"
+              ]
+            },
+            {
+              "time": "17:40",
               "title": "Tsim Sha Tsui → West Kowloon Station",
-              "desc": "Van, ~10–15 min",
-              "pick": "Pick-up area outside Ocean Terminal, Harbour City; the exact spot is agreed with the driver",
+              "desc": "Van, ~20 min; evening traffic is expected.",
+              "pick": "Near the Avenue of Stars (Salisbury Road); the exact spot should be agreed with the driver",
               "drop": "West Kowloon Station private-car drop-off area"
             }
           ],
-          "note": "The van driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. Between 13:15 and 15:45 the van is not needed and goes ahead to Tsim Sha Tsui.",
+          "note": "The van is hired ~10:00–18:00 and the driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. On the walking stretches the van goes ahead to the next pick-up point.",
           "tip": "Vans are usually hired by the hour; hours, harbour-tunnel tolls and parking should be agreed first. Many Central streets are no-stopping zones, so exact pick-up and drop-off points are set by the driver."
         },
         {
-          "start": "16:05",
-          "end": "16:35",
+          "start": "18:00",
+          "end": "18:50",
+          "title": "Dinner: Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
+          "note": "On level B1M of West Kowloon Station, before clearance. If taken, clearance and the train move ~50 min later, with the hotel reached ~21:10.",
+          "optional": true,
+          "tip": "Payment methods should be checked in store (review sites list Visa, Mastercard and Apple Pay).",
+          "food": [
+            {
+              "name": "Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
+              "desc": "Dim sum chain recognised by Michelin"
+            },
+            {
+              "name": "Baked BBQ pork buns (酥皮焗叉烧包)",
+              "desc": "The signature; a must",
+              "dish": true
+            },
+            {
+              "name": "Shrimp siu mai, har gow (鲜虾烧卖、虾饺)",
+              "dish": true
+            },
+            {
+              "name": "Pig liver rice roll (黄沙猪润肠)",
+              "desc": "Strong flavour; for the adults to try",
+              "dish": true
+            }
+          ]
+        },
+        {
+          "start": "18:00",
+          "end": "18:30",
           "title": "West Kowloon Station border clearance",
           "note": "30 min should be allowed."
         },
         {
-          "start": "16:50",
-          "end": "17:40",
-          "title": "HSR: West Kowloon → Guangzhou South"
+          "start": "18:45",
+          "end": "19:35",
+          "title": "HSR: West Kowloon → Guangzhou South",
+          "note": "~50 min; times follow the ticket booked."
         },
         {
-          "start": "17:40",
-          "end": "18:25",
+          "start": "19:35",
+          "end": "20:20",
           "title": "Guangzhou South → K Hotel",
           "note": "Taxi, ~40 min."
         },
         {
-          "start": "18:30",
-          "end": "19:30",
-          "title": "Dinner: near the hotel"
+          "start": "20:20",
+          "end": "21:10",
+          "title": "Dinner: near the hotel",
+          "tip": "Skipped if dinner was taken at West Kowloon Station; otherwise dinner is late and a snack on the train helps."
         }
       ],
       "notice": "No Octopus card or coins needed. Ding Ding tram: a Wise card or Apple Pay is tapped when getting off; adult HK$3.3, child HK$1.6. Star Ferry: tickets are bought by card or QR at the pier's self-service machines; weekday adult HK$5.0, child HK$2.9. Both rides total HK$8.3 per adult and HK$4.5 per child. Foreign cards may incur cross-border fees."
@@ -2342,7 +2462,10 @@
           "title": "Tianhe Road at night",
           "note": "New Year lights along Teemall and Grandview. Leave early if it gets crowded.",
           "optional": true,
-          "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable."
+          "tip": "Metro stations may be temporarily controlled on New Year's Eve; walking back to the hotel is preferable.",
+          "tags": [
+            "Photos"
+          ]
         },
         {
           "start": "19:30",
@@ -2858,7 +2981,10 @@
           "end": "20:30",
           "title": "Pearl River night cruise (珠江夜游)",
           "note": "Tickets and pier should be confirmed in advance.",
-          "tip": "Be at the pier 20 min before departure; it is windy on board, so bring a jacket."
+          "tip": "Be at the pier 20 min before departure; it is windy on board, so bring a jacket.",
+          "tags": [
+            "Photos"
+          ]
         }
       ],
       "intro": "Morning: Baima and Hongmian clothing markets\nAfternoon: TBC\nDinner: near the hotel or Guangzhou Restaurant\nPearl River night cruise (19:00)"

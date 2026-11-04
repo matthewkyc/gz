@@ -146,7 +146,7 @@ function ItemBody({ it, ctx }: { it: Item; ctx: Ctx }) {
   return (
     <>
       <div className="title-line">
-        <Title text={it.title} placeId={it.placeId} ctx={ctx} as="h3" />
+        <Title text={it.title} placeId={it.placeId} ctx={ctx} as="h3" chips={<Chips tags={it.tags} />} />
         {it.optional && <span className="badge">{ui("optional")}</span>}
       </div>
       {it.note && <p className="note">{t(it.note)}</p>}
@@ -174,13 +174,7 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
           placeId={s.placeId}
           ctx={ctx}
           as="h4"
-          chips={s.tags.length > 0 && (
-            <span className="chips-inline">
-              {s.tags.map((tag, i) => (
-                <span key={i} className={`tag${TAG_CLASS[tag.zh] ? ` tag-${TAG_CLASS[tag.zh]}` : ""}`}>{t(tag)}</span>
-              ))}
-            </span>
-          )}
+          chips={<Chips tags={s.tags} optional={s.optional} />}
         />
       </div>
       {s.desc && <p className="note">{t(s.desc)}</p>}
@@ -189,6 +183,26 @@ function StopRow({ s, ctx }: { s: Stop; ctx: Ctx }) {
       {s.tip && <Tip text={t(s.tip)} />}
       <FoodBlock food={s.food} ctx={ctx} />
     </li>
+  );
+}
+
+/** Tag chips after a title; the photo tag carries a camera icon. */
+function Chips({ tags, optional }: { tags: T[]; optional?: boolean }) {
+  const { t, ui } = useLang();
+  if (tags.length === 0 && !optional) return null;
+  return (
+    <span className="chips-inline">
+      {optional && <span className="badge">{ui("optional")}</span>}
+      {tags.map((tag, i) => {
+        const cls = TAG_CLASS[tag.zh];
+        return (
+          <span key={i} className={`tag${cls ? ` tag-${cls}` : ""}`}>
+            {cls === "photo" && <i className="fa-solid fa-camera" aria-hidden />}
+            {t(tag)}
+          </span>
+        );
+      })}
+    </span>
   );
 }
 

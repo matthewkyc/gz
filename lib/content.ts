@@ -50,13 +50,13 @@ export function loadContent(): { trip: Trip; places: Places; guides: GuideSectio
     time: z.time, title: req(z.title, e?.title), walk: pair(z.walk, e?.walk), desc: pair(z.desc, e?.desc),
     tags: (z.tags ?? []).map((t, i) => req(t, e?.tags?.[i])), tip: pair(z.tip, e?.tip),
     food: foods(z.food, e?.food), placeId: find(z.title),
-    pick: pair(z.pick, e?.pick), drop: pair(z.drop, e?.drop),
+    pick: pair(z.pick, e?.pick), drop: pair(z.drop, e?.drop), optional: !!z.optional,
   });
   const item = (z: RawItem, e?: RawItem): Item => ({
     start: z.start, end: z.end, title: req(z.title, e?.title), note: pair(z.note, e?.note),
     optional: !!z.optional, group: z.group, food: foods(z.food, e?.food),
     route: (z.route ?? []).map((s, i) => stop(s, e?.route?.[i])), tip: pair(z.tip, e?.tip),
-    placeId: find(z.title),
+    tags: (z.tags ?? []).map((t, i) => req(t, e?.tags?.[i])), placeId: find(z.title),
   });
   /** Sort by start time while keeping the en/zh pairs aligned. */
   const items = (z: RawItem[], e?: RawItem[]) =>

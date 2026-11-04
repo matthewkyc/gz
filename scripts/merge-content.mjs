@@ -43,11 +43,15 @@ const en = {
     const f = `en-day-${String(i).padStart(2, "0")}.json`;
     if (!parts.includes(f)) { console.warn(`! missing ${f} — Chinese text will be shown`); return zd; }
     const ed = readJson(C("_parts", f));
-    const fixTags = (zItems = [], eItems = []) => eItems.forEach((it, k) =>
+    // Tags are filled in from the Chinese source, so English parts never need to list them.
+    const fixTags = (zItems = [], eItems = []) => eItems.forEach((it, k) => {
+      const zi = zItems[k];
+      if (zi?.tags) it.tags = zi.tags.map((t, n) => TAGS[t] ?? it.tags?.[n] ?? t);
       (it.route ?? []).forEach((s, j) => {
-        const zs = zItems[k]?.route?.[j];
+        const zs = zi?.route?.[j];
         if (zs?.tags) s.tags = zs.tags.map((t, n) => TAGS[t] ?? s.tags?.[n] ?? t);
-      }));
+      });
+    });
     fixTags(zd.items, ed.items);
     if (zd.backup && ed.backup) fixTags(zd.backup.items, ed.backup.items);
     if (ed.items.length !== zd.items.length) console.warn(`! ${f}: item count differs from source`);

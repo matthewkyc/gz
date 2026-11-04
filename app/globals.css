@@ -409,12 +409,14 @@ h4.title { font-size: 16px; }
 .chips-inline { margin-left: 10px; white-space: nowrap; }
 .place-link .chips-inline, .place-link .chips-inline span { text-decoration: none; }
 .chips-inline .tag { display: inline-block; vertical-align: 1px; line-height: 1.4; }
-.chips-inline .tag + .tag { margin-left: 6px; }
+.chips-inline .tag + .tag, .chips-inline .badge + .tag { margin-left: 6px; }
+.chips-inline .badge { display: inline-block; vertical-align: 1px; }
 .chips-inline + i { margin-left: 8px; }
 .tag { --c: var(--ink2); font-size: 11.5px; font-weight: 600; color: var(--c); background: var(--bg2); border-radius: 999px; padding: 2px 9px; }
 .tag[class*="tag-"] { background: color-mix(in srgb, var(--c) 15%, var(--bg)); }
 .tag-must { --c: #e8590c; }
 .tag-photo { --c: #a64bd6; }
+.tag .fa-camera { margin-right: 4px; font-size: 10px; }
 .tag-shop { --c: #e0306b; }
 .tag-dessert { --c: #b8860b; }
 .tag-meal { --c: #2f9e44; }

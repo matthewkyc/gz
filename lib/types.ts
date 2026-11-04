@@ -4,13 +4,13 @@ export type Lang = "en" | "zh";
 export interface RawFood { name: string; desc?: string; dish?: boolean }
 export interface RawStop {
   time: string; title: string; walk?: string; desc?: string;
-  tags?: string[]; tip?: string; food?: RawFood[];
+  tags?: string[]; tip?: string; food?: RawFood[]; optional?: boolean;
   /** Chartered car: where it picks the group up / drops it off at this stop. */
   pick?: string; drop?: string;
 }
 export interface RawItem {
   start: string; end: string; title: string; note?: string; optional?: boolean;
-  group?: "a" | "k"; food?: RawFood[]; route?: RawStop[]; tip?: string;
+  group?: "a" | "k"; food?: RawFood[]; route?: RawStop[]; tip?: string; tags?: string[];
 }
 export interface RawDay {
   stay: number; date: string; dow: string; locked?: boolean; theme: string;
@@ -33,11 +33,11 @@ export interface T { en: string; zh: string }
 export interface Food { name: T; desc?: T; dish: boolean; placeId?: string }
 export interface Stop {
   time: string; title: T; walk?: T; desc?: T; tags: T[]; tip?: T; food: Food[]; placeId?: string;
-  pick?: T; drop?: T;
+  pick?: T; drop?: T; optional: boolean;
 }
 export interface Item {
   start: string; end: string; title: T; note?: T; optional: boolean;
-  group?: "a" | "k"; food: Food[]; route: Stop[]; tip?: T; placeId?: string;
+  group?: "a" | "k"; food: Food[]; route: Stop[]; tip?: T; placeId?: string; tags: T[];
 }
 export interface Day {
   index: number; iso: string; stay: number; locked: boolean; theme: T; intro?: T; away?: T; notice?: T;

@@ -1,619 +1,844 @@
 [
-  {
-    "id": "shangxiajiu",
-    "aliases": [
-      "上下九：逛街、晚餐、甜品"
-    ]
+ {
+  "id": "shangxiajiu",
+  "aliases": [
+   "上下九：逛街、晚餐、甜品"
+  ]
+ },
+ {
+  "id": "beijing-road",
+  "aliases": [
+   "北京路：大佛寺、逛街、晚餐、甜品"
+  ]
+ },
+ {
+  "id": "panda-hotel-restaurant",
+  "aliases": [
+   "熊猫酒店自助早餐"
+  ]
+ },
+ {
+  "id": "hong-kong-west-kowloon-station",
+  "aliases": [
+   "西九龙站通关"
+  ]
+ },
+ {
+  "id": "nanxin-dessert",
+  "aliases": [
+   "南信甜品"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Nanxin Dessert",
+   "zh": "南信甜品"
   },
-  {
-    "id": "beijing-road",
-    "aliases": [
-      "北京路：大佛寺、逛街、晚餐、甜品"
-    ]
+  "city": "Guangzhou",
+  "query": "南信牛奶甜品专家 第十甫路 荔湾区 广州",
+  "lat": 23.1203,
+  "lng": 113.2497,
+  "summary": {
+   "en": "Xiguan's best-known milk-dessert shop, on Dishifu Road.",
+   "zh": "西关最有名的牛奶甜品店，就在第十甫路。"
   },
-  {
-    "id": "panda-hotel-restaurant",
-    "aliases": [
-      "熊猫酒店自助早餐"
-    ]
+  "why": {
+   "en": "Double-skin milk custard is made fresh here from buffalo milk and served warm or chilled. The texture is silkier and the milk flavour stronger than chain versions. It is a 2-minute walk from the Shangxiajiu arcades, so it is easily fitted in.",
+   "zh": "双皮奶用水牛奶现做，冷热都有，口感比连锁店更滑、奶味更浓。离上下九骑楼只要步行两分钟，顺路就能吃。"
   },
-  {
-    "id": "hong-kong-west-kowloon-station",
-    "aliases": [
-      "西九龙站通关"
-    ]
+  "highlights": {
+   "en": [
+    "Operating since the 1940s",
+    "Desserts made from buffalo milk",
+    "Steps from Shangxiajiu Pedestrian Street"
+   ],
+   "zh": [
+    "上世纪四十年代开业",
+    "水牛奶做的甜品",
+    "紧邻上下九步行街"
+   ]
   },
-  {
-    "id": "nanxin-dessert",
-    "aliases": [
-      "南信甜品"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Nanxin Dessert",
-      "zh": "南信甜品"
-    },
-    "city": "Guangzhou",
-    "query": "南信牛奶甜品专家 第十甫路 荔湾区 广州",
-    "lat": 23.1203,
-    "lng": 113.2497,
-    "summary": {
-      "en": "Xiguan's best-known milk-dessert shop, on Dishifu Road.",
-      "zh": "西关最有名的牛奶甜品店，就在第十甫路。"
-    },
-    "why": {
-      "en": "Double-skin milk custard is made fresh here from buffalo milk and served warm or chilled. The texture is silkier and the milk flavour stronger than chain versions. It is a 2-minute walk from the Shangxiajiu arcades, so it is easily fitted in.",
-      "zh": "双皮奶用水牛奶现做，冷热都有，口感比连锁店更滑、奶味更浓。离上下九骑楼只要步行两分钟，顺路就能吃。"
-    },
-    "highlights": {
-      "en": [
-        "Operating since the 1940s",
-        "Desserts made from buffalo milk",
-        "Steps from Shangxiajiu Pedestrian Street"
-      ],
-      "zh": [
-        "上世纪四十年代开业",
-        "水牛奶做的甜品",
-        "紧邻上下九步行街"
-      ]
-    },
-    "mustTry": {
-      "en": [
-        "Double-skin milk (双皮奶)",
-        "Ginger milk curd (姜撞奶)",
-        "Red bean milk custard (红豆双皮奶)"
-      ],
-      "zh": [
-        "双皮奶",
-        "姜撞奶",
-        "红豆双皮奶"
-      ]
-    },
-    "tips": {
-      "en": "Queues form after dinner; turnover is fast.",
-      "zh": "晚饭后会排队，但翻台很快。"
-    }
+  "mustTry": {
+   "en": [
+    "Double-skin milk (双皮奶)",
+    "Ginger milk curd (姜撞奶)",
+    "Red bean milk custard (红豆双皮奶)"
+   ],
+   "zh": [
+    "双皮奶",
+    "姜撞奶",
+    "红豆双皮奶"
+   ]
   },
-  {
-    "id": "baihua-dessert",
-    "aliases": [
-      "百花甜品"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Baihua Dessert",
-      "zh": "百花甜品"
-    },
-    "city": "Guangzhou",
-    "query": "百花甜品 文明路 越秀区 广州",
-    "lat": 23.1235,
-    "lng": 113.2748,
-    "summary": {
-      "en": "Old-school tong sui (sweet soup) shop on Wenming Road's dessert street.",
-      "zh": "文明路甜品街上的老字号糖水铺。"
-    },
-    "why": {
-      "en": "Wenming Road is Guangzhou's dessert street, and Baihua is its long-standing anchor. Its sesame and almond pastes are stone-ground and served hot, which is right for a December evening after Beijing Road.",
-      "zh": "文明路是广州的甜品街，百花是街上的老牌店。芝麻糊、杏仁糊用石磨磨制，热腾腾端上来，十二月逛完北京路吃一碗刚好。"
-    },
-    "highlights": {
-      "en": [
-        "Wenming Road's classic tong sui shop",
-        "Hot sweet soups for winter",
-        "A 10-minute walk from Beijing Road"
-      ],
-      "zh": [
-        "文明路的经典糖水铺",
-        "冬天适合吃热糖水",
-        "从北京路步行约10分钟"
-      ]
-    },
-    "mustTry": {
-      "en": [
-        "Black sesame paste (芝麻糊)",
-        "Almond paste (杏仁糊)",
-        "Coconut milk sago (椰汁西米露)"
-      ],
-      "zh": [
-        "芝麻糊",
-        "杏仁糊",
-        "椰汁西米露"
-      ]
-    }
-  },
-  {
-    "id": "lingnan-tiandi",
-    "aliases": [
-      "岭南天地：逛街加午餐"
-    ],
-    "kind": "sight",
-    "name": {
-      "en": "Lingnan Tiandi",
-      "zh": "岭南天地"
-    },
-    "city": "Foshan",
-    "query": "Lingnan Tiandi, Chancheng, Foshan",
-    "lat": 23.0325,
-    "lng": 113.115,
-    "summary": {
-      "en": "Foshan's restored old quarter: grey-brick lanes, Republic-era villas and food.",
-      "zh": "佛山修复的老城区：青砖巷子、民国洋楼和美食。"
-    },
-    "why": {
-      "en": "Lingnan Tiandi is Foshan's best-preserved old town block, set right beside the Ancestral Temple. Qing-dynasty houses, the Jian family villas and the Wedding House are all within a few minutes' walk. Lunch, local snacks and Foshan souvenirs are found in the same lanes, so no car is needed until mid-afternoon.",
-      "zh": "岭南天地是佛山保留最完整的老城街区，紧挨祖庙。清代民居、简氏别墅、嫁娶屋都在步行几分钟内；午餐、小吃和佛山手信也在同一片巷子里，下午之前都不用坐车。"
-    },
-    "highlights": {
-      "en": [
-        "Next to the Ancestral Temple",
-        "Qing and Republic-era architecture",
-        "Blind-man cakes and other Foshan souvenirs"
-      ],
-      "zh": [
-        "紧邻祖庙",
-        "清代和民国建筑",
-        "盲公饼等佛山手信"
-      ]
-    }
-  },
-  {
-    "id": "chen-tim-kee",
-    "aliases": [
-      "陈添记"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Chen Tim Kee",
-      "zh": "陈添记"
-    },
-    "city": "Guangzhou",
-    "query": "陈添记 宝华路十五甫三巷 荔湾区 广州",
-    "lat": 23.1216,
-    "lng": 113.2499,
-    "summary": {
-      "en": "Alley shop on Baohua Road, famous for crunchy fish skin since the 1940s.",
-      "zh": "宝华路巷子里的老店，以爽鱼皮出名。"
-    },
-    "why": {
-      "en": "Chen Tim Kee is one of Xiguan’s classic old brands. Its fish skin is blanched, chilled and tossed with peanuts, sesame, coriander and ginger, so it is crunchy rather than fishy. A bowl of sampan congee (艇仔粥) is ordered on the side. It is a few minutes’ walk from Shangxiajiu, so it fits the Dec 21 evening walk.",
-      "zh": "陈添记是西关的经典老字号。鱼皮焯水后过冷，拌花生、芝麻、香菜和姜丝，爽脆不腥；再配一碗艇仔粥。离上下九只要步行几分钟，正好放在21号晚上的路线里。"
-    },
-    "highlights": {
-      "en": [
-        "Xiguan old brand, on the Guangzhou old-brand lists",
-        "Crunchy fish skin is the signature",
-        "A few minutes from Shangxiajiu"
-      ],
-      "zh": [
-        "西关老字号",
-        "招牌爽鱼皮",
-        "离上下九步行几分钟"
-      ]
-    },
-    "mustTry": {
-      "en": [
-        "Crunchy fish skin (爽鱼皮)",
-        "Sampan congee (艇仔粥)"
-      ],
-      "zh": [
-        "爽鱼皮",
-        "艇仔粥"
-      ]
-    },
-    "tips": {
-      "en": "Small shop; seating is limited at peak times.",
-      "zh": "店面小，饭点座位紧张。"
-    }
-  },
-  {
-    "id": "guangzhou-restaurant-wenchang",
-    "aliases": [
-      "广州酒家（文昌总店）",
-      "广州酒家"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Guangzhou Restaurant (Wenchang flagship)",
-      "zh": "广州酒家（文昌总店）"
-    },
-    "city": "Guangzhou",
-    "query": "广州酒家 文昌南路2号 荔湾区 广州",
-    "lat": 23.1186,
-    "lng": 113.2537,
-    "summary": {
-      "en": "Guangzhou’s best-known Cantonese restaurant brand, founded in 1935.",
-      "zh": "1935年创立的广州粤菜代表老字号。"
-    },
-    "why": {
-      "en": "Guangzhou Restaurant is the name most locals give for “classic Cantonese”. The Wenchang South Road flagship is the original site. Wenchang chicken is served with smooth, yellow skin and ginger-scallion dip, and the dim sum and roast meats are reliable all round. It suits a proper sit-down dinner before the night cruise.",
-      "zh": "广州酒家是很多本地人心里“正宗粤菜”的代名词，文昌南路是总店原址。文昌鸡皮爽肉滑、配姜葱蓉，点心和烧味都很稳，适合夜游前好好坐下来吃一顿。"
-    },
-    "highlights": {
-      "en": [
-        "Founded 1935; original flagship site",
-        "Signature Wenchang chicken",
-        "Dim sum and roast meats"
-      ],
-      "zh": [
-        "1935年创立，总店原址",
-        "招牌文昌鸡",
-        "点心、烧味"
-      ]
-    },
-    "mustTry": {
-      "en": [
-        "Wenchang chicken (文昌鸡)",
-        "Shrimp dumplings (虾饺)",
-        "Roast meats (烧味)"
-      ],
-      "zh": [
-        "文昌鸡",
-        "虾饺",
-        "烧味"
-      ]
-    },
-    "tips": {
-      "en": "Queues are long even with a booking (reviews mention 20 min to 2 hr). A table should be booked ahead, and the queue can be tracked via WeChat.",
-      "zh": "即使订位也常要等（评价提到20分钟到2小时）。建议提前订位，可用微信看排队进度。"
-    }
-  },
-  {
-    "id": "chalyishi-huachenghui",
-    "aliases": [
-      "茶理宜世（花城汇店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Cha Li Yi Shi (Mall of the World)",
-      "zh": "茶理宜世（花城汇店）"
-    },
-    "city": "Guangzhou",
-    "query": "茶理宜世 花城汇中区负1层 天河区 广州",
-    "lat": 23.11965,
-    "lng": 113.32457,
-    "summary": {
-      "en": "Guangzhou-born Chinese-style milk tea, inside Mall of the World.",
-      "zh": "广州本土国风奶茶，在花城汇里面。"
-    },
-    "why": {
-      "en": "Cha Li Yi Shi is a Guangzhou brand known for tea-forward, Chinese-style milk teas with floral notes. It sits in the same mall as the dessert stop, so a drink is added without any detour.",
-      "zh": "茶理宜世是广州本土品牌，奶茶茶味重、带花香，国风设计。就在甜品同一个商场，不用绕路。"
-    },
-    "mustTry": {
-      "en": [
-        "Yu Yu You Lan (郁郁幽兰)"
-      ],
-      "zh": [
-        "郁郁幽兰"
-      ]
-    }
-  },
-  {
-    "id": "linlee-beijing-road",
-    "aliases": [
-      "LINLEE林里（北京路店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "LINLEE (Beijing Road)",
-      "zh": "LINLEE林里（北京路店）"
-    },
-    "city": "Guangzhou",
-    "query": "LINLEE手打柠檬茶 北京路168号 越秀区 广州",
-    "lat": 23.1262,
-    "lng": 113.27,
-    "summary": {
-      "en": "Hand-pounded lemon tea on Beijing Road.",
-      "zh": "北京路上的手打柠檬茶。"
-    },
-    "why": {
-      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
-      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
-    },
-    "mustTry": {
-      "en": [
-        "Hand-pounded lemon tea (手打柠檬茶)"
-      ],
-      "zh": [
-        "手打柠檬茶"
-      ]
-    },
-    "tips": {
-      "en": "Map pin is approximate (168 Beijing Road).",
-      "zh": "地图位置为估算（北京路168号）。"
-    }
-  },
-  {
-    "id": "qiudashu-tianhe-south",
-    "aliases": [
-      "丘大叔柠檬茶（天河南店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Uncle Qiu Lemon Tea (Tianhe South)",
-      "zh": "丘大叔柠檬茶（天河南店）"
-    },
-    "city": "Guangzhou",
-    "query": "丘大叔柠檬茶 天河南路80号 天河区 广州",
-    "lat": 23.13095,
-    "lng": 113.32471,
-    "summary": {
-      "en": "The shop that made duck-shit oolong lemon tea famous.",
-      "zh": "把鸭屎香柠檬茶带火的店。"
-    },
-    "why": {
-      "en": "Uncle Qiu popularised lemon tea made with duck-shit oolong (鸭屎香), a Phoenix dancong tea named for its soil, not its taste. The tea gives a floral, honeyed aroma under the lemon. It is between K Hotel and Grandview Mall.",
-      "zh": "丘大叔把鸭屎香柠檬茶带火：鸭屎香是凤凰单丛的一种，名字来自土壤，跟味道无关，茶香带花蜜味。店就在 K Hotel 和正佳之间。"
-    },
-    "mustTry": {
-      "en": [
-        "Duck-shit oolong lemon tea (鸭屎香柠檬茶)"
-      ],
-      "zh": [
-        "鸭屎香柠檬茶"
-      ]
-    }
-  },
-  {
-    "id": "chalyishi-tianhe-south",
-    "aliases": [
-      "茶理宜世（天河南一路店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Cha Li Yi Shi (Tianhe South Road 1)",
-      "zh": "茶理宜世（天河南一路店）"
-    },
-    "city": "Guangzhou",
-    "query": "茶理宜世 天河南一路92号 天河区 广州",
-    "lat": 23.13092,
-    "lng": 113.3257,
-    "summary": {
-      "en": "Guangzhou-born Chinese-style milk tea, between K Hotel and Grandview.",
-      "zh": "广州本土国风奶茶，在 K Hotel 和正佳之间。"
-    },
-    "why": {
-      "en": "Cha Li Yi Shi is the milk-tea pick on Tianhe South Road 1, the street the walk to Grandview passes through. Its teas are tea-forward with floral notes.",
-      "zh": "茶理宜世是天河南一路上的奶茶选择，去正佳的路上经过。茶味重、带花香。"
-    },
-    "mustTry": {
-      "en": [
-        "Yu Yu You Lan (郁郁幽兰)"
-      ],
-      "zh": [
-        "郁郁幽兰"
-      ]
-    }
-  },
-  {
-    "id": "linlee-central-hk",
-    "aliases": [
-      "LINLEE（中环摆花街店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "LINLEE (Central, Lyndhurst Terrace)",
-      "zh": "LINLEE（中环摆花街店）"
-    },
-    "city": "Hong Kong",
-    "query": "LINLEE Central Lyndhurst Terrace Shop Hong Kong",
-    "lat": 22.2825433,
-    "lng": 114.1538151,
-    "summary": {
-      "en": "Hand-pounded lemon tea on Lyndhurst Terrace, next to Tai Cheong Bakery.",
-      "zh": "摆花街上的手打柠檬茶，就在泰昌饼家旁边。"
-    },
-    "why": {
-      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
-      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
-    },
-    "mustTry": {
-      "en": [
-        "Hand-pounded lemon tea (手打柠檬茶)"
-      ],
-      "zh": [
-        "手打柠檬茶"
-      ]
-    }
-  },
-  {
-    "id": "linlee-grandview",
-    "aliases": [
-      "LINLEE林里（正佳广场店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "LINLEE (Grandview Mall)",
-      "zh": "LINLEE林里（正佳广场店）"
-    },
-    "city": "Guangzhou",
-    "query": "LINLEE手打柠檬茶 正佳广场负一层 天河区 广州",
-    "lat": 23.132146,
-    "lng": 113.326998,
-    "summary": {
-      "en": "Hand-pounded lemon tea in Grandview Mall B1.",
-      "zh": "正佳广场负一层的手打柠檬茶。"
-    },
-    "why": {
-      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
-      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
-    },
-    "mustTry": {
-      "en": [
-        "Hand-pounded lemon tea (手打柠檬茶)"
-      ],
-      "zh": [
-        "手打柠檬茶"
-      ]
-    },
-    "tips": {
-      "en": "Map pin is the mall; the shop is on B1.",
-      "zh": "地图位置为商场，店在负一层。"
-    }
-  },
-  {
-    "id": "linlee-yuexiu-park",
-    "aliases": [
-      "LINLEE林里（越秀公园店）"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "LINLEE (Yuexiu Park)",
-      "zh": "LINLEE林里（越秀公园店）"
-    },
-    "city": "Guangzhou",
-    "query": "LINLEE手打柠檬茶 流花路城壹汇 越秀公园地铁站 广州",
-    "lat": 23.1405,
-    "lng": 113.2625,
-    "summary": {
-      "en": "Hand-pounded lemon tea by Yuexiu Park Metro, near the Baima market area.",
-      "zh": "越秀公园地铁站旁的手打柠檬茶，靠近白马一带。"
-    },
-    "why": {
-      "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
-      "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
-    },
-    "mustTry": {
-      "en": [
-        "Hand-pounded lemon tea (手打柠檬茶)"
-      ],
-      "zh": [
-        "手打柠檬茶"
-      ]
-    },
-    "tips": {
-      "en": "Map pin is approximate; the shop is in Chengyi Hui mall B1, by Metro exit C.",
-      "zh": "地图位置为估算，店在城壹汇负一层，越秀公园地铁站C口旁。"
-    }
-  },
-  {
-    "id": "capital-cafe-wanchai",
-    "aliases": [
-      "華星冰室"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Capital Café (Wan Chai)",
-      "zh": "華星冰室（湾仔）"
-    },
-    "city": "Hong Kong",
-    "query": "Capital Cafe 華星冰室 6 Heard Street Wan Chai Hong Kong",
-    "lat": 22.2776,
-    "lng": 114.173,
-    "summary": {
-      "en": "Popular Hong Kong ice café known for milk tea and scrambled-egg toast.",
-      "zh": "香港人气冰室，奶茶和炒蛋多士出名。"
-    },
-    "why": {
-      "en": "Capital Café is one of Hong Kong’s best-known cha chaan teng-style ice cafés. Silky milk tea is served with fluffy scrambled-egg toast or a crispy condensed-milk bun, the classic afternoon break. It fits the Wan Chai stop on the way back to West Kowloon.",
-      "zh": "華星冰室是香港最有名的冰室之一。滑奶茶配嫩滑炒蛋多士或脆皮奶油猪仔包，是经典下午茶。正好在回西九龙前的湾仔站。"
-    },
-    "mustTry": {
-      "en": [
-        "Milk tea (奶茶)",
-        "Scrambled-egg toast (炒蛋多士)",
-        "Crispy condensed-milk bun (脆皮奶油猪仔包)"
-      ],
-      "zh": [
-        "奶茶",
-        "炒蛋多士",
-        "脆皮奶油猪仔包"
-      ]
-    },
-    "tips": {
-      "en": "Queues are moderate to long; shared tables are normal. Hours are roughly 07:00–21:00/22:00.",
-      "zh": "排队中到长，拼桌很正常。营业时间约07:00–21:00/22:00。"
-    }
-  },
-  {
-    "id": "kams-roast-goose-wanchai",
-    "aliases": [
-      "甘牌烧鹅"
-    ],
-    "kind": "food",
-    "name": {
-      "en": "Kam's Roast Goose",
-      "zh": "甘牌烧鹅"
-    },
-    "city": "Hong Kong",
-    "query": "Kam's Roast Goose 甘牌燒鵝 226 Hennessy Road Wan Chai Hong Kong",
-    "lat": 22.2778,
-    "lng": 114.1757,
-    "summary": {
-      "en": "Michelin-starred roast goose shop on Hennessy Road, Wan Chai.",
-      "zh": "湾仔轩尼诗道的米其林一星烧鹅店。"
-    },
-    "why": {
-      "en": "Kam's is one of Hong Kong's two famous roast-goose shops and holds a Michelin star. The goose comes with crisp, glossy skin and juicy meat; the leg is the cut to order. It is on the Ding Ding tram line, so it fits between Central and the Star Ferry.",
-      "zh": "甘牌是香港最有名的两家烧鹅店之一，拿过米其林一星。鹅皮脆亮、肉多汁，点鹅腿最好。就在叮叮车沿线，正好排在中环和天星小轮之间。"
-    },
-    "mustTry": {
-      "en": [
-        "Roast goose leg (烧鹅腿)",
-        "Roast goose with rice (烧鹅饭)"
-      ],
-      "zh": [
-        "烧鹅腿",
-        "烧鹅饭"
-      ]
-    },
-    "tips": {
-      "en": "G/F, Po Wah Commercial Centre, 226 Hennessy Road. Hours ~11:30–21:30; tel +852 2520 1110. Queues are common. Map pin is approximate.",
-      "zh": "轩尼诗道226号宝华商业中心地下。营业约11:30–21:30；电话 +852 2520 1110。常要排队。地图位置为大约位置。"
-    }
-  },
-  {
-    "id": "mid-levels-escalator",
-    "aliases": [
-      "中环至半山自动扶梯"
-    ],
-    "kind": "sight",
-    "name": {
-      "en": "Central–Mid-Levels Escalator",
-      "zh": "中环至半山自动扶梯"
-    },
-    "city": "Hong Kong",
-    "query": "Central–Mid-Levels Escalator Hong Kong",
-    "lat": 22.283,
-    "lng": 114.1548,
-    "summary": {
-      "en": "Covered outdoor escalator up the hill from Central; free.",
-      "zh": "从中环往半山的户外有盖扶梯，免费。"
-    },
-    "why": {
-      "en": "Billed as the world's longest outdoor covered escalator system, it climbs from Central through the old streets towards the Mid-Levels. A short ride is a Hong Kong-only experience for kids, and it starts right by Tai Cheong Bakery and Lan Fong Yuen.",
-      "zh": "号称世界最长的户外有盖扶梯系统，从中环穿过老街一路往半山。坐一小段就是只有香港才有的体验，起点就在泰昌饼家和兰芳园旁边。"
-    },
-    "tips": {
-      "en": "It runs downhill in the morning and uphill from ~10:00. Map pin is approximate.",
-      "zh": "早上往下行，约10:00后改为往上行。地图位置为大约位置。"
-    }
-  },
-  {
-    "id": "toys-r-us-ocean-terminal",
-    "aliases": [
-      "海运大厦玩具反斗城"
-    ],
-    "kind": "shop",
-    "name": {
-      "en": "Toys\"R\"Us, Ocean Terminal",
-      "zh": "海运大厦玩具反斗城"
-    },
-    "city": "Hong Kong",
-    "query": "Toys R Us Ocean Terminal Harbour City Tsim Sha Tsui",
-    "lat": 22.2953,
-    "lng": 114.1685,
-    "summary": {
-      "en": "Toys\"R\"Us flagship in Ocean Terminal, Harbour City, next to the Star Ferry pier.",
-      "zh": "海港城海运大厦的玩具反斗城旗舰店，紧邻天星码头。"
-    },
-    "why": {
-      "en": "Toys\"R\"Us's first Hong Kong store was rebuilt as a flagship for its 40th year, with Pokémon Play Lab, a Tomica Brand Store, and Nintendo, Sanrio and VTech zones. It is a few minutes from the Star Ferry pier, so the kids can each pick a Hong Kong souvenir before the van.",
-      "zh": "玩具反斗城在香港的第一家店，40周年时改成旗舰店，有Pokémon Play Lab、Tomica专门店，以及Nintendo、Sanrio、VTech专区。离天星码头几分钟路，上车前让孩子各挑一件香港手信。"
-    },
-    "tips": {
-      "en": "Shop OT G21–24 and G39–42, Ocean Terminal. Hours unconfirmed (~11:00–21:00); check on the day.",
-      "zh": "海运大厦OT G21–24及G39–42号铺。营业时间未确认（约11:00–21:00），当天再看。"
-    }
+  "tips": {
+   "en": "Queues form after dinner; turnover is fast.",
+   "zh": "晚饭后会排队，但翻台很快。"
   }
+ },
+ {
+  "id": "baihua-dessert",
+  "aliases": [
+   "百花甜品"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Baihua Dessert",
+   "zh": "百花甜品"
+  },
+  "city": "Guangzhou",
+  "query": "百花甜品 文明路 越秀区 广州",
+  "lat": 23.1235,
+  "lng": 113.2748,
+  "summary": {
+   "en": "Old-school tong sui (sweet soup) shop on Wenming Road's dessert street.",
+   "zh": "文明路甜品街上的老字号糖水铺。"
+  },
+  "why": {
+   "en": "Wenming Road is Guangzhou's dessert street, and Baihua is its long-standing anchor. Its sesame and almond pastes are stone-ground and served hot, which is right for a December evening after Beijing Road.",
+   "zh": "文明路是广州的甜品街，百花是街上的老牌店。芝麻糊、杏仁糊用石磨磨制，热腾腾端上来，十二月逛完北京路吃一碗刚好。"
+  },
+  "highlights": {
+   "en": [
+    "Wenming Road's classic tong sui shop",
+    "Hot sweet soups for winter",
+    "A 10-minute walk from Beijing Road"
+   ],
+   "zh": [
+    "文明路的经典糖水铺",
+    "冬天适合吃热糖水",
+    "从北京路步行约10分钟"
+   ]
+  },
+  "mustTry": {
+   "en": [
+    "Black sesame paste (芝麻糊)",
+    "Almond paste (杏仁糊)",
+    "Coconut milk sago (椰汁西米露)"
+   ],
+   "zh": [
+    "芝麻糊",
+    "杏仁糊",
+    "椰汁西米露"
+   ]
+  }
+ },
+ {
+  "id": "lingnan-tiandi",
+  "aliases": [
+   "岭南天地：逛街加午餐"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Lingnan Tiandi",
+   "zh": "岭南天地"
+  },
+  "city": "Foshan",
+  "query": "Lingnan Tiandi, Chancheng, Foshan",
+  "lat": 23.0325,
+  "lng": 113.115,
+  "summary": {
+   "en": "Foshan's restored old quarter: grey-brick lanes, Republic-era villas and food.",
+   "zh": "佛山修复的老城区：青砖巷子、民国洋楼和美食。"
+  },
+  "why": {
+   "en": "Lingnan Tiandi is Foshan's best-preserved old town block, set right beside the Ancestral Temple. Qing-dynasty houses, the Jian family villas and the Wedding House are all within a few minutes' walk. Lunch, local snacks and Foshan souvenirs are found in the same lanes, so no car is needed until mid-afternoon.",
+   "zh": "岭南天地是佛山保留最完整的老城街区，紧挨祖庙。清代民居、简氏别墅、嫁娶屋都在步行几分钟内；午餐、小吃和佛山手信也在同一片巷子里，下午之前都不用坐车。"
+  },
+  "highlights": {
+   "en": [
+    "Next to the Ancestral Temple",
+    "Qing and Republic-era architecture",
+    "Blind-man cakes and other Foshan souvenirs"
+   ],
+   "zh": [
+    "紧邻祖庙",
+    "清代和民国建筑",
+    "盲公饼等佛山手信"
+   ]
+  }
+ },
+ {
+  "id": "chen-tim-kee",
+  "aliases": [
+   "陈添记"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Chen Tim Kee",
+   "zh": "陈添记"
+  },
+  "city": "Guangzhou",
+  "query": "陈添记 宝华路十五甫三巷 荔湾区 广州",
+  "lat": 23.1216,
+  "lng": 113.2499,
+  "summary": {
+   "en": "Alley shop on Baohua Road, famous for crunchy fish skin since the 1940s.",
+   "zh": "宝华路巷子里的老店，以爽鱼皮出名。"
+  },
+  "why": {
+   "en": "Chen Tim Kee is one of Xiguan’s classic old brands. Its fish skin is blanched, chilled and tossed with peanuts, sesame, coriander and ginger, so it is crunchy rather than fishy. A bowl of sampan congee (艇仔粥) is ordered on the side. It is a few minutes’ walk from Shangxiajiu, so it fits the Dec 21 evening walk.",
+   "zh": "陈添记是西关的经典老字号。鱼皮焯水后过冷，拌花生、芝麻、香菜和姜丝，爽脆不腥；再配一碗艇仔粥。离上下九只要步行几分钟，正好放在21号晚上的路线里。"
+  },
+  "highlights": {
+   "en": [
+    "Xiguan old brand, on the Guangzhou old-brand lists",
+    "Crunchy fish skin is the signature",
+    "A few minutes from Shangxiajiu"
+   ],
+   "zh": [
+    "西关老字号",
+    "招牌爽鱼皮",
+    "离上下九步行几分钟"
+   ]
+  },
+  "mustTry": {
+   "en": [
+    "Crunchy fish skin (爽鱼皮)",
+    "Sampan congee (艇仔粥)"
+   ],
+   "zh": [
+    "爽鱼皮",
+    "艇仔粥"
+   ]
+  },
+  "tips": {
+   "en": "Small shop; seating is limited at peak times.",
+   "zh": "店面小，饭点座位紧张。"
+  }
+ },
+ {
+  "id": "guangzhou-restaurant-wenchang",
+  "aliases": [
+   "广州酒家（文昌总店）",
+   "广州酒家"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Guangzhou Restaurant (Wenchang flagship)",
+   "zh": "广州酒家（文昌总店）"
+  },
+  "city": "Guangzhou",
+  "query": "广州酒家 文昌南路2号 荔湾区 广州",
+  "lat": 23.1186,
+  "lng": 113.2537,
+  "summary": {
+   "en": "Guangzhou’s best-known Cantonese restaurant brand, founded in 1935.",
+   "zh": "1935年创立的广州粤菜代表老字号。"
+  },
+  "why": {
+   "en": "Guangzhou Restaurant is the name most locals give for “classic Cantonese”. The Wenchang South Road flagship is the original site. Wenchang chicken is served with smooth, yellow skin and ginger-scallion dip, and the dim sum and roast meats are reliable all round. It suits a proper sit-down dinner before the night cruise.",
+   "zh": "广州酒家是很多本地人心里“正宗粤菜”的代名词，文昌南路是总店原址。文昌鸡皮爽肉滑、配姜葱蓉，点心和烧味都很稳，适合夜游前好好坐下来吃一顿。"
+  },
+  "highlights": {
+   "en": [
+    "Founded 1935; original flagship site",
+    "Signature Wenchang chicken",
+    "Dim sum and roast meats"
+   ],
+   "zh": [
+    "1935年创立，总店原址",
+    "招牌文昌鸡",
+    "点心、烧味"
+   ]
+  },
+  "mustTry": {
+   "en": [
+    "Wenchang chicken (文昌鸡)",
+    "Shrimp dumplings (虾饺)",
+    "Roast meats (烧味)"
+   ],
+   "zh": [
+    "文昌鸡",
+    "虾饺",
+    "烧味"
+   ]
+  },
+  "tips": {
+   "en": "Queues are long even with a booking (reviews mention 20 min to 2 hr). A table should be booked ahead, and the queue can be tracked via WeChat.",
+   "zh": "即使订位也常要等（评价提到20分钟到2小时）。建议提前订位，可用微信看排队进度。"
+  }
+ },
+ {
+  "id": "chalyishi-huachenghui",
+  "aliases": [
+   "茶理宜世（花城汇店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Cha Li Yi Shi (Mall of the World)",
+   "zh": "茶理宜世（花城汇店）"
+  },
+  "city": "Guangzhou",
+  "query": "茶理宜世 花城汇中区负1层 天河区 广州",
+  "lat": 23.11965,
+  "lng": 113.32457,
+  "summary": {
+   "en": "Guangzhou-born Chinese-style milk tea, inside Mall of the World.",
+   "zh": "广州本土国风奶茶，在花城汇里面。"
+  },
+  "why": {
+   "en": "Cha Li Yi Shi is a Guangzhou brand known for tea-forward, Chinese-style milk teas with floral notes. It sits in the same mall as the dessert stop, so a drink is added without any detour.",
+   "zh": "茶理宜世是广州本土品牌，奶茶茶味重、带花香，国风设计。就在甜品同一个商场，不用绕路。"
+  },
+  "mustTry": {
+   "en": [
+    "Yu Yu You Lan (郁郁幽兰)"
+   ],
+   "zh": [
+    "郁郁幽兰"
+   ]
+  }
+ },
+ {
+  "id": "linlee-beijing-road",
+  "aliases": [
+   "LINLEE林里（北京路店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "LINLEE (Beijing Road)",
+   "zh": "LINLEE林里（北京路店）"
+  },
+  "city": "Guangzhou",
+  "query": "LINLEE手打柠檬茶 北京路168号 越秀区 广州",
+  "lat": 23.1262,
+  "lng": 113.27,
+  "summary": {
+   "en": "Hand-pounded lemon tea on Beijing Road.",
+   "zh": "北京路上的手打柠檬茶。"
+  },
+  "why": {
+   "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+   "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+  },
+  "mustTry": {
+   "en": [
+    "Hand-pounded lemon tea (手打柠檬茶)"
+   ],
+   "zh": [
+    "手打柠檬茶"
+   ]
+  },
+  "tips": {
+   "en": "Map pin is approximate (168 Beijing Road).",
+   "zh": "地图位置为估算（北京路168号）。"
+  }
+ },
+ {
+  "id": "qiudashu-tianhe-south",
+  "aliases": [
+   "丘大叔柠檬茶（天河南店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Uncle Qiu Lemon Tea (Tianhe South)",
+   "zh": "丘大叔柠檬茶（天河南店）"
+  },
+  "city": "Guangzhou",
+  "query": "丘大叔柠檬茶 天河南路80号 天河区 广州",
+  "lat": 23.13095,
+  "lng": 113.32471,
+  "summary": {
+   "en": "The shop that made duck-shit oolong lemon tea famous.",
+   "zh": "把鸭屎香柠檬茶带火的店。"
+  },
+  "why": {
+   "en": "Uncle Qiu popularised lemon tea made with duck-shit oolong (鸭屎香), a Phoenix dancong tea named for its soil, not its taste. The tea gives a floral, honeyed aroma under the lemon. It is between K Hotel and Grandview Mall.",
+   "zh": "丘大叔把鸭屎香柠檬茶带火：鸭屎香是凤凰单丛的一种，名字来自土壤，跟味道无关，茶香带花蜜味。店就在 K Hotel 和正佳之间。"
+  },
+  "mustTry": {
+   "en": [
+    "Duck-shit oolong lemon tea (鸭屎香柠檬茶)"
+   ],
+   "zh": [
+    "鸭屎香柠檬茶"
+   ]
+  }
+ },
+ {
+  "id": "chalyishi-tianhe-south",
+  "aliases": [
+   "茶理宜世（天河南一路店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Cha Li Yi Shi (Tianhe South Road 1)",
+   "zh": "茶理宜世（天河南一路店）"
+  },
+  "city": "Guangzhou",
+  "query": "茶理宜世 天河南一路92号 天河区 广州",
+  "lat": 23.13092,
+  "lng": 113.3257,
+  "summary": {
+   "en": "Guangzhou-born Chinese-style milk tea, between K Hotel and Grandview.",
+   "zh": "广州本土国风奶茶，在 K Hotel 和正佳之间。"
+  },
+  "why": {
+   "en": "Cha Li Yi Shi is the milk-tea pick on Tianhe South Road 1, the street the walk to Grandview passes through. Its teas are tea-forward with floral notes.",
+   "zh": "茶理宜世是天河南一路上的奶茶选择，去正佳的路上经过。茶味重、带花香。"
+  },
+  "mustTry": {
+   "en": [
+    "Yu Yu You Lan (郁郁幽兰)"
+   ],
+   "zh": [
+    "郁郁幽兰"
+   ]
+  }
+ },
+ {
+  "id": "linlee-central-hk",
+  "aliases": [
+   "LINLEE（中环摆花街店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "LINLEE (Central, Lyndhurst Terrace)",
+   "zh": "LINLEE（中环摆花街店）"
+  },
+  "city": "Hong Kong",
+  "query": "LINLEE Central Lyndhurst Terrace Shop Hong Kong",
+  "lat": 22.2825433,
+  "lng": 114.1538151,
+  "summary": {
+   "en": "Hand-pounded lemon tea on Lyndhurst Terrace, next to Tai Cheong Bakery.",
+   "zh": "摆花街上的手打柠檬茶，就在泰昌饼家旁边。"
+  },
+  "why": {
+   "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+   "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+  },
+  "mustTry": {
+   "en": [
+    "Hand-pounded lemon tea (手打柠檬茶)"
+   ],
+   "zh": [
+    "手打柠檬茶"
+   ]
+  }
+ },
+ {
+  "id": "linlee-grandview",
+  "aliases": [
+   "LINLEE林里（正佳广场店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "LINLEE (Grandview Mall)",
+   "zh": "LINLEE林里（正佳广场店）"
+  },
+  "city": "Guangzhou",
+  "query": "LINLEE手打柠檬茶 正佳广场负一层 天河区 广州",
+  "lat": 23.132146,
+  "lng": 113.326998,
+  "summary": {
+   "en": "Hand-pounded lemon tea in Grandview Mall B1.",
+   "zh": "正佳广场负一层的手打柠檬茶。"
+  },
+  "why": {
+   "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+   "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+  },
+  "mustTry": {
+   "en": [
+    "Hand-pounded lemon tea (手打柠檬茶)"
+   ],
+   "zh": [
+    "手打柠檬茶"
+   ]
+  },
+  "tips": {
+   "en": "Map pin is the mall; the shop is on B1.",
+   "zh": "地图位置为商场，店在负一层。"
+  }
+ },
+ {
+  "id": "linlee-yuexiu-park",
+  "aliases": [
+   "LINLEE林里（越秀公园店）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "LINLEE (Yuexiu Park)",
+   "zh": "LINLEE林里（越秀公园店）"
+  },
+  "city": "Guangzhou",
+  "query": "LINLEE手打柠檬茶 流花路城壹汇 越秀公园地铁站 广州",
+  "lat": 23.1405,
+  "lng": 113.2625,
+  "summary": {
+   "en": "Hand-pounded lemon tea by Yuexiu Park Metro, near the Baima market area.",
+   "zh": "越秀公园地铁站旁的手打柠檬茶，靠近白马一带。"
+  },
+  "why": {
+   "en": "LINLEE is the brand most associated with Guangzhou’s hand-pounded lemon tea craze. Fresh lemons are pounded by hand into strong black or green tea, so it is sharp, fragrant and not too sweet. Sugar level can be adjusted when ordering.",
+   "zh": "LINLEE 是广州手打柠檬茶热潮里最有代表性的品牌。新鲜柠檬现场手打，配浓茶底，香气足、酸爽不腻；点单时可以选甜度。"
+  },
+  "mustTry": {
+   "en": [
+    "Hand-pounded lemon tea (手打柠檬茶)"
+   ],
+   "zh": [
+    "手打柠檬茶"
+   ]
+  },
+  "tips": {
+   "en": "Map pin is approximate; the shop is in Chengyi Hui mall B1, by Metro exit C.",
+   "zh": "地图位置为估算，店在城壹汇负一层，越秀公园地铁站C口旁。"
+  }
+ },
+ {
+  "id": "capital-cafe-wanchai",
+  "aliases": [
+   "華星冰室"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Capital Café (Wan Chai)",
+   "zh": "華星冰室（湾仔）"
+  },
+  "city": "Hong Kong",
+  "query": "Capital Cafe 華星冰室 6 Heard Street Wan Chai Hong Kong",
+  "lat": 22.2776,
+  "lng": 114.173,
+  "summary": {
+   "en": "Popular Hong Kong ice café known for milk tea and scrambled-egg toast.",
+   "zh": "香港人气冰室，奶茶和炒蛋多士出名。"
+  },
+  "why": {
+   "en": "Capital Café is one of Hong Kong’s best-known cha chaan teng-style ice cafés. Silky milk tea is served with fluffy scrambled-egg toast or a crispy condensed-milk bun, the classic afternoon break. It fits the Wan Chai stop on the way back to West Kowloon.",
+   "zh": "華星冰室是香港最有名的冰室之一。滑奶茶配嫩滑炒蛋多士或脆皮奶油猪仔包，是经典下午茶。正好在回西九龙前的湾仔站。"
+  },
+  "mustTry": {
+   "en": [
+    "Milk tea (奶茶)",
+    "Scrambled-egg toast (炒蛋多士)",
+    "Crispy condensed-milk bun (脆皮奶油猪仔包)"
+   ],
+   "zh": [
+    "奶茶",
+    "炒蛋多士",
+    "脆皮奶油猪仔包"
+   ]
+  },
+  "tips": {
+   "en": "Queues are moderate to long; shared tables are normal. Hours are roughly 07:00–21:00/22:00.",
+   "zh": "排队中到长，拼桌很正常。营业时间约07:00–21:00/22:00。"
+  }
+ },
+ {
+  "id": "kams-roast-goose-wanchai",
+  "aliases": [
+   "甘牌烧鹅"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Kam's Roast Goose",
+   "zh": "甘牌烧鹅"
+  },
+  "city": "Hong Kong",
+  "query": "Kam's Roast Goose 甘牌燒鵝 226 Hennessy Road Wan Chai Hong Kong",
+  "lat": 22.2778,
+  "lng": 114.1757,
+  "summary": {
+   "en": "Michelin-starred roast goose shop on Hennessy Road, Wan Chai.",
+   "zh": "湾仔轩尼诗道的米其林一星烧鹅店。"
+  },
+  "why": {
+   "en": "Kam's is one of Hong Kong's two famous roast-goose shops and holds a Michelin star. The goose comes with crisp, glossy skin and juicy meat; the leg is the cut to order. It is on the Ding Ding tram line, so it fits between Central and the Star Ferry.",
+   "zh": "甘牌是香港最有名的两家烧鹅店之一，拿过米其林一星。鹅皮脆亮、肉多汁，点鹅腿最好。就在叮叮车沿线，正好排在中环和天星小轮之间。"
+  },
+  "mustTry": {
+   "en": [
+    "Roast goose leg (烧鹅腿)",
+    "Roast goose with rice (烧鹅饭)"
+   ],
+   "zh": [
+    "烧鹅腿",
+    "烧鹅饭"
+   ]
+  },
+  "tips": {
+   "en": "G/F, Po Wah Commercial Centre, 226 Hennessy Road. Hours ~11:30–21:30; tel +852 2520 1110. Queues are common. Map pin is approximate.",
+   "zh": "轩尼诗道226号宝华商业中心地下。营业约11:30–21:30；电话 +852 2520 1110。常要排队。地图位置为大约位置。"
+  }
+ },
+ {
+  "id": "mid-levels-escalator",
+  "aliases": [
+   "中环至半山自动扶梯"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Central–Mid-Levels Escalator",
+   "zh": "中环至半山自动扶梯"
+  },
+  "city": "Hong Kong",
+  "query": "Central–Mid-Levels Escalator Hong Kong",
+  "lat": 22.283,
+  "lng": 114.1548,
+  "summary": {
+   "en": "Covered outdoor escalator up the hill from Central; free.",
+   "zh": "从中环往半山的户外有盖扶梯，免费。"
+  },
+  "why": {
+   "en": "Billed as the world's longest outdoor covered escalator system, it climbs from Central through the old streets towards the Mid-Levels. A short ride is a Hong Kong-only experience for kids, and it starts right by Tai Cheong Bakery and Lan Fong Yuen.",
+   "zh": "号称世界最长的户外有盖扶梯系统，从中环穿过老街一路往半山。坐一小段就是只有香港才有的体验，起点就在泰昌饼家和兰芳园旁边。"
+  },
+  "tips": {
+   "en": "It runs downhill in the morning and uphill from ~10:00. Map pin is approximate.",
+   "zh": "早上往下行，约10:00后改为往上行。地图位置为大约位置。"
+  }
+ },
+ {
+  "id": "toys-r-us-ocean-terminal",
+  "aliases": [
+   "海运大厦玩具反斗城"
+  ],
+  "kind": "shop",
+  "name": {
+   "en": "Toys\"R\"Us, Ocean Terminal",
+   "zh": "海运大厦玩具反斗城"
+  },
+  "city": "Hong Kong",
+  "query": "Toys R Us Ocean Terminal Harbour City Tsim Sha Tsui",
+  "lat": 22.2953,
+  "lng": 114.1685,
+  "summary": {
+   "en": "Toys\"R\"Us flagship in Ocean Terminal, Harbour City, next to the Star Ferry pier.",
+   "zh": "海港城海运大厦的玩具反斗城旗舰店，紧邻天星码头。"
+  },
+  "why": {
+   "en": "Toys\"R\"Us's first Hong Kong store was rebuilt as a flagship for its 40th year, with Pokémon Play Lab, a Tomica Brand Store, and Nintendo, Sanrio and VTech zones. It is a few minutes from the Star Ferry pier, so the kids can each pick a Hong Kong souvenir before the van.",
+   "zh": "玩具反斗城在香港的第一家店，40周年时改成旗舰店，有Pokémon Play Lab、Tomica专门店，以及Nintendo、Sanrio、VTech专区。离天星码头几分钟路，上车前让孩子各挑一件香港手信。"
+  },
+  "tips": {
+   "en": "Shop OT G21–24 and G39–42, Ocean Terminal. Hours unconfirmed (~11:00–21:00); check on the day.",
+   "zh": "海运大厦OT G21–24及G39–42号铺。营业时间未确认（约11:00–21:00），当天再看。"
+  }
+ },
+ {
+  "id": "sky-terrace-428",
+  "aliases": [
+   "凌霄阁摩天台428"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Sky Terrace 428",
+   "zh": "凌霄阁摩天台428"
+  },
+  "city": "Hong Kong",
+  "query": "Sky Terrace 428 Peak Tower Hong Kong",
+  "summary": {
+   "en": "Rooftop viewing deck on the Peak Tower, 428 m above sea level.",
+   "zh": "山顶凌霄阁顶层的观景台，海拔428米。"
+  },
+  "why": {
+   "en": "It gives the classic 360° view over Victoria Harbour and Hong Kong Island straight from the Peak Tram, with no hill walk. It is sold in combo tickets with the Peak Tram and Madame Tussauds.",
+   "zh": "下了山顶缆车就到，不用走山路，就能360度看维港和整个香港岛。可以和山顶缆车、杜莎夫人蜡像馆一起买套票。"
+  },
+  "tips": {
+   "en": "Reseller listings give weekday hours of about 10:00–21:00; confirm on the official site. It is windy and colder than the city.",
+   "zh": "代理网站写平日约10:00至21:00，以官网为准。山顶风大，比市区冷。"
+  }
+ },
+ {
+  "id": "ocean-terminal-deck",
+  "aliases": [
+   "海运大厦观景台"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Ocean Terminal Deck",
+   "zh": "海运大厦观景台"
+  },
+  "city": "Hong Kong",
+  "query": "Ocean Terminal Deck Harbour City Tsim Sha Tsui",
+  "summary": {
+   "en": "Free rooftop deck at the harbour end of Ocean Terminal, Harbour City.",
+   "zh": "海港城海运大厦尽头的免费海边天台。"
+  },
+  "why": {
+   "en": "It looks straight across Victoria Harbour to Hong Kong Island, is free, and sits in the same building as Toys\"R\"Us, so it is a last family photo right before the van.",
+   "zh": "正对维港和香港岛，免费，和玩具反斗城在同一座楼，上车前拍最后一张全家福最顺路。"
+  },
+  "tips": {
+   "en": "Harbour City lists 07:00–24:00; hours can change on holidays.",
+   "zh": "海港城写07:00至24:00，假日可能调整。"
+  }
+ },
+ {
+  "id": "tst-clock-tower",
+  "aliases": [
+   "尖沙咀钟楼"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Tsim Sha Tsui Clock Tower",
+   "zh": "尖沙咀钟楼"
+  },
+  "city": "Hong Kong",
+  "query": "Former Kowloon-Canton Railway Clock Tower Tsim Sha Tsui",
+  "summary": {
+   "en": "Clock tower of the former Kowloon–Canton Railway terminus, on the Tsim Sha Tsui waterfront.",
+   "zh": "前九广铁路尖沙咀总站留下的钟楼，在尖沙咀海边。"
+  },
+  "why": {
+   "en": "A Hong Kong landmark two minutes from the Star Ferry pier, so a harbourside photo costs almost no time.",
+   "zh": "香港地标，离天星码头只有两分钟，在海边拍张照几乎不花时间。"
+  },
+  "tips": {
+   "en": "Outdoor and free; viewed from outside.",
+   "zh": "户外免费，从外面看。"
+  }
+ },
+ {
+  "id": "choi-hung-estate",
+  "aliases": [
+   "彩虹邨"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Choi Hung Estate",
+   "zh": "彩虹邨"
+  },
+  "city": "Hong Kong",
+  "query": "Choi Hung Estate basketball court Hong Kong",
+  "summary": {
+   "en": "One of Hong Kong's older public housing estates, painted in rainbow colours.",
+   "zh": "香港较早期的公共屋邨之一，外墙漆成彩虹色。"
+  },
+  "why": {
+   "en": "The rainbow blocks and the basketball court on the car-park roof are among Hong Kong's best-known photo spots.",
+   "zh": "彩虹色外墙和停车场天台的篮球场，是香港最出名的拍照点之一。"
+  },
+  "tips": {
+   "en": "Residential estate: photos quietly, residents not blocked, on-site notices followed.",
+   "zh": "民居：小声拍照、不要挡路，遵守现场告示。"
+  }
+ },
+ {
+  "id": "monster-building",
+  "aliases": [
+   "怪兽大厦"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Monster Building",
+   "zh": "怪兽大厦"
+  },
+  "city": "Hong Kong",
+  "query": "Monster Building Yick Cheong Building Quarry Bay",
+  "summary": {
+   "en": "Five linked residential blocks in Quarry Bay, entered from Yick Cheong Building on King's Road.",
+   "zh": "鲗鱼涌五座相连的住宅大厦，从英皇道益昌大厦进入。"
+  },
+  "why": {
+   "en": "From the courtyard the windows rise on every side, the dense Hong Kong image seen in Transformers: Age of Extinction.",
+   "zh": "站在中庭四面都是密密麻麻的窗户，是《变形金刚4》里那种最“香港”的画面。"
+  },
+  "tips": {
+   "en": "Residential estate: photos quietly, residents not blocked, on-site notices followed.",
+   "zh": "民居：小声拍照、不要挡路，遵守现场告示。"
+  }
+ },
+ {
+  "id": "lugard-road-lookout",
+  "aliases": [
+   "卢吉道观景台"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "Lugard Road lookout",
+   "zh": "卢吉道观景台"
+  },
+  "city": "Hong Kong",
+  "query": "Lugard Road Lookout The Peak Hong Kong",
+  "summary": {
+   "en": "Free lookout on Lugard Road, a flat, shaded path around the Peak.",
+   "zh": "卢吉道上的免费观景点，环山顶的平路有树荫。"
+  },
+  "why": {
+   "en": "Often called the best free view of the harbour and Central skyline, about 10 minutes' flat walk from the Peak Tower.",
+   "zh": "常被称为看维港和中环天际线最好的免费观景点，从凌霄阁走平路约10分钟。"
+  },
+  "tips": {
+   "en": "No fee, no opening hours; the path is narrow, so kids should keep to the inside.",
+   "zh": "免费，没有开放时间限制；路比较窄，孩子走内侧。"
+  }
+ },
+ {
+  "id": "heritage-1881",
+  "aliases": [
+   "1881 Heritage"
+  ],
+  "kind": "sight",
+  "name": {
+   "en": "1881 Heritage",
+   "zh": "1881 Heritage（前水警总部）"
+  },
+  "city": "Hong Kong",
+  "query": "1881 Heritage 2A Canton Road Tsim Sha Tsui",
+  "summary": {
+   "en": "The former Marine Police Headquarters, a colonial compound on Canton Road now used for shops and a hotel.",
+   "zh": "前水警总部，广东道上的殖民地建筑群，现为商场和酒店。"
+  },
+  "why": {
+   "en": "Its lawns, arcades and clock tower are among Tsim Sha Tsui's best photo spots, and a free Christmas installation is usually set up in the main piazza at year end. It is a 3-minute walk from the Star Ferry pier.",
+   "zh": "草坪、拱廊和钟楼是尖沙咀最上镜的地方之一，年底主广场通常有免费的圣诞装置。离天星码头步行约3分钟。"
+  },
+  "tips": {
+   "en": "2A Canton Road. The 2026 Christmas installation had not been announced when checked (Nov 4, 2026); past displays were free, roughly 10:00–22:00.",
+   "zh": "广东道2A号。2026年的圣诞装置在11月4日查的时候还没公布；往年免费，约10:00至22:00。"
+  }
+ },
+ {
+  "id": "mammy-pancake-star-ferry",
+  "aliases": [
+   "媽咪雞蛋仔"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Mammy Pancake, Star Ferry Pier",
+   "zh": "媽咪雞蛋仔（尖沙咀天星码头）"
+  },
+  "city": "Hong Kong",
+  "query": "Mammy Pancake Star Ferry Pier Tsim Sha Tsui",
+  "summary": {
+   "en": "Egg-waffle shop at the Tsim Sha Tsui Star Ferry Pier; the brand is listed in the Michelin street food guide.",
+   "zh": "尖沙咀天星码头的鸡蛋仔店；这个品牌入选米其林街头小吃推介。"
+  },
+  "why": {
+   "en": "Hong Kong's signature street snack, made fresh: crisp bubbles outside, soft inside. The shop is where the Star Ferry lands, so it costs no detour.",
+   "zh": "香港最有代表性的街头小吃，现做：外面的小圆泡脆，里面软。就在下船的地方，不用绕路。"
+  },
+  "tips": {
+   "en": "Shops KP-13, 29 & 30, G/F, Star Ferry Pier, Salisbury Road. Google Maps shows an 11:00 opening (closing time not shown); payment methods unconfirmed; small stalls often take only cash or Octopus. The Carnarvon Road shop listed in older guides was not found on Google Maps (checked Nov 4, 2026).",
+   "zh": "梳士巴利道天星码头地下KP-13、29及30号铺。Google地图显示11:00开门（关门时间未显示）；付款方式未确认；这类小店常常只收现金或八达通。旧攻略写的加拿分道店在Google地图上找不到（2026年11月4日查）。"
+  }
+ },
+ {
+  "id": "tim-ho-wan-west-kowloon",
+  "aliases": [
+   "添好运（西九龙站）"
+  ],
+  "kind": "food",
+  "name": {
+   "en": "Tim Ho Wan, West Kowloon Station",
+   "zh": "添好运（西九龙站）"
+  },
+  "city": "Hong Kong",
+  "query": "Tim Ho Wan West Kowloon Station B1M",
+  "summary": {
+   "en": "Branch of the Michelin-recognised dim sum chain on level B1M of West Kowloon Station.",
+   "zh": "米其林推介过的点心连锁，在西九龙站B1M层的分店。"
+  },
+  "why": {
+   "en": "Tim Ho Wan made its name with Michelin-recognised dim sum at street prices; the baked BBQ pork bun is the dish everyone orders. Eating inside the station before clearance means no rushing for the train.",
+   "zh": "添好运以平价却拿过米其林推介的点心出名，酥皮焗叉烧包人人必点。在车站里通关前吃，不用赶车。"
+  },
+  "tips": {
+   "en": "Shop 1, B1M, Hong Kong West Kowloon Station. Google Maps shows closing at 21:30 (older sources: 09:00–21:30, last orders 21:00). Phone +852 2744 5722. Review sites list Visa, Mastercard and Apple Pay for the chain; confirm in store.",
+   "zh": "西九龙站B1M层1号铺。Google地图显示21:30关门（旧资料：09:00至21:30，21:00截单）。电话 +852 2744 5722。点评网站写这个连锁可用Visa、Mastercard、Apple Pay，以店内为准。"
+  }
+ }
 ]

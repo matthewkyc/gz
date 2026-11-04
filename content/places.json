@@ -144,7 +144,8 @@
   {
     "id": "avenue-of-stars",
     "aliases": [
-      "尖沙咀海滨、星光大道"
+      "尖沙咀海滨、星光大道",
+      "星光大道"
     ],
     "kind": "sight",
     "name": {
@@ -2165,6 +2166,55 @@
     "thumb": "/places/thumb/china-seasoning-culture-museum.jpg"
   },
   {
+    "id": "choi-hung-estate",
+    "aliases": [
+      "彩虹邨"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Choi Hung Estate",
+      "zh": "彩虹邨"
+    },
+    "city": "Hong Kong",
+    "query": "Choi Hung Estate basketball court Hong Kong",
+    "summary": {
+      "en": "One of Hong Kong's older public housing estates, painted in rainbow colours.",
+      "zh": "香港较早期的公共屋邨之一，外墙漆成彩虹色。"
+    },
+    "why": {
+      "en": "The rainbow blocks and the basketball court on the car-park roof are among Hong Kong's best-known photo spots.",
+      "zh": "彩虹色外墙和停车场天台的篮球场，是香港最出名的拍照点之一。"
+    },
+    "tips": {
+      "en": "Residential estate: photos quietly, residents not blocked, on-site notices followed.",
+      "zh": "民居：小声拍照、不要挡路，遵守现场告示。"
+    },
+    "image": "/places/choi-hung-estate.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 249,
+    "reviews": [
+      {
+        "author": "Breanna",
+        "rating": 4,
+        "text": "It's cool and aesthetic, but not really much more aside from that. It was very quiet on the day that we went. Please ensure you bring your own ball as there are none for public use. One of the nets was out of action. Overall it was cool and definitely worth checking out."
+      },
+      {
+        "author": "Bent Zent",
+        "rating": 5,
+        "text": "An iconic photo spot that also happens to be a public and free basketball court. Part of the public housing estate and complex, you'll find the courts at the top of the stairs from the carpark. Unless you're there to play, it's just a nice photo stop with the colourfully designed courts and surrounding apartments."
+      },
+      {
+        "author": "Diya Patel",
+        "rating": 5,
+        "text": "loved the court so colorful best to go early on around 10 am during the weekdays if you want photos"
+      }
+    ],
+    "lat": 22.3345262,
+    "lng": 114.2071925,
+    "thumb": "/places/thumb/choi-hung-estate.jpg"
+  },
+  {
     "id": "dafo-temple",
     "aliases": [
       "大佛寺"
@@ -3077,6 +3127,55 @@
       "en": "Name comes from an older guide; whether it is still open should be checked on the day.",
       "zh": "店名来自较早的攻略，到时确认是否仍在营业。"
     }
+  },
+  {
+    "id": "heritage-1881",
+    "aliases": [
+      "1881 Heritage"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "1881 Heritage",
+      "zh": "1881 Heritage（前水警总部）"
+    },
+    "city": "Hong Kong",
+    "query": "1881 Heritage 2A Canton Road Tsim Sha Tsui",
+    "summary": {
+      "en": "The former Marine Police Headquarters, a colonial compound on Canton Road now used for shops and a hotel.",
+      "zh": "前水警总部，广东道上的殖民地建筑群，现为商场和酒店。"
+    },
+    "why": {
+      "en": "Its lawns, arcades and clock tower are among Tsim Sha Tsui's best photo spots, and a free Christmas installation is usually set up in the main piazza at year end. It is a 3-minute walk from the Star Ferry pier.",
+      "zh": "草坪、拱廊和钟楼是尖沙咀最上镜的地方之一，年底主广场通常有免费的圣诞装置。离天星码头步行约3分钟。"
+    },
+    "tips": {
+      "en": "2A Canton Road. The 2026 Christmas installation had not been announced when checked (Nov 4, 2026); past displays were free, roughly 10:00–22:00.",
+      "zh": "广东道2A号。2026年的圣诞装置在11月4日查的时候还没公布；往年免费，约10:00至22:00。"
+    },
+    "image": "/places/heritage-1881.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.2,
+    "reviewCount": 6883,
+    "reviews": [
+      {
+        "author": "Yan W",
+        "rating": 4,
+        "text": "1881 Heritage is a stunning destination! It served as the Hong Kong Marine Police Headquarters until 1996, and today it beautifully preserves its historical architecture and artifacts. The entire plaza looks absolutely magical when lit up at night. Now housing luxury boutiques, fine dining, and upscale bars, it is the perfect outdoor shopping spot if you are looking to treat yourself to high-end items."
+      },
+      {
+        "author": "Joseph Chow",
+        "rating": 4,
+        "text": "This historical place was situated near the ferry pier and the bus terminal.  Visitors were welcomed free of charge. It was previously a marine police headquarter and also one of the weather observatories.  The facilities were well maintained but some escalators and stairway were closed.  Part of the platform with nice decorations was arranged for marriage celebration.  The view from the upper level was still attractive.  High-end  retail stores were operating in the place.  The point was worth a visit."
+      },
+      {
+        "author": "yoyo yiu",
+        "rating": 5,
+        "text": "It is a full of vintage and historical atmosphere!\nThe dinning is very nice with many professional cookers!\nI Enjoy all in 1881!\nRemember to bring your selfi stand to take more photos! I suggest all wear the vintage and elegant dessing!"
+      }
+    ],
+    "lat": 22.2951817,
+    "lng": 114.1697595,
+    "thumb": "/places/thumb/heritage-1881.jpg"
   },
   {
     "id": "hong-kong-tramways",
@@ -4484,6 +4583,55 @@
     "thumb": "/places/thumb/longtang-poetry-society.jpg"
   },
   {
+    "id": "lugard-road-lookout",
+    "aliases": [
+      "卢吉道观景台"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Lugard Road lookout",
+      "zh": "卢吉道观景台"
+    },
+    "city": "Hong Kong",
+    "query": "Lugard Road Lookout The Peak Hong Kong",
+    "summary": {
+      "en": "Free lookout on Lugard Road, a flat, shaded path around the Peak.",
+      "zh": "卢吉道上的免费观景点，环山顶的平路有树荫。"
+    },
+    "why": {
+      "en": "Often called the best free view of the harbour and Central skyline, about 10 minutes' flat walk from the Peak Tower.",
+      "zh": "常被称为看维港和中环天际线最好的免费观景点，从凌霄阁走平路约10分钟。"
+    },
+    "tips": {
+      "en": "No fee, no opening hours; the path is narrow, so kids should keep to the inside.",
+      "zh": "免费，没有开放时间限制；路比较窄，孩子走内侧。"
+    },
+    "image": "/places/lugard-road-lookout.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 2436,
+    "reviews": [
+      {
+        "author": "Flo G",
+        "rating": 5,
+        "text": "A wonderful spot for that panoramic Hong Kong view instead of the Peak Galleria with a sea of people. Easy hike flat trail for around 15-20 minutes to the end. Came by during sunset peak to catch sun setting and the night views. Coming here by bus 15 was a little challenging with full buses and winding exciting drives up the peak!! Do allow more time to get up here and down. Long snaking bus queues await going back to central. However buses came quite quickly which was a consolation. Still a worthwhile easy trail …"
+      },
+      {
+        "author": "YL Wong",
+        "rating": 4,
+        "text": "Nice peaceful walking trail, away from the tourist trap. This nicely paved road is loop, so u can walk clockwise or anti clockwise direction. Along the way, it's mostly shaded by the trees, can take rest & enjoy the beautiful view along the way… (vs the very crowded pagoda spot at the tram station) Set aside 1hr for this loop."
+      },
+      {
+        "author": "Rae Zyon",
+        "rating": 5,
+        "text": "The place to get the best panoramic view of the Hong Kong city skyline, especially at night. It's a little crowded as it's a well known spot, the road from The Peak Tower is paved and smooth albeit dark at some spots. Pretty safe even at night."
+      }
+    ],
+    "lat": 22.2781446,
+    "lng": 114.1467785,
+    "thumb": "/places/thumb/lugard-road-lookout.jpg"
+  },
+  {
     "id": "lychee-bay",
     "aliases": [
       "荔枝湾涌、文塔"
@@ -4648,6 +4796,52 @@
     "thumb": "/places/thumb/mall-of-the-world.jpg"
   },
   {
+    "id": "mammy-pancake-star-ferry",
+    "aliases": [
+      "媽咪雞蛋仔"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Mammy Pancake, Star Ferry Pier",
+      "zh": "媽咪雞蛋仔（尖沙咀天星码头）"
+    },
+    "city": "Hong Kong",
+    "query": "Mammy Pancake Star Ferry Pier Tsim Sha Tsui",
+    "summary": {
+      "en": "Egg-waffle shop at the Tsim Sha Tsui Star Ferry Pier; the brand is listed in the Michelin street food guide.",
+      "zh": "尖沙咀天星码头的鸡蛋仔店；这个品牌入选米其林街头小吃推介。"
+    },
+    "why": {
+      "en": "Hong Kong's signature street snack, made fresh: crisp bubbles outside, soft inside. The shop is where the Star Ferry lands, so it costs no detour.",
+      "zh": "香港最有代表性的街头小吃，现做：外面的小圆泡脆，里面软。就在下船的地方，不用绕路。"
+    },
+    "tips": {
+      "en": "Shops KP-13, 29 & 30, G/F, Star Ferry Pier, Salisbury Road. Google Maps shows an 11:00 opening (closing time not shown); payment methods unconfirmed; small stalls often take only cash or Octopus. The Carnarvon Road shop listed in older guides was not found on Google Maps (checked Nov 4, 2026).",
+      "zh": "梳士巴利道天星码头地下KP-13、29及30号铺。Google地图显示11:00开门（关门时间未显示）；付款方式未确认；这类小店常常只收现金或八达通。旧攻略写的加拿分道店在Google地图上找不到（2026年11月4日查）。"
+    },
+    "image": "/places/mammy-pancake-star-ferry.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 371,
+    "reviews": [
+      {
+        "author": "The Fox's Trails",
+        "text": "Stopped by a couple of times when catching the Ferry back or forth. Not on the same level as let's say Chicken Egg Boy, but a decent offering."
+      },
+      {
+        "author": "Michelle Yau",
+        "text": "I recommend this brand for eggs waffles & waffles no matter the locations in Hong Kong as a local! The quality of food from these brand keeps very good which I have tried 4-5 shops in Hong Kong already."
+      },
+      {
+        "author": "Alvin Choo",
+        "text": "These egg waffles were really decent! They have a QR code for online ordering and you get your items fresh in 10 minutes."
+      }
+    ],
+    "lat": 22.2937534,
+    "lng": 114.168671,
+    "thumb": "/places/thumb/mammy-pancake-star-ferry.jpg"
+  },
+  {
     "id": "mid-levels-escalator",
     "aliases": [
       "中环至半山自动扶梯"
@@ -4749,6 +4943,55 @@
       }
     ],
     "thumb": "/places/thumb/mixc-shenzhen-bay.jpg"
+  },
+  {
+    "id": "monster-building",
+    "aliases": [
+      "怪兽大厦"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Monster Building",
+      "zh": "怪兽大厦"
+    },
+    "city": "Hong Kong",
+    "query": "Monster Building Yick Cheong Building Quarry Bay",
+    "summary": {
+      "en": "Five linked residential blocks in Quarry Bay, entered from Yick Cheong Building on King's Road.",
+      "zh": "鲗鱼涌五座相连的住宅大厦，从英皇道益昌大厦进入。"
+    },
+    "why": {
+      "en": "From the courtyard the windows rise on every side, the dense Hong Kong image seen in Transformers: Age of Extinction.",
+      "zh": "站在中庭四面都是密密麻麻的窗户，是《变形金刚4》里那种最“香港”的画面。"
+    },
+    "tips": {
+      "en": "Residential estate: photos quietly, residents not blocked, on-site notices followed.",
+      "zh": "民居：小声拍照、不要挡路，遵守现场告示。"
+    },
+    "image": "/places/monster-building.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.4,
+    "reviewCount": 820,
+    "reviews": [
+      {
+        "author": "Rae Zyon",
+        "rating": 5,
+        "text": "A nice spot to take the famous monster buidling photos, quiet area on the ground level courtyard. There are some cafes and shops around for visitors."
+      },
+      {
+        "author": "Gustavo Orellana",
+        "rating": 5,
+        "text": "The Monster Building is absolutely worth a visit if you're in Hong Kong. It's one of those places that really makes you stop and think, the dense, towering architecture is both impressive and a bit shocking, giving a real glimpse into how locals live in such compact spaces. It's also an incredibly photogenic spot, every corner looks straight out of a movie, and it's perfect for anyone into urban photography or looking for that iconic Instagram shot. Despite being a residential area, it's a respectful and eye-opening stop that captures the essence of old Hong Kong living. Definitely worth the trip and highly recommended for travelers who want to …"
+      },
+      {
+        "author": "ChristianZ",
+        "rating": 5,
+        "text": "It's an obviously iconic building complex and seeing it in person is awe inspiring. It's another face of Hong Kong some people don't get to see but you can certainly feel the history behind it. Just be respectful of the locals who live there and you should be ok."
+      }
+    ],
+    "lat": 22.2842294,
+    "lng": 114.2122537,
+    "thumb": "/places/thumb/monster-building.jpg"
   },
   {
     "id": "mr-wildman-gelato",
@@ -5017,6 +5260,53 @@
       }
     ],
     "thumb": "/places/thumb/ng-zham-kee.jpg"
+  },
+  {
+    "id": "ocean-terminal-deck",
+    "aliases": [
+      "海运大厦观景台"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Ocean Terminal Deck",
+      "zh": "海运大厦观景台"
+    },
+    "city": "Hong Kong",
+    "query": "Ocean Terminal Deck Harbour City Tsim Sha Tsui",
+    "summary": {
+      "en": "Free rooftop deck at the harbour end of Ocean Terminal, Harbour City.",
+      "zh": "海港城海运大厦尽头的免费海边天台。"
+    },
+    "why": {
+      "en": "It looks straight across Victoria Harbour to Hong Kong Island, is free, and sits in the same building as Toys\"R\"Us, so it is a last family photo right before the van.",
+      "zh": "正对维港和香港岛，免费，和玩具反斗城在同一座楼，上车前拍最后一张全家福最顺路。"
+    },
+    "tips": {
+      "en": "Harbour City lists 07:00–24:00; hours can change on holidays.",
+      "zh": "海港城写07:00至24:00，假日可能调整。"
+    },
+    "image": "/places/ocean-terminal-deck.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 1823,
+    "reviews": [
+      {
+        "author": "Gajendra S",
+        "rating": 5,
+        "text": "I found this place accidentally. I had some leisure time and went to the Kowloon Park and kept walking and reached here. Amazing time and experience. Most of the tourists never reach here so more peaceful. The area is calm, you get time to enjoy beauty of the skyscrapers. Definitely recommended place to have some quiet personal time."
+      },
+      {
+        "author": "Tere Wong",
+        "rating": 5,
+        "text": "A hidden gem at the end of Ocean Terminal! 海運觀點 offers one of the best panoramic views of Victoria Harbour and the Hong Kong Island skyline—perfect for soaking in the sea breeze and snapping stunning photos. The unobstructed vantage point"
+      },
+      {
+        "author": "Jinjuta P.",
+        "rating": 5,
+        "text": "Viewpoints are on upper levels 4F-6F. Took the escalator in the mall or park your car and walk just less than 5 min. Stunning view. Not too busy on saturday of July. No raining luckily. Quite romantic"
+      }
+    ],
+    "thumb": "/places/thumb/ocean-terminal-deck.jpg"
   },
   {
     "id": "our-lady-of-lourdes-chapel",
@@ -6291,10 +6581,58 @@
     "thumb": "/places/thumb/shun-kee-ice-bar.jpg"
   },
   {
+    "id": "sky-terrace-428",
+    "aliases": [
+      "凌霄阁摩天台428"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Sky Terrace 428",
+      "zh": "凌霄阁摩天台428"
+    },
+    "city": "Hong Kong",
+    "query": "Sky Terrace 428 Peak Tower Hong Kong",
+    "summary": {
+      "en": "Rooftop viewing deck on the Peak Tower, 428 m above sea level.",
+      "zh": "山顶凌霄阁顶层的观景台，海拔428米。"
+    },
+    "why": {
+      "en": "It gives the classic 360° view over Victoria Harbour and Hong Kong Island straight from the Peak Tram, with no hill walk. It is sold in combo tickets with the Peak Tram and Madame Tussauds.",
+      "zh": "下了山顶缆车就到，不用走山路，就能360度看维港和整个香港岛。可以和山顶缆车、杜莎夫人蜡像馆一起买套票。"
+    },
+    "tips": {
+      "en": "Reseller listings give weekday hours of about 10:00–21:00; confirm on the official site. It is windy and colder than the city.",
+      "zh": "代理网站写平日约10:00至21:00，以官网为准。山顶风大，比市区冷。"
+    },
+    "image": "/places/sky-terrace-428.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.5,
+    "reviewCount": 4202,
+    "reviews": [
+      {
+        "author": "Colin Leung",
+        "rating": 5,
+        "text": "Worth paying the extra few dollars to see the very top of the Victoria Peak. Breathtaking views. Go on good weathered days to see the furthest. Go up between 8-10am to beat the crowds! Much more relaxing and enjoyable."
+      },
+      {
+        "author": "Ajay M",
+        "rating": 4,
+        "text": "The Peak Tram experience was one of the highlights of our Hong Kong trip! 🚋🏙️ The place was quite crowded when we visited, and interestingly, we saw a lot of Indian tourists enjoying the experience too. 🇮🇳"
+      },
+      {
+        "author": "akhil shanbhag",
+        "rating": 5,
+        "text": "Best views of Hong Kong. Make sure you go on a day when the weather forecast is sunny - otherwise it’ll be waste of money. You can stay for as long as you like, though it gets quite windy. Dress appropriately. Lots of restaurants and souvenir shops."
+      }
+    ],
+    "thumb": "/places/thumb/sky-terrace-428.jpg"
+  },
+  {
     "id": "star-ferry",
     "aliases": [
       "天星小轮",
-      "天星小轮：湾仔 → 尖沙咀"
+      "天星小轮：湾仔 → 尖沙咀",
+      "天星小轮：中环 → 尖沙咀"
     ],
     "kind": "ride",
     "name": {
@@ -7042,6 +7380,52 @@
     ]
   },
   {
+    "id": "tim-ho-wan-west-kowloon",
+    "aliases": [
+      "添好运（西九龙站）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tim Ho Wan, West Kowloon Station",
+      "zh": "添好运（西九龙站）"
+    },
+    "city": "Hong Kong",
+    "query": "Tim Ho Wan West Kowloon Station B1M",
+    "summary": {
+      "en": "Branch of the Michelin-recognised dim sum chain on level B1M of West Kowloon Station.",
+      "zh": "米其林推介过的点心连锁，在西九龙站B1M层的分店。"
+    },
+    "why": {
+      "en": "Tim Ho Wan made its name with Michelin-recognised dim sum at street prices; the baked BBQ pork bun is the dish everyone orders. Eating inside the station before clearance means no rushing for the train.",
+      "zh": "添好运以平价却拿过米其林推介的点心出名，酥皮焗叉烧包人人必点。在车站里通关前吃，不用赶车。"
+    },
+    "tips": {
+      "en": "Shop 1, B1M, Hong Kong West Kowloon Station. Google Maps shows closing at 21:30 (older sources: 09:00–21:30, last orders 21:00). Phone +852 2744 5722. Review sites list Visa, Mastercard and Apple Pay for the chain; confirm in store.",
+      "zh": "西九龙站B1M层1号铺。Google地图显示21:30关门（旧资料：09:00至21:30，21:00截单）。电话 +852 2744 5722。点评网站写这个连锁可用Visa、Mastercard、Apple Pay，以店内为准。"
+    },
+    "image": "/places/tim-ho-wan-west-kowloon.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 1505,
+    "reviews": [
+      {
+        "author": "How Ying Lai",
+        "text": "The original Tim Ho Wan in Sham Shui Po (I haven’t tried the Mong Kok branch) deserves its Michelin star. This branch, however, feels like it’s riding on the popularity of the name. The pineapple bun arrived lukewarm, while the siew mai was"
+      },
+      {
+        "author": "S D",
+        "text": "It is a little tricky to find the store as you have to take a “separate escalator” to get to the restaurant."
+      },
+      {
+        "author": "Ronald Po",
+        "text": "Conveniently located in the High Speed Rail Station, this Tim Ho Wan is perfect for a pre-travel bite. While it lacks the grit of the original, it offers cleaner, spacious seating and shorter queues. The signature Baked BBQ Pork Buns remain essential—crispy, sweet, and consistently excellent. Fast and reliable."
+      }
+    ],
+    "lat": 22.3039409,
+    "lng": 114.1648762,
+    "thumb": "/places/thumb/tim-ho-wan-west-kowloon.jpg"
+  },
+  {
     "id": "toys-r-us-ocean-terminal",
     "aliases": [
       "海运大厦玩具反斗城"
@@ -7157,6 +7541,53 @@
       }
     ],
     "thumb": "/places/thumb/tsim-chai-kee-noodle.jpg"
+  },
+  {
+    "id": "tst-clock-tower",
+    "aliases": [
+      "尖沙咀钟楼"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Tsim Sha Tsui Clock Tower",
+      "zh": "尖沙咀钟楼"
+    },
+    "city": "Hong Kong",
+    "query": "Former Kowloon-Canton Railway Clock Tower Tsim Sha Tsui",
+    "summary": {
+      "en": "Clock tower of the former Kowloon–Canton Railway terminus, on the Tsim Sha Tsui waterfront.",
+      "zh": "前九广铁路尖沙咀总站留下的钟楼，在尖沙咀海边。"
+    },
+    "why": {
+      "en": "A Hong Kong landmark two minutes from the Star Ferry pier, so a harbourside photo costs almost no time.",
+      "zh": "香港地标，离天星码头只有两分钟，在海边拍张照几乎不花时间。"
+    },
+    "tips": {
+      "en": "Outdoor and free; viewed from outside.",
+      "zh": "户外免费，从外面看。"
+    },
+    "image": "/places/tst-clock-tower.jpg",
+    "imageCredit": "Wikimedia Commons, Mk2010, CC BY-SA 4.0",
+    "rating": 4.4,
+    "reviewCount": 5494,
+    "reviews": [
+      {
+        "author": "Doug Ho",
+        "rating": 5,
+        "text": "The Former Kowloon-Canton Railway Clock Tower, officially named the Clock Tower, is located in Tsim Sha Tsui, Kowloon, Hong Kong. It is a prominent, iconic landmark near the Victoria Harbour waterfront and the Star Ferry Pier. The"
+      },
+      {
+        "author": "Ato Chavez",
+        "rating": 5,
+        "text": "If it’s your first time in Hong Kong, you cannot miss the Tsim Sha Tsui Clock Tower. It’s a beautiful piece of history made of classic red brick and granite. It sits right next to the Victoria Harbour waterfront, making it the perfect spot"
+      },
+      {
+        "author": "Orathai Boonrossak",
+        "rating": 5,
+        "text": "The Former Kowloon-Canton Railway Clock Tower is one of Hong Kong’s most important historical landmarks, standing proudly along the Tsim Sha Tsui waterfront. Built in 1915, this red-brick clock tower is all that remains of the original"
+      }
+    ],
+    "thumb": "/places/thumb/tst-clock-tower.jpg"
   },
   {
     "id": "victoria-peak",
