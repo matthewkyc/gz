@@ -891,14 +891,15 @@ h4.title { font-size: 16px; }
   }
   @page { margin: 14mm 12mm; }
   body { background: #fff !important; color: #000; font-size: 12px; }
-  .titlebar, .stripbar, .edge, .day-tabs, .tip, .thumb, .banner, .backup, .nextday, .hint,
+  .titlebar, .stripbar, .edge, .day-tabs, .tip, .thumb, .pt-thumb, .banner, .backup, .nextday, .hint,
   .scrim, .sheet, .tleg-didi, .card-chev { display: none !important; }
   .page, .page * { transform: none !important; }
   .dh-reveal, .page, .day * { opacity: 1 !important; visibility: visible !important; }
   .pager, .day { padding: 0 !important; margin: 0 !important; max-width: none !important; }
   .dayhead { padding-top: 0 !important; }
   .tl { margin-top: 12px; }
-  .row, .stop, .card, .tleg, .xgroup, .stop-section { break-inside: avoid; }
+  .stop, .card, .tleg, .stop-section, .title-line { break-inside: avoid; }
+  .stop-section, .title-line { break-after: avoid; }
   .card, .chip { box-shadow: none !important; border: 0.5px solid var(--line); }
   a { color: inherit; text-decoration: none; }
 }
