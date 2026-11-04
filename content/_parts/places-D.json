@@ -27,17 +27,17 @@
   },
   {
     "id": "mr-wildman-gelato",
-    "aliases": ["野人先生"],
+    "aliases": ["野人先生", "野人先生（正佳广场店）", "甜品：野人先生（正佳广场店）"],
     "kind": "food",
     "name": {"en": "Mr. Wild Man Gelato", "zh": "野人先生"},
     "city": "Guangzhou",
-    "query": "野人先生 gelato Tianhe Road, Guangzhou",
+    "query": "野人先生 广州正佳广场店 天河路228号",
     "lat": 23.1325, "lng": 113.3230,
     "summary": {"en": "Chinese gelato chain, made fresh in-store each day with many rotating flavours.", "zh": "国内连锁意式冰淇淋店，每天店内现做，口味多且常换。"},
     "why": {"en": "Gelato is made in-store daily, and local flavours appear next to Italian classics. Tasting is offered before choosing, so kids can try several.", "zh": "每天店内现做，除了经典意式口味，还有本地特色口味。可以先试吃再选，孩子能多试几种。"},
     "highlights": {"en": ["Made fresh daily", "Tasting before ordering", "Several branches around Tianhe Road"], "zh": ["每天现做", "可以先试吃", "天河路一带有多家分店"]},
     "mustTry": {"en": ["Seasonal fruit gelato (时令水果)", "Pistachio (开心果)"], "zh": ["时令水果口味", "开心果口味"]},
-    "tips": {"en": "English brand name and exact branch unconfirmed; search “野人先生” in Amap and pick the nearest Tianhe Road branch.", "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"}
+    "tips": {"en": "Grandview Mall branch: Shop D108, 1F, Grandview Mall, 228 Tianhe Road (广州正佳广场店，天河路228号正佳广场1楼D108号铺). English brand name unconfirmed.", "zh": "广州正佳广场店：天河路228号，正佳广场1楼D108号铺。英文名未核实。"}
   },
   {
     "id": "foshan-ancestral-temple",

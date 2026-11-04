@@ -83,13 +83,28 @@
     },
     {
       "start": "14:30",
+      "end": "14:45",
+      "title": "Dessert: Mr. Wild Man Gelato (野人先生), Grandview Mall branch",
+      "note": "Shop D108, 1F, Grandview Mall, 228 Tianhe Road. Down to 1F after lunch.",
+      "food": [
+        {
+          "name": "Mr. Wild Man Gelato, Grandview Mall (野人先生（正佳广场店）)",
+          "desc": "Gelato made fresh daily; flavours can be tasted before choosing."
+        }
+      ],
+      "tags": [
+        "甜品"
+      ]
+    },
+    {
+      "start": "14:45",
       "end": "17:15",
       "title": "Grandview 3F: sports brands",
       "note": "Tennis shoes and sportswear. If time allows, neighbouring Teemall (天河城) and Parc Central (天环广场) are worth a look.",
       "group": "a"
     },
     {
-      "start": "14:30",
+      "start": "14:45",
       "end": "17:15",
       "title": "Fashion Tianhe (时尚天河): anime, collectible toys",
       "note": "~10 min walk from Grandview to beneath Tianhe Sports Center. Anime, designer toys and budget shops are concentrated here.",

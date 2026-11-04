@@ -78,16 +78,6 @@
           "tags": [
             "Shopping"
           ]
-        },
-        {
-          "time": "16:30",
-          "title": "Mr. Wild Man Gelato (野人先生)",
-          "walk": "Search “野人先生” in Amap; pick a branch around Tianhe Road",
-          "desc": "Popular Italian-style gelato, made fresh daily, many flavours; tasting is offered.",
-          "tags": [
-            "Dessert"
-          ],
-          "tip": "Flavours can be tasted before choosing."
         }
       ]
     },
@@ -112,5 +102,5 @@
       ]
     }
   ],
-  "intro": "Rest day; late start\n09:00: laundry\nAfternoon stroll: Grandview Mall, Tianhe Sports Center, Teemall\nGelato at Mr. Wild Man"
+  "intro": "Rest day; late start\n09:00: laundry\nAfternoon stroll: Grandview Mall, Tianhe Sports Center, Teemall"
 }

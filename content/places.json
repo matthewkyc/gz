@@ -5016,7 +5016,9 @@
   {
     "id": "mr-wildman-gelato",
     "aliases": [
-      "野人先生"
+      "野人先生",
+      "野人先生（正佳广场店）",
+      "甜品：野人先生（正佳广场店）"
     ],
     "kind": "food",
     "name": {
@@ -5024,7 +5026,7 @@
       "zh": "野人先生"
     },
     "city": "Guangzhou",
-    "query": "野人先生 gelato Tianhe Road, Guangzhou",
+    "query": "野人先生 广州正佳广场店 天河路228号",
     "lat": 23.1325,
     "lng": 113.323,
     "summary": {
@@ -5058,8 +5060,8 @@
       ]
     },
     "tips": {
-      "en": "English brand name and exact branch unconfirmed; search “野人先生” in Amap and pick the nearest Tianhe Road branch.",
-      "zh": "英文名和具体分店未核实；在高德搜“野人先生”，选天河路附近的分店。"
+      "en": "Grandview Mall branch: Shop D108, 1F, Grandview Mall, 228 Tianhe Road (广州正佳广场店，天河路228号正佳广场1楼D108号铺). English brand name unconfirmed.",
+      "zh": "广州正佳广场店：天河路228号，正佳广场1楼D108号铺。英文名未核实。"
     },
     "image": "/places/mr-wildman-gelato.jpg",
     "imageCredit": "Wikimedia Commons, WAOSNMAH wocnaprm, CC0 (another branch)",
