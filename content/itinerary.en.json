@@ -1584,53 +1584,30 @@
       "locked": true,
       "theme": "Shenzhen tech day trip",
       "away": "Shenzhen",
-      "intro": "HSR to Shenzhen; chartered car all day\nRobot 6S Store and AI 6S Store, Longgang\nINNO100: exoskeletons, smart glasses\nSunset at Shenzhen Bay; coconut chicken dinner",
+      "intro": "Chartered car all day, from and back to the hotel\nRobot 6S Store and AI 6S Store, Longgang\nINNO100: exoskeletons, smart glasses\nSunset at Shenzhen Bay; coconut chicken dinner",
       "items": [
         {
-          "start": "07:15",
-          "end": "08:00",
+          "start": "07:45",
+          "end": "08:30",
           "title": "Breakfast",
           "food": [
             {
               "name": "Hotel breakfast",
               "desc": "Early departure"
-            },
-            {
-              "name": "Inside the HSR station",
-              "desc": "Fast-food chains inside the station"
             }
           ]
         },
         {
-          "start": "08:00",
-          "end": "08:40",
-          "title": "K Hotel → Guangzhou South Station (广州南站)",
-          "note": "Taxi, ~40 min."
-        },
-        {
-          "start": "08:40",
-          "end": "09:00",
-          "title": "Enter station and wait",
-          "note": "HSR tickets should be bought in advance on 12306. Enter by scanning the ID used for booking.",
-          "tip": "Foreign visitors can book on 12306 with a passport; sales usually open 15 days ahead. The passport original is needed at the gate. Sources differ on whether a paper ticket must be collected first, so check the booking confirmation or ask at the Guangzhou South ticket machines or counter."
-        },
-        {
-          "start": "09:00",
-          "end": "09:35",
-          "title": "HSR: Guangzhou South → Shenzhen North (深圳北)",
-          "note": "~35 min. Shenzhen North is closest to Bantian, Longgang."
-        },
-        {
-          "start": "09:35",
+          "start": "08:30",
           "end": "10:30",
-          "title": "Shenzhen North → Bantian, Longgang (龙岗坂田)",
-          "note": "Meet the local chartered car at Shenzhen North. Drive ~25 min.. The exact exit is agreed with the driver.",
-          "tip": "Price, hours, and whether tolls and parking are included should be agreed before the charter.",
+          "title": "Chartered car: K Hotel → Bantian, Longgang (龙岗坂田)",
+          "note": "Picked up at the hotel door. Drive ~2 hr. The Robot 6S Store opens at 10:00.",
+          "tip": "A Shenzhen-plated (粤B) car is used, so Shenzhen’s peak-hour limits on non-Shenzhen cars do not apply. The charter runs ~08:30–20:30 (12 hr), Guangzhou–Shenzhen and back. Price, hours, and whether tolls and parking are included should be agreed beforehand.",
           "route": [
             {
-              "time": "09:35",
-              "title": "Shenzhen North Station → Galaxy WORLD",
-              "pick": "Private-car drop-off/pick-up area at Shenzhen North Station; confirm the exit with the driver by phone after leaving the station",
+              "time": "08:30",
+              "title": "K Hotel → Galaxy WORLD",
+              "pick": "Outside K Hotel (81 Huangpu Avenue West); the exact spot is agreed with the driver",
               "drop": "At the Galaxy WORLD (星河WORLD) campus entrance, Bantian, Longgang; exact spot unconfirmed"
             }
           ]
@@ -1698,7 +1675,7 @@
           "start": "13:30",
           "end": "14:15",
           "title": "Chartered car: Longgang → Shenzhen Bay, Nanshan",
-          "note": "Drive ~40 min.. The driver waits near Galaxy WORLD in the morning; agree beforehand whether the car waits all day and how that is charged.",
+          "note": "Drive ~40 min. The driver waits near Galaxy WORLD in the morning; agree beforehand whether the car waits all day and how that is charged.",
           "route": [
             {
               "time": "13:30",
@@ -1716,7 +1693,7 @@
         },
         {
           "start": "16:30",
-          "end": "17:40",
+          "end": "17:45",
           "title": "Shenzhen Bay highlights",
           "note": "Short transfers by chartered car.",
           "route": [
@@ -1745,8 +1722,8 @@
           ]
         },
         {
-          "start": "17:40",
-          "end": "18:40",
+          "start": "17:45",
+          "end": "18:30",
           "title": "Dinner: Shenzhen Bay area",
           "food": [
             {
@@ -1763,33 +1740,21 @@
             }
           ],
           "tip": "Coconut chicken and beef hotpot are both chains; the driver should be asked to go to the branch nearest Shenzhen Bay.",
-          "note": "The car picks the group up outside the restaurant; tell the driver which one once chosen."
+          "note": "The car picks the group up outside the restaurant; tell the driver which one once chosen. Dinner is kept to ~45 min so the car leaves at 18:30."
         },
         {
-          "start": "18:40",
-          "end": "19:15",
-          "title": "Chartered car: Nanshan → Shenzhen North",
-          "note": "Drive ~30 min. When booking, trains from Futian Station (福田站) can also be compared.",
+          "start": "18:30",
+          "end": "20:30",
+          "title": "Chartered car: Nanshan → K Hotel",
+          "note": "Drive ~2 hr; back at the hotel ~20:30.",
           "route": [
             {
-              "time": "18:40",
-              "title": "Dinner restaurant → Shenzhen North Station",
+              "time": "18:30",
+              "title": "Dinner restaurant → K Hotel",
               "pick": "Outside the dinner restaurant; the exact spot is agreed with the driver",
-              "drop": "Private-car drop-off area at Shenzhen North Station; the exact spot is agreed with the driver"
+              "drop": "Outside K Hotel (81 Huangpu Avenue West)"
             }
           ]
-        },
-        {
-          "start": "20:00",
-          "end": "20:35",
-          "title": "HSR: Shenzhen North → Guangzhou South",
-          "note": "~20:00 train; ~45 min is left to enter the station and clear security. The exact train should be checked on 12306."
-        },
-        {
-          "start": "20:35",
-          "end": "21:20",
-          "title": "Guangzhou South → K Hotel",
-          "note": "Taxi, ~40 min."
         }
       ]
     },
