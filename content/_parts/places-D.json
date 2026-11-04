@@ -50,7 +50,8 @@
     "summary": {"en": "Taoist temple to the god Beidi, first built in the Northern Song dynasty; home to the lion dance show and kung fu memorial halls.", "zh": "供奉北帝的道观，始建于北宋；醒狮表演和武术纪念馆都在里面。"},
     "why": {"en": "Its ridges are covered in coloured Shiwan ceramic figures — some of the finest Lingnan decorative art anywhere. The daily lion dance and kung fu show, the Wong Fei-hung and Ip Man halls, and a Qing opera stage are all covered by one ticket, so a full morning is spent without moving the car.", "zh": "屋脊上满是彩色石湾陶塑，是岭南装饰艺术的精品。每天的醒狮武术表演、黄飞鸿和叶问纪念馆、清代古戏台都在一张门票里，一个上午不用挪车。"},
     "highlights": {"en": ["Ceramic ridge figures and wood and brick carvings on the main hall", "Daily lion dance and kung fu shows", "Wong Fei-hung Memorial Hall and Ip Man Hall inside", "Wanfu Stage, a Qing-dynasty opera stage"], "zh": ["大殿的陶塑瓦脊、木雕、砖雕", "每天有醒狮武术表演", "园内有黄飞鸿纪念馆和叶问堂", "清代古戏台万福台"]},
-    "tips": {"en": "Open 08:30–18:00. Ask at entry whether same-day re-entry is allowed.", "zh": "开放时间08:30–18:00；入园时问清楚当天能否再进。"}
+    "tips": {"en": "Open 08:30–18:00. Ask at entry whether same-day re-entry is allowed.", "zh": "开放时间08:30–18:00；入园时问清楚当天能否再进。"},
+    "ticket": {"en": "Ticket required (older sources: ~¥20, free under 1.2 m; unverified)", "zh": "要买门票（旧资料约¥20，1.2米以下儿童免费，未核实）"}
   },
   {
     "id": "foshan-lion-dance-show",
@@ -63,7 +64,8 @@
     "summary": {"en": "Daily southern lion dance and kung fu performance inside the temple grounds.", "zh": "祖庙内每天上演的南狮和武术表演。"},
     "why": {"en": "Foshan is the home of the southern lion dance, and this show is performed in the town where Wong Fei-hung's lineage was rooted. Lions climb poles and leap between stands while drums play; kids are usually spellbound.", "zh": "佛山是南狮的发源地，也是黄飞鸿武术流派扎根的地方。狮子在鼓声中上桩、跳跃，孩子通常看得目不转睛。"},
     "highlights": {"en": ["10:00–10:40 daily, plus 14:15 and 15:30", "Pole-jumping lions to live drums", "Kung fu forms by local troupes"], "zh": ["每天10:00至10:40，下午14:15和15:30", "现场鼓乐，狮子上桩", "本地武馆的武术套路"]},
-    "tips": {"en": "Arrive 15 min early for front spots. Suspended in rain; times and venue per the temple notice on the day.", "zh": "提前15分钟到占前排；雨天暂停，时间和场地以当天公告为准。"}
+    "tips": {"en": "Arrive 15 min early for front spots. Suspended in rain; times and venue per the temple notice on the day.", "zh": "提前15分钟到占前排；雨天暂停，时间和场地以当天公告为准。"},
+    "ticket": {"en": "Inside the Ancestral Temple; covered by its ticket", "zh": "在祖庙内，凭祖庙门票"}
   },
   {
     "id": "wong-fei-hung-memorial-hall",
@@ -75,7 +77,8 @@
     "lat": 23.0342, "lng": 113.1103,
     "summary": {"en": "Memorial hall to the Foshan-born martial artist and physician Wong Fei-hung, inside the temple grounds.", "zh": "纪念佛山武术家、医师黄飞鸿的展馆，在祖庙景区内。"},
     "why": {"en": "Wong Fei-hung is the folk hero of dozens of kung fu films, and his real life as a martial artist and doctor is shown here. Kids who have seen the films can match the legend to the man.", "zh": "黄飞鸿是几十部功夫片的主角，这里展示他作为武师和医生的真实生平。看过电影的孩子可以对照传说和真人。"},
-    "highlights": {"en": ["Life story of Wong Fei-hung", "Film stills and kung fu exhibits", "Included in the temple ticket"], "zh": ["黄飞鸿生平", "电影剧照和武术展品", "祖庙门票已包含"]}
+    "highlights": {"en": ["Life story of Wong Fei-hung", "Film stills and kung fu exhibits", "Included in the temple ticket"], "zh": ["黄飞鸿生平", "电影剧照和武术展品", "祖庙门票已包含"]},
+    "ticket": {"en": "Inside the Ancestral Temple; covered by its ticket", "zh": "在祖庙内，凭祖庙门票"}
   },
   {
     "id": "ip-man-hall",
@@ -87,7 +90,8 @@
     "lat": 23.0345, "lng": 113.1108,
     "summary": {"en": "Memorial hall to Foshan-born Wing Chun master Ip Man, teacher of Bruce Lee.", "zh": "纪念佛山咏春宗师叶问的展馆，叶问是李小龙的师父。"},
     "why": {"en": "Ip Man was born in Foshan and later taught Bruce Lee in Hong Kong. Wooden training dummies (木人桩) are set up for photos, which kids enjoy trying.", "zh": "叶问生于佛山，后来在香港教出了李小龙。馆内有木人桩可以拍照，孩子喜欢上手试。"},
-    "highlights": {"en": ["Ip Man's life and the Wing Chun lineage", "Wooden dummies for photos", "Link to Bruce Lee"], "zh": ["叶问生平和咏春传承", "木人桩拍照", "与李小龙的渊源"]}
+    "highlights": {"en": ["Ip Man's life and the Wing Chun lineage", "Wooden dummies for photos", "Link to Bruce Lee"], "zh": ["叶问生平和咏春传承", "木人桩拍照", "与李小龙的渊源"]},
+    "ticket": {"en": "Inside the Ancestral Temple; covered by its ticket", "zh": "在祖庙内，凭祖庙门票"}
   },
   {
     "id": "wanfu-stage-cantonese-opera",
@@ -100,7 +104,8 @@
     "summary": {"en": "Weekend Cantonese opera on a Qing-dynasty stage inside Foshan Ancestral Temple.", "zh": "周末在祖庙清代古戏台万福台上演的粤剧。"},
     "why": {"en": "Foshan is regarded as a birthplace of Cantonese opera, and Wanfu Stage, built in the Qing dynasty, is one of the oldest surviving opera stages in Guangdong. Costumes, gilded carvings and live music can be seen up close; half an hour is enough for kids.", "zh": "佛山被视为粤剧发源地之一，万福台建于清代，是广东现存最古老的戏台之一。戏服、金漆木雕和现场乐队都能近看，孩子看半小时就够。"},
     "highlights": {"en": ["Weekend afternoons 13:30–15:30", "Gilded Qing-dynasty stage", "Live music and full costume"], "zh": ["周末下午13:30至15:30", "清代金漆木雕戏台", "现场乐队、全套戏服"]},
-    "tips": {"en": "Schedule per the temple notice on the day; re-entry to the temple may need a ticket.", "zh": "演出时间以当天公告为准；重新入园可能要门票。"}
+    "tips": {"en": "Schedule per the temple notice on the day; re-entry to the temple may need a ticket.", "zh": "演出时间以当天公告为准；重新入园可能要门票。"},
+    "ticket": {"en": "Inside the Ancestral Temple; covered by its ticket", "zh": "在祖庙内，凭祖庙门票"}
   },
   {
     "id": "lingnan-tiandi-clock-tower",
@@ -243,7 +248,8 @@
     "summary": {"en": "One of the Four Great Gardens of Lingnan, a Ming-Qing private garden in central Daliang.", "zh": "岭南四大名园之一，大良城中的明清私家园林。"},
     "why": {"en": "Lingnan garden design is seen at its most compact here: bridges, ponds, bamboo and carved windows fitted into a small town plot. Paths and small bridges keep kids exploring, and a full loop takes only about 50 minutes.", "zh": "岭南园林在小块地上把小桥、水池、竹林和花窗安排得很紧凑。小路和小桥让孩子一路探索，走一圈约50分钟。"},
     "highlights": {"en": ["One of the Four Great Gardens of Lingnan", "Carved windows and coloured glass", "Ponds, bridges and bamboo", "~50 min loop"], "zh": ["岭南四大名园之一", "花窗和彩色玻璃", "水池、小桥、竹林", "走一圈约50分钟"]},
-    "tips": {"en": "Closes in the early evening; check the last-entry time at the gate.", "zh": "傍晚关门，到门口先看入园截止时间。"}
+    "tips": {"en": "Closes in the early evening; check the last-entry time at the gate.", "zh": "傍晚关门，到门口先看入园截止时间。"},
+    "ticket": {"en": "Ticket required; price to be checked on site", "zh": "要买门票，票价以现场为准"}
   },
   {
     "id": "huagai-road-daliang",

@@ -934,6 +934,10 @@
         "经典绿白渡轮",
         "票价便宜，可用八达通"
       ]
+    },
+    "ticket": {
+      "en": "Fare: weekday adult HK$5.0, child HK$2.9, by card at the pier machines",
+      "zh": "船票：平日成人 HK$5.0、小童 HK$2.9，码头售票机用卡买"
     }
   },
   {
@@ -1158,6 +1162,10 @@
     "tips": {
       "en": "Queues can be long; a Madame Tussauds + Peak Tram combo ticket gives a dedicated lane. Sit on the right going up for the harbour view.",
       "zh": "排队可能很长，买蜡像馆加缆车套票有专用通道。上山坐右边看海景。"
+    },
+    "ticket": {
+      "en": "Fare required; combos with Sky Terrace 428 and Madame Tussauds include a fast-track lane",
+      "zh": "要买车票；可和摩天台428、蜡像馆一起买套票，套票有快速通道"
     }
   },
   {
@@ -1197,6 +1205,10 @@
     "tips": {
       "en": "Tickets should be bought online in advance; the combo with the Peak Tram saves queuing.",
       "zh": "门票提前网上买，和山顶缆车套票可省排队。"
+    },
+    "ticket": {
+      "en": "Ticket required, best bought online; combos with the Peak Tram and Sky Terrace 428 available",
+      "zh": "要买门票，提前网上买；可和山顶缆车、摩天台428一起买套票"
     }
   },
   {
@@ -1275,6 +1287,10 @@
     "tips": {
       "en": "Board at the back, pay on exit at the front.",
       "zh": "后门上车，前门下车时付款。"
+    },
+    "ticket": {
+      "en": "Fare: adult HK$3.3, child HK$1.6, tapped when getting off",
+      "zh": "车费：成人 HK$3.3、小童 HK$1.6，下车拍卡"
     }
   },
   {

@@ -819,3 +819,63 @@ h4.title { font-size: 16px; }
 /* Day-level reminder under the intro */
 .day-notice { display: grid; grid-template-columns: 18px 1fr; gap: 10px; align-items: baseline; margin-top: 16px; padding: 12px 14px; border-radius: 14px; background: var(--accent-soft); color: var(--ink); font-size: 14.5px; line-height: 1.45; }
 .day-notice i { color: var(--accent-ink); }
+
+/* Day tabs (away days): segmented control + alternate views. */
+.day-tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin: 4px 0 26px; padding: 4px; border-radius: 16px; background: var(--bg2); }
+.day-tabs button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; min-height: 52px; padding: 6px 4px; border-radius: 12px; font-size: 12.5px; font-weight: 600; color: var(--ink2); transition: background 0.2s, color 0.2s; }
+.day-tabs button i { font-size: 15px; color: var(--ink3); transition: color 0.2s; }
+.day-tabs button.on { background: var(--bg); color: var(--ink); box-shadow: 0 1px 3px rgb(0 0 0 / 0.08), 0 1px 1px rgb(0 0 0 / 0.04); }
+.day-tabs button.on i { color: var(--accent); }
+.day-tabs button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.tlegs { list-style: none; margin: 0; padding: 0; }
+.tleg { display: grid; grid-template-columns: 46px 30px 1fr; gap: 10px; align-items: start; padding: 12px 0; border-bottom: 1px solid var(--line, var(--bg2)); }
+.tleg:last-child { border-bottom: 0; }
+.tleg-time { font-size: 14px; font-weight: 600; color: var(--accent-ink); padding-top: 5px; font-variant-numeric: tabular-nums; }
+.tleg-icon { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 9px; background: var(--bg2); color: var(--accent); font-size: 13px; }
+.tleg-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; line-height: 1.35; }
+.tleg-text b { font-size: 15.5px; font-weight: 600; }
+.tleg-text > span { font-size: 13px; color: var(--ink2); }
+.tleg-pick { display: flex; gap: 6px; align-items: baseline; }
+.tleg-pick i { font-size: 11px; color: var(--accent); }
+.tleg-pick strong { color: var(--ink); font-weight: 600; margin-right: 4px; }
+.tleg-text b .badge, .card-text b .badge { display: inline-block; margin-left: 8px; vertical-align: 2px; }
+.xgroups { display: grid; gap: 26px; }
+.xgroup .cards { margin-top: 10px; }
+.xmeta { font-variant-numeric: tabular-nums; color: var(--ink3) !important; }
+.xdish { display: flex; gap: 6px; align-items: baseline; color: var(--ink) !important; }
+.xdish i { font-size: 10px; color: var(--accent); }
+.xsummary { margin: 0; font-size: 13px; color: var(--ink2); }
+.xticket-count { color: var(--accent-ink); font-weight: 600; }
+.xticket-count i, .xticket i { margin-right: 5px; color: var(--accent); }
+.xticket { color: var(--accent-ink) !important; }
+.xticket b { font-size: 13px !important; font-weight: 700 !important; margin-right: 6px; }
+.card-ticket { background: var(--accent-soft); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent); }
+.card-ticket:hover { background: color-mix(in srgb, var(--accent) 18%, var(--bg)); }
+.xsummary + .cards { margin-top: 10px; }
+/* Transport tab: one colour per kind of transport. */
+.tleg-icon { --m: var(--ink3); color: var(--m); background: color-mix(in srgb, var(--m) 15%, var(--bg)); }
+.m-taxi { --m: #e8a100; }
+.m-train { --m: #4c6ef5; }
+.m-van { --m: #e8590c; }
+.m-tram { --m: #2f9e44; }
+.m-metro { --m: #e03131; }
+.m-cable { --m: #a64bd6; }
+.m-ferry { --m: #1c7ed6; }
+.m-plane { --m: #0c8599; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .m-taxi { --m: #ffc93c; }
+  :root:not([data-theme="light"]) .m-train { --m: #91a7ff; }
+  :root:not([data-theme="light"]) .m-van { --m: #ff9a52; }
+  :root:not([data-theme="light"]) .m-tram { --m: #69db7c; }
+  :root:not([data-theme="light"]) .m-metro { --m: #ff8787; }
+  :root:not([data-theme="light"]) .m-cable { --m: #d08cf2; }
+  :root:not([data-theme="light"]) .m-ferry { --m: #74c0fc; }
+  :root:not([data-theme="light"]) .m-plane { --m: #66d9e8; }
+  :root:not([data-theme="light"]) .tleg-icon { background: color-mix(in srgb, var(--m) 20%, var(--bg)); }
+}
+.tleg-didi { display: inline-flex; align-items: center; gap: 5px; align-self: flex-start; margin-top: 2px; padding: 1px 8px; border-radius: 999px; font-size: 11.5px !important; font-weight: 600; color: var(--m-taxi-ink, #a86f00) !important; background: color-mix(in srgb, #e8a100 15%, var(--bg)); }
+.tleg-didi i { font-size: 10px; }
+@media (prefers-color-scheme: dark) { .tleg-didi { color: #ffc93c !important; } }
+.tleg-empty { display: flex; gap: 10px; align-items: center; margin: 0; padding: 16px; border-radius: 16px; background: var(--bg2); color: var(--ink2); font-size: 14px; }
+.tleg-empty i { color: var(--ink3); }

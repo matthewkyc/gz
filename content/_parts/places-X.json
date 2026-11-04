@@ -639,6 +639,10 @@
   "tips": {
    "en": "Reseller listings give weekday hours of about 10:00–21:00; confirm on the official site. It is windy and colder than the city.",
    "zh": "代理网站写平日约10:00至21:00，以官网为准。山顶风大，比市区冷。"
+  },
+  "ticket": {
+   "en": "Ticket required; sold in combos with the Peak Tram",
+   "zh": "要买门票；可和山顶缆车一起买套票"
   }
  },
  {

@@ -331,7 +331,7 @@ function Tip({ text }: { text: string }) {
   );
 }
 
-export { KIND_ICON };
+export { KIND_ICON, Thumb, Tip, VanLine, transitIcon };
 
 /** Where the chartered car picks the group up or drops it off. */
 function VanLine({ kind, text }: { kind: "pickUp" | "dropOff"; text: string }) {

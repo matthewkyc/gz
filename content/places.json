@@ -2559,6 +2559,10 @@
       "en": "Open 08:30–18:00. Ask at entry whether same-day re-entry is allowed.",
       "zh": "开放时间08:30–18:00；入园时问清楚当天能否再进。"
     },
+    "ticket": {
+      "en": "Ticket required (older sources: ~¥20, free under 1.2 m; unverified)",
+      "zh": "要买门票（旧资料约¥20，1.2米以下儿童免费，未核实）"
+    },
     "image": "/places/foshan-ancestral-temple.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.5,
@@ -2617,6 +2621,10 @@
     "tips": {
       "en": "Arrive 15 min early for front spots. Suspended in rain; times and venue per the temple notice on the day.",
       "zh": "提前15分钟到占前排；雨天暂停，时间和场地以当天公告为准。"
+    },
+    "ticket": {
+      "en": "Inside the Ancestral Temple; covered by its ticket",
+      "zh": "在祖庙内，凭祖庙门票"
     }
   },
   {
@@ -3215,6 +3223,10 @@
       "en": "Board at the back, pay on exit at the front.",
       "zh": "后门上车，前门下车时付款。"
     },
+    "ticket": {
+      "en": "Fare: adult HK$3.3, child HK$1.6, tapped when getting off",
+      "zh": "车费：成人 HK$3.3、小童 HK$1.6，下车拍卡"
+    },
     "image": "/places/hong-kong-tramways.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.6,
@@ -3608,6 +3620,10 @@
         "木人桩拍照",
         "与李小龙的渊源"
       ]
+    },
+    "ticket": {
+      "en": "Inside the Ancestral Temple; covered by its ticket",
+      "zh": "在祖庙内，凭祖庙门票"
     },
     "image": "/places/ip-man-hall.jpg",
     "imageCredit": "Google Maps",
@@ -4727,6 +4743,10 @@
       "en": "Tickets should be bought online in advance; the combo with the Peak Tram saves queuing.",
       "zh": "门票提前网上买，和山顶缆车套票可省排队。"
     },
+    "ticket": {
+      "en": "Ticket required, best bought online; combos with the Peak Tram and Sky Terrace 428 available",
+      "zh": "要买门票，提前网上买；可和山顶缆车、摩天台428一起买套票"
+    },
     "image": "/places/madame-tussauds-hong-kong.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.3,
@@ -5631,6 +5651,10 @@
       "en": "Queues can be long; a Madame Tussauds + Peak Tram combo ticket gives a dedicated lane. Sit on the right going up for the harbour view.",
       "zh": "排队可能很长，买蜡像馆加缆车套票有专用通道。上山坐右边看海景。"
     },
+    "ticket": {
+      "en": "Fare required; combos with Sky Terrace 428 and Madame Tussauds include a fast-track lane",
+      "zh": "要买车票；可和摩天台428、蜡像馆一起买套票，套票有快速通道"
+    },
     "image": "/places/peak-tram.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.3,
@@ -5761,6 +5785,10 @@
     "tips": {
       "en": "Closes in the early evening; check the last-entry time at the gate.",
       "zh": "傍晚关门，到门口先看入园截止时间。"
+    },
+    "ticket": {
+      "en": "Ticket required; price to be checked on site",
+      "zh": "要买门票，票价以现场为准"
     },
     "image": "/places/qinghui-garden.jpg",
     "imageCredit": "Google Maps",
@@ -6604,6 +6632,10 @@
       "en": "Reseller listings give weekday hours of about 10:00–21:00; confirm on the official site. It is windy and colder than the city.",
       "zh": "代理网站写平日约10:00至21:00，以官网为准。山顶风大，比市区冷。"
     },
+    "ticket": {
+      "en": "Ticket required; sold in combos with the Peak Tram",
+      "zh": "要买门票；可和山顶缆车一起买套票"
+    },
     "image": "/places/sky-terrace-428.jpg",
     "imageCredit": "Google Maps",
     "rating": 4.5,
@@ -6662,6 +6694,10 @@
         "经典绿白渡轮",
         "票价便宜，可用八达通"
       ]
+    },
+    "ticket": {
+      "en": "Fare: weekday adult HK$5.0, child HK$2.9, by card at the pier machines",
+      "zh": "船票：平日成人 HK$5.0、小童 HK$2.9，码头售票机用卡买"
     },
     "image": "/places/star-ferry.jpg",
     "imageCredit": "Google Maps",
@@ -7797,6 +7833,10 @@
       "en": "Schedule per the temple notice on the day; re-entry to the temple may need a ticket.",
       "zh": "演出时间以当天公告为准；重新入园可能要门票。"
     },
+    "ticket": {
+      "en": "Inside the Ancestral Temple; covered by its ticket",
+      "zh": "在祖庙内，凭祖庙门票"
+    },
     "image": "/places/wanfu-stage-cantonese-opera.jpg",
     "imageCredit": "Google Maps",
     "thumb": "/places/thumb/wanfu-stage-cantonese-opera.jpg"
@@ -8080,6 +8120,10 @@
         "电影剧照和武术展品",
         "祖庙门票已包含"
       ]
+    },
+    "ticket": {
+      "en": "Inside the Ancestral Temple; covered by its ticket",
+      "zh": "在祖庙内，凭祖庙门票"
     },
     "image": "/places/wong-fei-hung-memorial-hall.jpg",
     "imageCredit": "Google Maps",

@@ -20,6 +20,8 @@ Next.js 16 (App Router, Turbopack) · React 19 · TypeScript · framer-motion ·
   - A stop whose `food` entries all link to non-food places renders as "On the way: go in if it appeals" — use it to group short sights in one area.
   - Tags (items and stops) are written in Chinese only; `content:merge` fills the English labels. `拍照` renders with a camera icon.
   - Day field `notice` = a reminder shown at the top of the day (e.g. payment on the Hong Kong day).
+- Place field `ticket` {en, zh} = short ticket/fare note; such places are highlighted on the Places tab.
+- Every day shows tabs: Plan / Transport / Food / Places (`components/DayTabs.tsx`), all derived from the day data. Food is grouped by meal title, else by name keywords (coffee, bakery, dessert, tea), else by time.
 - `content/_parts/checked-media.json` — place ids already searched on Google Maps for a photo + reviews (found or not; not found = orange placeholder). New photos/reviews from the place-media agent go in `content/_parts/media-auto.json`.
 
 ## Code map

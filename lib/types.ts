@@ -69,6 +69,8 @@ export interface Place {
   highlights?: { en: string[]; zh: string[] };
   mustTry?: { en: string[]; zh: string[] };
   tips?: T;
+  /** Set when entry needs a ticket or fare; short text shown on the Places tab. */
+  ticket?: T;
   image?: string;
   /** 240px thumbnail for timeline cards. */
   thumb?: string;

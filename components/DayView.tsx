@@ -1,11 +1,12 @@
 "use client";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { useLang } from "@/lib/i18n";
 import { parts } from "@/lib/dates";
 import type { Day, Places, Trip } from "@/lib/types";
 import Timeline from "./Timeline";
+import { DayTabBar, DayTabView, type DayTab } from "./DayTabs";
 
 gsap.registerPlugin(useGSAP);
 
@@ -17,6 +18,7 @@ interface Props {
 export default function DayView({ trip, places, day, onOpenPlace, onNext }: Props) {
   const { lang, t, ui } = useLang();
   const root = useRef<HTMLDivElement>(null);
+  const [tab, setTab] = useState<DayTab>("plan");
   const p = parts(day.iso);
   const span = day.items.length
     ? `${day.items.map((x) => x.start).sort()[0]} – ${day.items.map((x) => x.end).sort().pop()}`
@@ -69,9 +71,13 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
         )}
       </section>
 
-      <Timeline items={day.items} places={places} groups={trip.groups} onOpenPlace={onOpenPlace} />
+      <DayTabBar value={tab} onChange={setTab} />
 
-      {day.backup && (
+      {tab === "plan"
+        ? <Timeline items={day.items} places={places} groups={trip.groups} onOpenPlace={onOpenPlace} />
+        : <DayTabView tab={tab} day={day} places={places} onOpenPlace={onOpenPlace} />}
+
+      {tab === "plan" && day.backup && (
         <details className="backup">
           <summary>
             <span className="backup-icon"><i className="fa-solid fa-box-archive" aria-hidden /></span>
