@@ -5,7 +5,7 @@
   "locked": true,
   "theme": "Hong Kong day trip",
   "away": "Hong Kong",
-  "intro": "HSR to West Kowloon; chartered van all day for photo stops, one area at a time\nEast Kowloon: Choi Hung Estate; through the tunnel to Quarry Bay: Monster Building\nWan Chai: lunch at Kam's roast goose, Capital Café; Ding Ding tram west to Central\nCentral: escalator, Tai Cheong, Lan Fong Yuen; van up to the Peak, Sky Terrace 428, Lugard Road, Peak Tram down\nStar Ferry to Tsim Sha Tsui: Mammy Pancake, Ocean Terminal Deck, 1881 Heritage, Clock Tower, Avenue of Stars\nOptional: dinner at Tim Ho Wan in West Kowloon Station before clearance",
+  "intro": "HSR to West Kowloon; chartered van all day for photo stops, one area at a time\nEast Kowloon: Choi Hung Estate; through the tunnel to Quarry Bay: Monster Building\nWan Chai: lunch at Kam's roast goose, Capital Café; Ding Ding tram west to Central\nCentral: escalator, Tai Cheong, Lan Fong Yuen; van up to the Peak, Sky Terrace 428, Lugard Road, Peak Tram down\nStar Ferry to Tsim Sha Tsui: Mammy Pancake, Ocean Terminal Deck, 1881 Heritage, Clock Tower, Avenue of Stars\nDinner at Elements mall above Kowloon Station, then the van to West Kowloon",
   "items": [
     {
       "start": "07:00",
@@ -45,7 +45,7 @@
     },
     {
       "start": "10:00",
-      "end": "18:00",
+      "end": "17:45",
       "title": "Hong Kong route (chartered van)",
       "route": [
         {
@@ -298,48 +298,49 @@
         },
         {
           "time": "17:30",
-          "title": "Tsim Sha Tsui → West Kowloon Station",
-          "desc": "Van, ~20–25 min; evening traffic is expected.",
+          "title": "Tsim Sha Tsui → Elements (圆方)",
+          "desc": "Van, ~15–20 min; evening traffic is expected.",
           "pick": "K11 MUSEA private-car pick-up/drop-off area, level B2 (the mall beside the Avenue of Stars); if it cannot be used, the pick-up points on Salisbury Road (westbound), to be confirmed with the driver",
-          "drop": "West Kowloon Station car park, level B2, pick-up/drop-off point"
+          "drop": "Elements mall (above Kowloon Station) private-car pick-up/drop-off area; the exact spot is agreed with the driver"
         }
       ],
-      "note": "The van is hired 10:00–18:00 and the driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. All pick-ups are on the hour or half hour; on the walking stretches the van goes ahead to the next pick-up point.",
-      "tip": "For the driver (WhatsApp): Dec 30 van hire, 2 adults plus kids.\n10:00 pick-up at West Kowloon Station car park B2 pick-up/drop-off point → Choi Hung Estate car park\n~10:40 pick-up at Choi Hung Estate car park (please wait ~15 min while we take photos) → outside Lincoln House, Taikoo Place, Quarry Bay\n~11:10 pick-up outside Lincoln House (please wait ~10 min while we take photos) → near Kam's Roast Goose, 226 Hennessy Road, Wan Chai (we then take the tram to Central)\n14:00 pick-up outside Tai Cheong Bakery, 35 Lyndhurst Terrace → Peak Galleria car park\n15:30 pick-up at the Peak Tram Central Terminus, Garden Road → Central Pier 7\n17:30 pick-up at K11 MUSEA B2 pick-up/drop-off area, Tsim Sha Tsui → ~18:00 drop-off at West Kowloon Station car park B2\nIf a pick-up point is not allowed, please use the nearest legal spot and tell us by WhatsApp.\nVans are usually hired by the hour; hours, harbour-tunnel tolls and parking (if the van parks at Choi Hung or the Peak Galleria) should be agreed first. Many Central streets are no-stopping zones, so the van is called once everyone is ready."
+      "note": "The van is hired 10:00 to ~19:15 and the driver is contacted by WhatsApp; every pick-up and drop-off point is marked below. All pick-ups are on the hour or half hour; on the walking stretches the van goes ahead to the next pick-up point.",
+      "tip": "For the driver (WhatsApp): Dec 30 van hire, 7 people: 4 adults, 3 kids (10–14).\n10:00 pick-up at West Kowloon Station car park B2 pick-up/drop-off point → Choi Hung Estate car park\n~10:40 pick-up at Choi Hung Estate car park (please wait ~15 min while we take photos) → outside Lincoln House, Taikoo Place, Quarry Bay\n~11:10 pick-up outside Lincoln House (please wait ~10 min while we take photos) → near Kam's Roast Goose, 226 Hennessy Road, Wan Chai (we then take the tram to Central)\n14:00 pick-up outside Tai Cheong Bakery, 35 Lyndhurst Terrace → Peak Galleria car park\n15:30 pick-up at the Peak Tram Central Terminus, Garden Road → Central Pier 7\n17:30 pick-up at K11 MUSEA B2 pick-up/drop-off area, Tsim Sha Tsui → Elements mall pick-up/drop-off area (we have dinner)\n19:00 pick-up at Elements → ~19:15 drop-off at West Kowloon Station car park B2\nIf a pick-up point is not allowed, please use the nearest legal spot and tell us by WhatsApp.\nVans are usually hired by the hour; hours, harbour-tunnel tolls and parking (if the van parks at Choi Hung or the Peak Galleria) should be agreed first. Many Central streets are no-stopping zones, so the van is called once everyone is ready."
     },
     {
-      "start": "18:00",
-      "end": "18:50",
-      "title": "Dinner: Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
-      "note": "On level B1M of West Kowloon Station, before clearance. If taken, clearance and the train move ~50 min later, with the hotel reached ~21:10.",
-      "optional": true,
-      "tip": "All are on level B1M, before clearance. Payment should be checked in store (review sites list Visa, Mastercard and Apple Pay for Tim Ho Wan; the others are unconfirmed). The shop list comes from older sources and may have changed.",
+      "start": "17:45",
+      "end": "19:00",
+      "title": "Dinner: Elements (圆方), Kowloon Station",
+      "note": "Indoor mall above Kowloon Station, the closest to West Kowloon. The van picks up at Elements at 19:00.",
+      "tip": "Lei Garden should be booked ahead for 7. If a backup is chosen, the driver should be told the new pick-up point in advance: Yung's Bistro is in K11, so no van ride is needed; stopping on Temple Street is hard; the West Kowloon Station shops are on level B1M, before clearance.",
       "food": [
         {
+          "name": "Lei Garden, Elements (利苑酒家（圆方）)",
+          "desc": "First choice: long-established Cantonese restaurant; suits a sit-down meal for 7"
+        },
+        {
+          "name": "Tasty Congee & Noodle, Elements (正斗粥面专家（圆方）)",
+          "desc": "Quicker option: wonton noodles, congee"
+        },
+        {
+          "name": "Yung's Bistro, K11 MUSEA 7F (镛记)",
+          "desc": "Backup: modern Cantonese from Yung Kee; moved to K11 MUSEA Shop 704 in July 2026. Roast goose was lunch, so other dishes are worth ordering"
+        },
+        {
+          "name": "Hing Kee Claypot Rice, Temple Street (兴记煲仔饭（庙街）)",
+          "desc": "Backup: 44-year-old Temple Street shop; claypot rice from ~HK$75. Opening hours unconfirmed"
+        },
+        {
           "name": "Tim Ho Wan, West Kowloon Station (添好运西九龙站)",
-          "desc": "Dim sum chain recognised by Michelin"
-        },
-        {
-          "name": "Baked BBQ pork buns (酥皮焗叉烧包)",
-          "desc": "The signature; a must",
-          "dish": true
-        },
-        {
-          "name": "Shrimp siu mai, har gow (鲜虾烧卖、虾饺)",
-          "dish": true
-        },
-        {
-          "name": "Pig liver rice roll (黄沙猪润肠)",
-          "desc": "Strong flavour; for the adults to try",
-          "dish": true
+          "desc": "Backup: dim sum chain on level B1M; baked BBQ pork buns are the signature"
         },
         {
           "name": "Mao Mao Eat by Tsui Wah (翠华西九龙站)",
-          "desc": "Backup: Hong Kong-style café with milk tea, pineapple buns, cart noodles and rice plates; used if the Tim Ho Wan queue is too long"
+          "desc": "Backup: Hong Kong-style café with milk tea, pineapple buns, cart noodles"
         },
         {
           "name": "Ramen Bari-Uma (西九龙站)",
-          "desc": "Backup: Japanese ramen, an easy choice for kids"
+          "desc": "Backup: Japanese ramen"
         },
         {
           "name": "Maxim's Cakes (美心西饼西九龙站)",
@@ -348,28 +349,36 @@
       ]
     },
     {
-      "start": "18:00",
-      "end": "18:30",
+      "start": "19:00",
+      "end": "19:15",
+      "title": "Van: Elements → West Kowloon Station",
+      "route": [
+        {
+          "time": "19:00",
+          "title": "Elements → West Kowloon Station",
+          "desc": "Van, ~10–15 min.",
+          "pick": "Elements mall private-car pick-up/drop-off area; the exact spot is agreed with the driver",
+          "drop": "West Kowloon Station car park, level B2, pick-up/drop-off point"
+        }
+      ]
+    },
+    {
+      "start": "19:15",
+      "end": "19:45",
       "title": "West Kowloon Station border clearance",
       "note": "30 min should be allowed."
     },
     {
-      "start": "18:45",
-      "end": "19:35",
+      "start": "20:00",
+      "end": "20:50",
       "title": "HSR: West Kowloon → Guangzhou South",
-      "note": "~50 min; times follow the ticket booked."
+      "note": "~20:00 train, ~50 min; times follow the ticket booked."
     },
     {
-      "start": "19:35",
-      "end": "20:20",
+      "start": "20:50",
+      "end": "21:35",
       "title": "Guangzhou South → K Hotel",
-      "note": "Taxi, ~40 min."
-    },
-    {
-      "start": "20:20",
-      "end": "21:10",
-      "title": "Dinner: near the hotel",
-      "tip": "Skipped if dinner was taken at West Kowloon Station; otherwise dinner is late and a snack on the train helps."
+      "note": "Taxi, ~40 min; back at the hotel ~21:35."
     }
   ],
   "notice": "No Octopus card or coins needed. Ding Ding tram: a Wise card or Apple Pay is tapped when getting off; adult HK$3.3, child HK$1.6. Star Ferry: tickets are bought by card or QR at the pier's self-service machines; weekday adult HK$5.0, child HK$2.9. Both rides total HK$8.3 per adult and HK$4.5 per child. Foreign cards may incur cross-border fees."
