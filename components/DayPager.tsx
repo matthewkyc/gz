@@ -45,6 +45,7 @@ export default function DayPager({ trip, places, index, dir, onGo, onOpenPlace }
             places={places}
             day={day}
             onOpenPlace={onOpenPlace}
+            onPrev={index > 0 ? () => onGo(index - 1) : undefined}
             onNext={index < last ? () => onGo(index + 1) : undefined}
           />
         </motion.div>

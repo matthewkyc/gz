@@ -12,10 +12,10 @@ gsap.registerPlugin(useGSAP);
 
 interface Props {
   trip: Trip; places: Places; day: Day;
-  onOpenPlace: (id: string) => void; onNext?: () => void;
+  onOpenPlace: (id: string) => void; onPrev?: () => void; onNext?: () => void;
 }
 
-export default function DayView({ trip, places, day, onOpenPlace, onNext }: Props) {
+export default function DayView({ trip, places, day, onOpenPlace, onPrev, onNext }: Props) {
   const { lang, t, ui } = useLang();
   const root = useRef<HTMLDivElement>(null);
   const [tab, setTab] = useState<DayTab>("plan");
@@ -23,8 +23,12 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
   const span = day.items.length
     ? `${day.items.map((x) => x.start).sort()[0]} – ${day.items.map((x) => x.end).sort().pop()}`
     : "";
+  const prev = onPrev ? trip.days[day.index - 1] : undefined;
   const next = onNext ? trip.days[day.index + 1] : undefined;
-  const np = next && parts(next.iso);
+  const label = (iso: string) => {
+    const d = parts(iso);
+    return lang === "en" ? `${d.dowEn}, ${d.monthEn} ${d.day}` : `${d.month}月${d.day}日 ${d.dowZh}`;
+  };
 
   useGSAP(() => {
     const mm = gsap.matchMedia();
@@ -92,19 +96,20 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
         </details>
       )}
 
-      {next && np && (
-        <button type="button" className="nextday" onClick={onNext}>
-          <span className="nd-date">
-            <span className="nd-num">{np.day}</span>
-            <span className="nd-dow">{lang === "en" ? np.dowEn : np.dowZh}</span>
-          </span>
-          <span className="nd-text">
-            <small>{ui("nextDay")}</small>
-            {t(next.theme)}
-          </span>
-          <i className="fa-solid fa-arrow-right" aria-hidden />
-        </button>
-      )}
+      <nav className="daynav" aria-label={lang === "en" ? "Change day" : "切换日期"}>
+        {prev && onPrev ? (
+          <button type="button" className="dn dn-prev" onClick={onPrev} aria-label={`${ui("prevDay")}: ${label(prev.iso)}`}>
+            <i className="fa-solid fa-arrow-left" aria-hidden />
+            <span>{label(prev.iso)}</span>
+          </button>
+        ) : <span />}
+        {next && onNext ? (
+          <button type="button" className="dn dn-next" onClick={onNext} aria-label={`${ui("nextDay")}: ${label(next.iso)}`}>
+            <span>{label(next.iso)}</span>
+            <i className="fa-solid fa-arrow-right" aria-hidden />
+          </button>
+        ) : <span />}
+      </nav>
     </article>
   );
 }
