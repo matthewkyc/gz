@@ -1,6 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
-import { AnimatePresence, motion, type PanInfo } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { useLang } from "@/lib/i18n";
 import type { Places, Trip } from "@/lib/types";
 import DayView from "./DayView";
@@ -11,18 +10,6 @@ const variants = {
   exit: (dir: number) => ({ x: dir * -56, opacity: 0 }),
 };
 
-function useCoarsePointer() {
-  const [coarse, setCoarse] = useState(false);
-  useEffect(() => {
-    const mq = matchMedia("(pointer: coarse)");
-    const on = () => setCoarse(mq.matches);
-    on();
-    mq.addEventListener("change", on);
-    return () => mq.removeEventListener("change", on);
-  }, []);
-  return coarse;
-}
-
 interface Props {
   trip: Trip; places: Places; index: number; dir: number;
   onGo: (i: number) => void; onOpenPlace: (id: string) => void;
@@ -30,15 +17,8 @@ interface Props {
 
 export default function DayPager({ trip, places, index, dir, onGo, onOpenPlace }: Props) {
   const { ui } = useLang();
-  const touch = useCoarsePointer();
   const day = trip.days[index];
   const last = trip.days.length - 1;
-
-  const onDragEnd = (_: unknown, info: PanInfo) => {
-    const swipe = info.offset.x + info.velocity.x * 0.2;
-    if (swipe < -90) onGo(index + 1);
-    else if (swipe > 90) onGo(index - 1);
-  };
 
   return (
     <main className="pager">
@@ -59,12 +39,6 @@ export default function DayPager({ trip, places, index, dir, onGo, onOpenPlace }
           animate="center"
           exit="exit"
           transition={{ x: { type: "spring", stiffness: 420, damping: 40 }, opacity: { duration: 0.16 } }}
-          drag={touch ? "x" : false}
-          dragDirectionLock
-          dragConstraints={{ left: 0, right: 0 }}
-          dragElastic={0.22}
-          onDragEnd={onDragEnd}
-          style={{ touchAction: "pan-y" }}
         >
           <DayView
             trip={trip}

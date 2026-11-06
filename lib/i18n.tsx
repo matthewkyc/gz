@@ -62,7 +62,6 @@ const UI = {
   kind_ride: { en: "Ride", zh: "游乐" },
   kind_transit: { en: "Transit", zh: "交通" },
   kind_hotel: { en: "Hotel", zh: "住宿" },
-  swipeHint: { en: "Swipe for the next day", zh: "左右滑动切换日期" },
   places: { en: "places", zh: "个地点" },
   chooseOne: { en: "Choose one", zh: "二选一" },
   menu: { en: "Menu", zh: "菜单" },

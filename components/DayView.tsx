@@ -105,7 +105,6 @@ export default function DayView({ trip, places, day, onOpenPlace, onNext }: Prop
           <i className="fa-solid fa-arrow-right" aria-hidden />
         </button>
       )}
-      <p className="hint">{ui("swipeHint")}</p>
     </article>
   );
 }
