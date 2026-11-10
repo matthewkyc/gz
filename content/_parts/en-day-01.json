@@ -248,6 +248,10 @@
             {
               "name": "LINLEE (林里（北京路店）)",
               "desc": "168 Beijing Road; Guangzhou’s best-known hand-pounded lemon tea, to drink on the walk."
+            },
+            {
+              "name": "Bao Shi Fu (鲍师傅糕点), Beijing Road area",
+              "desc": "Backup: pork-floss cakes, taro cream puffs, to eat on the walk. Branch location unconfirmed."
             }
           ]
         },
@@ -272,8 +276,29 @@
             {
               "name": "Wai Yu Lau Teahouse (惠如楼)",
               "desc": "Old teahouse on Zhongshan 5th Road; go here instead for Chinese food."
+            },
+            {
+              "name": "Da Ge Fan (大鸽饭), Beijing Road area",
+              "desc": "Backup: braised squab, salt-baked squab"
+            },
+            {
+              "name": "Ze Shen (啫神), Beijing Road area",
+              "desc": "Backup: Cantonese cured-meat claypot rice, soy-sauce chicken wings"
+            },
+            {
+              "name": "Lu Ding Ji (禄鼎记), Beijing Road area",
+              "desc": "Backup: pickled-cabbage fish, spicy frog; on the spicy side"
+            },
+            {
+              "name": "Xie San Bao (蟹叁宝), Beijing Road area",
+              "desc": "Backup: crab-roe rice, crab-roe noodles"
+            },
+            {
+              "name": "Tiger Prawn Vietnamese Restaurant (大头虾越式风味餐厅), Beijing Road area",
+              "desc": "Backup: Vietnamese; tom yum, Vietnamese roll platter"
             }
-          ]
+          ],
+          "tip": "The options other than Taiping Guan come from a Beijing Road food guide, ~2–6 min walk from the street. Branch addresses are unconfirmed; they should be searched near Beijing Road in Amap (高德) on the night."
         },
         {
           "time": "19:20",
@@ -291,6 +316,14 @@
             {
               "name": "Black sesame soup, almond soup (芝麻糊、杏仁糊)",
               "dish": true
+            },
+            {
+              "name": "Wu Dai Tong Tang (五代同糖), Beijing Road area",
+              "desc": "Backup: mango pomelo sago shaved ice, milk mochi; closer than walking to Wenming Road"
+            },
+            {
+              "name": "Ming Ji Dessert (明记甜品), Beijing Road area",
+              "desc": "Backup: peach-gum papaya milk, mango double-skin milk"
             }
           ]
         }
