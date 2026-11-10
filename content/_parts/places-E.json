@@ -107,7 +107,7 @@
   {
     "id": "bjl-tiger-prawn",
     "aliases": [
-      "大头虾越式风味（西湖路光明广场店）"
+      "大头虾越式风味（惠福东路店）"
     ],
     "kind": "food",
     "name": {
@@ -115,12 +115,12 @@
       "zh": "大头虾越式风味餐厅"
     },
     "city": "Guangzhou",
-    "query": "大头虾越式风味 西湖路63号 光明广场 越秀区 广州",
-    "lat": 23.122793,
-    "lng": 113.267298,
+    "query": "大头虾越式风味 惠福东路548号 越秀区 广州",
+    "lat": 23.121074,
+    "lng": 113.267382,
     "summary": {
-      "en": "Vietnamese restaurant on the 8th floor of Guangming Plaza, Xihu Road.",
-      "zh": "西湖路光明广场8楼的越南菜餐厅。"
+      "en": "Vietnamese restaurant on Huifu East Road, near Beijing Road.",
+      "zh": "惠福东路的越南菜餐厅，靠近北京路。"
     },
     "why": {
       "en": "A change from Cantonese food, ~5 min from Beijing Road; the food guide names the tom yum and Vietnamese roll platter.",
@@ -137,8 +137,8 @@
       ]
     },
     "tips": {
-      "en": "Address: Room 801, 8F Guangming Plaza, 63 Xihu Road (西湖路63号光明广场8层801). Google Maps lists ¥100–150 per person, open until 23:00. Another branch is at 548 Huifu East Road (惠福东路548号), also close; the guide does not say which.",
-      "zh": "地址：西湖路63号光明广场8层801。Google地图显示人均约¥100至150，营业到23:00。惠福东路548号另有一家分店，也很近；攻略没写是哪家。"
+      "en": "Address: 548 Huifu East Road (惠福东路548号), Yuexiu. Another branch is in Guangming Plaza, 63 Xihu Road.",
+      "zh": "地址：越秀区惠福东路548号。西湖路63号光明广场另有一家分店。"
     }
   },
   {

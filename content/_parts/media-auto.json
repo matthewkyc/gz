@@ -312,31 +312,6 @@
     "lat": 23.12313,
     "lng": 113.26677
   },
-  "bjl-tiger-prawn": {
-    "image": "/places/bjl-tiger-prawn.jpg",
-    "imageCredit": "Google Maps",
-    "rating": 4.7,
-    "reviewCount": 96,
-    "reviews": [
-      {
-        "author": "Leonie",
-        "rating": 4,
-        "text": "出品丰富，不只越南菜系、泰式、马来风味，粤菜、川菜照样有，所以就算fusion餐馆吧。点了越式春卷和综合牛肉pho，味道的正宗与好吃，属于正常平均水准。倒是菜量很大，显得性价比蛮高的。"
-      },
-      {
-        "author": "Ye H",
-        "rating": 4,
-        "text": "美味的香肠帕尼尼佐以美味的番茄酱。附近的大教堂，有点绕，但非常值得！"
-      },
-      {
-        "author": "xinxian kongqi",
-        "rating": 5,
-        "text": "经济实惠、饭食可口"
-      }
-    ],
-    "lat": 23.122793,
-    "lng": 113.267298
-  },
   "bjl-ming-ji-dessert": {
     "image": "/places/bjl-ming-ji-dessert.jpg",
     "imageCredit": "Google Maps",
@@ -365,5 +340,20 @@
   "bjl-wu-dai-tong-tang": {
     "lat": 23.1185542,
     "lng": 113.2697956
+  },
+  "bjl-tiger-prawn": {
+    "image": "/places/bjl-tiger-prawn.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 358,
+    "reviews": [
+      {
+        "author": "Angela Yeung",
+        "rating": 5,
+        "text": "Had a lovely meal with a great mix of flavours. The fried tofu with lemongrass （香茅炸豆腐）was crispy on the outside and soft inside, while the tom yum goong soup （冬蔭公）was rich, creamy and comforting with just the right balance of spice and tanginess."
+      }
+    ],
+    "lat": 23.121074,
+    "lng": 113.267382
   }
 }
