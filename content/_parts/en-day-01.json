@@ -250,8 +250,8 @@
               "desc": "168 Beijing Road; Guangzhou’s best-known hand-pounded lemon tea, to drink on the walk."
             },
             {
-              "name": "Bao Shi Fu (鲍师傅糕点), Beijing Road area",
-              "desc": "Backup: pork-floss cakes, taro cream puffs, to eat on the walk. Branch location unconfirmed."
+              "name": "Bao Shi Fu (鲍师傅糕点)",
+              "desc": "Backup: pork-floss cakes, taro cream puffs. No branch near Beijing Road was found on Google Maps; the nearest should be searched in Amap (高德)."
             }
           ]
         },
@@ -278,27 +278,27 @@
               "desc": "Old teahouse on Zhongshan 5th Road; go here instead for Chinese food."
             },
             {
-              "name": "Da Ge Fan (大鸽饭), Beijing Road area",
-              "desc": "Backup: braised squab, salt-baked squab"
+              "name": "Da Ge Fan (大鸽饭（西湖路店）)",
+              "desc": "Backup: 68 Xihu Road, ~5 min from the street; braised squab, salt-baked squab"
             },
             {
-              "name": "Ze Shen (啫神), Beijing Road area",
-              "desc": "Backup: Cantonese cured-meat claypot rice, soy-sauce chicken wings"
+              "name": "Ze Shen (啫神)",
+              "desc": "Backup: cured-meat claypot rice, soy-sauce chicken wings. No Beijing Road branch was found on Google Maps; to be checked in Amap (高德)."
             },
             {
-              "name": "Lu Ding Ji (禄鼎记), Beijing Road area",
-              "desc": "Backup: pickled-cabbage fish, spicy frog; on the spicy side"
+              "name": "Luk Ding Kee (禄鼎记)",
+              "desc": "Backup: pickled-cabbage fish, spicy frog; on the spicy side. No Beijing Road branch was found on Google Maps; to be checked in Amap (高德)."
             },
             {
-              "name": "Xie San Bao (蟹叁宝), Beijing Road area",
-              "desc": "Backup: crab-roe rice, crab-roe noodles"
+              "name": "Xie San Bao (蟹叁宝)",
+              "desc": "Backup: crab-roe rice, crab-roe noodles. Not found on Google Maps; to be checked in Amap (高德)."
             },
             {
-              "name": "Tiger Prawn Vietnamese Restaurant (大头虾越式风味餐厅), Beijing Road area",
-              "desc": "Backup: Vietnamese; tom yum, Vietnamese roll platter"
+              "name": "Tiger Prawn Vietnamese Restaurant (大头虾越式风味), Guangming Plaza",
+              "desc": "Backup: Guangming Plaza 8F, 63 Xihu Road, ~5 min from the street; Vietnamese, tom yum, roll platter"
             }
           ],
-          "tip": "The options other than Taiping Guan come from a Beijing Road food guide, ~2–6 min walk from the street. Branch addresses are unconfirmed; they should be searched near Beijing Road in Amap (高德) on the night."
+          "tip": "Options other than Taiping Guan come from a Beijing Road food guide. Da Ge Fan and Tiger Prawn addresses were checked on Google Maps; no Beijing Road branch was found for the others, so they should be checked in Amap (高德) first."
         },
         {
           "time": "19:20",
@@ -318,12 +318,12 @@
               "dish": true
             },
             {
-              "name": "Wu Dai Tong Tang (五代同糖), Beijing Road area",
-              "desc": "Backup: mango pomelo sago shaved ice, milk mochi; closer than walking to Wenming Road"
+              "name": "Wu Dai Tong Tang (五代同糖（北京路店）)",
+              "desc": "Backup: 147 Beijing Road, on the street's south end; mango pomelo sago shaved ice, milk mochi"
             },
             {
-              "name": "Ming Ji Dessert (明记甜品), Beijing Road area",
-              "desc": "Backup: peach-gum papaya milk, mango double-skin milk"
+              "name": "Ming Ji Dessert (明记甜品（文明路店）)",
+              "desc": "Backup: 205 Wenming Road, the same street as Baihua; peach-gum papaya milk, mango double-skin milk"
             }
           ]
         }

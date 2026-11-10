@@ -286,5 +286,84 @@
     ],
     "lat": 22.3039409,
     "lng": 114.1648762
+  },
+  "bjl-da-ge-fan": {
+    "image": "/places/bjl-da-ge-fan.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 243,
+    "reviews": [
+      {
+        "author": "Daniel NG",
+        "rating": 4,
+        "text": "主要食乳鸽，有多款口味和煮法，如红燒乳鸽，盐焗乳鸽，香茅蒸乳鸽，黑松露鸽饭，鸽珍饭，等等"
+      },
+      {
+        "author": "小小玩家",
+        "rating": 5,
+        "text": "排队不到一个小时就吃到了，太好吃了，爆汁。"
+      },
+      {
+        "author": "waishi chung",
+        "rating": 5,
+        "text": "大鸽饭是我到中国南部必吃的，从来不会让我失望。"
+      }
+    ],
+    "lat": 23.12313,
+    "lng": 113.26677
+  },
+  "bjl-tiger-prawn": {
+    "image": "/places/bjl-tiger-prawn.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 96,
+    "reviews": [
+      {
+        "author": "Leonie",
+        "rating": 4,
+        "text": "出品丰富，不只越南菜系、泰式、马来风味，粤菜、川菜照样有，所以就算fusion餐馆吧。点了越式春卷和综合牛肉pho，味道的正宗与好吃，属于正常平均水准。倒是菜量很大，显得性价比蛮高的。"
+      },
+      {
+        "author": "Ye H",
+        "rating": 4,
+        "text": "美味的香肠帕尼尼佐以美味的番茄酱。附近的大教堂，有点绕，但非常值得！"
+      },
+      {
+        "author": "xinxian kongqi",
+        "rating": 5,
+        "text": "经济实惠、饭食可口"
+      }
+    ],
+    "lat": 23.122793,
+    "lng": 113.267298
+  },
+  "bjl-ming-ji-dessert": {
+    "image": "/places/bjl-ming-ji-dessert.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.6,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Poh Sah Teo (Steven san)",
+        "rating": 4,
+        "text": "非常不错的甜品"
+      },
+      {
+        "author": "steven lim",
+        "rating": 4,
+        "text": "真是个美好而甜蜜的夜晚结尾。晚上8点半的时候餐厅并不拥挤，我们很快就找到了座位。"
+      },
+      {
+        "author": "Queen Lillian",
+        "rating": 5,
+        "text": "姜汁撞奶，口感划算，椰汁陶胶红豆冷，但不是太冰也不会太甜陶胶不会太烂给予肯定，榴梿班戢榴梿味香浓十足也不会太甜，感觉好像可以再点一个芒果试试。北京路步行街甜品店推荐。"
+      }
+    ],
+    "lat": 23.12282,
+    "lng": 113.27525
+  },
+  "bjl-wu-dai-tong-tang": {
+    "lat": 23.1185542,
+    "lng": 113.2697956
   }
 }

@@ -566,6 +566,288 @@
     "thumb": "/places/thumb/beijing-road-ancient-road.jpg"
   },
   {
+    "id": "bjl-bao-shi-fu",
+    "aliases": [
+      "鲍师傅糕点"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Bao Shi Fu",
+      "zh": "鲍师傅糕点"
+    },
+    "city": "Guangzhou",
+    "query": "鲍师傅糕点 北京路 越秀区 广州",
+    "tips": {
+      "en": "Pastry chain known for pork-floss cakes. No branch near Beijing Road was found on Google Maps (the nearest is ~1.5 km away on Zhongshan 3rd Road); the nearest should be searched in Amap (高德).",
+      "zh": "以肉松小贝出名的糕点连锁。Google地图上北京路附近没有分店（最近的在中山三路，约1.5公里），用高德搜最近的。"
+    }
+  },
+  {
+    "id": "bjl-da-ge-fan",
+    "aliases": [
+      "大鸽饭（西湖路店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Da Ge Fan",
+      "zh": "大鸽饭"
+    },
+    "city": "Guangzhou",
+    "query": "大鸽饭 西湖路68号 越秀区 广州",
+    "lat": 23.12313,
+    "lng": 113.26677,
+    "summary": {
+      "en": "Squab restaurant on Xihu Road, ~5 min from Beijing Road.",
+      "zh": "西湖路的乳鸽餐厅，离北京路步行街约5分钟。"
+    },
+    "why": {
+      "en": "A squab specialist a short walk from Beijing Road; the Beijing Road food guide names braised and salt-baked squab as the dishes to order.",
+      "zh": "专做乳鸽，离北京路很近；北京路美食攻略推荐红烧乳鸽和盐焗乳鸽。"
+    },
+    "mustTry": {
+      "en": [
+        "Braised squab (红烧乳鸽)",
+        "Salt-baked squab (盐焗乳鸽)"
+      ],
+      "zh": [
+        "红烧乳鸽",
+        "盐焗乳鸽"
+      ]
+    },
+    "tips": {
+      "en": "Address: 68 Xihu Road (西湖路68号), Yuexiu. Google Maps lists ¥100–150 per person; opening hours were not shown. Another branch is at the zoo's south gate.",
+      "zh": "地址：越秀区西湖路68号。Google地图显示人均约¥100至150，营业时间未显示；动物园南门另有分店。"
+    },
+    "image": "/places/bjl-da-ge-fan.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.6,
+    "reviewCount": 243,
+    "reviews": [
+      {
+        "author": "Daniel NG",
+        "rating": 4,
+        "text": "主要食乳鸽，有多款口味和煮法，如红燒乳鸽，盐焗乳鸽，香茅蒸乳鸽，黑松露鸽饭，鸽珍饭，等等"
+      },
+      {
+        "author": "小小玩家",
+        "rating": 5,
+        "text": "排队不到一个小时就吃到了，太好吃了，爆汁。"
+      },
+      {
+        "author": "waishi chung",
+        "rating": 5,
+        "text": "大鸽饭是我到中国南部必吃的，从来不会让我失望。"
+      }
+    ],
+    "thumb": "/places/thumb/bjl-da-ge-fan.jpg"
+  },
+  {
+    "id": "bjl-lu-ding-ji",
+    "aliases": [
+      "禄鼎记"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Luk Ding Kee",
+      "zh": "禄鼎记"
+    },
+    "city": "Guangzhou",
+    "query": "禄鼎记 北京路 越秀区 广州",
+    "tips": {
+      "en": "Named in a Beijing Road food guide, but Google Maps shows branches only ~1.7 km away or farther (Jianshe 6th Road, Tianhe). To be checked in Amap (高德) before going.",
+      "zh": "出自北京路美食攻略，但Google地图上最近的分店在建设六马路，约1.7公里，其他在天河。去之前用高德确认。"
+    }
+  },
+  {
+    "id": "bjl-ming-ji-dessert",
+    "aliases": [
+      "明记甜品（文明路店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Ming Ji Dessert",
+      "zh": "明记甜品"
+    },
+    "city": "Guangzhou",
+    "query": "明记甜品 文明路205号 越秀区 广州",
+    "lat": 23.12282,
+    "lng": 113.27525,
+    "summary": {
+      "en": "Dessert shop on Wenming Road, the dessert street.",
+      "zh": "文明路甜品街上的甜品店。"
+    },
+    "why": {
+      "en": "On the same street as Baihua Dessert, so it is an easy swap; the food guide names peach-gum papaya milk and mango double-skin milk.",
+      "zh": "和百花甜品同一条街，随时可以换；攻略推荐桃胶木瓜奶和芒果双皮奶。"
+    },
+    "mustTry": {
+      "en": [
+        "Peach-gum papaya milk (桃胶木瓜奶)",
+        "Mango double-skin milk (芒果双皮奶)"
+      ],
+      "zh": [
+        "桃胶木瓜奶",
+        "芒果双皮奶"
+      ]
+    },
+    "tips": {
+      "en": "Address: 205 Wenming Road (文明路205号). Google Maps rating is from only 8 reviews; hours were not shown.",
+      "zh": "地址：文明路205号。Google地图只有8条评价，营业时间未显示。"
+    },
+    "image": "/places/bjl-ming-ji-dessert.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 3.6,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Poh Sah Teo (Steven san)",
+        "rating": 4,
+        "text": "非常不错的甜品"
+      },
+      {
+        "author": "steven lim",
+        "rating": 4,
+        "text": "真是个美好而甜蜜的夜晚结尾。晚上8点半的时候餐厅并不拥挤，我们很快就找到了座位。"
+      },
+      {
+        "author": "Queen Lillian",
+        "rating": 5,
+        "text": "姜汁撞奶，口感划算，椰汁陶胶红豆冷，但不是太冰也不会太甜陶胶不会太烂给予肯定，榴梿班戢榴梿味香浓十足也不会太甜，感觉好像可以再点一个芒果试试。北京路步行街甜品店推荐。"
+      }
+    ],
+    "thumb": "/places/thumb/bjl-ming-ji-dessert.jpg"
+  },
+  {
+    "id": "bjl-tiger-prawn",
+    "aliases": [
+      "大头虾越式风味（西湖路光明广场店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Tiger Prawn Vietnamese Restaurant",
+      "zh": "大头虾越式风味餐厅"
+    },
+    "city": "Guangzhou",
+    "query": "大头虾越式风味 西湖路63号 光明广场 越秀区 广州",
+    "lat": 23.122793,
+    "lng": 113.267298,
+    "summary": {
+      "en": "Vietnamese restaurant on the 8th floor of Guangming Plaza, Xihu Road.",
+      "zh": "西湖路光明广场8楼的越南菜餐厅。"
+    },
+    "why": {
+      "en": "A change from Cantonese food, ~5 min from Beijing Road; the food guide names the tom yum and Vietnamese roll platter.",
+      "zh": "想换口味吃越南菜，离北京路约5分钟；攻略推荐冬阴功和越式手卷拼盘。"
+    },
+    "mustTry": {
+      "en": [
+        "Tom yum (冬阴功)",
+        "Vietnamese roll platter (越式手卷拼盘)"
+      ],
+      "zh": [
+        "冬阴功",
+        "越式手卷拼盘"
+      ]
+    },
+    "tips": {
+      "en": "Address: Room 801, 8F Guangming Plaza, 63 Xihu Road (西湖路63号光明广场8层801). Google Maps lists ¥100–150 per person, open until 23:00. Another branch is at 548 Huifu East Road (惠福东路548号), also close; the guide does not say which.",
+      "zh": "地址：西湖路63号光明广场8层801。Google地图显示人均约¥100至150，营业到23:00。惠福东路548号另有一家分店，也很近；攻略没写是哪家。"
+    },
+    "image": "/places/bjl-tiger-prawn.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.7,
+    "reviewCount": 96,
+    "reviews": [
+      {
+        "author": "Leonie",
+        "rating": 4,
+        "text": "出品丰富，不只越南菜系、泰式、马来风味，粤菜、川菜照样有，所以就算fusion餐馆吧。点了越式春卷和综合牛肉pho，味道的正宗与好吃，属于正常平均水准。倒是菜量很大，显得性价比蛮高的。"
+      },
+      {
+        "author": "Ye H",
+        "rating": 4,
+        "text": "美味的香肠帕尼尼佐以美味的番茄酱。附近的大教堂，有点绕，但非常值得！"
+      },
+      {
+        "author": "xinxian kongqi",
+        "rating": 5,
+        "text": "经济实惠、饭食可口"
+      }
+    ],
+    "thumb": "/places/thumb/bjl-tiger-prawn.jpg"
+  },
+  {
+    "id": "bjl-wu-dai-tong-tang",
+    "aliases": [
+      "五代同糖（北京路店）"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Wu Dai Tong Tang",
+      "zh": "五代同糖"
+    },
+    "city": "Guangzhou",
+    "query": "五代同糖 北京路147号 越秀区 广州",
+    "lat": 23.1185542,
+    "lng": 113.2697956,
+    "summary": {
+      "en": "Dessert shop at the south end of Beijing Road.",
+      "zh": "北京路步行街南段的甜品店。"
+    },
+    "why": {
+      "en": "On Beijing Road itself, so dessert needs no extra walk; the food guide names its mango pomelo sago shaved ice and milk mochi.",
+      "zh": "就在北京路上，不用多走；攻略推荐杨枝甘露雪花冰和牛奶麻薯。"
+    },
+    "mustTry": {
+      "en": [
+        "Mango pomelo sago shaved ice (杨枝甘露雪花冰)",
+        "Milk mochi (牛奶麻薯)"
+      ],
+      "zh": [
+        "杨枝甘露雪花冰",
+        "牛奶麻薯"
+      ]
+    },
+    "tips": {
+      "en": "Address: 147 Beijing Road (北京路147号). The Google Maps listing has no photo or reviews yet; hours unconfirmed.",
+      "zh": "地址：北京路147号。Google地图上还没有照片和评价，营业时间未核实。"
+    }
+  },
+  {
+    "id": "bjl-xie-san-bao",
+    "aliases": [
+      "蟹叁宝"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Xie San Bao",
+      "zh": "蟹叁宝"
+    },
+    "city": "Guangzhou",
+    "query": "蟹叁宝 北京路 越秀区 广州",
+    "tips": {
+      "en": "Named in a Beijing Road food guide, but no listing was found on Google Maps. To be checked in Amap (高德) before going.",
+      "zh": "出自北京路美食攻略，但Google地图上没找到，去之前用高德确认。"
+    }
+  },
+  {
+    "id": "bjl-ze-shen",
+    "aliases": [
+      "啫神"
+    ],
+    "kind": "food",
+    "name": {
+      "en": "Ze Shen",
+      "zh": "啫神"
+    },
+    "city": "Guangzhou",
+    "query": "啫神 北京路 越秀区 广州",
+    "tips": {
+      "en": "Named in a Beijing Road food guide, but no Guangzhou branch near Beijing Road was found on Google Maps. To be checked in Amap (高德) before going.",
+      "zh": "出自北京路美食攻略，但Google地图上没找到北京路附近的分店，去之前用高德确认。"
+    }
+  },
+  {
     "id": "bruce-lee-ancestral-home",
     "aliases": [
       "李小龙祖居"
