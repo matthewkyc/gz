@@ -25,7 +25,21 @@
       "end": "12:00",
       "title": "Baima Clothing Market (白马服装市场) and Hongmian International Fashion City (红棉国际时装城)",
       "note": "Both buildings are next to Guangzhou Railway Station. Baima leans mid-to-upper-range workwear for women; Hongmian leans trendy. Many stalls sell single pieces, and bargaining is accepted.",
-      "tip": "Busy on Sunday mornings; backpacks should be worn on the front. Ask the price before deciding. One undated guide lists Baima as open about 08:30–17:30; Hongmian hours were not found, so check on Amap."
+      "tip": "Busy on Sunday mornings; backpacks should be worn on the front. Ask the price before deciding. One undated guide lists Baima as open about 08:30–17:30; Hongmian hours were not found, so check on Amap.",
+      "food": [
+        {
+          "name": "Huimei International Clothing City (汇美国际服装城)",
+          "desc": "139 Huanshi West Road, ~300 m from Baima; workwear, understated styles"
+        },
+        {
+          "name": "Yima Clothing Plaza (壹马服装广场)",
+          "desc": "158 Huanshi West Road, across from Huimei"
+        },
+        {
+          "name": "U:US",
+          "desc": "14 Guangyuan West Road, ~500 m from Baima; workwear, designer-style"
+        }
+      ]
     },
     {
       "start": "12:00",

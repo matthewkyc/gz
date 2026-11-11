@@ -1266,8 +1266,8 @@
         "zh": "按年龄段挑服装市场"
       },
       "intro": {
-        "en": "From a Guangzhou clothes-shopping infographic, groups 1–3. Only Baima and Hongmian are on the itinerary (Jan 3); U:US, Huimei and Yima are a few minutes' walk from them. Prices vary by stall, so compare first.",
-        "zh": "来自一张“广州买衣服”攻略图的第1–3组。行程里只有白马和红棉（1/3）；U:US、汇美、壹马离那里步行几分钟。同一市场不同档口价格不同，记得多比较。"
+        "en": "From a Guangzhou clothes-shopping infographic, groups 1–3. Baima and Hongmian are on Jan 3; U:US, Huimei and Yima are listed there as optional, a few minutes' walk away. Prices vary by stall, so compare first.",
+        "zh": "来自一张“广州买衣服”攻略图的第1–3组。白马和红棉在1/3；U:US、汇美、壹马步行几分钟，列在当天作可选。同一市场不同档口价格不同，记得多比较。"
       },
       "items": [
         {
@@ -1353,8 +1353,8 @@
             "zh": "服装商场，离白马约500米。"
           },
           "when": {
-            "en": "Not scheduled · near Baima (Jan 3)",
-            "zh": "未排入行程 · 在白马附近（1/3）"
+            "en": "Jan 3 10:00 · optional, near Baima",
+            "zh": "1/3 10:00 · 可选，白马附近"
           },
           "placeId": "uus-guangzhou",
           "meta": {
@@ -1372,8 +1372,8 @@
             "zh": "服装批发市场，离白马约300米。"
           },
           "when": {
-            "en": "Not scheduled · near Baima (Jan 3)",
-            "zh": "未排入行程 · 在白马附近（1/3）"
+            "en": "Jan 3 10:00 · optional, near Baima",
+            "zh": "1/3 10:00 · 可选，白马附近"
           },
           "placeId": "huimei-international",
           "meta": {
@@ -1391,8 +1391,8 @@
             "zh": "服装广场，在汇美对面，离白马约300米。"
           },
           "when": {
-            "en": "Not scheduled · near Baima (Jan 3)",
-            "zh": "未排入行程 · 在白马附近（1/3）"
+            "en": "Jan 3 10:00 · optional, near Baima",
+            "zh": "1/3 10:00 · 可选，白马附近"
           },
           "placeId": "yima-clothing-plaza",
           "meta": {
