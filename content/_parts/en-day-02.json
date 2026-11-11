@@ -3,7 +3,7 @@
   "dow": "Wed",
   "locked": true,
   "theme": "Xiguan old streets, walking east",
-  "intro": "Morning walk east: Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nIce cream at Shun Kee; lunch at Tao Tao Ju\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant",
+  "intro": "Morning walk east: Pantang village, Liwan Lake, Lychee Bay, Xiguan mansions, Bruce Lee's home\nYongqingfang: boutiques and gifts (PICOCICI flagship)\nIce cream at Shun Kee; lunch at Tao Tao Ju\nAfternoon: Shangxiajiu arcades to Liwan Plaza\nDinner: Panxi Restaurant, then a walk along Lychee Bay",
   "stay": 0,
   "items": [
     {
@@ -37,16 +37,27 @@
       "route": [
         {
           "time": "09:00",
+          "title": "Pantang Wuyue village (泮塘五约)",
+          "section": "Pantang and Lychee Bay: old village, lake, canal, Xiguan mansions",
+          "walk": "~10–15 min walk from the hotel",
+          "desc": "A village of about 900 years north of Liwan Lake; free and open all day. Lanes of ancestral halls, old houses and small shops, quieter than Yongqingfang.",
+          "tags": [
+            "打卡",
+            "拍照"
+          ],
+          "tip": "Mostly private homes: walk quietly and stay out of houses. Walking time assumes the Atour's approximate location; recheck once the hotel address is confirmed."
+        },
+        {
+          "time": "09:20",
           "title": "Liwan Lake Park (荔湾湖公园)",
-          "section": "Lychee Bay: lake, canal, Xiguan mansions",
-          "walk": "~10 min walk from the hotel",
+          "walk": "Through the village southwards, into Liwan Lake Park by the north gate, ~5 min",
           "desc": "Lakeside stroll; see the small Qing-style garden Xiaohuafangzhai (小画舫斋). Elderly locals often sing Cantonese opera here.",
           "tags": [
             "Photo spot"
           ]
         },
         {
-          "time": "09:25",
+          "time": "09:35",
           "title": "Lychee Bay canal and Wenta Pagoda (荔枝湾涌、文塔)",
           "walk": "Follow the canal south",
           "desc": "Xiguan houses line both banks; walk to Wenta Pagoda for photos. Lychee Bay is the birthplace of sampan congee (艇仔粥).",
@@ -55,7 +66,7 @@
           ]
         },
         {
-          "time": "09:45",
+          "time": "09:50",
           "title": "Xiguan mansions on Fengyuan Street (逢源大街西关大屋)",
           "walk": "~5 min walk",
           "desc": "Sliding-bar gates (趟栊门) and Manchu stained-glass windows (满洲窗) of old Guangzhou's wealthy households.",
@@ -282,9 +293,36 @@
     },
     {
       "start": "20:00",
-      "end": "20:15",
+      "end": "20:40",
+      "title": "After-dinner walk: Lychee Bay by night",
+      "note": "An easy stroll south from Panxi Restaurant along the Lychee Bay canal; a taxi back can be taken at any point.",
+      "route": [
+        {
+          "time": "20:00",
+          "title": "Lychee Bay canal and Wenta Pagoda (荔枝湾涌、文塔)",
+          "walk": "South from Panxi Restaurant along the canal, ~10 min",
+          "desc": "The canal and the Xiguan houses on both banks, with a different feel from the morning.",
+          "tags": [
+            "拍照"
+          ],
+          "tip": "The bank lighting was upgraded in 2023; switch-off times were not found. Cold by the water on winter nights; bring a jacket."
+        },
+        {
+          "time": "20:20",
+          "title": "Xiguan mansions, Fengyuan Street (逢源大街西关大屋)",
+          "walk": "~10 min walk",
+          "desc": "The sliding-bar gates and Manchurian windows of the old mansions, on a quiet street at night.",
+          "tags": [
+            "拍照"
+          ]
+        }
+      ]
+    },
+    {
+      "start": "20:40",
+      "end": "20:50",
       "title": "Back to the hotel",
-      "note": "Walk, ~10 min."
+      "note": "Taxi from near Fengyuan Street, ~5–10 min."
     }
   ]
 }

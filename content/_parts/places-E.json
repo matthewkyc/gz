@@ -323,5 +323,44 @@
       "en": "Google Maps shows 18:30 closing; hours were seen once and should be checked on Amap (高德).",
       "zh": "Google 地图显示18:30关门，只看到一次，出发前在高德确认。"
     }
+  },
+  {
+    "id": "pantang-wuyue",
+    "aliases": [
+      "泮塘五约"
+    ],
+    "kind": "sight",
+    "name": {
+      "en": "Pantang Wuyue",
+      "zh": "泮塘五约"
+    },
+    "city": "Guangzhou",
+    "query": "泮塘五约 荔湾区 广州",
+    "lat": 23.124495,
+    "lng": 113.233804,
+    "summary": {
+      "en": "Historic village of about 900 years in central Liwan, between Liwan Lake and the Lychee Bay canal.",
+      "zh": "荔湾区中心约900年历史的古村，在荔湾湖和荔枝湾涌之间。"
+    },
+    "why": {
+      "en": "A lived-in Xiguan village rather than a restored attraction: narrow lanes, ancestral halls and old houses, a Ming-era Li family tomb of about 500 years, and a few small shops. Free, open all day, and on the way from the hotel to Liwan Lake.",
+      "zh": "这是有人住的西关老村，不是改造景区：窄巷、祠堂、老屋，还有一座约500年的明代李氏墓，几家小店。免费、全天开放，从酒店去荔湾湖顺路。"
+    },
+    "highlights": {
+      "en": [
+        "Free, open all day",
+        "Ancestral halls and old lanes",
+        "Quieter than Yongqingfang"
+      ],
+      "zh": [
+        "免费，全天开放",
+        "祠堂和老巷",
+        "比永庆坊安静"
+      ]
+    },
+    "tips": {
+      "en": "Nearest Metro: Zhongshan Ba (中山八), Line 5, exit A. Mostly private homes; shops keep their own hours. The age figures come from Chinese travel articles.",
+      "zh": "最近地铁：5号线中山八站A口。多数是民居；小店营业时间各不相同。年份数字来自中文旅游文章。"
+    }
   }
 ]

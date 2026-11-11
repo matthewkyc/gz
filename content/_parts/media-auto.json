@@ -410,5 +410,30 @@
     "imageCredit": "Google Maps",
     "rating": 4.3,
     "reviewCount": 3
+  },
+  "pantang-wuyue": {
+    "image": "/places/pantang-wuyue.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Helen Yu",
+        "rating": 4,
+        "text": "In the very ancient days, the Pun Tong area used to be a part of the sea. Then the silt and the sediments of Pearl River accumulated and a land mass was formed in the lowlands since the Tang Dynasty."
+      },
+      {
+        "author": "Elysian",
+        "rating": 4,
+        "text": "It’s nothing much now, very quiet and nothing to see much!"
+      },
+      {
+        "author": "Gobi Chan",
+        "rating": 5,
+        "text": "Going on a weekday means fewer people, allowing you to wander around freely and enjoy a wonderful feeling, reminiscent of returning to a small village."
+      }
+    ],
+    "lat": 23.124495,
+    "lng": 113.233804
   }
 }
