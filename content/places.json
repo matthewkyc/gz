@@ -3584,6 +3584,45 @@
     "thumb": "/places/thumb/hong-kong-west-kowloon-station.jpg"
   },
   {
+    "id": "hongbiantian",
+    "aliases": [
+      "红遍天"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Hongbiantian",
+      "zh": "红遍天"
+    },
+    "city": "Guangzhou",
+    "query": "红遍天 十三行路13号-1 广州",
+    "lat": 23.110687,
+    "lng": 113.251878,
+    "summary": {
+      "en": "Clothing centre on Shisanhang Road, in the Thirteen Hongs wholesale district.",
+      "zh": "十三行路上的服装城，在十三行批发区内。"
+    },
+    "why": {
+      "en": "Listed in a Guangzhou shopping infographic for 18–25: young, Korean-style, trend-led pieces at friendly prices. It is in the same street as the Thirteen Hongs buildings, so both are covered in one trip.",
+      "zh": "一张广州买衣服攻略图把它列在18–25岁：年轻、韩系、网红款，价格亲民。和十三行在同一条路，可以一起逛。"
+    },
+    "tips": {
+      "en": "Google Maps shows 10:00 opening; hours were seen once and should be checked on Amap (高德). Some stalls may be wholesale-only.",
+      "zh": "Google 地图显示10:00开门，只看到一次，出发前在高德确认。部分档口可能只批发。"
+    },
+    "image": "/places/hongbiantian.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Ashley FU",
+        "rating": 4,
+        "text": "The prices are cheap, especially during seasonal sales, when there are huge discounts. However, the environment is not very clean."
+      }
+    ],
+    "thumb": "/places/thumb/hongbiantian.jpg"
+  },
+  {
     "id": "huacheng-square",
     "aliases": [
       "花城广场"
@@ -3820,6 +3859,51 @@
       }
     ],
     "thumb": "/places/thumb/hualin-temple.jpg"
+  },
+  {
+    "id": "huimei-international",
+    "aliases": [
+      "汇美国际",
+      "汇美国际服装城"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Huimei International Clothing City",
+      "zh": "汇美国际服装城"
+    },
+    "city": "Guangzhou",
+    "query": "汇美国际服装城 环市西路139号 广州",
+    "lat": 23.147728,
+    "lng": 113.251328,
+    "summary": {
+      "en": "Clothing wholesale market on Huanshi West Road, about 300 m from Baima Clothing Market.",
+      "zh": "环市西路上的服装批发市场，离白马服装市场约300米。"
+    },
+    "why": {
+      "en": "Listed in a Guangzhou shopping infographic for 25–30: workwear, polished, understated designs. Close to Baima, so it fits the Jan 3 morning.",
+      "zh": "一张广州买衣服攻略图把它列在25–30岁：通勤、时尚、简约设计款。离白马很近，可以放在1月3日上午一起逛。"
+    },
+    "tips": {
+      "en": "About 300 m (straight line) from Baima. Hours not confirmed; check on Amap (高德). Some stalls may be wholesale-only.",
+      "zh": "离白马直线约300米。营业时间未核实，出发前在高德确认。部分档口可能只批发。"
+    },
+    "image": "/places/huimei-international.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 41,
+    "reviews": [
+      {
+        "author": "steff wong",
+        "rating": 4,
+        "text": "Hui Mei is a wholesale n retailer for all sort of clothing such as t- shirt, jacket , office wear , street wear etc ... They do sell by pieces ... They are 7 floors for u to shop ... The environment is big n clean n sufficiently cool air cond .... The pricing is at mid"
+      },
+      {
+        "author": "mo malinda",
+        "rating": 5,
+        "text": "Hui Mei building in nickname of Korean fashion building. Lots of clothing Korean style and this area surround by clothing shop."
+      }
+    ],
+    "thumb": "/places/thumb/huimei-international.jpg"
   },
   {
     "id": "inno100",
@@ -7900,6 +7984,50 @@
     "thumb": "/places/thumb/tst-clock-tower.jpg"
   },
   {
+    "id": "uus-guangzhou",
+    "aliases": [
+      "U:US"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "U:US",
+      "zh": "U:US"
+    },
+    "city": "Guangzhou",
+    "query": "U:US 广园西路14号 广州",
+    "lat": 23.14806,
+    "lng": 113.24949,
+    "summary": {
+      "en": "Clothing mall on Guangyuan West Road, about 500 m from Baima Clothing Market.",
+      "zh": "广园西路上的服装商场，离白马服装市场约500米。"
+    },
+    "why": {
+      "en": "Listed in a Guangzhou shopping infographic for 25–30 (workwear, polished, understated designs) and for designer-style pieces. Close to Baima, so it fits the Jan 3 morning.",
+      "zh": "一张广州买衣服攻略图把它列在25–30岁（通勤、时尚、简约设计款），也列在“精品/设计感”。离白马很近，可以放在1月3日上午一起逛。"
+    },
+    "tips": {
+      "en": "About 500 m (straight line) from Baima. Hours not confirmed; check on Amap (高德).",
+      "zh": "离白马直线约500米。营业时间未核实，出发前在高德确认。"
+    },
+    "image": "/places/uus-guangzhou.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "author": "Louis BP Tan",
+        "rating": 3,
+        "text": "Not crowded when we visited. Prices found to be more than some other fashion wholesale outlets for the same piece. It’s walkable to other popular malls like Humei which is just next door, Baima, Yima etc"
+      },
+      {
+        "author": "C N",
+        "rating": 1,
+        "text": "The prices here are relatively high for mediocre quality clothes. RMB360 for a plain elastic black pants with no label."
+      }
+    ],
+    "thumb": "/places/thumb/uus-guangzhou.jpg"
+  },
+  {
     "id": "victoria-peak",
     "aliases": [
       "太平山顶"
@@ -8478,6 +8606,36 @@
     "image": "/places/xiangyunsha-garden-hotel.jpg",
     "imageCredit": "Google Maps",
     "thumb": "/places/thumb/xiangyunsha-garden-hotel.jpg"
+  },
+  {
+    "id": "yima-clothing-plaza",
+    "aliases": [
+      "壹马服装广场"
+    ],
+    "kind": "shop",
+    "name": {
+      "en": "Yima Clothing Plaza",
+      "zh": "壹马服装广场"
+    },
+    "city": "Guangzhou",
+    "query": "壹马服装广场 环市西路158号 广州",
+    "lat": 23.1469674,
+    "lng": 113.2515093,
+    "summary": {
+      "en": "Clothing plaza on Huanshi West Road, across from Huimei and about 300 m from Baima.",
+      "zh": "环市西路上的服装广场，在汇美对面，离白马约300米。"
+    },
+    "why": {
+      "en": "Listed in a Guangzhou shopping infographic for 25–30: workwear, polished, understated designs. Close to Baima, so it fits the Jan 3 morning.",
+      "zh": "一张广州买衣服攻略图把它列在25–30岁：通勤、时尚、简约设计款。离白马很近，可以放在1月3日上午一起逛。"
+    },
+    "tips": {
+      "en": "Google Maps shows 18:30 closing; hours were seen once and should be checked on Amap (高德).",
+      "zh": "Google 地图显示18:30关门，只看到一次，出发前在高德确认。"
+    },
+    "image": "/places/yima-clothing-plaza.jpg",
+    "imageCredit": "Google Maps",
+    "thumb": "/places/thumb/yima-clothing-plaza.jpg"
   },
   {
     "id": "yinji-rice-rolls-wenchang",

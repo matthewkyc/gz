@@ -1255,6 +1255,204 @@
       }
     },
     {
+      "id": "fashion",
+      "icon": "fa-shirt",
+      "title": {
+        "en": "Fashion",
+        "zh": "买衣服"
+      },
+      "subtitle": {
+        "en": "Clothing markets by age group",
+        "zh": "按年龄段挑服装市场"
+      },
+      "intro": {
+        "en": "From a Guangzhou clothes-shopping infographic, groups 1–3. Only Baima and Hongmian are on the itinerary (Jan 3); U:US, Huimei and Yima are a few minutes' walk from them. Prices vary by stall, so compare first.",
+        "zh": "来自一张“广州买衣服”攻略图的第1–3组。行程里只有白马和红棉（1/3）；U:US、汇美、壹马离那里步行几分钟。同一市场不同档口价格不同，记得多比较。"
+      },
+      "items": [
+        {
+          "heading": {
+            "en": "18–25: young, Korean style, trendy",
+            "zh": "18–25岁：年轻 · 韩系 · 网红款"
+          },
+          "title": {
+            "en": "Thirteen Hongs (十三行)",
+            "zh": "十三行"
+          },
+          "desc": {
+            "en": "Dense women’s-fashion wholesale district; trend-led clothing, some bags. ¥–¥¥. Ask “可以零售吗？” first; try-ons and returns vary by stall. Best as a short adult mission.",
+            "zh": "女装批发集中地，款式新，也有包和配饰。¥–¥¥。先问“可以零售吗？”；能否试穿、退换因档口而异。适合大人短时间去。"
+          },
+          "meta": {
+            "en": "十三行路1号新中国大厦及周边 · 文化公园站 D出口",
+            "zh": "十三行路1号新中国大厦及周边 · 文化公园站 D出口"
+          },
+          "hours": {
+            "en": "Opens early; go 09:00–11:30, not late afternoon",
+            "zh": "开门早；建议09:00–11:30去，别下午晚去"
+          },
+          "when": {
+            "en": "Not scheduled",
+            "zh": "未排入行程"
+          },
+          "placeId": "thirteen-hongs"
+        },
+        {
+          "title": {
+            "en": "New China Building (新中国大厦)",
+            "zh": "新中国大厦"
+          },
+          "desc": {
+            "en": "The main building of the Thirteen Hongs district; see Thirteen Hongs.",
+            "zh": "十三行的主楼，详见“十三行”。"
+          },
+          "meta": {
+            "en": "十三行路1号 · 文化公园站 D出口",
+            "zh": "十三行路1号 · 文化公园站 D出口"
+          },
+          "when": {
+            "en": "Not scheduled",
+            "zh": "未排入行程"
+          },
+          "placeId": "thirteen-hongs"
+        },
+        {
+          "title": {
+            "en": "Hongbiantian (红遍天)",
+            "zh": "红遍天"
+          },
+          "desc": {
+            "en": "Clothing centre in the Thirteen Hongs district; can be combined with Thirteen Hongs.",
+            "zh": "十三行批发区内的服装城，可以和十三行一起逛。"
+          },
+          "when": {
+            "en": "Not scheduled",
+            "zh": "未排入行程"
+          },
+          "placeId": "hongbiantian",
+          "meta": {
+            "en": "十三行路13号-1",
+            "zh": "十三行路13号-1"
+          },
+          "hours": {
+            "en": "Opens 10:00 (Google Maps; check on Amap)",
+            "zh": "10:00开门（Google 地图，出发前在高德确认）"
+          }
+        },
+        {
+          "heading": {
+            "en": "25–30: workwear, fashionable, elegant",
+            "zh": "25–30岁：通勤 · 时尚 · 气质款"
+          },
+          "title": {
+            "en": "U:US",
+            "zh": "U:US"
+          },
+          "desc": {
+            "en": "Clothing mall about 500 m from Baima.",
+            "zh": "服装商场，离白马约500米。"
+          },
+          "when": {
+            "en": "Not scheduled · near Baima (Jan 3)",
+            "zh": "未排入行程 · 在白马附近（1/3）"
+          },
+          "placeId": "uus-guangzhou",
+          "meta": {
+            "en": "广园西路14号",
+            "zh": "广园西路14号"
+          }
+        },
+        {
+          "title": {
+            "en": "Huimei International (汇美国际服装城)",
+            "zh": "汇美国际服装城"
+          },
+          "desc": {
+            "en": "Clothing market about 300 m from Baima.",
+            "zh": "服装批发市场，离白马约300米。"
+          },
+          "when": {
+            "en": "Not scheduled · near Baima (Jan 3)",
+            "zh": "未排入行程 · 在白马附近（1/3）"
+          },
+          "placeId": "huimei-international",
+          "meta": {
+            "en": "环市西路139号",
+            "zh": "环市西路139号"
+          }
+        },
+        {
+          "title": {
+            "en": "Yima Clothing Plaza (壹马服装广场)",
+            "zh": "壹马服装广场"
+          },
+          "desc": {
+            "en": "Clothing plaza across from Huimei, about 300 m from Baima.",
+            "zh": "服装广场，在汇美对面，离白马约300米。"
+          },
+          "when": {
+            "en": "Not scheduled · near Baima (Jan 3)",
+            "zh": "未排入行程 · 在白马附近（1/3）"
+          },
+          "placeId": "yima-clothing-plaza",
+          "meta": {
+            "en": "环市西路158号",
+            "zh": "环市西路158号"
+          },
+          "hours": {
+            "en": "Closes 18:30 (Google Maps; check on Amap)",
+            "zh": "18:30关门（Google 地图，出发前在高德确认）"
+          }
+        },
+        {
+          "heading": {
+            "en": "30–40: quality cuts, slimming, smart-casual",
+            "zh": "30–40岁：质感 · 显瘦 · 轻熟风"
+          },
+          "title": {
+            "en": "Baima Clothing Market (白马服装市场)",
+            "zh": "白马服装市场"
+          },
+          "desc": {
+            "en": "Multi-floor clothing market, more structured than street markets. ¥–¥¥. Single-piece sales, fitting and exchanges should be asked about before choosing.",
+            "zh": "多层服装市场，比街边批发更有规划。¥–¥¥。挑之前先问能否单件买、能否试穿和换货。"
+          },
+          "meta": {
+            "en": "站南路16号 · 广州火车站 G出口",
+            "zh": "站南路16号 · 广州火车站 G出口"
+          },
+          "hours": {
+            "en": "08:00–18:00; best 09:30–12:00",
+            "zh": "08:00–18:00；建议09:30–12:00"
+          },
+          "when": {
+            "en": "Jan 3 10:00",
+            "zh": "1/3 10:00"
+          },
+          "placeId": "baima-clothing-market"
+        },
+        {
+          "title": {
+            "en": "Hongmian International Fashion City (红棉国际时装城)",
+            "zh": "红棉国际时装城"
+          },
+          "desc": {
+            "en": "Next to Baima by Guangzhou Railway Station; trend-led styles. Visited with Baima.",
+            "zh": "在广州站旁、白马隔壁，偏潮流款。与白马同一趟。"
+          },
+          "hours": {
+            "en": "Not found; check on Amap (高德)",
+            "zh": "未查到，出发前在高德确认"
+          },
+          "when": {
+            "en": "Jan 3 10:00",
+            "zh": "1/3 10:00"
+          },
+          "placeId": "baima-clothing-market"
+        }
+      ]
+    },
+    {
       "id": "souvenirs",
       "icon": "fa-gift",
       "title": {

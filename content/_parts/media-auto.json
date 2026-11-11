@@ -355,5 +355,60 @@
     ],
     "lat": 23.121074,
     "lng": 113.267382
+  },
+  "hongbiantian": {
+    "image": "/places/hongbiantian.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Ashley FU",
+        "rating": 4,
+        "text": "The prices are cheap, especially during seasonal sales, when there are huge discounts. However, the environment is not very clean."
+      }
+    ]
+  },
+  "uus-guangzhou": {
+    "image": "/places/uus-guangzhou.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.1,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "author": "Louis BP Tan",
+        "rating": 3,
+        "text": "Not crowded when we visited. Prices found to be more than some other fashion wholesale outlets for the same piece. It’s walkable to other popular malls like Humei which is just next door, Baima, Yima etc"
+      },
+      {
+        "author": "C N",
+        "rating": 1,
+        "text": "The prices here are relatively high for mediocre quality clothes. RMB360 for a plain elastic black pants with no label."
+      }
+    ]
+  },
+  "huimei-international": {
+    "image": "/places/huimei-international.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 41,
+    "reviews": [
+      {
+        "author": "steff wong",
+        "rating": 4,
+        "text": "Hui Mei is a wholesale n retailer for all sort of clothing such as t- shirt, jacket , office wear , street wear etc ... They do sell by pieces ... They are 7 floors for u to shop ... The environment is big n clean n sufficiently cool air cond .... The pricing is at mid"
+      },
+      {
+        "author": "mo malinda",
+        "rating": 5,
+        "text": "Hui Mei building in nickname of Korean fashion building. Lots of clothing Korean style and this area surround by clothing shop."
+      }
+    ]
+  },
+  "yima-clothing-plaza": {
+    "image": "/places/yima-clothing-plaza.jpg",
+    "imageCredit": "Google Maps",
+    "rating": 4.3,
+    "reviewCount": 3
   }
 }
